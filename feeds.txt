@@ -9,5 +9,5 @@ ScienceDaily 동식물    | https://www.sciencedaily.com/rss/plants_animals.xml
 ScienceDaily 건강      | https://www.sciencedaily.com/rss/top/health.xml
 Phys.org              | https://phys.org/rss-feed/
 MedicalXpress         | https://medicalxpress.com/rss-feed/
-EurekAlert            | https://www.eurekalert.org/rss.xml
+# EurekAlert          | https://www.eurekalert.org/rss.xml   (10/22 첫 실행: 404, 주소 확인 필요)
 The Conversation      | https://theconversation.com/us/articles.atom
