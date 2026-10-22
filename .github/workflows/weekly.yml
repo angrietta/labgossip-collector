@@ -2,7 +2,7 @@ name: daily-collect
 
 on:
   schedule:
-    - cron: "17 23 * * *"   # 매일 08:17 (한국 시간) — 피드가 며칠치만 담고 있어서 매일 모아야 함
+    - cron: "17 11,23 * * *"   # 매일 08:17 (한국 시간) — 피드가 며칠치만 담고 있어서 매일 모아야 함
   workflow_dispatch: {}      # Actions 탭에서 "Run workflow" 버튼으로 바로 실행
 
 permissions:
