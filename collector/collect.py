@@ -41,7 +41,10 @@ def get(url, timeout=25):
         return open(p, encoding="utf-8").read()
     r = requests.get(url, headers=UA, timeout=timeout)
     r.raise_for_status()
-    return r.text
+    try:
+        return r.content.decode("utf-8")
+    except UnicodeDecodeError:
+        return r.content.decode(r.apparent_encoding or "latin-1", errors="replace")
 
 def load_feeds():
     out = []
@@ -108,8 +111,8 @@ def group(items):
     return groups
 
 # ---------------------------------------------------------------- scoring
-def hits(text, words):
-    return [w for w in words if w in text]
+def hits(text, words):   # match at the start of a word: "cat" must not hit "indicate", "aging" not "imaging"
+    return [w for w in words if re.search(r"\b" + re.escape(w), text)]
 
 def score(g, seen):
     text = (g["title"] + " " + g["summary"]).lower()
@@ -142,18 +145,18 @@ def score(g, seen):
     g["score"], g["why"] = s, why
     return g
 
-def word_hits(text, words):   # match at word start: "ants" must not match "participants"
-    return [w for w in words if re.search(r"\b" + re.escape(w), text)]
-
 def catches(text):
     c = [k for k, v in rules.CATCH_SIGNS.items() if hits(text, v)]
-    if word_hits(text, rules.ANIMALS) and not word_hits(text, rules.HUMANS):
+    t = text
+    for x in rules.NOT_ANIMAL:          # "fish oil" is not a fish study
+        t = t.replace(x, " ")
+    if hits(t, rules.ANIMALS) and not hits(t, rules.HUMANS):
         c.insert(0, "동물 실험")
     return c
 
 # ---------------------------------------------------------------- article details (top N only)
 NUMWORD = r"\b(twice|double[ds]?|half|tripl\w*|quarter|third|percent|fold|times)\b"
-SAMPLE = re.compile(r"\b(\d[\d,]*)\s+(?:healthy\s+|older\s+|young\s+)?(adults?|participants?|people|patients?|volunteers?|"
+SAMPLE = re.compile(r"\b(\d+(?:,\d{3})*)\s+(?:healthy\s+|older\s+|young\s+)?(adults?|participants?|people|patients?|volunteers?|"
                     r"women|men|children|students|mice|rats|subjects|individuals|infants|babies|dogs|chicks|fish|birds)\b", re.I)
 DOI = re.compile(r"\b10\.\d{4,9}/[^\s\"'<>,;()]+[^\s\"'<>,;().]")
 
@@ -182,7 +185,6 @@ def article(g):
             facts.append(x)
     g["facts"] = facts[:10]
     g["sample"] = sorted({f"{m.group(1)} {m.group(2).lower()}" for m in SAMPLE.finditer(body)})[:4]
-    g["catch"] += [k for k in catches((g["title"] + " " + g["summary"] + " " + body).lower()) if k not in g["catch"]]
     if not g["doi"]:
         g["catch"].append("DOI 못 찾음")
     return g

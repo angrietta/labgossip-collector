@@ -3,15 +3,15 @@
 
 # 실험 형식별 키워드: 가장 많이 맞는 형식을 '추천 형식'으로 표시
 FORMATS = {
-    "CUT":   ["brain", "organ", "inside", "tissue", "gut", "heart", "liver", "plaque", "tumor", "skull", "fossil",
-              "dissect", "anatomy", "cell", "neuron", "bone", "egg", "seed"],
+    "CUT":   ["inside", "organ", "gut", "heart", "liver", "plaque", "tumor", "skull", "fossil", "dissect",
+              "anatomy", "bone", "egg", "seed", "cross-section", "brain shrink"],
     "PRESS": ["predict", "forecast", "doomsday", "by 2050", "by 2100", "years from now", "end of", "collapse",
               "population", "projection", "model shows", "will run out", "deadline"],
     "WEIGH": ["weight", "heavy", "load", "carry", "energy cost", "burden", "mass", "obesity", "backpack", "gravity"],
     "DOSE":  ["dose", "drug", "psilocybin", "caffeine", "alcohol", "nicotine", "cannabis", "supplement", "hormone",
               "antibiotic", "vaccine", "pill", "medication", "ozempic", "glp-1"],
     "SCALE": ["placebo", "diet", "food", "eat", "blueberr", "chocolate", "coffee", "vitamin", "fasting", "sugar",
-              "versus", "compared with", "no difference", "trial"],
+              "versus", "compared with", "no difference", "no benefit", "trial", "omega", "fish oil", "red meat"],
 }
 
 # 가십 훅: "어?" 싶은 결과
@@ -19,11 +19,11 @@ HOOK = ["surpris", "unexpected", "contrary", "myth", "no effect", "did not", "di
         "strange", "bizarre", "weird", "first time", "never before", "accidental", "mystery", "secret", "turns out",
         "backfire", "paradox", "wrong", "debunk", "overestimat", "underestimat", "actually", "shock"]
 
-# 사람들이 클릭하는 생활 소재
+# 사람들이 클릭하는 생활 소재 (단어 앞부분 일치: "cat"은 cat/cats만, indicate는 안 걸림)
 RELATABLE = ["sleep", "coffee", "dog", "cat", "chocolate", "cheese", "diet", "aging", "ageing", "alcohol", "phone",
-             "social media", "exercise", "baby", "babies", "love", "dating", "memory", "dementia", "alzheimer",
-             "weight", "money", "music", "pet", "kids", "children", "teen", "brain", "stress", "happiness",
-             "mouse", "mice", "fish", "bird", "monkey", "spider", "shark", "octopus"]
+             "social media", "exercise", "ozempic", "supplement", "baby", "babies", "love", "dating", "memory", "dementia", "alzheimer",
+             "weight loss", "money", "music", "pets", "pet owner", "kids", "children", "teen", "brain", "stress", "happiness",
+             "mouse", "mice", "fish", "bird", "monkey", "spider", "shark", "octopus", "dinosaur", "crayfish", "squid"]
 
 # 영상으로 만들기 어려운 소재 / 홍보성 글
 PENALTY_HARD = ["grant", "award", "funding", "appointed", "partnership", "conference", "webinar", "fellowship",
@@ -42,7 +42,8 @@ CATCH_SIGNS = {
 # 동물만 나오고 사람 단어가 없으면 "동물 실험" 표시
 ANIMALS = ["mice", "mouse", "rats", "rodent", "fish", "zebrafish", "monkey", "macaque", "chicks", "birds", "fowl",
            "fruit fl", "worms", "c. elegans", "pigs", "dogs", "bees", "ants"]
-HUMANS = ["people", "participants", "adults", "patients", "volunteers", "women", "men ", "children", "humans"]
+NOT_ANIMAL = ["fish oil", "fish-oil", "cod liver"]
+HUMANS = ["people", "participants", "adults", "patients", "volunteers", "women", "men ", "children", "humans", "astronauts", "millions"]
 
 MIN_SCORE = 1     # 이 점수 미만은 보드에 안 올림
 SOURCE_CAP = 12   # 한 출처가 상위 40개를 다 차지하지 않게
