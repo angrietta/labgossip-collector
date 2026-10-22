@@ -1,0 +1,13 @@
+# LAB GOSSIP 수집 대상 RSS
+# 형식:  이름 | 주소
+# 줄 앞에 # 을 붙이면 꺼집니다. 주소가 죽어 있으면 보드의 "수집 상태"에 빨간색으로 표시되고 나머지는 계속 돌아갑니다.
+
+ScienceDaily 전체      | https://www.sciencedaily.com/rss/all.xml
+ScienceDaily 별난연구  | https://www.sciencedaily.com/rss/strange_offbeat.xml
+ScienceDaily 뇌·마음   | https://www.sciencedaily.com/rss/mind_brain.xml
+ScienceDaily 동식물    | https://www.sciencedaily.com/rss/plants_animals.xml
+ScienceDaily 건강      | https://www.sciencedaily.com/rss/top/health.xml
+Phys.org              | https://phys.org/rss-feed/
+MedicalXpress         | https://medicalxpress.com/rss-feed/
+EurekAlert            | https://www.eurekalert.org/rss.xml
+The Conversation      | https://theconversation.com/us/articles.atom

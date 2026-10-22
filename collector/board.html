@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LAB GOSSIP 소재 보드</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+KR:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--yel:#FFD600;--red:#D61E32;--ink:#141212;--paper:#FFFBEA;--card:#fff;--line:#E8DFC0;--muted:#6B6457;--chip:#F4EED6}
+@media (prefers-color-scheme:dark){:root{--paper:#16130F;--card:#211D17;--line:#3A3326;--ink:#F6F1E3;--muted:#A99F8A;--chip:#2D271E}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.55 "Noto Sans KR",system-ui,sans-serif}
+header{background:var(--yel);color:#141212;padding:22px 16px 18px;border-bottom:4px solid #141212}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header .wrap{padding:0}
+h1{font:400 clamp(30px,8vw,44px)/1.05 Anton,Impact,sans-serif;letter-spacing:.5px;margin:0}
+h1 span{background:#141212;color:var(--yel);padding:0 8px;margin-right:6px}
+.sub{margin-top:8px;font-weight:600}
+.sub select{font:inherit;background:#fff;border:2px solid #141212;padding:2px 6px;margin-left:6px}
+.bar{position:sticky;top:0;z-index:5;background:var(--paper);border-bottom:1px solid var(--line);padding:10px 0}
+.bar .wrap{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.f{border:2px solid var(--ink);background:transparent;color:var(--ink);font:400 15px Anton,Impact,sans-serif;letter-spacing:.5px;padding:3px 10px;cursor:pointer}
+.f.on{background:var(--ink);color:var(--paper)}
+.bar input[type=search]{flex:1 1 160px;min-width:0;border:2px solid var(--ink);background:var(--card);color:var(--ink);padding:5px 8px;font:inherit}
+.bar label{font-size:13px;color:var(--muted);display:flex;gap:4px;align-items:center}
+.card{background:var(--card);border:1px solid var(--line);border-left:6px solid var(--yel);margin:14px 0;padding:14px 14px 12px}
+.card.hot{border-left-color:var(--red)}
+.top{display:flex;gap:10px;align-items:flex-start}
+.rank{font:400 30px/1 Anton,Impact,sans-serif;min-width:38px;color:var(--muted)}
+.card h2{font-size:17px;line-height:1.35;margin:0 0 4px;font-weight:800}
+.card h2 a{color:inherit;text-decoration:none}
+.card h2 a:hover{text-decoration:underline}
+.meta{font-size:13px;color:var(--muted)}
+.score{margin-left:auto;text-align:right;font:400 26px/1 Anton,Impact,sans-serif}
+.score small{display:block;font:600 11px "Noto Sans KR",sans-serif;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:5px;margin:8px 0 6px}
+.c{font-size:12px;padding:2px 7px;background:var(--chip);border-radius:3px}
+.c.fmt{background:var(--ink);color:var(--paper);font:400 13px Anton,Impact,sans-serif;letter-spacing:.5px}
+.c.warn{background:transparent;border:1px solid var(--red);color:var(--red);font-weight:600}
+.c.seen{background:var(--muted);color:var(--paper)}
+.sum{margin:6px 0;font-size:14px}
+details{margin-top:6px;font-size:14px}
+summary{cursor:pointer;font-weight:600;color:var(--muted)}
+details ul{margin:6px 0 0;padding-left:18px}
+details li{margin:4px 0}
+.why{font-size:12px;color:var(--muted);margin-top:4px}
+.act{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
+.act button,.act a{font:600 12px "Noto Sans KR",sans-serif;border:1px solid var(--ink);background:transparent;color:var(--ink);padding:3px 9px;cursor:pointer;text-decoration:none}
+.act button.done{background:var(--yel);color:#141212;border-color:#141212}
+table{width:100%;border-collapse:collapse;font-size:13px;margin:8px 0 40px}
+td,th{border-bottom:1px solid var(--line);padding:6px 4px;text-align:left;vertical-align:top}
+.bad{color:var(--red);font-weight:600}
+h3{font:400 22px Anton,Impact,sans-serif;letter-spacing:.5px;margin:30px 0 4px}
+.empty{padding:40px 0;text-align:center;color:var(--muted)}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1><span>LAB</span>GOSSIP 소재 보드</h1>
+  <div class="sub" id="sub"></div>
+</div></header>
+<div class="bar"><div class="wrap" id="bar"></div></div>
+<main class="wrap">
+  <div id="list"></div>
+  <h3>수집 상태</h3>
+  <table id="status"></table>
+</main>
+<script>
+const D = /*DATA*/null;
+const BASE = location.pathname.includes('/weeks/') ? '../' : '';
+const FORMATS = ['전체','CUT','PRESS','WEIGH','DOSE','SCALE'];
+let fmt = '전체', q = '', hideSeen = true;
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function header(){
+  const opts = D.weeks.map(w => `<option value="${w}" ${w===D.week?'selected':''}>${w}</option>`).join('');
+  document.getElementById('sub').innerHTML =
+    `${D.week} 주 · ${D.updated} 갱신 · 최근 8일 ${D.total}건 → 상위 ${D.items.length}건 · 지난 주 보기 <select id="wk">${opts}</select>`;
+  document.getElementById('wk').onchange = e => {
+    const w = e.target.value; location.href = w === D.weeks[0] ? BASE + 'index.html' : BASE + 'weeks/' + w + '.html';
+  };
+  const bar = document.getElementById('bar');
+  bar.innerHTML = FORMATS.map(f => `<button class="f ${f===fmt?'on':''}" data-f="${f}">${f}</button>`).join('') +
+    `<input type="search" id="q" placeholder="검색 (mice, sleep …)" value="${esc(q)}">` +
+    `<label><input type="checkbox" id="hs" ${hideSeen?'checked':''}>이미 본 소재 숨기기</label>`;
+  bar.querySelectorAll('.f').forEach(b => b.onclick = () => { fmt = b.dataset.f; header(); render(); });
+  document.getElementById('q').oninput = e => { q = e.target.value.toLowerCase(); render(); };
+  document.getElementById('hs').onchange = e => { hideSeen = e.target.checked; render(); };
+}
+
+function card(g, i){
+  const chips = [];
+  if (g.format) chips.push(`<span class="c fmt">${g.format}</span>`);
+  (g.sample||[]).forEach(s => chips.push(`<span class="c">대상 ${esc(s)}</span>`));
+  (g.catch||[]).forEach(s => chips.push(`<span class="c warn">${esc(s)}</span>`));
+  if (g.seen) chips.push(`<span class="c seen">이미 본 소재 · ${esc(g.seen)}</span>`);
+  if (g.sources.length > 1) chips.push(`<span class="c">${g.sources.length}곳 보도</span>`);
+  const facts = (g.facts||[]).map(f => `<li>“${esc(f)}”</li>`).join('');
+  const doi = (g.doi||[]).map(d => `<a href="https://doi.org/${esc(d)}" target="_blank" rel="noopener">DOI ${esc(d)}</a>`).join('');
+  return `<article class="card ${g.score>=12?'hot':''}">
+    <div class="top"><div class="rank">${i+1}</div>
+      <div style="flex:1;min-width:0"><h2><a href="${esc(g.link)}" target="_blank" rel="noopener">${esc(g.title)}</a></h2>
+      <div class="meta">${esc(g.sources.join(' / '))} · ${esc(g.date)}</div></div>
+      <div class="score">${g.score}<small>점수</small></div></div>
+    <div class="chips">${chips.join('')}</div>
+    <div class="sum">${esc(g.summary)}</div>
+    ${facts ? `<details><summary>원문 속 숫자 문장 ${g.facts.length}개 (글자 그대로)</summary><ul>${facts}</ul></details>` : ''}
+    ${g.journal_ref ? `<div class="why">논문: ${esc(g.journal_ref)}</div>` : ''}
+    <div class="why">점수 이유: ${esc((g.why||[]).join(' · ') || '—')}</div>
+    <div class="act"><button data-i="${i}">Claude에 보낼 문장 복사</button>${doi}</div>
+  </article>`;
+}
+
+function render(){
+  const rows = D.items.map((g,i) => [g,i]).filter(([g]) =>
+    (fmt==='전체' || g.format===fmt) && (!hideSeen || !g.seen) &&
+    (!q || (g.title+' '+g.summary).toLowerCase().includes(q)));
+  const L = document.getElementById('list');
+  L.innerHTML = rows.length ? rows.map(([g,i]) => card(g,i)).join('') : '<div class="empty">조건에 맞는 후보가 없어요</div>';
+  L.querySelectorAll('button[data-i]').forEach(b => b.onclick = async () => {
+    const g = D.items[+b.dataset.i];
+    const t = `LAB GOSSIP ${D.week} 후보 #${+b.dataset.i+1}: ${g.title}\n${g.link}${g.doi&&g.doi.length?'\nDOI '+g.doi[0]:''}\n→ 이걸로 에피소드 만들자`;
+    try { await navigator.clipboard.writeText(t); b.textContent='복사됨'; b.classList.add('done'); }
+    catch(e){ prompt('복사해서 붙여넣으세요', t); }
+  });
+}
+
+function status(){
+  document.getElementById('status').innerHTML = '<tr><th>피드</th><th>결과</th></tr>' + D.status.map(s =>
+    `<tr><td>${esc(s.feed)}</td><td>${s.ok ? `피드에 ${s.items}건 (${s.span_days ?? '?'}일치)` : `<span class="bad">실패</span> ${esc(s.error)}`}</td></tr>`).join('');
+}
+header(); render(); status();
+</script>
+</body>
+</html>
