@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-19
 
-최근 8일 누적 260건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 308건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 14 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
@@ -83,7 +83,25 @@
   - "The arrival marks SpaceX's 35th commercial resupply mission to the orbiting laboratory under its contract with NASA."
   - "Other experiments include 3D heart tissue models, which recreate important features of human heart tissue."
 
-## 8. Astronauts’ hearts just passed a surprising test for Mars
+## 8. Scientists discover a hidden messaging system deep inside the brain
+- 점수 9 · CUT · ScienceDaily 전체 · 2026-10-23
+- https://www.sciencedaily.com/releases/2026/10/261022081304.htm
+- DOI: 10.1038/s41586-026-11026-0
+- 주의: 동물 실험
+- 요약: A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, 
+  - "Scientists used whole-brain imaging to study nearly 35,000 neurons, analyzed the genetic profiles of almost 400,000 cells, and reconstructed the complete structures of several exceptionally complex nerve cells."
+  - "The researchers found that LC axons measured approximately 35 centimeters long on average."
+  - "One particularly extraordinary axon had a total reconstructed length of 70.32 centimeters, making it part of the longest single neuron ever measured in a mouse."
+  - "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
+
+## 9. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
+- 점수 9 · SCALE · MedicalXpress · 2026-10-23
+- https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html
+- 주의: 상관관계
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A Hiroshima University–led clinical trial found that hydrogen supplementation did not significantly improve sleep quality compared with a placebo; however, exploratory analyses suggest that differences in the abundance of hydrogen-producing gut bacteria may be associated with individual differences 
+
+## 10. Astronauts’ hearts just passed a surprising test for Mars
 - 점수 8 · WEIGH · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261020085016.htm
 - DOI: 10.1161/CIRCULATIONAHA.125.078665
@@ -95,7 +113,7 @@
   - ""It would be typically about 3 a.m. for me because the space station runs on Greenwich Mean Time," Thomas said."
   - "Mars has roughly 38% of Earth's surface gravity."
 
-## 9. Eating blueberries every day may have a surprising effect on your mood
+## 11. Eating blueberries every day may have a surprising effect on your mood
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261017230028.htm
 - DOI: 10.1016/j.jnha.2026.100958
@@ -107,7 +125,7 @@
   - "Blueberries Linked to Subtle Changes in Gut Microbial Activity A total of 18 participants completed the study."
   - "Most were women, and the group was predominantly white (placebo group, n = 8; mean age: 75 ± 6; blueberry group, n = 10; mean age: 71 ± 4)."
 
-## 10. Archaeologists discover 1,200-year-old mummified hairless dog in Peru
+## 12. Archaeologists discover 1,200-year-old mummified hairless dog in Peru
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261016070644.htm
 - DOI: 10.1016/j.jaa.2026.101767
@@ -118,7 +136,7 @@
   - "The complex was occupied between 600 and 1050 CE, roughly 400 years before the Inca rose to power."
   - "In 2012, researchers uncovered the first undisturbed elite Wari tomb, containing the remains of 58 high-status women, six human sacrifices, and approximately 1,300 artifacts."
 
-## 11. Scientists predicted doomsday for November 13, 2026. Should we be worried?
+## 13. Scientists predicted doomsday for November 13, 2026. Should we be worried?
 - 점수 8 · PRESS · ScienceDaily 전체 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261016070639.htm
 - 주의: DOI 못 찾음
@@ -129,7 +147,7 @@
   - "Hopefully, we will all wake up on Nov. 13 to an ordinary day."
   - "The mid-20th century saw increasing societal concern about global population growth and its potential to lead to resource scarcity and geopolitical conflict."
 
-## 12. James Webb reveals a strange bulge in an alien planet's atmosphere
+## 14. James Webb reveals a strange bulge in an alien planet's atmosphere
 - 점수 8 · PRESS · ScienceDaily 별난연구 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261015073205.htm
 - DOI: 10.1038/s41550-026-02986-4
@@ -141,20 +159,7 @@
   - "To move beyond computational exercises and see it for real is a different matter." The observations provide valuable information about WASP-17b's atmospheric chemistry and temperature variations, including differences between its equator and poles and between its permanently illuminated and dark hemispheres."
   - "Together, they offer one of the most detailed three-dimensional pictures of an exoplanet's atmosphere yet produced, establishing a useful reference point for studying the more than 6,000 exoplanets confirmed so far."
 
-## 13. Ozempic and Wegovy linked to rare risk of sudden vision loss
-- 점수 8 · DOSE · ScienceDaily 건강 · 2026-10-15
-- https://www.sciencedaily.com/releases/2026/10/261014015521.htm
-- DOI: 10.7326/ANNALS-25-00860
-- 대상: 10,000 patients
-- 주의: 상관관계
-- 요약: Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop
-  - "The study, published in Annals of Internal Medicine , analyzed information from a large database of US adults ages 18 to 65 with Type 2 diabetes."
-  - "Researchers focused on patients who had recently started taking medications to manage their condition, including a class of drugs known as glucagon-like peptide-1 receptor agonists, or GLP-1s."
-  - "In addition to helping control blood sugar and manage weight, GLP-1 medications can reduce the risks of certain cardiovascular and kidney problems."
-  - "The researchers found that GLP-1 use was associated with a modest increase in the likelihood of ischemic optic neuropathy."
-  - ""The increase in risk was small -- approximately three to four additional cases per 10,000 patients treated with GLP-1s over 18 months, but clinicians and patients should be aware of this potential association." While the absolute risk remains low, researchers say the growing popularity of GLP-1 medications makes continued safety monitoring especially important."
-
-## 14. NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon
+## 15. NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-10-22
 - https://www.sciencedaily.com/releases/2026/10/261021231238.htm
 - 주의: DOI 못 찾음
@@ -165,7 +170,7 @@
   - "The rover recently achieved a major milestone, gaining 0.6 miles (1 kilometer) in elevation, a greater climb than any other rover has completed on Mars."
   - "Mission scientists aim to reach the bottom of the yardang formations sometime in 2027."
 
-## 15. Scientists discover a surprising link between vitamin C and cancer survival
+## 16. Scientists discover a surprising link between vitamin C and cancer survival
 - 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-20
 - https://www.sciencedaily.com/releases/2026/10/261019093437.htm
 - DOI: 10.1002/cncr.70549
@@ -177,29 +182,7 @@
   - "Scientists emphasize that this potential survival benefit must be verified in a larger phase 3 clinical trial."
   - "Jones is also a co-corresponding author of the research and co-leader of the VAI-SU2C Epigenetics Dream Team."
 
-## 16. NASA solves a strange mystery hidden inside asteroid Bennu’s boulders
-- 점수 7 · CUT · ScienceDaily 전체 · 2026-10-20
-- https://www.sciencedaily.com/releases/2026/10/261018205101.htm
-- DOI: 10.1038/s41467-026-68505-1
-- 요약: NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years.
-  - "NASA's OSIRIS-REx mission encountered an unexpected mystery when it arrived at asteroid Bennu in 2018."
-  - ""When OSIRIS-REx got to Bennu in 2018, we were surprised by what we saw," said Andrew Ryan, a scientist at the University of Arizona's Lunar and Planetary Laboratory, who led the mission's working group responsible for analyzing the physical and thermal properties of its samples."
-  - "Measurements from NASA's Spitzer Space Telescope in 2007 indicated that the asteroid's surface warmed and cooled rapidly as it rotated through sunlight and darkness."
-  - "Scientists Discover a Potential Early Warning Sign of Alzheimer’s in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-
-## 17. Rare study reveals a striking divide inside an Alzheimer’s patient’s brain
-- 점수 7 · CUT · ScienceDaily 뇌·마음 · 2026-10-15
-- https://www.sciencedaily.com/releases/2026/10/261013015814.htm
-- DOI: 10.1001/jama.2026.13058
-- 주의: 상관관계, 세포·시험관
-- 요약: A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensive damage. The discovery suggests that removing amyloid may have lasting protectiv
-  - "Researchers from the Perelman School of Medicine at the University of Pennsylvania presented the findings at the 2026 Alzheimer's Association International Conference."
-  - "He subsequently joined a clinical trial testing aducanumab and received 30 doses of the medication over four and a half years."
-  - "Clinical trials commonly evaluate patients over approximately 18 months, but some protective effects might take considerably longer to become apparent."
-  - "Ongoing trials will help determine whether starting treatment before symptoms begin can provide even greater benefit." This research received support from the National Institutes of Health (P30-AG072979, RF1-AG069474, R01-AG056014, R01-AG055005, R01-AG072796, R01-AG065341, P01-AG084497)."
-  - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-
-## 18. Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret
+## 17. Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret
 - 점수 7 · SCALE · ScienceDaily 동식물 · 2026-10-16
 - https://www.sciencedaily.com/releases/2026/10/261014015509.htm
 - DOI: 10.1093/ismejo/wrag203
@@ -210,21 +193,13 @@
   - ""Humans have only been introducing plastic into the environment in significant quantities for around 50 to 75 years."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 19. Music can enhance the flavor of your food
+## 18. Music can enhance the flavor of your food
 - 점수 7 · SCALE · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-music-flavor-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The moment we take a sip of our morning coffee or our first bite of lunch, the brain begins interpreting what we taste. Is it sweet? Sour? Or something else entirely? But the brain does not create flavor based solely on signals from the tongue. That is the finding of a new study from the Department 
 
-## 20. Mysterious brain activity under anesthesia challenges what we know about consciousness
-- 점수 6 · PRESS · ScienceDaily 별난연구 · 2026-10-15
-- https://www.sciencedaily.com/releases/2026/10/261015003440.htm
-- DOI: 10.1038/s41586-026-10448-0
-- 주의: 세포·시험관, 상관관계
-- 요약: Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain
-  - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-
-## 21. Yale scientists discover how stress changes the brain to make memories stronger
+## 19. Yale scientists discover how stress changes the brain to make memories stronger
 - 점수 6 · DOSE · ScienceDaily 뇌·마음 · 2026-10-16
 - https://www.sciencedaily.com/releases/2026/10/261014015517.htm
 - DOI: 10.1126/sciadv.adz4143
@@ -234,7 +209,7 @@
   - "The study used a double blind design, meaning neither the participants nor the experimenter knew which substance had been administered during a particular session."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 22. This bird flies thousands of miles, but its wings have a catch
+## 20. This bird flies thousands of miles, but its wings have a catch
 - 점수 6 · 형식? · ScienceDaily 동식물 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261016070624.htm
 - DOI: 10.1371/journal.pbio.3004023
@@ -242,7 +217,7 @@
   - "Like birds, these machines may face mechanical restrictions on how much their wings can fold during each wingbeat."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 23. A 24-year study uncovers a surprising climate benefit beneath forests
+## 21. A 24-year study uncovers a surprising climate benefit beneath forests
 - 점수 6 · PRESS · ScienceDaily 동식물 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261014015525.htm
 - DOI: 10.1016/j.agrformet.2025.110823
@@ -254,38 +229,45 @@
   - "While the largest study to date from the US found a decline in methane uptake of up to 80 percent due to increasing rainfall, our significantly more comprehensive field study in south-western Germany found the opposite, " explains Professor Martin Maier at Göttingen University's Department of Crop Sciences, who led the study and was previously involved in the FVA's soil gas monitoring program."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 24. First drug-focused guideline outlines newer treatments for primary biliary cholangitis
+## 22. First drug-focused guideline outlines newer treatments for primary biliary cholangitis
 - 점수 6 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-drug-focused-guideline-outlines-treatments.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For the first time, a joint guideline from the American Gastroenterological Association (AGA) and American Association for the Study of Liver Diseases (AASLD) evaluates newer medications for primary biliary cholangitis (PBC), the most common cholestatic disease in adults. Published in Gastroenterolo
 
-## 25. Potassium binder may ease the burden of dietary potassium restriction in people on dialysis
+## 23. Potassium binder may ease the burden of dietary potassium restriction in people on dialysis
 - 점수 6 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-potassium-binder-ease-burden-dietary.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Dietary potassium restriction is important for managing hyperkalemia, or high blood potassium levels, in individuals on maintenance hemodialysis, but it imposes a substantial day-to-day burden. Results from a recent clinical trial indicate that adding the potassium binder sodium zirconium cyclosilic
 
-## 26. Fruits and vegetables outperform medication for treating metabolic acidosis in chronic kidney disease
+## 24. Fruits and vegetables outperform medication for treating metabolic acidosis in chronic kidney disease
 - 점수 6 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-fruits-vegetables-outperform-medication-metabolic.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In people with chronic kidney disease (CKD), oral sodium bicarbonate is a standard treatment for metabolic acidosis (too much acid buildup in the body), but results from a recent clinical trial indicate that dietary acid reduction with base-producing fruits and vegetables may be a better option. The
 
-## 27. Liver tumors form without detectable driver mutations in mice, revealing epigenetic route
+## 25. Liver tumors form without detectable driver mutations in mice, revealing epigenetic route
 - 점수 6 · CUT · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-liver-tumors-driver-mutations-mice.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Cancers can develop through epigenetic pathways even without driver gene mutations (DGMs), according to a study from Science Tokyo. Researchers uncovered the YAP1–TEAD–TET1 axis, which triggers DNA demethylation and activates multiple oncogenes in hepatocellular carcinoma. Suppressing TET1 reduced t
 
-## 28. How L-carnitine, found in red meat and exercise supplements, may amplify inflammation
+## 26. How L-carnitine, found in red meat and exercise supplements, may amplify inflammation
 - 점수 6 · DOSE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-carnitine-red-meat-supplements-amplify.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In a study published Oct. 19 in Cell, Yale researchers identified a previously unknown mechanism by which a nutrient abundant in red meat and commonly used in exercise supplements may amplify inflammation.
 
-## 29. “Crawzilla” was huge. Then scientists found an even bigger crayfish
+## 27. Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods
+- 점수 6 · SCALE · MedicalXpress · 2026-10-24
+- https://medicalxpress.com/news/2026-10-children-ultraprocessed-foods-stronger-brain.html
+- 주의: 상관관계
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Children who eat more ultraprocessed foods (UPFs) show stronger responses in the brain's reward network when viewing images of appetizing foods—and these brain responses are linked to increases in body fat one year later.
+
+## 28. “Crawzilla” was huge. Then scientists found an even bigger crayfish
 - 점수 5 · 형식? · ScienceDaily 별난연구 · 2026-10-16
 - https://www.sciencedaily.com/releases/2026/10/261015073220.htm
 - DOI: 10.1002/ecy.70471
@@ -297,18 +279,7 @@
   - "It had been collected in 2011 by Dr."
   - "Zac Loughman and West Liberty students back in 2011, shows just how amazing and diverse crayfish can be," said Zackary Graham, an assistant professor of biology at West Liberty University."
 
-## 30. A forgotten fossil reveals a fearsome dinosaur with giant claws
-- 점수 5 · CUT · ScienceDaily 별난연구 · 2026-10-15
-- https://www.sciencedaily.com/releases/2026/10/261014015457.htm
-- DOI: 10.1098/rsos.260937
-- 요약: A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first evidence of megaraptorans in Europe, helping explain how these mysterious dinosa
-  - "About the size of a large tiger and armed with enormous curved claws, the animal roamed what is now Britain approximately 120 million years ago."
-  - "Although the Natural History Museum acquired it in 1924, its scientific importance went unrecognized for generations."
-  - "Cassius Morrison (UCL Earth Sciences) said: "Based on what we know about its closest relatives, Invictibellatrix would have been three to four meters long and just over a meter and a half in height -- about as tall as a human."
-  - "It would likely have had feathers and its claws might have been about 10cm to 20cm long."
-  - "We would have been perfectly sized prey, about a third of their body weight."
-
-## 31. Stanford’s new microscope reveals living cells like never before
+## 29. Stanford’s new microscope reveals living cells like never before
 - 점수 5 · DOSE · ScienceDaily 동식물 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261015073231.htm
 - DOI: 10.1038/s41377-026-02210-y
@@ -320,68 +291,46 @@
   - "A third project, still in the planning stages, will examine how red blood cells change shape when exposed to malaria infection."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimer’s in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 32. A 47-year study reveals the age when your body starts losing strength
-- 점수 5 · 형식? · ScienceDaily 건강 · 2026-10-15
-- https://www.sciencedaily.com/releases/2026/10/261014000912.htm
-- DOI: 10.1002/jcsm.70134, 10.1007/s11357-026-02483-6, 10.1016/j.amjmed.2026.02.032
-- 대상: 49 men, 82 adults
-- 요약: A 47-year study has uncovered a surprising turning point in physical aging: fitness and strength begin declining around age 35, even among people who exercise regularly. Researchers found that this decline accelerates as people get older, but starting to exercise in adulthood can still improve physi
-  - "A remarkable 47-year Swedish study found that fitness, muscle endurance, and physical performance generally begin declining around age 35, even among people who remain active."
-  - "Their findings, published in 2025 in the Journal of Cachexia, Sarcopenia and Muscle , help explain when physical decline begins, how it progresses, and why staying active remains important throughout life."
-  - "The research was part of the Swedish Physical Activity and Fitness study (SPAF), which followed 427 randomly selected men and women born in 1958."
-  - "Participants underwent physical assessments over 47 years, beginning at age 16 and continuing through age 63."
-  - "Aerobic fitness and muscular endurance generally reached their highest levels between ages 26 and 36, with physical performance beginning to decline around the mid-30s."
-
-## 33. Scientists discover a surprising danger in smaller cancer cells
-- 점수 5 · CUT · ScienceDaily 건강 · 2026-10-15
-- https://www.sciencedaily.com/releases/2026/10/261013015835.htm
-- DOI: 10.1073/pnas.2522077123, 10.1158/0008-5472.CAN-24-3718
-- 주의: 상관관계
-- 요약: Scientists have discovered that unusually small cancer cells carrying extra chromosomes can be far more aggressive than larger ones, growing faster, spreading more readily, and resisting common treatments. The surprising finding could help explain why some tumors are especially dangerous and provide
-  - "Because tetraploid cells contain twice the usual number of chromosome sets, the researchers expected them to be approximately twice as large as diploid cells."
-  - "Instead, some of the cells were 25 to 30 percent smaller than anticipated."
-  - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-
-## 34. Legal encounters may offer overlooked opportunities for suicide prevention, analysis suggests
+## 30. Legal encounters may offer overlooked opportunities for suicide prevention, analysis suggests
 - 점수 5 · PRESS · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-legal-encounters-overlooked-opportunities-suicide.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Picture a forlorn man walking into a lawyer's office after his marriage has collapsed. The bank is threatening foreclosure, and his finances are in tatters. His problems may be legal on paper, but in person they can look far more complicated: panic, shame or the numb resignation of someone who can n
 
-## 35. Illegal fishing is thriving in African waters—a satellite system could help change that
+## 31. Illegal fishing is thriving in African waters—a satellite system could help change that
 - 점수 5 · CUT · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-illegal-fishing-african-satellite.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A patrol boat off the coast of Gabon intercepted three trawlers in July 2026, inside the Grand Sud Reserve. This is one of West and Central Africa's largest marine reserves, where industrial trawling is banned. None of the trawlers held a valid license. The patrol found them because analysts at the 
 
-## 36. More young people are being recruited as 'money mules' by organized crime groups, new analysis reveals
+## 32. More young people are being recruited as 'money mules' by organized crime groups, new analysis reveals
 - 점수 5 · CUT · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-young-people-money-mules-crime.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 8,900 people aged under 30 were arrested for money laundering offenses in England and Wales between 2020 and 2025. That's more than six in 10 of all money laundering arrests recorded during the period.
 
-## 37. Hypnosis may help relieve stomach pain
+## 33. Hypnosis may help relieve stomach pain
 - 점수 5 · CUT · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-hypnosis-relieve-stomach-pain.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Stomach pain and other gastrointestinal complaints are common among children and adolescents. When symptoms recur over a long period, the cause may be a form of DGBI (disorders of gut-brain interaction), in which communication between the brain and the gut does not function as it should. This can af
 
-## 38. Childhood adversity patterns reveal different links to hopelessness and drug or alcohol cravings
+## 34. Childhood adversity patterns reveal different links to hopelessness and drug or alcohol cravings
 - 점수 5 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-childhood-adversity-patterns-reveal-links.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Adverse childhood experiences (ACEs) are known to increase the risk of substance use problems later in life. New research from George Mason University's College of Public Health suggests that the specific types of adversity a young person faces may be associated with different vulnerabilities to tho
 
-## 39. FDA patient, consumer reps often tied to pharma-funded groups
+## 35. FDA patient, consumer reps often tied to pharma-funded groups
 - 점수 5 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-fda-patient-consumer-reps-pharma.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Patient and consumer representatives advising U.S. Food and Drug Administration (FDA) expert panels might actually be a Trojan horse for the pharmaceutical industry, a new study says.
 
-## 40. Horror’s monsters find new meaning with queer and trans audiences – how ‘Teenage Sex and Death at Camp Miasma’ dissects identity
+## 36. Horror’s monsters find new meaning with queer and trans audiences – how ‘Teenage Sex and Death at Camp Miasma’ dissects identity
 - 점수 5 · CUT · The Conversation · 2026-10-21
 - https://theconversation.com/horrors-monsters-find-new-meaning-with-queer-and-trans-audiences-how-teenage-sex-and-death-at-camp-miasma-dissects-identity-291766
 - 주의: DOI 못 찾음
@@ -390,3 +339,28 @@
   - "Another new film, Jane Schoenbrun’s “ Teenage Sex and Death at Camp Miasma ” (2026), explores queer people’s relationship with horror."
   - "These portrayals of LGBTQ+ people as monstrous and pathological can be found in films ranging from the low-budget slashers that inspired Schoenbrun – most notably “ Sleepaway Camp ” (1983) – to Oscar winners such as “ The Silence of the Lambs ” (1991)."
   - "No one’s 20s and 30s look the same."
+
+## 37. Intermittent fasting plus exercise boosts fat loss and fitness in 12-week obesity trial
+- 점수 5 · SCALE · MedicalXpress · 2026-10-23
+- https://medicalxpress.com/news/2026-10-intermittent-fasting-boosts-fat-loss.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A research team led by the Joint University Institute for Sport and Health (iMUDS) at the University of Granada, in collaboration with the Granada Institute for Biomedical Research and the Biomedical Research Network Center, has studied the effects of combining intermittent fasting and supervised ex
+
+## 38. International study helps support FDA approval of HIV drug for newborns
+- 점수 5 · SCALE · MedicalXpress · 2026-10-23
+- https://medicalxpress.com/news/2026-10-international-fda-hiv-drug-newborns.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: An international study conducted through the International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network, including researchers at the University of California San Diego, helped inform the U.S. Food and Drug Administration's (FDA) recent approval of dolutegravir, a second-gene
+
+## 39. How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives
+- 점수 5 · PRESS · Phys.org · 2026-10-23
+- https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html
+- 주의: 세포·시험관
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Arriving on the Caribbean island of Dominica for the first time "feels a little bit like stepping into Jurassic Park," said Giovanni Petri, a professor in the Network Science Institute at Northeastern University London.
+
+## 40. East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks
+- 점수 5 · WEIGH · Phys.org · 2026-10-23
+- https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A joint research team from KAIST and the APEC Climate Center has found that the East Asian summer front has migrated north over the past half century, with the shift exceeding 200 km (124 miles) in late summer. This raises the risk that the Korean Peninsula will experience heavy rain and heat stress
