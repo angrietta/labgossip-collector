@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 9
+   "span_days": 8
   }
  ],
  "top": [
@@ -377,6 +377,19 @@
    "date": "2026-10-23",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-10-24",
+   "text": "Deep within the brainstem is a tiny group of nerve cells that plays an outsized role in how the brain functions. This region, called the locus coeruleus (LC), gets its name from the Latin words for \"blue place.\" Although it contains only a small fraction of the brain's neurons, it produces norepinephrine (NE), a chemical messenger that helps regulate attention, learning, heart rate, and the body's reactions to stress and excitement. Scientists have long assumed that the LC operates like a loudspeaker, sending essentially the same norepinephrine signal across the brain. However, a new study published in Nature challenges that understanding. Using brain imaging, recordings of neural activity, genetic techniques, and behavioral experiments in mice, researchers at the Allen Institute discovered that the LC communicates through several distinct pathways. Rather than broadcasting one general message, it delivers signals to specific destinations, with different groups of neurons responding to different experiences. By tracing the connections of LC neurons, researchers found that different groups of cells communicate with specific regions of the nervous system. These pathways determine where signals trigger the release of norepinephrine, creating a much more organized communication network than previously recognized. Neurons in the upper (dorsal) portion of the LC primarily connect to the cerebral cortex and forebrain. Meanwhile, cells in the lower (ventral) portion send their signals mainly to the brainstem and spinal cord. This arrangement allows different parts of the LC to influence separate brain functions. \"The findings suggest the brain's norepinephrine system is far more like a targeted postal network than a foghorn,\" said Karel Svoboda, director of Neural Dynamics at the Allen Institute and study co-author. Understanding how this signaling network is organized could eventually change how certain neurological and mental health conditions are treated. Norepinephrine plays a central role in regulating attention and mood, making it an important target for medications used to treat depression, anxiety, and ADHD. Neurons in the LC are also among the earliest brain cells to deteriorate in Alzheimer's disease, suggesting that the new findings could have implications for understanding and treating these conditions. Current treatments that influence norepinephrine can affect multiple brain circuits at once, sometimes producing beneficial effects in one region while causing unwanted effects elsewhere. A clearer map of the LC's specialized pathways could help scientists develop therapies that act more selectively on the circuits involved in particular symptoms. The research received support from the National Institutes of Health's Brain Research Through Advancing Innovative Neurotechnologies ® Initiative, also known as The BRAIN Initiative®. The researchers also uncovered an important distinction between the functions of different LC neurons. Cells in the dorsal LC that connect to the cortex were particularly active during learning. When mice performed decision-making tasks and adjusted their choices after an unfavorable result, these neurons increased their activity. Neurons in the ventral LC behaved differently. Their activity rose shortly before mice ignored signals indicating that a reward might be available. This suggests that these cells help regulate whether animals respond to opportunities in their surroundings. \"What emerged was a clear map: neurons in the dorsal LC that send signals upward to the cortex are involved in learning, whereas neurons in the ventral region projecting downward to the brainstem and spinal cord govern whether animals engage with their environment at all,\" said Svoboda. \"We also showed that these anatomical differences are mirrored by distinct gene expression patterns.\" These findings indicate that the differences between the two groups extend beyond their locations and connections. They also have distinct patterns of gene activity that reflect their specialized roles. The study involved an extensive examination of the mouse brain. Scientists used whole-brain imaging to study nearly 35,000 neurons, analyzed the genetic profiles of almost 400,000 cells, and reconstructed the complete structures of several exceptionally complex nerve cells. During this work, they encountered another remarkable finding: LC neurons possess extraordinarily long axons. These projections carry signals from nerve cells to other cells, allowing information to travel across the nervous system. The researchers found that LC axons measured approximately 35 centimeters long on average. One particularly extraordinary axon had a total reconstructed length of 70.32 centimeters, making it part of the longest single neuron ever measured in a mouse. \"This neuron, like many others that we studied, supplies NE to a very large volume of the cerebral cortex. For the brain, this is highly unusual. Most neurons are more specific in their targets,\" said Jeremiah Cohen, scientist at the Allen Institute and study co-author. \"But this neuron doesn't release NE everywhere. It ignores the cerebellum, brainstem, and spinal cord.\" Despite its remarkable length and extensive reach, the neuron does not distribute norepinephrine throughout the entire brain. Instead, its connections remain selective, reinforcing the discovery that the LC operates through carefully organized signaling pathways. The researchers also identified intriguing similarities between the norepinephrine system and the brain's dopamine signaling system. Dopamine is another major chemical messenger that sends signals to the basal ganglia, a brain region involved in forming habits. Scientists suspect that dopamine and norepinephrine work together to support learning, potentially allowing the brain to acquire several complex and abstract concepts at the same time. By revealing the intricate connections, specialized functions, and unusual physical structure of neurons in the locus coeruleus, the research provides a more detailed picture of how the animal brain communicates and learns. Although the findings come from experiments in mice, they could eventually help scientists better understand human brain function and design treatments that target specific neural circuits rather than affecting entire signaling systems. Materials provided by Allen Institute . Note: Content may be edited for style and length. What if Dark Energy Was Once Negative? Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds",
+   "facts": [
+    "Scientists used whole-brain imaging to study nearly 35,000 neurons, analyzed the genetic profiles of almost 400,000 cells, and reconstructed the complete structures of several exceptionally complex nerve cells.",
+    "The researchers found that LC axons measured approximately 35 centimeters long on average.",
+    "One particularly extraordinary axon had a total reconstructed length of 70.32 centimeters, making it part of the longest single neuron ever measured in a mouse.",
+    "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
+   ],
+   "doi": [
+    "10.1038/s41586-026-11026-0"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Zhixiao Su, Polina Kosillo, Kanghoon Jung, Shuonan Chen, Mathew T. Summers, Alex Piet, Han Hou, Kenta M. Hagihara, Drew Friedmann, Olivia Ho-Shing, Matthew I. Becker, Thomas Chartrand, Xinxin Yin, Peter Grotz, Ella Hilton-VanOsdall, Margaret Lee, Rajvi Javeri, Samantha L. Tuggle, Naveen Ouellette, Holly Myers, Judith Baka, Camilo Laiton, Kaelin Wulf, John Rohde, Alessio P. Bucc",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -392,19 +405,7 @@
     "형식 CUT",
     "훅: surpris, actually",
     "생활소재: brain, mice"
-   ],
-   "text": "Deep within the brainstem is a tiny group of nerve cells that plays an outsized role in how the brain functions. This region, called the locus coeruleus (LC), gets its name from the Latin words for \"blue place.\" Although it contains only a small fraction of the brain's neurons, it produces norepinephrine (NE), a chemical messenger that helps regulate attention, learning, heart rate, and the body's reactions to stress and excitement. Scientists have long assumed that the LC operates like a loudspeaker, sending essentially the same norepinephrine signal across the brain. However, a new study published in Nature challenges that understanding. Using brain imaging, recordings of neural activity, genetic techniques, and behavioral experiments in mice, researchers at the Allen Institute discovered that the LC communicates through several distinct pathways. Rather than broadcasting one general message, it delivers signals to specific destinations, with different groups of neurons responding to different experiences. By tracing the connections of LC neurons, researchers found that different groups of cells communicate with specific regions of the nervous system. These pathways determine where signals trigger the release of norepinephrine, creating a much more organized communication network than previously recognized. Neurons in the upper (dorsal) portion of the LC primarily connect to the cerebral cortex and forebrain. Meanwhile, cells in the lower (ventral) portion send their signals mainly to the brainstem and spinal cord. This arrangement allows different parts of the LC to influence separate brain functions. \"The findings suggest the brain's norepinephrine system is far more like a targeted postal network than a foghorn,\" said Karel Svoboda, director of Neural Dynamics at the Allen Institute and study co-author. Understanding how this signaling network is organized could eventually change how certain neurological and mental health conditions are treated. Norepinephrine plays a central role in regulating attention and mood, making it an important target for medications used to treat depression, anxiety, and ADHD. Neurons in the LC are also among the earliest brain cells to deteriorate in Alzheimer's disease, suggesting that the new findings could have implications for understanding and treating these conditions. Current treatments that influence norepinephrine can affect multiple brain circuits at once, sometimes producing beneficial effects in one region while causing unwanted effects elsewhere. A clearer map of the LC's specialized pathways could help scientists develop therapies that act more selectively on the circuits involved in particular symptoms. The research received support from the National Institutes of Health's Brain Research Through Advancing Innovative Neurotechnologies ® Initiative, also known as The BRAIN Initiative®. The researchers also uncovered an important distinction between the functions of different LC neurons. Cells in the dorsal LC that connect to the cortex were particularly active during learning. When mice performed decision-making tasks and adjusted their choices after an unfavorable result, these neurons increased their activity. Neurons in the ventral LC behaved differently. Their activity rose shortly before mice ignored signals indicating that a reward might be available. This suggests that these cells help regulate whether animals respond to opportunities in their surroundings. \"What emerged was a clear map: neurons in the dorsal LC that send signals upward to the cortex are involved in learning, whereas neurons in the ventral region projecting downward to the brainstem and spinal cord govern whether animals engage with their environment at all,\" said Svoboda. \"We also showed that these anatomical differences are mirrored by distinct gene expression patterns.\" These findings indicate that the differences between the two groups extend beyond their locations and connections. They also have distinct patterns of gene activity that reflect their specialized roles. The study involved an extensive examination of the mouse brain. Scientists used whole-brain imaging to study nearly 35,000 neurons, analyzed the genetic profiles of almost 400,000 cells, and reconstructed the complete structures of several exceptionally complex nerve cells. During this work, they encountered another remarkable finding: LC neurons possess extraordinarily long axons. These projections carry signals from nerve cells to other cells, allowing information to travel across the nervous system. The researchers found that LC axons measured approximately 35 centimeters long on average. One particularly extraordinary axon had a total reconstructed length of 70.32 centimeters, making it part of the longest single neuron ever measured in a mouse. \"This neuron, like many others that we studied, supplies NE to a very large volume of the cerebral cortex. For the brain, this is highly unusual. Most neurons are more specific in their targets,\" said Jeremiah Cohen, scientist at the Allen Institute and study co-author. \"But this neuron doesn't release NE everywhere. It ignores the cerebellum, brainstem, and spinal cord.\" Despite its remarkable length and extensive reach, the neuron does not distribute norepinephrine throughout the entire brain. Instead, its connections remain selective, reinforcing the discovery that the LC operates through carefully organized signaling pathways. The researchers also identified intriguing similarities between the norepinephrine system and the brain's dopamine signaling system. Dopamine is another major chemical messenger that sends signals to the basal ganglia, a brain region involved in forming habits. Scientists suspect that dopamine and norepinephrine work together to support learning, potentially allowing the brain to acquire several complex and abstract concepts at the same time. By revealing the intricate connections, specialized functions, and unusual physical structure of neurons in the locus coeruleus, the research provides a more detailed picture of how the animal brain communicates and learns. Although the findings come from experiments in mice, they could eventually help scientists better understand human brain function and design treatments that target specific neural circuits rather than affecting entire signaling systems. Materials provided by Allen Institute . Note: Content may be edited for style and length. What if Dark Energy Was Once Negative? Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds",
-   "doi": [
-    "10.1038/s41586-026-11026-0"
-   ],
-   "journal_ref": "Journal Reference : Zhixiao Su, Polina Kosillo, Kanghoon Jung, Shuonan Chen, Mathew T. Summers, Alex Piet, Han Hou, Kenta M. Hagihara, Drew Friedmann, Olivia Ho-Shing, Matthew I. Becker, Thomas Chartrand, Xinxin Yin, Peter Grotz, Ella Hilton-VanOsdall, Margaret Lee, Rajvi Javeri, Samantha L. Tuggle, Naveen Ouellette, Holly Myers, Judith Baka, Camilo Laiton, Kaelin Wulf, John Rohde, Alessio P. Bucc",
-   "facts": [
-    "Scientists used whole-brain imaging to study nearly 35,000 neurons, analyzed the genetic profiles of almost 400,000 cells, and reconstructed the complete structures of several exceptionally complex nerve cells.",
-    "The researchers found that LC axons measured approximately 35 centimeters long on average.",
-    "One particularly extraordinary axon had a total reconstructed length of 70.32 centimeters, making it part of the longest single neuron ever measured in a mouse.",
-    "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation",
@@ -414,6 +415,8 @@
    "date": "2026-10-23",
    "source": "MedicalXpress",
    "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementati",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -429,8 +432,7 @@
     "형식 SCALE",
     "훅: did not",
     "생활소재: sleep, supplement"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementati"
+   ]
   },
   {
    "title": "Astronauts’ hearts just passed a surprising test for Mars",
@@ -1028,6 +1030,8 @@
    "date": "2026-10-24",
    "source": "MedicalXpress",
    "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-children-ultraprocessed-foods-stronger-brain",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -1042,8 +1046,7 @@
    "why": [
     "형식 SCALE",
     "생활소재: children, brain"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-children-ultraprocessed-foods-stronger-brain"
+   ]
   },
   {
    "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
@@ -1322,6 +1325,8 @@
    "date": "2026-10-23",
    "source": "MedicalXpress",
    "first_seen": "2026-10-23",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-intermittent-fasting-boosts-fat-loss.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -1334,8 +1339,7 @@
    "why": [
     "형식 SCALE",
     "생활소재: exercise"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-intermittent-fasting-boosts-fat-loss.html"
+   ]
   },
   {
    "title": "International study helps support FDA approval of HIV drug for newborns",
@@ -1345,6 +1349,8 @@
    "date": "2026-10-23",
    "source": "MedicalXpress",
    "first_seen": "2026-10-23",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-international-fda-hiv-drug-newborns.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -1356,8 +1362,7 @@
    "score": 5,
    "why": [
     "형식 SCALE"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-international-fda-hiv-drug-newborns.html"
+   ]
   },
   {
    "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
@@ -1367,6 +1372,8 @@
    "date": "2026-10-23",
    "source": "Phys.org",
    "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1381,8 +1388,7 @@
    "why": [
     "형식 PRESS",
     "훅: first time"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
+   ]
   },
   {
    "title": "East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks",
@@ -1392,6 +1398,8 @@
    "date": "2026-10-23",
    "source": "Phys.org",
    "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1404,8 +1412,7 @@
    "why": [
     "형식 WEIGH",
     "생활소재: stress"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html"
+   ]
   }
  ]
 }
