@@ -28,14 +28,14 @@
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 31
+   "span_days": 32
   },
   {
    "feed": "ScienceDaily 건강",
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 10
+   "span_days": 11
   },
   {
    "feed": "Phys.org",
@@ -109,6 +109,43 @@
     "훅: surpris, failed to",
     "생활소재: diet, supplement, memory"
    ]
+  },
+  {
+   "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261023023710.htm",
+   "summary": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how these animals evolved.",
+   "date": "2026-10-24",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261023023710.htm"
+   ],
+   "format": "CUT",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 12,
+   "why": [
+    "형식 CUT",
+    "훅: strange, bizarre, secret",
+    "생활소재: bird, dinosaur"
+   ],
+   "text": "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved. Rather than developing increasingly sophisticated flight abilities, some of the earliest birds appear to have taken a very different evolutionary path, including losing the ability to fly altogether. The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago). Described in a study published in Nature, the crow-sized creature provides evidence that early bird evolution was much more complex than scientists once believed. Instead of evolving primarily to become better flyers, ancient birds were adapting to a variety of environments and ways of life, including those that favored living on the ground. Researchers from the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP) of the Chinese Academy of Sciences (CAS) and the Fujian Institute of Geological Sciences uncovered the fossil in the recently recognized Zhenghe Fauna of Fujian Province in southeastern China. According to their findings, Yuezhuornis represents the earliest known example of a bird lineage losing its ability to fly. One of the most remarkable features of Yuezhuornis is its unusual combination of bird and dinosaur characteristics. Although it possessed skeletal features associated with birds, it also retained anatomical traits that would have been familiar among small predatory dinosaurs. Its jaws contained closely spaced, serrated teeth resembling those of deinonychosaurs, a group of meat-eating dinosaurs that included agile predators related to birds. Such teeth are not normally associated with early birds. Even more striking was its second toe, which could bend backward unusually far and carried a curved, sickle-shaped claw. This specialized feature is strongly associated with deinonychosaurs, including dromaeosaurids and troodontids, two groups of predatory dinosaurs. \"When we examined Yuezhuornis , we were struck by its extraordinary mix of features,\" said Dr. Min Wang, corresponding author of the study. \"It possesses bird-like pelvic and hindlimb structures yet retains the specialized predatory foot and teeth of a small meat-eating dinosaur. It shows us that early bird evolution was far more complicated than we previously realized.\" To understand how Yuezhuornis was related to other prehistoric birds and dinosaurs, scientists carried out detailed analyses of its evolutionary relationships. They used two approaches, maximum parsimony and Bayesian tip-dating, to compare anatomical characteristics and reconstruct the species' position on the evolutionary tree. Maximum parsimony identifies evolutionary relationships that require the fewest changes in characteristics, while Bayesian tip-dating also incorporates statistical estimates of evolutionary history and information about when fossils lived. Both methods produced consistent results, placing Yuezhuornis within Avialae, the evolutionary group that includes modern birds and their closest extinct relatives. \"The results consistently placed Yuezhuornis firmly within Avialae (the group containing modern birds and their closest extinct relatives), just crownward of Archaeopteryx and as a sister taxon to Zhengheornis,\" said Dr. Zhonghe Zhou, a co-author of the study. This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives. The findings indicate that Yuezhuornis belonged to an early branch of bird evolution rather than simply being a small predatory dinosaur with bird-like characteristics. The researchers also examined how Yuezhuornis might have lived. Using measurements of its skeletal proportions and statistical comparisons with other animals, they investigated whether its anatomy was better suited for flying or moving along the ground. The results showed that its limb proportions closely resembled those of modern ground-dwelling birds and certain other prehistoric dinosaurs closely related to birds. This similarity suggests that Yuezhuornis spent its life on the ground and was likely unable to fly. The findings point to an unexpected development in the history of birds. Rather than simply progressing toward stronger wings and more efficient flight, some early bird lineages appear to have moved in the opposite direction, adapting to lifestyles in which flying was no longer necessary. This challenges the traditional assumption that the earliest stages of bird evolution were driven primarily by the demands of flight. Instead, birds were already exploring different ecological roles and developing a surprisingly wide range of body forms. The discovery of Yuezhuornis suggests that the evolution of birds was never a simple, one-directional process. Even during the Late Jurassic, when the earliest bird lineages were emerging, some species were developing adaptations that favored life on land rather than in the air. Its unusual combination of bird-like anatomy, dinosaur-style predatory features, and apparent flightlessness provides a revealing glimpse into that evolutionary experimentation. The fossil shows that early birds were more anatomically and ecologically diverse than previously recognized. It also underscores the scientific importance of the Zhenghe Fauna, a fossil assemblage that is helping researchers investigate a poorly understood period in bird evolution. As additional discoveries emerge from this region of China, scientists may gain an even clearer picture of the surprising evolutionary paths taken by the earliest birds. Materials provided by Chinese Academy of Sciences Headquarters . Note: Content may be edited for style and length. What if Dark Energy Was Once Negative? Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds",
+   "doi": [
+    "10.1038/s41586-026-10972-z"
+   ],
+   "journal_ref": "Journal Reference : Liming Xu, Min Wang, Ganmin Lin, Liping Dong, Ke Deng, Xing Xu, Honggang Du, Min Lin, Runsheng Chen, Zhonghe Zhou. Jurassic flightless bird reveals early ecological diversity of avialans . Nature , 2026; 658 (8136): 690 DOI: 10.1038/s41586-026-10972-z",
+   "facts": [
+    "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved.",
+    "The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago).",
+    "This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives.",
+    "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
+   ],
+   "sample": []
   },
   {
    "title": "Scientists discover a natural compound that could protect the brain from too much salt",
@@ -686,50 +723,6 @@
    ]
   },
   {
-   "title": "Scientists discover a surprising link between vitamin C and cancer survival",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261019093437.htm",
-   "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin could help protect against leukemia-related complications.",
-   "date": "2026-10-20",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "Vitamin C plays an important role in keeping the immune system healthy, helping wounds heal, and protecting cells from damage. However, people with precancerous blood disorders and blood cancers often have persistently low vitamin C levels. Researchers have been investigating whether correcting this deficiency could improve their health and treatment outcomes. New findings from the phase 2 EVITA clinical trial suggest that vitamin C supplementation may offer important benefits for people with precancerous blood conditions and early-stage blood cancers. The randomized, double-blind, placebo-controlled study was conducted by the Van Andel Institute-Stand Up To Cancer® Epigenetics Dream Team. The results, published in the American Cancer Society journal CANCER , revealed that patients who received 1,000 mg of oral vitamin C every day for one year experienced fewer adverse events during the study and its follow-up period. The supplement also changed the levels of certain immune signaling molecules, known as cytokines, in ways associated with more favorable outcomes. These changes suggest that vitamin C could influence inflammation-related processes involved in the growth and progression of abnormal blood cells. Although vitamin C did not significantly affect the rate at which abnormal blood cells expanded, the researchers identified an encouraging result. An exploratory analysis showed that participants who received vitamin C were significantly more likely to be alive after approximately three years of follow-up than those who took a placebo. Scientists emphasize that this potential survival benefit must be verified in a larger phase 3 clinical trial. \"We are tremendously excited and cautiously optimistic that our results could one day translate into a simple way to improve care and outcomes for people with pre-leukemia disorders,\" said Peter A. Jones, Ph.D., D.Sc. (hon), a distinguished professor at Van Andel Institute. Jones is also a co-corresponding author of the research and co-leader of the VAI-SU2C Epigenetics Dream Team. \"Our approach reflects a growing emphasis on cancer interception -- intervening before cancer becomes established. We are working to build on the trial findings by exploring how exactly vitamin C interacts with pre-cancerous cells, including the idea that it may help restore normal epigenetic function in blood cells at risk of becoming leukemia.\" The international research effort was led by Kirsten Grønbæk, M.D., Ph.D., a leading hematologist, professor at the University of Copenhagen, and member of the VAI-SU2C Epigenetics Dream Team. \"These exciting preliminary findings lay the groundwork for a larger clinical trial to explore vitamin C as a possible way to improve patient outcomes,\" said Grønbæk. \"It is too early to make definitive recommendations based on our results, but we are hopeful that a more expansive study will provide further insights.\" First Clinical Trial Tests Daily Vitamin C for Precancerous Blood Disorders The study enrolled 109 patients with either clonal cytopenia of undetermined significance (CCUS) or myelodysplastic syndrome (MDS). Both conditions can develop into acute myeloid leukemia (AML), an aggressive form of blood cancer that is often difficult to treat. The likelihood of developing CCUS and related blood disorders rises with age, making these conditions particularly common among older adults. Currently, no approved treatment can prevent CCUS from progressing to leukemia. Although stem cell transplantation is an option for treating MDS, many patients cannot undergo the procedure because of age or other medical conditions. None of the people enrolled in the trial were receiving cancer treatment when the study took place. To determine whether vitamin C might offer benefits, researchers randomly divided participants into two groups. One received 1,000 mg of vitamin C by mouth each day for 12 months. The other received a placebo designed to be indistinguishable from the supplement in appearance, taste, and smell, but containing no vitamin C. Neither the participants nor the clinical staff knew who was receiving vitamin C until the study concluded. This double-blind, randomized, placebo-controlled approach is considered the gold standard in clinical research because it reduces potential bias and allows investigators to assess treatment effects more objectively. The research was carried out at four hospitals: Copenhagen University Hospital-Rigshospitalet, Copenhagen University Hospital-Herlev, Aalborg University Hospital, and Keck Hospital of the University of Southern California. What makes EVITA particularly notable is that it was the first randomized, double-blind, placebo-controlled trial to investigate oral vitamin C in patients with conditions that can precede leukemia or with lower-risk myeloid cancers. Earlier studies had primarily examined vitamin C administered intravenously and had focused on solid tumors rather than precancerous blood disorders or early-stage blood malignancies. EVITA instead evaluated a daily oral dose comparable to that available in many over-the-counter vitamin C supplements. Blood samples collected throughout the study allowed researchers to track participants' vitamin C concentrations and determine whether supplementation corrected deficiencies. At the beginning of the trial, more than half of the participants had insufficient vitamin C levels. Among those assigned to the supplementation group, blood concentrations returned to normal after they began taking vitamin C. For patients living with conditions that could eventually develop into leukemia, the possibility of an accessible intervention is especially important. In many cases, physicians have little choice but to monitor the disease and watch for signs that it is progressing. \"The standard approach for patients with pre-cancer blood disorders is to monitor their blood cell counts over time. This is, understandably, very frustrating -- no one wants to hear that they have a condition that increases leukemia risk but there's nothing that can be done other than watch and wait,\" said Casey O'Connell, M.D., FACP, the Lawrence and Jane Kelly Chair in Hematology at the University of Southern California and lead clinician at USC's trial location. \"The EVITA trial took on this challenge by exploring vitamin C's potential to address the underlying factors that drive leukemia development.\" Scientists have investigated whether vitamin C could play a useful role in cancer treatment for more than seven decades. For much of that time, the evidence remained uncertain because studies produced inconsistent findings and employed different experimental methods. During the past decade, however, improved research technologies have revealed that vitamin C has important functions beyond its familiar roles in nutrition and immunity. In particular, scientists have uncovered its involvement in controlling gene activity and guiding normal cell development. One of the most important discoveries concerns TET2, an enzyme that helps prevent cancerous growth by controlling whether particular genes are switched \"on\" or \"off.\" Vitamin C supports the activity of this enzyme, which helps maintain normal patterns of gene regulation. Mutations affecting TET2 are frequently found in leukemia and related blood disorders. When the enzyme's normal function is disrupted, abnormal cells can gain an opportunity to multiply and potentially develop into cancer. Experiments using cancer models have provided additional evidence of vitamin C's possible protective effects. These studies found that supplementation could interfere with cellular changes associated with cancer and slow the progression of leukemia. Notably, the strongest effects appeared when vitamin C was introduced before cancer had become established. This research helped inspire the idea of using vitamin C as a form of early intervention, potentially targeting the biological changes that precede the dev",
-   "facts": [
-    "New findings from the phase 2 EVITA clinical trial suggest that vitamin C supplementation may offer important benefits for people with precancerous blood conditions and early-stage blood cancers.",
-    "The randomized, double-blind, placebo-controlled study was conducted by the Van Andel Institute-Stand Up To Cancer® Epigenetics Dream Team.",
-    "The results, published in the American Cancer Society journal CANCER , revealed that patients who received 1,000 mg of oral vitamin C every day for one year experienced fewer adverse events during the study and its follow-up period.",
-    "Scientists emphasize that this potential survival benefit must be verified in a larger phase 3 clinical trial.",
-    "Jones is also a co-corresponding author of the research and co-leader of the VAI-SU2C Epigenetics Dream Team.",
-    "\"It is too early to make definitive recommendations based on our results, but we are hopeful that a more expansive study will provide further insights.\" First Clinical Trial Tests Daily Vitamin C for Precancerous Blood Disorders The study enrolled 109 patients with either clonal cytopenia of undetermined significance (CCUS) or myelodysplastic syndrome (MDS).",
-    "One received 1,000 mg of vitamin C by mouth each day for 12 months.",
-    "This double-blind, randomized, placebo-controlled approach is considered the gold standard in clinical research because it reduces potential bias and allows investigators to assess treatment effects more objectively.",
-    "What makes EVITA particularly notable is that it was the first randomized, double-blind, placebo-controlled trial to investigate oral vitamin C in patients with conditions that can precede leukemia or with lower-risk myeloid cancers.",
-    "At the beginning of the trial, more than half of the participants had insufficient vitamin C levels."
-   ],
-   "doi": [
-    "10.1002/cncr.70549"
-   ],
-   "sample": [
-    "109 patients"
-   ],
-   "journal_ref": "Journal Reference : Stine Ulrik Mikkelsen, Ali Al‐Mousawi, Amalie Bach Puglisi, Anders Pommer Vallentin, Astrid Østergaard Mortensen, Zachary Madaj, Toshinori Hinoue, Heidi Naomi Ottesen, Jakob Schmidt Jespersen, Linn Gillberg, Morten Tulstrup, Niels Richard Hansen, Jakob Werner Hansen, Mette Klarskov Andersen, Stacey Lyn Thomas, Christine Isaguirre, Ryan Sheldon, Marie Adams, Ryan Burgos, Stephen",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261019093437.htm"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 7,
-   "why": [
-    "형식 SCALE",
-    "훅: surpris",
-    "생활소재: supplement"
-   ]
-  },
-  {
    "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
    "link": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm",
    "key": "https://sciencedaily.com/releases/2026/10/261014015509.htm",
@@ -1049,6 +1042,54 @@
    ]
   },
   {
+   "title": "Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds",
+   "link": "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html",
+   "key": "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html",
+   "summary": "What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests that mapping the evolutionary relatives of birds could offer better clues than their diets or feeding methods alone.",
+   "date": "2026-10-24",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet, bird"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html"
+  },
+  {
+   "title": "New long‑clawed British dinosaur is the first of its kind in Europe",
+   "link": "https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html",
+   "key": "https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html",
+   "summary": "The fossilized skull of a new species of mysterious meat-eating dinosaur from the Isle of Wight has been rediscovered in the collections of the Natural History Museum after over 100 years in storage.",
+   "date": "2026-10-24",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: dinosaur"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html"
+  },
+  {
    "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
    "link": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
    "key": "https://sciencedaily.com/releases/2026/10/261015073220.htm",
@@ -1362,56 +1403,6 @@
    "score": 5,
    "why": [
     "형식 SCALE"
-   ]
-  },
-  {
-   "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
-   "link": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
-   "key": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
-   "summary": "Arriving on the Caribbean island of Dominica for the first time \"feels a little bit like stepping into Jurassic Park,\" said Giovanni Petri, a professor in the Network Science Institute at Northeastern University London.",
-   "date": "2026-10-23",
-   "source": "Phys.org",
-   "first_seen": "2026-10-24",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
-   ],
-   "format": "PRESS",
-   "catch": [
-    "세포·시험관"
-   ],
-   "score": 5,
-   "why": [
-    "형식 PRESS",
-    "훅: first time"
-   ]
-  },
-  {
-   "title": "East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks",
-   "link": "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
-   "key": "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
-   "summary": "A joint research team from KAIST and the APEC Climate Center has found that the East Asian summer front has migrated north over the past half century, with the shift exceeding 200 km (124 miles) in late summer. This raises the risk that the Korean Peninsula will experience heavy rain and heat stress at the same time. The findings suggest that summer disaster planning should address flood prevention and heat-illness management together, through late September.",
-   "date": "2026-10-23",
-   "source": "Phys.org",
-   "first_seen": "2026-10-24",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: stress"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-19
 
-최근 8일 누적 368건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 392건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 14 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
@@ -15,7 +15,18 @@
   - "Despite taking omega-3 supplements daily, participants showed no significant cognitive advantage over those who received a placebo."
   - ""While omega-3s play an important role in forming brain cell connections needed for cognition, our results do not support fish oil supplements as a preventive measure against Alzheimer's." To investigate whether omega-3 supplements could protect the aging brain, researchers enrolled 365 adults between the ages of 55 and 80."
 
-## 2. Scientists discover a natural compound that could protect the brain from too much salt
+## 2. This 150-million-year-old bird had dinosaur teeth and a strange secret
+- 점수 12 · CUT · ScienceDaily 전체 · 2026-10-24
+- https://www.sciencedaily.com/releases/2026/10/261023023710.htm
+- DOI: 10.1038/s41586-026-10972-z
+- 주의: 동물 실험
+- 요약: A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how th
+  - "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved."
+  - "The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago)."
+  - "This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives."
+  - "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
+
+## 3. Scientists discover a natural compound that could protect the brain from too much salt
 - 점수 10 · SCALE · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261017230032.htm
 - DOI: 10.1016/j.neuint.2026.106184
@@ -27,7 +38,7 @@
   - "Kazuhiro Kagotani, examined how LPC70 affected these signaling pathways in mice consuming a high-salt diet."
   - "His work helped clarify how LPC70 produces different effects in the organs involved in salt-related cardiovascular and cognitive problems."
 
-## 3. People are taking an unapproved weight-loss drug. AI found something surprising
+## 4. People are taking an unapproved weight-loss drug. AI found something surprising
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-22
 - https://www.sciencedaily.com/releases/2026/10/261020085018.htm
 - DOI: 10.1001/jamanetworkopen.2026.38929
@@ -39,7 +50,7 @@
   - "In that earlier investigation, scientists used large language models (LLMs), the type of artificial intelligence that powers many modern chatbots, to examine more than 400,000 Reddit posts discussing semaglutide and tirzepatide."
   - "Retatrutide is particularly interesting because it works differently from existing GLP-1 medications."
 
-## 4. Scientists discover a bizarre Jurassic “squid” unlike anything ever seen
+## 5. Scientists discover a bizarre Jurassic “squid” unlike anything ever seen
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-20
 - https://www.sciencedaily.com/releases/2026/10/261019093434.htm
 - DOI: 10.1002/spp2.70123
@@ -51,7 +62,7 @@
   - "Scientists estimate that the living animal, including its arms, could have reached a total length of approximately 60 centimeters, or about two feet."
   - "Belemnites have been the subject of paleontological research for more than 200 years, making the identification of such a radically different species especially remarkable."
 
-## 5. "Mind-blowing" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques
+## 6. "Mind-blowing" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-19
 - https://www.sciencedaily.com/releases/2026/10/261018084421.htm
 - DOI: 10.1002/alz.71579
@@ -63,7 +74,7 @@
   - ""The disruptions in sleep and cortical EEG activity that occur at 6 months, when plaques first emerge, did not worsen by 18 months, despite more than double the amount of plaque burden." The team described this pattern as a ceiling effect."
   - "A quote from hockey legend Wayne Gretzky hangs in her office: "You miss 100% of the shots you don't take." Constantino, who recently completed his doctorate at the university, said the laboratory's collaborative environment encouraged him to pursue questions that crossed traditional scientific disciplines."
 
-## 6. Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse
+## 7. Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse
 - 점수 9 · PRESS · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261017230023.htm
 - DOI: 10.1126/sciadv.aeh7197
@@ -72,7 +83,7 @@
   - "When the Kikai-Akahoya volcano erupted beneath the sea approximately 7,300 years ago, Japan was home to Jomon communities that depended on hunting and gathering for survival."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 7. SpaceX just delivered some very strange cargo to the International Space Station
+## 8. SpaceX just delivered some very strange cargo to the International Space Station
 - 점수 9 · CUT · ScienceDaily 별난연구 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261016070628.htm
 - 주의: 세포·시험관, DOI 못 찾음
@@ -83,7 +94,7 @@
   - "The arrival marks SpaceX's 35th commercial resupply mission to the orbiting laboratory under its contract with NASA."
   - "Other experiments include 3D heart tissue models, which recreate important features of human heart tissue."
 
-## 8. Scientists discover a hidden messaging system deep inside the brain
+## 9. Scientists discover a hidden messaging system deep inside the brain
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-23
 - https://www.sciencedaily.com/releases/2026/10/261022081304.htm
 - DOI: 10.1038/s41586-026-11026-0
@@ -94,14 +105,14 @@
   - "One particularly extraordinary axon had a total reconstructed length of 70.32 centimeters, making it part of the longest single neuron ever measured in a mouse."
   - "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
 
-## 9. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
+## 10. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
 - 점수 9 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A Hiroshima University–led clinical trial found that hydrogen supplementation did not significantly improve sleep quality compared with a placebo; however, exploratory analyses suggest that differences in the abundance of hydrogen-producing gut bacteria may be associated with individual differences 
 
-## 10. Astronauts’ hearts just passed a surprising test for Mars
+## 11. Astronauts’ hearts just passed a surprising test for Mars
 - 점수 8 · WEIGH · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261020085016.htm
 - DOI: 10.1161/CIRCULATIONAHA.125.078665
@@ -113,7 +124,7 @@
   - ""It would be typically about 3 a.m. for me because the space station runs on Greenwich Mean Time," Thomas said."
   - "Mars has roughly 38% of Earth's surface gravity."
 
-## 11. Eating blueberries every day may have a surprising effect on your mood
+## 12. Eating blueberries every day may have a surprising effect on your mood
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261017230028.htm
 - DOI: 10.1016/j.jnha.2026.100958
@@ -125,7 +136,7 @@
   - "Blueberries Linked to Subtle Changes in Gut Microbial Activity A total of 18 participants completed the study."
   - "Most were women, and the group was predominantly white (placebo group, n = 8; mean age: 75 ± 6; blueberry group, n = 10; mean age: 71 ± 4)."
 
-## 12. Archaeologists discover 1,200-year-old mummified hairless dog in Peru
+## 13. Archaeologists discover 1,200-year-old mummified hairless dog in Peru
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261016070644.htm
 - DOI: 10.1016/j.jaa.2026.101767
@@ -136,7 +147,7 @@
   - "The complex was occupied between 600 and 1050 CE, roughly 400 years before the Inca rose to power."
   - "In 2012, researchers uncovered the first undisturbed elite Wari tomb, containing the remains of 58 high-status women, six human sacrifices, and approximately 1,300 artifacts."
 
-## 13. Scientists predicted doomsday for November 13, 2026. Should we be worried?
+## 14. Scientists predicted doomsday for November 13, 2026. Should we be worried?
 - 점수 8 · PRESS · ScienceDaily 전체 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261016070639.htm
 - 주의: DOI 못 찾음
@@ -147,7 +158,7 @@
   - "Hopefully, we will all wake up on Nov. 13 to an ordinary day."
   - "The mid-20th century saw increasing societal concern about global population growth and its potential to lead to resource scarcity and geopolitical conflict."
 
-## 14. James Webb reveals a strange bulge in an alien planet's atmosphere
+## 15. James Webb reveals a strange bulge in an alien planet's atmosphere
 - 점수 8 · PRESS · ScienceDaily 별난연구 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261015073205.htm
 - DOI: 10.1038/s41550-026-02986-4
@@ -159,7 +170,7 @@
   - "To move beyond computational exercises and see it for real is a different matter." The observations provide valuable information about WASP-17b's atmospheric chemistry and temperature variations, including differences between its equator and poles and between its permanently illuminated and dark hemispheres."
   - "Together, they offer one of the most detailed three-dimensional pictures of an exoplanet's atmosphere yet produced, establishing a useful reference point for studying the more than 6,000 exoplanets confirmed so far."
 
-## 15. NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon
+## 16. NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-10-22
 - https://www.sciencedaily.com/releases/2026/10/261021231238.htm
 - 주의: DOI 못 찾음
@@ -169,18 +180,6 @@
   - "The yardangs stretch approximately 10 miles (16 kilometers) across the northwestern portion of Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain that Curiosity has been climbing since 2014."
   - "The rover recently achieved a major milestone, gaining 0.6 miles (1 kilometer) in elevation, a greater climb than any other rover has completed on Mars."
   - "Mission scientists aim to reach the bottom of the yardang formations sometime in 2027."
-
-## 16. Scientists discover a surprising link between vitamin C and cancer survival
-- 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-20
-- https://www.sciencedaily.com/releases/2026/10/261019093437.htm
-- DOI: 10.1002/cncr.70549
-- 대상: 109 patients
-- 요약: A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin
-  - "New findings from the phase 2 EVITA clinical trial suggest that vitamin C supplementation may offer important benefits for people with precancerous blood conditions and early-stage blood cancers."
-  - "The randomized, double-blind, placebo-controlled study was conducted by the Van Andel Institute-Stand Up To Cancer® Epigenetics Dream Team."
-  - "The results, published in the American Cancer Society journal CANCER , revealed that patients who received 1,000 mg of oral vitamin C every day for one year experienced fewer adverse events during the study and its follow-up period."
-  - "Scientists emphasize that this potential survival benefit must be verified in a larger phase 3 clinical trial."
-  - "Jones is also a co-corresponding author of the research and co-leader of the VAI-SU2C Epigenetics Dream Team."
 
 ## 17. Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret
 - 점수 7 · SCALE · ScienceDaily 동식물 · 2026-10-16
@@ -267,7 +266,20 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Children who eat more ultraprocessed foods (UPFs) show stronger responses in the brain's reward network when viewing images of appetizing foods—and these brain responses are linked to increases in body fat one year later.
 
-## 28. “Crawzilla” was huge. Then scientists found an even bigger crayfish
+## 28. Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds
+- 점수 6 · SCALE · Phys.org · 2026-10-24
+- https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests that mapping the evolutionary relatives of birds could offer better clues than their diets or feeding methods alone.
+
+## 29. New long‑clawed British dinosaur is the first of its kind in Europe
+- 점수 6 · CUT · Phys.org · 2026-10-24
+- https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: The fossilized skull of a new species of mysterious meat-eating dinosaur from the Isle of Wight has been rediscovered in the collections of the Natural History Museum after over 100 years in storage.
+
+## 30. “Crawzilla” was huge. Then scientists found an even bigger crayfish
 - 점수 5 · 형식? · ScienceDaily 별난연구 · 2026-10-16
 - https://www.sciencedaily.com/releases/2026/10/261015073220.htm
 - DOI: 10.1002/ecy.70471
@@ -279,7 +291,7 @@
   - "It had been collected in 2011 by Dr."
   - "Zac Loughman and West Liberty students back in 2011, shows just how amazing and diverse crayfish can be," said Zackary Graham, an assistant professor of biology at West Liberty University."
 
-## 29. Stanford’s new microscope reveals living cells like never before
+## 31. Stanford’s new microscope reveals living cells like never before
 - 점수 5 · DOSE · ScienceDaily 동식물 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261015073231.htm
 - DOI: 10.1038/s41377-026-02210-y
@@ -291,46 +303,46 @@
   - "A third project, still in the planning stages, will examine how red blood cells change shape when exposed to malaria infection."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimer’s in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 30. Legal encounters may offer overlooked opportunities for suicide prevention, analysis suggests
+## 32. Legal encounters may offer overlooked opportunities for suicide prevention, analysis suggests
 - 점수 5 · PRESS · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-legal-encounters-overlooked-opportunities-suicide.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Picture a forlorn man walking into a lawyer's office after his marriage has collapsed. The bank is threatening foreclosure, and his finances are in tatters. His problems may be legal on paper, but in person they can look far more complicated: panic, shame or the numb resignation of someone who can n
 
-## 31. Illegal fishing is thriving in African waters—a satellite system could help change that
+## 33. Illegal fishing is thriving in African waters—a satellite system could help change that
 - 점수 5 · CUT · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-illegal-fishing-african-satellite.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A patrol boat off the coast of Gabon intercepted three trawlers in July 2026, inside the Grand Sud Reserve. This is one of West and Central Africa's largest marine reserves, where industrial trawling is banned. None of the trawlers held a valid license. The patrol found them because analysts at the 
 
-## 32. More young people are being recruited as 'money mules' by organized crime groups, new analysis reveals
+## 34. More young people are being recruited as 'money mules' by organized crime groups, new analysis reveals
 - 점수 5 · CUT · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-young-people-money-mules-crime.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 8,900 people aged under 30 were arrested for money laundering offenses in England and Wales between 2020 and 2025. That's more than six in 10 of all money laundering arrests recorded during the period.
 
-## 33. Hypnosis may help relieve stomach pain
+## 35. Hypnosis may help relieve stomach pain
 - 점수 5 · CUT · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-hypnosis-relieve-stomach-pain.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Stomach pain and other gastrointestinal complaints are common among children and adolescents. When symptoms recur over a long period, the cause may be a form of DGBI (disorders of gut-brain interaction), in which communication between the brain and the gut does not function as it should. This can af
 
-## 34. Childhood adversity patterns reveal different links to hopelessness and drug or alcohol cravings
+## 36. Childhood adversity patterns reveal different links to hopelessness and drug or alcohol cravings
 - 점수 5 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-childhood-adversity-patterns-reveal-links.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Adverse childhood experiences (ACEs) are known to increase the risk of substance use problems later in life. New research from George Mason University's College of Public Health suggests that the specific types of adversity a young person faces may be associated with different vulnerabilities to tho
 
-## 35. FDA patient, consumer reps often tied to pharma-funded groups
+## 37. FDA patient, consumer reps often tied to pharma-funded groups
 - 점수 5 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-fda-patient-consumer-reps-pharma.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Patient and consumer representatives advising U.S. Food and Drug Administration (FDA) expert panels might actually be a Trojan horse for the pharmaceutical industry, a new study says.
 
-## 36. Horror’s monsters find new meaning with queer and trans audiences – how ‘Teenage Sex and Death at Camp Miasma’ dissects identity
+## 38. Horror’s monsters find new meaning with queer and trans audiences – how ‘Teenage Sex and Death at Camp Miasma’ dissects identity
 - 점수 5 · CUT · The Conversation · 2026-10-21
 - https://theconversation.com/horrors-monsters-find-new-meaning-with-queer-and-trans-audiences-how-teenage-sex-and-death-at-camp-miasma-dissects-identity-291766
 - 주의: DOI 못 찾음
@@ -340,27 +352,14 @@
   - "These portrayals of LGBTQ+ people as monstrous and pathological can be found in films ranging from the low-budget slashers that inspired Schoenbrun – most notably “ Sleepaway Camp ” (1983) – to Oscar winners such as “ The Silence of the Lambs ” (1991)."
   - "No one’s 20s and 30s look the same."
 
-## 37. Intermittent fasting plus exercise boosts fat loss and fitness in 12-week obesity trial
+## 39. Intermittent fasting plus exercise boosts fat loss and fitness in 12-week obesity trial
 - 점수 5 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-intermittent-fasting-boosts-fat-loss.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A research team led by the Joint University Institute for Sport and Health (iMUDS) at the University of Granada, in collaboration with the Granada Institute for Biomedical Research and the Biomedical Research Network Center, has studied the effects of combining intermittent fasting and supervised ex
 
-## 38. International study helps support FDA approval of HIV drug for newborns
+## 40. International study helps support FDA approval of HIV drug for newborns
 - 점수 5 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-international-fda-hiv-drug-newborns.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An international study conducted through the International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network, including researchers at the University of California San Diego, helped inform the U.S. Food and Drug Administration's (FDA) recent approval of dolutegravir, a second-gene
-
-## 39. How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives
-- 점수 5 · PRESS · Phys.org · 2026-10-23
-- https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html
-- 주의: 세포·시험관
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Arriving on the Caribbean island of Dominica for the first time "feels a little bit like stepping into Jurassic Park," said Giovanni Petri, a professor in the Network Science Institute at Northeastern University London.
-
-## 40. East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks
-- 점수 5 · WEIGH · Phys.org · 2026-10-23
-- https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A joint research team from KAIST and the APEC Climate Center has found that the East Asian summer front has migrated north over the past half century, with the shift exceeding 200 km (124 miles) in late summer. This raises the risk that the Korean Peninsula will experience heavy rain and heat stress
