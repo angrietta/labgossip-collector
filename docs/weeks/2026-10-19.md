@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-19
 
-최근 8일 누적 392건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 387건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 14 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
@@ -181,34 +181,13 @@
   - "The rover recently achieved a major milestone, gaining 0.6 miles (1 kilometer) in elevation, a greater climb than any other rover has completed on Mars."
   - "Mission scientists aim to reach the bottom of the yardang formations sometime in 2027."
 
-## 17. Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret
-- 점수 7 · SCALE · ScienceDaily 동식물 · 2026-10-16
-- https://www.sciencedaily.com/releases/2026/10/261014015509.htm
-- DOI: 10.1093/ismejo/wrag203
-- 요약: Scientists have discovered a remarkable “Pac-Man enzyme” that helps bacteria devour certain types of plastic and may offer new hope in the fight against plastic pollution. Researchers found that several biodegradable plastics completely broke down in soil within about a year, while conventional plas
-  - "One important measurement was the amount of carbon dioxide, or CO2, released from the samples."
-  - "We found that all bioplastic materials were completely degraded within roughly 250 to 330 days."
-  - "Cellulose broke down after about 80 days, whereas virtually no degradation occurred for HDPE," says Lerner."
-  - ""Humans have only been introducing plastic into the environment in significant quantities for around 50 to 75 years."
-  - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-
-## 18. Music can enhance the flavor of your food
+## 17. Music can enhance the flavor of your food
 - 점수 7 · SCALE · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-music-flavor-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The moment we take a sip of our morning coffee or our first bite of lunch, the brain begins interpreting what we taste. Is it sweet? Sour? Or something else entirely? But the brain does not create flavor based solely on signals from the tongue. That is the finding of a new study from the Department 
 
-## 19. Yale scientists discover how stress changes the brain to make memories stronger
-- 점수 6 · DOSE · ScienceDaily 뇌·마음 · 2026-10-16
-- https://www.sciencedaily.com/releases/2026/10/261014015517.htm
-- DOI: 10.1126/sciadv.adz4143
-- 주의: 상관관계
-- 요약: Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved in emotion and memory, potentially explaining why certain mome
-  - "Each person completed the experiment twice, once after receiving hydrocortisone and once after receiving the placebo."
-  - "The study used a double blind design, meaning neither the participants nor the experimenter knew which substance had been administered during a particular session."
-  - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-
-## 20. This bird flies thousands of miles, but its wings have a catch
+## 18. This bird flies thousands of miles, but its wings have a catch
 - 점수 6 · 형식? · ScienceDaily 동식물 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261016070624.htm
 - DOI: 10.1371/journal.pbio.3004023
@@ -216,7 +195,7 @@
   - "Like birds, these machines may face mechanical restrictions on how much their wings can fold during each wingbeat."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 21. A 24-year study uncovers a surprising climate benefit beneath forests
+## 19. A 24-year study uncovers a surprising climate benefit beneath forests
 - 점수 6 · PRESS · ScienceDaily 동식물 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261014015525.htm
 - DOI: 10.1016/j.agrformet.2025.110823
@@ -228,70 +207,58 @@
   - "While the largest study to date from the US found a decline in methane uptake of up to 80 percent due to increasing rainfall, our significantly more comprehensive field study in south-western Germany found the opposite, " explains Professor Martin Maier at Göttingen University's Department of Crop Sciences, who led the study and was previously involved in the FVA's soil gas monitoring program."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 22. First drug-focused guideline outlines newer treatments for primary biliary cholangitis
+## 20. First drug-focused guideline outlines newer treatments for primary biliary cholangitis
 - 점수 6 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-drug-focused-guideline-outlines-treatments.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For the first time, a joint guideline from the American Gastroenterological Association (AGA) and American Association for the Study of Liver Diseases (AASLD) evaluates newer medications for primary biliary cholangitis (PBC), the most common cholestatic disease in adults. Published in Gastroenterolo
 
-## 23. Potassium binder may ease the burden of dietary potassium restriction in people on dialysis
+## 21. Potassium binder may ease the burden of dietary potassium restriction in people on dialysis
 - 점수 6 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-potassium-binder-ease-burden-dietary.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Dietary potassium restriction is important for managing hyperkalemia, or high blood potassium levels, in individuals on maintenance hemodialysis, but it imposes a substantial day-to-day burden. Results from a recent clinical trial indicate that adding the potassium binder sodium zirconium cyclosilic
 
-## 24. Fruits and vegetables outperform medication for treating metabolic acidosis in chronic kidney disease
+## 22. Fruits and vegetables outperform medication for treating metabolic acidosis in chronic kidney disease
 - 점수 6 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-fruits-vegetables-outperform-medication-metabolic.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In people with chronic kidney disease (CKD), oral sodium bicarbonate is a standard treatment for metabolic acidosis (too much acid buildup in the body), but results from a recent clinical trial indicate that dietary acid reduction with base-producing fruits and vegetables may be a better option. The
 
-## 25. Liver tumors form without detectable driver mutations in mice, revealing epigenetic route
+## 23. Liver tumors form without detectable driver mutations in mice, revealing epigenetic route
 - 점수 6 · CUT · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-liver-tumors-driver-mutations-mice.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Cancers can develop through epigenetic pathways even without driver gene mutations (DGMs), according to a study from Science Tokyo. Researchers uncovered the YAP1–TEAD–TET1 axis, which triggers DNA demethylation and activates multiple oncogenes in hepatocellular carcinoma. Suppressing TET1 reduced t
 
-## 26. How L-carnitine, found in red meat and exercise supplements, may amplify inflammation
+## 24. How L-carnitine, found in red meat and exercise supplements, may amplify inflammation
 - 점수 6 · DOSE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-carnitine-red-meat-supplements-amplify.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In a study published Oct. 19 in Cell, Yale researchers identified a previously unknown mechanism by which a nutrient abundant in red meat and commonly used in exercise supplements may amplify inflammation.
 
-## 27. Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods
+## 25. Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods
 - 점수 6 · SCALE · MedicalXpress · 2026-10-24
 - https://medicalxpress.com/news/2026-10-children-ultraprocessed-foods-stronger-brain.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Children who eat more ultraprocessed foods (UPFs) show stronger responses in the brain's reward network when viewing images of appetizing foods—and these brain responses are linked to increases in body fat one year later.
 
-## 28. Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds
+## 26. Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds
 - 점수 6 · SCALE · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests that mapping the evolutionary relatives of birds could offer better clues than their diets or feeding methods alone.
 
-## 29. New long‑clawed British dinosaur is the first of its kind in Europe
+## 27. New long‑clawed British dinosaur is the first of its kind in Europe
 - 점수 6 · CUT · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The fossilized skull of a new species of mysterious meat-eating dinosaur from the Isle of Wight has been rediscovered in the collections of the Natural History Museum after over 100 years in storage.
 
-## 30. “Crawzilla” was huge. Then scientists found an even bigger crayfish
-- 점수 5 · 형식? · ScienceDaily 별난연구 · 2026-10-16
-- https://www.sciencedaily.com/releases/2026/10/261015073220.htm
-- DOI: 10.1002/ecy.70471
-- 주의: 상관관계
-- 요약: A nationwide search for giant crayfish uncovered a record-breaking Tennessee specimen and a surprising mystery about how big these freshwater creatures can grow. Scientists found that North American crayfish seem to hit a biological size limit, possibly because of their muscles or protective shells.
-  - "Their search produced a list of 20 exceptionally large individuals representing 18 different species."
-  - ""Mine was not the biggest, but it did make the top 20, so I'm super proud of it," Bloomer said."
-  - "It measured an impressive 86.6 millimeters, or approximately 3.4 inches, excluding its tail, claws, and antennae."
-  - "It had been collected in 2011 by Dr."
-  - "Zac Loughman and West Liberty students back in 2011, shows just how amazing and diverse crayfish can be," said Zackary Graham, an assistant professor of biology at West Liberty University."
-
-## 31. Stanford’s new microscope reveals living cells like never before
+## 28. Stanford’s new microscope reveals living cells like never before
 - 점수 5 · DOSE · ScienceDaily 동식물 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261015073231.htm
 - DOI: 10.1038/s41377-026-02210-y
@@ -303,46 +270,46 @@
   - "A third project, still in the planning stages, will examine how red blood cells change shape when exposed to malaria infection."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimer’s in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 32. Legal encounters may offer overlooked opportunities for suicide prevention, analysis suggests
+## 29. Legal encounters may offer overlooked opportunities for suicide prevention, analysis suggests
 - 점수 5 · PRESS · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-legal-encounters-overlooked-opportunities-suicide.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Picture a forlorn man walking into a lawyer's office after his marriage has collapsed. The bank is threatening foreclosure, and his finances are in tatters. His problems may be legal on paper, but in person they can look far more complicated: panic, shame or the numb resignation of someone who can n
 
-## 33. Illegal fishing is thriving in African waters—a satellite system could help change that
+## 30. Illegal fishing is thriving in African waters—a satellite system could help change that
 - 점수 5 · CUT · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-illegal-fishing-african-satellite.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A patrol boat off the coast of Gabon intercepted three trawlers in July 2026, inside the Grand Sud Reserve. This is one of West and Central Africa's largest marine reserves, where industrial trawling is banned. None of the trawlers held a valid license. The patrol found them because analysts at the 
 
-## 34. More young people are being recruited as 'money mules' by organized crime groups, new analysis reveals
+## 31. More young people are being recruited as 'money mules' by organized crime groups, new analysis reveals
 - 점수 5 · CUT · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-young-people-money-mules-crime.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 8,900 people aged under 30 were arrested for money laundering offenses in England and Wales between 2020 and 2025. That's more than six in 10 of all money laundering arrests recorded during the period.
 
-## 35. Hypnosis may help relieve stomach pain
+## 32. Hypnosis may help relieve stomach pain
 - 점수 5 · CUT · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-hypnosis-relieve-stomach-pain.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Stomach pain and other gastrointestinal complaints are common among children and adolescents. When symptoms recur over a long period, the cause may be a form of DGBI (disorders of gut-brain interaction), in which communication between the brain and the gut does not function as it should. This can af
 
-## 36. Childhood adversity patterns reveal different links to hopelessness and drug or alcohol cravings
+## 33. Childhood adversity patterns reveal different links to hopelessness and drug or alcohol cravings
 - 점수 5 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-childhood-adversity-patterns-reveal-links.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Adverse childhood experiences (ACEs) are known to increase the risk of substance use problems later in life. New research from George Mason University's College of Public Health suggests that the specific types of adversity a young person faces may be associated with different vulnerabilities to tho
 
-## 37. FDA patient, consumer reps often tied to pharma-funded groups
+## 34. FDA patient, consumer reps often tied to pharma-funded groups
 - 점수 5 · DOSE · MedicalXpress · 2026-10-22
 - https://medicalxpress.com/news/2026-10-fda-patient-consumer-reps-pharma.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Patient and consumer representatives advising U.S. Food and Drug Administration (FDA) expert panels might actually be a Trojan horse for the pharmaceutical industry, a new study says.
 
-## 38. Horror’s monsters find new meaning with queer and trans audiences – how ‘Teenage Sex and Death at Camp Miasma’ dissects identity
+## 35. Horror’s monsters find new meaning with queer and trans audiences – how ‘Teenage Sex and Death at Camp Miasma’ dissects identity
 - 점수 5 · CUT · The Conversation · 2026-10-21
 - https://theconversation.com/horrors-monsters-find-new-meaning-with-queer-and-trans-audiences-how-teenage-sex-and-death-at-camp-miasma-dissects-identity-291766
 - 주의: DOI 못 찾음
@@ -352,14 +319,33 @@
   - "These portrayals of LGBTQ+ people as monstrous and pathological can be found in films ranging from the low-budget slashers that inspired Schoenbrun – most notably “ Sleepaway Camp ” (1983) – to Oscar winners such as “ The Silence of the Lambs ” (1991)."
   - "No one’s 20s and 30s look the same."
 
-## 39. Intermittent fasting plus exercise boosts fat loss and fitness in 12-week obesity trial
+## 36. Intermittent fasting plus exercise boosts fat loss and fitness in 12-week obesity trial
 - 점수 5 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-intermittent-fasting-boosts-fat-loss.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A research team led by the Joint University Institute for Sport and Health (iMUDS) at the University of Granada, in collaboration with the Granada Institute for Biomedical Research and the Biomedical Research Network Center, has studied the effects of combining intermittent fasting and supervised ex
 
-## 40. International study helps support FDA approval of HIV drug for newborns
+## 37. International study helps support FDA approval of HIV drug for newborns
 - 점수 5 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-international-fda-hiv-drug-newborns.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An international study conducted through the International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network, including researchers at the University of California San Diego, helped inform the U.S. Food and Drug Administration's (FDA) recent approval of dolutegravir, a second-gene
+
+## 38. How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives
+- 점수 5 · PRESS · Phys.org · 2026-10-23
+- https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html
+- 주의: 세포·시험관
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Arriving on the Caribbean island of Dominica for the first time "feels a little bit like stepping into Jurassic Park," said Giovanni Petri, a professor in the Network Science Institute at Northeastern University London.
+
+## 39. East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks
+- 점수 5 · WEIGH · Phys.org · 2026-10-23
+- https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A joint research team from KAIST and the APEC Climate Center has found that the East Asian summer front has migrated north over the past half century, with the shift exceeding 200 km (124 miles) in late summer. This raises the risk that the Korean Peninsula will experience heavy rain and heat stress
+
+## 40. Study finds lower rates of overweight among vegan-fed cats
+- 점수 5 · WEIGH · Phys.org · 2026-10-23
+- https://phys.org/news/2026-10-overweight-vegan-fed-cats.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A large-scale survey has found cats fed vegan diets had lower rates of obesity and related health problems than those fed conventional meat-based diets.

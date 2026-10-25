@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -42,14 +42,14 @@
    "url": "https://phys.org/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 1
+   "span_days": 2
   },
   {
    "feed": "MedicalXpress",
    "url": "https://medicalxpress.com/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 1
+   "span_days": 2
   },
   {
    "feed": "The Conversation",
@@ -118,6 +118,19 @@
    "date": "2026-10-24",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-10-24",
+   "text": "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved. Rather than developing increasingly sophisticated flight abilities, some of the earliest birds appear to have taken a very different evolutionary path, including losing the ability to fly altogether. The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago). Described in a study published in Nature, the crow-sized creature provides evidence that early bird evolution was much more complex than scientists once believed. Instead of evolving primarily to become better flyers, ancient birds were adapting to a variety of environments and ways of life, including those that favored living on the ground. Researchers from the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP) of the Chinese Academy of Sciences (CAS) and the Fujian Institute of Geological Sciences uncovered the fossil in the recently recognized Zhenghe Fauna of Fujian Province in southeastern China. According to their findings, Yuezhuornis represents the earliest known example of a bird lineage losing its ability to fly. One of the most remarkable features of Yuezhuornis is its unusual combination of bird and dinosaur characteristics. Although it possessed skeletal features associated with birds, it also retained anatomical traits that would have been familiar among small predatory dinosaurs. Its jaws contained closely spaced, serrated teeth resembling those of deinonychosaurs, a group of meat-eating dinosaurs that included agile predators related to birds. Such teeth are not normally associated with early birds. Even more striking was its second toe, which could bend backward unusually far and carried a curved, sickle-shaped claw. This specialized feature is strongly associated with deinonychosaurs, including dromaeosaurids and troodontids, two groups of predatory dinosaurs. \"When we examined Yuezhuornis , we were struck by its extraordinary mix of features,\" said Dr. Min Wang, corresponding author of the study. \"It possesses bird-like pelvic and hindlimb structures yet retains the specialized predatory foot and teeth of a small meat-eating dinosaur. It shows us that early bird evolution was far more complicated than we previously realized.\" To understand how Yuezhuornis was related to other prehistoric birds and dinosaurs, scientists carried out detailed analyses of its evolutionary relationships. They used two approaches, maximum parsimony and Bayesian tip-dating, to compare anatomical characteristics and reconstruct the species' position on the evolutionary tree. Maximum parsimony identifies evolutionary relationships that require the fewest changes in characteristics, while Bayesian tip-dating also incorporates statistical estimates of evolutionary history and information about when fossils lived. Both methods produced consistent results, placing Yuezhuornis within Avialae, the evolutionary group that includes modern birds and their closest extinct relatives. \"The results consistently placed Yuezhuornis firmly within Avialae (the group containing modern birds and their closest extinct relatives), just crownward of Archaeopteryx and as a sister taxon to Zhengheornis,\" said Dr. Zhonghe Zhou, a co-author of the study. This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives. The findings indicate that Yuezhuornis belonged to an early branch of bird evolution rather than simply being a small predatory dinosaur with bird-like characteristics. The researchers also examined how Yuezhuornis might have lived. Using measurements of its skeletal proportions and statistical comparisons with other animals, they investigated whether its anatomy was better suited for flying or moving along the ground. The results showed that its limb proportions closely resembled those of modern ground-dwelling birds and certain other prehistoric dinosaurs closely related to birds. This similarity suggests that Yuezhuornis spent its life on the ground and was likely unable to fly. The findings point to an unexpected development in the history of birds. Rather than simply progressing toward stronger wings and more efficient flight, some early bird lineages appear to have moved in the opposite direction, adapting to lifestyles in which flying was no longer necessary. This challenges the traditional assumption that the earliest stages of bird evolution were driven primarily by the demands of flight. Instead, birds were already exploring different ecological roles and developing a surprisingly wide range of body forms. The discovery of Yuezhuornis suggests that the evolution of birds was never a simple, one-directional process. Even during the Late Jurassic, when the earliest bird lineages were emerging, some species were developing adaptations that favored life on land rather than in the air. Its unusual combination of bird-like anatomy, dinosaur-style predatory features, and apparent flightlessness provides a revealing glimpse into that evolutionary experimentation. The fossil shows that early birds were more anatomically and ecologically diverse than previously recognized. It also underscores the scientific importance of the Zhenghe Fauna, a fossil assemblage that is helping researchers investigate a poorly understood period in bird evolution. As additional discoveries emerge from this region of China, scientists may gain an even clearer picture of the surprising evolutionary paths taken by the earliest birds. Materials provided by Chinese Academy of Sciences Headquarters . Note: Content may be edited for style and length. What if Dark Energy Was Once Negative? Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds",
+   "facts": [
+    "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved.",
+    "The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago).",
+    "This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives.",
+    "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
+   ],
+   "doi": [
+    "10.1038/s41586-026-10972-z"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Liming Xu, Min Wang, Ganmin Lin, Liping Dong, Ke Deng, Xing Xu, Honggang Du, Min Lin, Runsheng Chen, Zhonghe Zhou. Jurassic flightless bird reveals early ecological diversity of avialans . Nature , 2026; 658 (8136): 690 DOI: 10.1038/s41586-026-10972-z",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -133,19 +146,7 @@
     "형식 CUT",
     "훅: strange, bizarre, secret",
     "생활소재: bird, dinosaur"
-   ],
-   "text": "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved. Rather than developing increasingly sophisticated flight abilities, some of the earliest birds appear to have taken a very different evolutionary path, including losing the ability to fly altogether. The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago). Described in a study published in Nature, the crow-sized creature provides evidence that early bird evolution was much more complex than scientists once believed. Instead of evolving primarily to become better flyers, ancient birds were adapting to a variety of environments and ways of life, including those that favored living on the ground. Researchers from the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP) of the Chinese Academy of Sciences (CAS) and the Fujian Institute of Geological Sciences uncovered the fossil in the recently recognized Zhenghe Fauna of Fujian Province in southeastern China. According to their findings, Yuezhuornis represents the earliest known example of a bird lineage losing its ability to fly. One of the most remarkable features of Yuezhuornis is its unusual combination of bird and dinosaur characteristics. Although it possessed skeletal features associated with birds, it also retained anatomical traits that would have been familiar among small predatory dinosaurs. Its jaws contained closely spaced, serrated teeth resembling those of deinonychosaurs, a group of meat-eating dinosaurs that included agile predators related to birds. Such teeth are not normally associated with early birds. Even more striking was its second toe, which could bend backward unusually far and carried a curved, sickle-shaped claw. This specialized feature is strongly associated with deinonychosaurs, including dromaeosaurids and troodontids, two groups of predatory dinosaurs. \"When we examined Yuezhuornis , we were struck by its extraordinary mix of features,\" said Dr. Min Wang, corresponding author of the study. \"It possesses bird-like pelvic and hindlimb structures yet retains the specialized predatory foot and teeth of a small meat-eating dinosaur. It shows us that early bird evolution was far more complicated than we previously realized.\" To understand how Yuezhuornis was related to other prehistoric birds and dinosaurs, scientists carried out detailed analyses of its evolutionary relationships. They used two approaches, maximum parsimony and Bayesian tip-dating, to compare anatomical characteristics and reconstruct the species' position on the evolutionary tree. Maximum parsimony identifies evolutionary relationships that require the fewest changes in characteristics, while Bayesian tip-dating also incorporates statistical estimates of evolutionary history and information about when fossils lived. Both methods produced consistent results, placing Yuezhuornis within Avialae, the evolutionary group that includes modern birds and their closest extinct relatives. \"The results consistently placed Yuezhuornis firmly within Avialae (the group containing modern birds and their closest extinct relatives), just crownward of Archaeopteryx and as a sister taxon to Zhengheornis,\" said Dr. Zhonghe Zhou, a co-author of the study. This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives. The findings indicate that Yuezhuornis belonged to an early branch of bird evolution rather than simply being a small predatory dinosaur with bird-like characteristics. The researchers also examined how Yuezhuornis might have lived. Using measurements of its skeletal proportions and statistical comparisons with other animals, they investigated whether its anatomy was better suited for flying or moving along the ground. The results showed that its limb proportions closely resembled those of modern ground-dwelling birds and certain other prehistoric dinosaurs closely related to birds. This similarity suggests that Yuezhuornis spent its life on the ground and was likely unable to fly. The findings point to an unexpected development in the history of birds. Rather than simply progressing toward stronger wings and more efficient flight, some early bird lineages appear to have moved in the opposite direction, adapting to lifestyles in which flying was no longer necessary. This challenges the traditional assumption that the earliest stages of bird evolution were driven primarily by the demands of flight. Instead, birds were already exploring different ecological roles and developing a surprisingly wide range of body forms. The discovery of Yuezhuornis suggests that the evolution of birds was never a simple, one-directional process. Even during the Late Jurassic, when the earliest bird lineages were emerging, some species were developing adaptations that favored life on land rather than in the air. Its unusual combination of bird-like anatomy, dinosaur-style predatory features, and apparent flightlessness provides a revealing glimpse into that evolutionary experimentation. The fossil shows that early birds were more anatomically and ecologically diverse than previously recognized. It also underscores the scientific importance of the Zhenghe Fauna, a fossil assemblage that is helping researchers investigate a poorly understood period in bird evolution. As additional discoveries emerge from this region of China, scientists may gain an even clearer picture of the surprising evolutionary paths taken by the earliest birds. Materials provided by Chinese Academy of Sciences Headquarters . Note: Content may be edited for style and length. What if Dark Energy Was Once Negative? Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds",
-   "doi": [
-    "10.1038/s41586-026-10972-z"
-   ],
-   "journal_ref": "Journal Reference : Liming Xu, Min Wang, Ganmin Lin, Liping Dong, Ke Deng, Xing Xu, Honggang Du, Min Lin, Runsheng Chen, Zhonghe Zhou. Jurassic flightless bird reveals early ecological diversity of avialans . Nature , 2026; 658 (8136): 690 DOI: 10.1038/s41586-026-10972-z",
-   "facts": [
-    "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved.",
-    "The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago).",
-    "This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives.",
-    "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "Scientists discover a natural compound that could protect the brain from too much salt",
@@ -723,42 +724,6 @@
    ]
   },
   {
-   "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261014015509.htm",
-   "summary": "Scientists have discovered a remarkable “Pac-Man enzyme” that helps bacteria devour certain types of plastic and may offer new hope in the fight against plastic pollution. Researchers found that several biodegradable plastics completely broke down in soil within about a year, while conventional plastic remained largely unchanged.",
-   "date": "2026-10-16",
-   "source": "ScienceDaily 동식물",
-   "first_seen": "2026-10-22",
-   "text": "Plastic pollution is one of the world's most persistent environmental problems. Vast amounts of discarded plastic accumulate in the oceans, sometimes forming enormous garbage patches that threaten marine life. Most conventional plastics break down extremely slowly because microorganisms struggle to digest the synthetic polymers from which they are made. Instead of disappearing, these materials gradually fragment into increasingly smaller particles, including microplastics and nanoplastics. Yet plastic waste is not completely beyond the reach of nature. Bacteria and other microorganisms can colonize its surfaces, forming communities known as biofilms. These communities create a distinctive microbial ecosystem that scientists call the \"plastisphere.\" Researchers at the University of Konstanz have now discovered an unusual enzyme that could reveal how some bacteria are becoming better equipped to break down certain types of plastic. The enzyme can digest particular polyesters and biodegradable plastics, but it has another unexpected ability: it can also break down penicillin, suggesting a possible connection to antibiotic resistance. Scientists have nicknamed it the \"Pac-Man enzyme\" because its molecular structure features a remarkably wide opening where chemical reactions take place, known as the active site. The discovery suggests that bacteria may be adapting to digest certain plastic materials more quickly than researchers previously believed. However, the findings also highlight an important limitation. For microorganisms to make a meaningful difference in reducing plastic pollution, more plastic products would need to be made from biodegradable materials that contain chemical bonds microbes can break apart. To investigate how microorganisms digest biodegradable plastics, University of Konstanz biologists Harry Lerner and David Schleheck studied the entire process of microbial decomposition. They wanted to determine not only whether the materials could be completely broken down, but also which microorganisms were responsible and what biological mechanisms allowed them to do it. The researchers examined the composition of the microbial communities involved and analyzed their collective genetic information (the metagenome). This approach allowed them to search for genes that might produce enzymes capable of breaking apart plastic polymers. Their experiments focused on long-chain aliphatic polyesters (LCAP), a class of biodegradable plastic materials developed by a research team led by chemist Stefan Mecking. These materials contain chemical bonds that certain microorganisms can potentially break down, unlike the more resistant structures found in many conventional plastics. The collaborative findings were published in The ISME Journal . To observe how the bioplastics behaved in a natural environment, the team placed samples beneath the surface of forest soil at the university's botanical garden. \"We buried small pieces of LCAP bioplastic film in the upper humus layer in the forest at the university's botanical garden, about ten centimeters deep,\" explains Harry Lerner. \"This layer is where the breakdown of cellulose and other natural polymers, such as cutin - a plant-based polyester - takes place.\" Humus is the upper layer of soil rich in decomposing organic matter, where microorganisms play a major role in recycling nutrients. Cellulose is the main structural component of plant cell walls, while cutin is a naturally occurring polyester that helps form the protective outer covering of plants. The researchers selected this environment because its microorganisms already possess the biological machinery needed to break down complex natural materials. Alongside the outdoor experiment, the scientists carried out laboratory tests using soil collected from the same forest. They mixed powdered bioplastics into the soil and monitored microbial activity over the course of an entire year. One important measurement was the amount of carbon dioxide, or CO2, released from the samples. As microorganisms consume and metabolize organic materials, they produce carbon dioxide through respiration. Tracking this gas helped the researchers determine how actively the microbes were breaking down the plastics. The buried plastic films remained in the forest soil for a full year, allowing the team to compare decomposition under natural conditions with the carefully monitored laboratory experiments. To assess the results, the scientists also tested cellulose, other biodegradable plastics, conventional polyethylene plastic, and soil samples without added materials. \"Cellulose, other types of bioplastics such as PHBV and PCL, as well as high-density plastic (HDPE) and untreated soil were used as controls in the laboratory. We found that all bioplastic materials were completely degraded within roughly 250 to 330 days. Cellulose broke down after about 80 days, whereas virtually no degradation occurred for HDPE,\" says Lerner. The difference was striking. While the biodegradable plastics were completely broken down within approximately nine to eleven months, conventional high-density polyethylene showed almost no decomposition. These results demonstrate why the chemical makeup of plastic matters so much. Some polymers contain bonds that microbial enzymes can attack, allowing bacteria to dismantle them into smaller molecules. Others, including widely used polyethylene, are far more resistant to biological degradation. When the researchers recovered the plastic films from the forest soil, they discovered something unexpected. Using electron microscopy, which can reveal structures far too small to see with an ordinary light microscope, the team examined the surfaces of the buried materials. They found numerous tiny holes, each approximately matching the dimensions and shape of an individual bacterial cell. The unusual pattern suggested that bacteria were doing more than simply attaching themselves to the plastic. They appeared to be breaking into the material itself. \"We hypothesized that bacteria are coated with plastic-depolymerases anchored to their cell surfaces. This would enable them to digest their way into the material and become embedded within the film, leaving behind microscopic holes of exactly this type,\" explains Lerner. Depolymerases are enzymes that break large molecules called polymers into smaller chemical units. If these enzymes are attached directly to the outside of a bacterium, they could allow the microorganism to digest the surrounding material while remaining in close contact with it. This would help explain the microscopic cavities observed in the plastic films. Rather than relying entirely on enzymes released into the environment, the bacteria might be able to break down the material directly at their surfaces. To find the biological machinery behind this unusual behavior, Lerner extracted DNA from the entire community of microorganisms living in the soil samples. He then sequenced the genetic material and carefully analyzed the extensive data to determine which microbes and genes became especially abundant as the bioplastics decomposed. One gene stood out. It was strongly enriched specifically in forest soil containing LCAP, suggesting that it could play an important role in breaking down the biodegradable polyester. Further analysis revealed that the gene produces an esterase, a type of enzyme capable of splitting certain chemical bonds found in esters. These bonds are present in many naturally occurring substances as well as in various biodegradable polyesters. What made this particular enzyme especially interesting was how it was positioned on bacterial cells. Its genetic instructions included a secretion signal that directs the enzyme outside the cell, along with a lipid anchor that holds it firmly to the cell membrane. This arrangement means the enzyme can remain attached to the bacterium's surface while attacking nearby plastic molecules. Its unusual",
-   "facts": [
-    "One important measurement was the amount of carbon dioxide, or CO2, released from the samples.",
-    "We found that all bioplastic materials were completely degraded within roughly 250 to 330 days.",
-    "Cellulose broke down after about 80 days, whereas virtually no degradation occurred for HDPE,\" says Lerner.",
-    "\"Humans have only been introducing plastic into the environment in significant quantities for around 50 to 75 years.",
-    "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-   ],
-   "doi": [
-    "10.1093/ismejo/wrag203"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Harry Lerner, Diego Casaburi, Nele Charlott Meier, LÃ©a Bernabeu, Marcel Eck, Stefan Mecking, David Schleheck. Bacterial family-VIII esterase displays dual activities: hydrolysis of polyester bioplastics and Î²-lactam antibiotics . The ISME Journal , 2026; 20 (1) DOI: 10.1093/ismejo/wrag203",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 동식물"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261014015509.htm"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 7,
-   "why": [
-    "형식 SCALE",
-    "훅: surpris, secret"
-   ]
-  },
-  {
    "title": "Music can enhance the flavor of your food",
    "link": "https://phys.org/news/2026-10-music-flavor-food.html",
    "key": "https://phys.org/news/2026-10-music-flavor-food.html",
@@ -780,44 +745,6 @@
    "why": [
     "형식 SCALE",
     "생활소재: coffee, music, brain"
-   ]
-  },
-  {
-   "title": "Yale scientists discover how stress changes the brain to make memories stronger",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261014015517.htm",
-   "summary": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved in emotion and memory, potentially explaining why certain moments are so difficult to forget.",
-   "date": "2026-10-16",
-   "source": "ScienceDaily 뇌·마음",
-   "first_seen": "2026-10-22",
-   "text": "Stress does more than influence how we feel. It can also change what we remember, particularly when an experience is emotionally intense or personally meaningful. Scientists have long known that cortisol, a hormone released during stressful situations, can strengthen emotional memories. What has been less clear is exactly how this happens inside the brain. Researchers at Yale University have now uncovered important clues. Their study reveals that cortisol strengthens emotional memories by changing how brain networks involved in emotion and memory function and communicate with one another. The findings offer a deeper understanding of why certain experiences leave such powerful impressions while others quickly fade. \"We all experience stress, and my lab is interested in understanding how stress can be helpful,\" said corresponding author Elizabeth Goldfarb, an assistant professor of psychiatry at Yale School of Medicine and of psychology in the Faculty of Arts and Sciences. The findings were published in the journal Science Advances . Previous research involving both humans and rodents has shown that stress and cortisol can improve memory for emotional events. Scientists also know that certain brain regions, including the amygdala, play an essential role in this process. The amygdala is particularly important for processing emotions and identifying experiences that may be significant. However, understanding precisely how cortisol strengthens memories has been challenging. Many brain regions participate in several mental functions, making it difficult to determine whether the hormone is influencing emotional responses, memory formation, or both. \"Forming memories for emotional experiences involves different processes in the brain: first, perceiving an experience as emotional or intense, and second, encoding that experience into long-term memory,\" said Goldfarb, who is also a member of Yale's Wu Tsai Institute, an interdisciplinary research initiative that explores cognition. The researchers wanted to examine these processes separately to determine how cortisol affects the brain's ability to recognize emotional significance and preserve an experience as a lasting memory. To investigate, the Yale team conducted an experiment in which participants took a pill containing either hydrocortisone, a form of cortisol, or an inactive placebo. They then viewed a series of pictures while undergoing functional MRI (fMRI) scanning. This imaging technique measures changes in blood flow and oxygen levels associated with brain activity, allowing researchers to identify which areas of the brain are more active during different tasks. As participants examined the pictures, they reported their emotional reactions to each image. The following day, researchers tested how well they remembered what they had seen. Each person completed the experiment twice, once after receiving hydrocortisone and once after receiving the placebo. The study used a double blind design, meaning neither the participants nor the experimenter knew which substance had been administered during a particular session. This approach allowed the scientists to compare how the same person's brain responded with and without the additional cortisol. One of the study's most important advances came from the way researchers analyzed the brain scans. Scientists often study a measurement called functional connectivity, which describes how closely activity in different parts of the brain fluctuates together. When two regions show synchronized patterns of activity, it can indicate that they are participating in related processes. Traditionally, examining these relationships requires several minutes of brain imaging data. The Yale team instead analyzed functional connectivity during individual trials lasting only around five seconds. Using these brief snapshots, the researchers tested whether patterns of brain activity could predict two different outcomes: how emotionally intense participants found a picture and whether they would remember that picture the following day. The approach worked for both. By identifying patterns associated with emotional intensity and memory formation separately, the scientists were able to examine how cortisol influenced each network and the interactions between them. This gave the researchers a more detailed picture of the changing brain activity associated with emotional memory formation. First, cortisol improved participants' ability to remember emotionally significant experiences, confirming what earlier research had suggested. Second, and more importantly, the hormone strengthened emotional memory through distinct changes in the brain networks responsible for processing emotion and forming memories. In networks associated with emotion, cortisol produced more consistent patterns of activity and increased their engagement. This suggests that the hormone helped the brain respond more strongly and reliably to the emotional significance of an experience. In memory networks, cortisol had a different effect. It made their activity patterns more specialized for emotional information, suggesting that the brain was adjusting how it encoded emotionally meaningful experiences. The hormone also increased coordination between the networks involved in emotion and memory. In other words, cortisol appeared to help these different brain systems work together more effectively when processing experiences that carried emotional weight. Together, these findings suggest that stress strengthens emotional memories through several interacting brain mechanisms rather than through a single region or process. The results help explain why stress does not necessarily improve memory for everything. Instead, its benefits appear to be selective, making experiences that feel particularly intense or meaningful more likely to be remembered. The researchers believe this reflects the brain's ability to adapt to stressful situations by prioritizing information that may be important. \"Stress responses are fundamentally adaptive and can help you form strong memories -- but this is specific to experiences that you find to be emotionally intense or meaningful,\" Goldfarb said. \"This is in part related to your brain increasing engagement of networks that track emotional intensity. So, if you are stressed out and trying to learn something new, it might help to think about exciting elements or strong feelings connected to what you are learning.\" The findings also point to a potentially useful insight about learning. Connecting information to something exciting, personally important, or emotionally engaging could make it easier to remember, particularly during stressful situations. Rather than simply disrupting memory, stress can sometimes help the brain identify which experiences deserve special attention and strengthen the networks involved in preserving them. Other Yale researchers involved in the study include Rajita Sinha, the Foundations Fund Endowed Professor in Psychiatry and professor in the Child Study Center and of neuroscience at Yale School of Medicine (YSM), and Todd Constable, the Elizabeth Mears and House Jameson Professor of Radiology and Biomedical Imaging and professor of neurosurgery at YSM. The research was supported by grants from the National Institutes of Health. Materials provided by Yale University . Note: Content may be edited for style and length. Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery",
-   "facts": [
-    "Each person completed the experiment twice, once after receiving hydrocortisone and once after receiving the placebo.",
-    "The study used a double blind design, meaning neither the participants nor the experimenter knew which substance had been administered during a particular session.",
-    "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-   ],
-   "doi": [
-    "10.1126/sciadv.adz4143"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Yuye Huang, David OâConnor, Bailey B. Harris, Rajita Sinha, R. Todd Constable, Elizabeth V. Goldfarb. Dynamic brain mechanisms supporting salient memories under cortisol . Science Advances , 2025; 11 (50) DOI: 10.1126/sciadv.adz4143",
-   "catch_extra": [
-    "상관관계"
-   ],
-   "sources": [
-    "ScienceDaily 뇌·마음"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261014015517.htm"
-   ],
-   "format": "DOSE",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "형식 DOSE",
-    "생활소재: memory, brain, stress"
    ]
   },
   {
@@ -1049,6 +976,8 @@
    "date": "2026-10-24",
    "source": "Phys.org",
    "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1063,8 +992,7 @@
    "why": [
     "형식 SCALE",
     "생활소재: diet, bird"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html"
+   ]
   },
   {
    "title": "New long‑clawed British dinosaur is the first of its kind in Europe",
@@ -1074,6 +1002,8 @@
    "date": "2026-10-24",
    "source": "Phys.org",
    "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1086,52 +1016,6 @@
    "why": [
     "형식 CUT",
     "생활소재: dinosaur"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html"
-  },
-  {
-   "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261015073220.htm",
-   "summary": "A nationwide search for giant crayfish uncovered a record-breaking Tennessee specimen and a surprising mystery about how big these freshwater creatures can grow. Scientists found that North American crayfish seem to hit a biological size limit, possibly because of their muscles or protective shells.",
-   "date": "2026-10-16",
-   "source": "ScienceDaily 별난연구",
-   "first_seen": "2026-10-22",
-   "text": "A giant crayfish nicknamed \"Crawzilla\" has sparked an unexpected scientific discovery, revealing a possible biological limit to how large North America's crayfish can grow. The investigation began when Caitlin Bloomer pulled an enormous Crawzilla crawdad from the mud during a biological survey in Kentucky. Crawzilla is the creature's actual common name, and Bloomer was convinced she had captured the largest crayfish ever documented. But when she proudly showed her discovery to a colleague, the reaction was not quite what she expected. \"I thought, 'There's no doubt I have caught the biggest crayfish anyone's ever seen!' I brought it back to campus to show my colleague, naturally bragging about having caught the biggest-ever crayfish. But, as all biologists and sport fishermen do, he took one look and said, 'No way, I've caught bigger,'\" said Bloomer, a teaching assistant professor in the Department of Natural Resources and Environmental Sciences within the College of Agricultural, Consumer and Environmental Sciences at the University of Illinois Urbana-Champaign. What started as a little friendly rivalry soon turned into a nationwide search for record-breaking crayfish. Bloomer contacted biologists and museum curators across the country, asking them to examine their collections for unusually large specimens. Using calipers, instruments designed to measure objects with great precision, the researchers compared the sizes of preserved crayfish. Their search produced a list of 20 exceptionally large individuals representing 18 different species. The results were published in the scientific journal Ecology . Although Bloomer's original Crawzilla did not claim the top spot, it still earned a place among the largest specimens identified. \"Mine was not the biggest, but it did make the top 20, so I'm super proud of it,\" Bloomer said. \"And it was also the only burrowing crayfish to make the list, so I'll take the win.\" Scientists Identify the Largest Known North American Crayfish The biggest specimen belonged to a Tennessee bottlebrush crayfish preserved in the collection at West Liberty University in West Virginia. It measured an impressive 86.6 millimeters, or approximately 3.4 inches, excluding its tail, claws, and antennae. The record-holder was not a recent catch. It had been collected in 2011 by Dr. Zac Loughman and students from West Liberty University, making the discovery possible through the examination of existing museum specimens. \"I knew we had some massive crayfish in the West Liberty University Astacology Collection, but it was a surprise to learn we had the two largest specimens known from North America! Our record-holder, a Tennessee bottlebrush crayfish collected by Dr. Zac Loughman and West Liberty students back in 2011, shows just how amazing and diverse crayfish can be,\" said Zackary Graham, an assistant professor of biology at West Liberty University. \"Its carapace alone is about the length of a credit card, and with the tail and claws, it stretches nearly the width of a sheet of notebook paper. Both of these giants are now proudly displayed in my office, and I show them to just about everyone who walks in.\" Other institutions also contributed impressive specimens. The Illinois Natural History Survey, which belongs to the Prairie Research Institute at the University of Illinois, accounted for six of the 20 largest crayfish. The Smithsonian Institution's National Museum of Natural History contributed another four. Beyond settling the competition, the researchers uncovered a more intriguing scientific question. Their measurements provided some of the first estimates of the upper size limits for North American crayfish, and the results suggested that these animals may face a surprisingly consistent growth ceiling. Despite differences among species and environments, the largest individuals tended to reach roughly 80 millimeters in the body measurement used by the researchers. That raised an obvious question: Why do North American crayfish appear to stop growing at around this size when some species elsewhere in the world, including the Tasmanian giant freshwater crayfish, can become dramatically larger? \"They all seemed to max out around that 80-millimeter mark, but we weren't sure why, especially given that there are absolutely massive crayfish in other parts of the world,\" Bloomer said. \"We started looking at things like latitude, oxygen availability, and habitat type as possible correlates to explain why certain species and individuals were larger than others, but we weren't seeing any patterns.\" The team examined whether geographic location, oxygen levels, or the type of environment where a crayfish lives could explain why some grow larger than others. However, none of these factors showed a clear relationship with maximum body size. That unexpected result pointed the researchers toward a different possibility. Rather than being primarily controlled by environmental conditions, crayfish growth may be constrained by the animals' own biology. One potential explanation involves their exoskeletons, the hard outer coverings that protect their bodies. Differences in shell structure or muscle anatomy might impose physical limits on how large North American crayfish can become. For now, that remains a hypothesis. Further research will be needed to determine whether these biological features actually restrict their growth. \"This was a case where we saw something unusual in the field and it sparked a future research direction,\" Bloomer said. \"We think that it could really be worthwhile to look at the physiology of crayfish to see if something there is influencing their body size.\" Crayfish are familiar inhabitants of streams, rivers, and other freshwater environments. Many people encounter them as children, making them among the most recognizable aquatic animals in North America. Yet even with their widespread presence, scientists are still discovering basic facts about their biology, including how large they can grow and what determines their maximum size. \"Anyone that goes to a stream as a kid knows what crayfish are -- they're almost a universal onboarding for people to care about aquatic life. I still go out with people who are in their 50s or 60s, who recall catching crawfish in the creek when they were seven,\" Bloomer said. \"It's just amazing how much we still have to learn about them.\" Bloomer also emphasized that the investigation would not have been possible without museum collections. By comparing specimens preserved over many years, researchers were able to answer a fundamental question that would have been difficult to investigate through fieldwork alone. What began with one unusually large crayfish and a disagreement between colleagues has now opened a new line of scientific inquiry into the biological factors that shape the size of these familiar freshwater creatures. Materials provided by College of ACES at the University of Illinois Urbana-Champaign . Note: Content may be edited for style and length. Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery",
-   "facts": [
-    "Their search produced a list of 20 exceptionally large individuals representing 18 different species.",
-    "\"Mine was not the biggest, but it did make the top 20, so I'm super proud of it,\" Bloomer said.",
-    "It measured an impressive 86.6 millimeters, or approximately 3.4 inches, excluding its tail, claws, and antennae.",
-    "It had been collected in 2011 by Dr.",
-    "Zac Loughman and West Liberty students back in 2011, shows just how amazing and diverse crayfish can be,\" said Zackary Graham, an assistant professor of biology at West Liberty University.",
-    "The Illinois Natural History Survey, which belongs to the Prairie Research Institute at the University of Illinois, accounted for six of the 20 largest crayfish.",
-    "Despite differences among species and environments, the largest individuals tended to reach roughly 80 millimeters in the body measurement used by the researchers.",
-    "\"They all seemed to max out around that 80-millimeter mark, but we weren't sure why, especially given that there are absolutely massive crayfish in other parts of the world,\" Bloomer said.",
-    "I still go out with people who are in their 50s or 60s, who recall catching crawfish in the creek when they were seven,\" Bloomer said.",
-    "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-   ],
-   "doi": [
-    "10.1002/ecy.70471"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Caitlin C. Bloomer, Susan B. Adams, Zanethia C. Barnett, Zackary A. Graham, Emmy M. Delekta, David M. Hayes, Zachary J. Loughman, Hugh MacIntosh, M. Worth Pugh, Karen Reed, Nathaniel F. Shoobs, Christopher A. Taylor, Eric R. Larson. North American crayfish: A quest for the biggest catch . Ecology , 2026; 107 (9) DOI: 10.1002/ecy.70471",
-   "catch_extra": [
-    "상관관계"
-   ],
-   "sources": [
-    "ScienceDaily 별난연구"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261015073220.htm"
-   ],
-   "format": "",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 5,
-   "why": [
-    "훅: surpris, mystery",
-    "생활소재: crayfish"
    ]
   },
   {
@@ -1404,6 +1288,79 @@
    "why": [
     "형식 SCALE"
    ]
+  },
+  {
+   "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
+   "link": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
+   "key": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
+   "summary": "Arriving on the Caribbean island of Dominica for the first time \"feels a little bit like stepping into Jurassic Park,\" said Giovanni Petri, a professor in the Network Science Institute at Northeastern University London.",
+   "date": "2026-10-23",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
+   ],
+   "format": "PRESS",
+   "catch": [
+    "세포·시험관"
+   ],
+   "score": 5,
+   "why": [
+    "형식 PRESS",
+    "훅: first time"
+   ]
+  },
+  {
+   "title": "East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks",
+   "link": "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
+   "key": "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
+   "summary": "A joint research team from KAIST and the APEC Climate Center has found that the East Asian summer front has migrated north over the past half century, with the shift exceeding 200 km (124 miles) in late summer. This raises the risk that the Korean Peninsula will experience heavy rain and heat stress at the same time. The findings suggest that summer disaster planning should address flood prevention and heat-illness management together, through late September.",
+   "date": "2026-10-23",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: stress"
+   ]
+  },
+  {
+   "title": "Study finds lower rates of overweight among vegan-fed cats",
+   "link": "https://phys.org/news/2026-10-overweight-vegan-fed-cats.html",
+   "key": "https://phys.org/news/2026-10-overweight-vegan-fed-cats.html",
+   "summary": "A large-scale survey has found cats fed vegan diets had lower rates of obesity and related health problems than those fed conventional meat-based diets.",
+   "date": "2026-10-23",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-overweight-vegan-fed-cats.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: cat, diet"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-overweight-vegan-fed-cats.html"
   }
  ]
 }
