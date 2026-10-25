@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-19
 
-최근 8일 누적 387건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 403건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 14 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
@@ -38,7 +38,19 @@
   - "Kazuhiro Kagotani, examined how LPC70 affected these signaling pathways in mice consuming a high-salt diet."
   - "His work helped clarify how LPC70 produces different effects in the organs involved in salt-related cardiovascular and cognitive problems."
 
-## 4. People are taking an unapproved weight-loss drug. AI found something surprising
+## 4. Mediterranean diet may boost tiny proteins that protect the heart and brain
+- 점수 10 · CUT · ScienceDaily 전체 · 2026-10-25
+- https://www.sciencedaily.com/releases/2026/10/261023003337.htm
+- DOI: 10.3389/fnut.2025.1727012
+- 주의: 상관관계
+- 요약: Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the en
+  - "It has consistently been associated with a lower risk of heart disease, type 2 diabetes, and cognitive decline."
+  - "The findings extend a scientific effort spanning more than 20 years to investigate small proteins produced by mitochondria."
+  - "One of the best understood is humanin, first identified by Cohen and fellow researchers in 2003."
+  - "Maintaining healthy insulin sensitivity is important for metabolic health and reducing the risk of type 2 diabetes."
+  - ""They connect mitochondrial function to diseases like Alzheimer's and heart disease and now, potentially, to nutrition." The scientists also identified a potentially important connection between humanin and an enzyme called Nox2, which helps generate reactive oxygen species."
+
+## 5. People are taking an unapproved weight-loss drug. AI found something surprising
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-22
 - https://www.sciencedaily.com/releases/2026/10/261020085018.htm
 - DOI: 10.1001/jamanetworkopen.2026.38929
@@ -50,7 +62,7 @@
   - "In that earlier investigation, scientists used large language models (LLMs), the type of artificial intelligence that powers many modern chatbots, to examine more than 400,000 Reddit posts discussing semaglutide and tirzepatide."
   - "Retatrutide is particularly interesting because it works differently from existing GLP-1 medications."
 
-## 5. Scientists discover a bizarre Jurassic “squid” unlike anything ever seen
+## 6. Scientists discover a bizarre Jurassic “squid” unlike anything ever seen
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-20
 - https://www.sciencedaily.com/releases/2026/10/261019093434.htm
 - DOI: 10.1002/spp2.70123
@@ -62,7 +74,7 @@
   - "Scientists estimate that the living animal, including its arms, could have reached a total length of approximately 60 centimeters, or about two feet."
   - "Belemnites have been the subject of paleontological research for more than 200 years, making the identification of such a radically different species especially remarkable."
 
-## 6. "Mind-blowing" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques
+## 7. "Mind-blowing" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-19
 - https://www.sciencedaily.com/releases/2026/10/261018084421.htm
 - DOI: 10.1002/alz.71579
@@ -74,7 +86,7 @@
   - ""The disruptions in sleep and cortical EEG activity that occur at 6 months, when plaques first emerge, did not worsen by 18 months, despite more than double the amount of plaque burden." The team described this pattern as a ceiling effect."
   - "A quote from hockey legend Wayne Gretzky hangs in her office: "You miss 100% of the shots you don't take." Constantino, who recently completed his doctorate at the university, said the laboratory's collaborative environment encouraged him to pursue questions that crossed traditional scientific disciplines."
 
-## 7. Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse
+## 8. Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse
 - 점수 9 · PRESS · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261017230023.htm
 - DOI: 10.1126/sciadv.aeh7197
@@ -83,7 +95,7 @@
   - "When the Kikai-Akahoya volcano erupted beneath the sea approximately 7,300 years ago, Japan was home to Jomon communities that depended on hunting and gathering for survival."
   - "Scientists Discover a Potential Early Warning Sign of Alzheimerâs in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
 
-## 8. SpaceX just delivered some very strange cargo to the International Space Station
+## 9. SpaceX just delivered some very strange cargo to the International Space Station
 - 점수 9 · CUT · ScienceDaily 별난연구 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261016070628.htm
 - 주의: 세포·시험관, DOI 못 찾음
@@ -94,7 +106,7 @@
   - "The arrival marks SpaceX's 35th commercial resupply mission to the orbiting laboratory under its contract with NASA."
   - "Other experiments include 3D heart tissue models, which recreate important features of human heart tissue."
 
-## 9. Scientists discover a hidden messaging system deep inside the brain
+## 10. Scientists discover a hidden messaging system deep inside the brain
 - 점수 9 · CUT · ScienceDaily 전체 · 2026-10-23
 - https://www.sciencedaily.com/releases/2026/10/261022081304.htm
 - DOI: 10.1038/s41586-026-11026-0
@@ -105,14 +117,27 @@
   - "One particularly extraordinary axon had a total reconstructed length of 70.32 centimeters, making it part of the longest single neuron ever measured in a mouse."
   - "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
 
-## 10. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
+## 11. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
 - 점수 9 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A Hiroshima University–led clinical trial found that hydrogen supplementation did not significantly improve sleep quality compared with a placebo; however, exploratory analyses suggest that differences in the abundance of hydrogen-producing gut bacteria may be associated with individual differences 
 
-## 11. Astronauts’ hearts just passed a surprising test for Mars
+## 12. Low-dose aspirin linked to 70% lower dementia risk, but there's a catch
+- 점수 9 · DOSE · ScienceDaily 전체 · 2026-10-25
+- https://www.sciencedaily.com/releases/2026/10/261024222026.htm
+- DOI: 10.1002/alz.71817
+- 대상: 13,500 participants, 446,500 people
+- 주의: 상관관계
+- 요약: A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The disc
+  - "Researchers found that people with a specific genetic profile who took aspirin had a 70 percent lower relative risk of developing dementia, raising the possibility that genetic testing could eventually help identify people who might benefit from preventive treatments."
+  - "The findings, published in Alzheimer's & Dementia: The Journal of the Alzheimer's Association , were based on genetic data from more than 13,500 participants in the landmark ASPREE Trial (Aspirin in Reducing Events in the Elderly)."
+  - "Among people in the highest 20 percent of platelet count genetic scores, just 1 percent of aspirin users developed dementia, compared with 3.3 percent of participants taking a placebo."
+  - "That difference translates to approximately a 70 percent lower relative risk of dementia among those receiving aspirin."
+  - "In the same genetic group, 4.4 percent of aspirin users experienced major bleeding, compared with 2.1 percent of those receiving a placebo."
+
+## 13. Astronauts’ hearts just passed a surprising test for Mars
 - 점수 8 · WEIGH · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261020085016.htm
 - DOI: 10.1161/CIRCULATIONAHA.125.078665
@@ -124,7 +149,7 @@
   - ""It would be typically about 3 a.m. for me because the space station runs on Greenwich Mean Time," Thomas said."
   - "Mars has roughly 38% of Earth's surface gravity."
 
-## 12. Eating blueberries every day may have a surprising effect on your mood
+## 14. Eating blueberries every day may have a surprising effect on your mood
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261017230028.htm
 - DOI: 10.1016/j.jnha.2026.100958
@@ -136,7 +161,7 @@
   - "Blueberries Linked to Subtle Changes in Gut Microbial Activity A total of 18 participants completed the study."
   - "Most were women, and the group was predominantly white (placebo group, n = 8; mean age: 75 ± 6; blueberry group, n = 10; mean age: 71 ± 4)."
 
-## 13. Archaeologists discover 1,200-year-old mummified hairless dog in Peru
+## 15. Archaeologists discover 1,200-year-old mummified hairless dog in Peru
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-10-18
 - https://www.sciencedaily.com/releases/2026/10/261016070644.htm
 - DOI: 10.1016/j.jaa.2026.101767
@@ -147,18 +172,7 @@
   - "The complex was occupied between 600 and 1050 CE, roughly 400 years before the Inca rose to power."
   - "In 2012, researchers uncovered the first undisturbed elite Wari tomb, containing the remains of 58 high-status women, six human sacrifices, and approximately 1,300 artifacts."
 
-## 14. Scientists predicted doomsday for November 13, 2026. Should we be worried?
-- 점수 8 · PRESS · ScienceDaily 전체 · 2026-10-17
-- https://www.sciencedaily.com/releases/2026/10/261016070639.htm
-- 주의: DOI 못 찾음
-- 요약: In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unravel
-  - "In 1960, Science , one of the world’s leading science journals, published an article with an unambiguous title: Doomsday: Friday, 13 November, A.D. 2026 ."
-  - "“They will be squeezed to death.” The article was regularly cited, and its predictions appeared remarkably accurate — until around 1993, halfway to the predicted “doomsday,” when the global population began falling behind its forecasts."
-  - "Today, the global birth rate is slightly less than half what it was in 1960 ."
-  - "Hopefully, we will all wake up on Nov. 13 to an ordinary day."
-  - "The mid-20th century saw increasing societal concern about global population growth and its potential to lead to resource scarcity and geopolitical conflict."
-
-## 15. James Webb reveals a strange bulge in an alien planet's atmosphere
+## 16. James Webb reveals a strange bulge in an alien planet's atmosphere
 - 점수 8 · PRESS · ScienceDaily 별난연구 · 2026-10-17
 - https://www.sciencedaily.com/releases/2026/10/261015073205.htm
 - DOI: 10.1038/s41550-026-02986-4
@@ -169,17 +183,6 @@
   - ""This is proof of concept that planets are in fact 3D objects, and that consistently, as they go around their star, what we predict should be happening is happening."
   - "To move beyond computational exercises and see it for real is a different matter." The observations provide valuable information about WASP-17b's atmospheric chemistry and temperature variations, including differences between its equator and poles and between its permanently illuminated and dark hemispheres."
   - "Together, they offer one of the most detailed three-dimensional pictures of an exoplanet's atmosphere yet produced, establishing a useful reference point for studying the more than 6,000 exoplanets confirmed so far."
-
-## 16. NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon
-- 점수 7 · 형식? · ScienceDaily 전체 · 2026-10-22
-- https://www.sciencedaily.com/releases/2026/10/261021231238.htm
-- 주의: DOI 못 찾음
-- 요약: NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.
-  - "Taken at 8:30 a.m. local Mars time, the scene reveals striking blue tones across the foreground while morning sunlight illuminates rugged cliffs known as yardangs along the horizon."
-  - "Curiosity recorded the panorama using its Mastcam on August 11, during the mission's 4,982nd Martian day, or sol."
-  - "The yardangs stretch approximately 10 miles (16 kilometers) across the northwestern portion of Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain that Curiosity has been climbing since 2014."
-  - "The rover recently achieved a major milestone, gaining 0.6 miles (1 kilometer) in elevation, a greater climb than any other rover has completed on Mars."
-  - "Mission scientists aim to reach the bottom of the yardang formations sometime in 2027."
 
 ## 17. Music can enhance the flavor of your food
 - 점수 7 · SCALE · Phys.org · 2026-10-22

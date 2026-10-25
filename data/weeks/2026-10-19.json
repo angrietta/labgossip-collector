@@ -14,28 +14,28 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 37
+   "span_days": 36
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 30
+   "span_days": 29
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 32
+   "span_days": 31
   },
   {
    "feed": "ScienceDaily 건강",
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 11
+   "span_days": 10
   },
   {
    "feed": "Phys.org",
@@ -193,6 +193,47 @@
     "형식 SCALE",
     "생활소재: diet, supplement, memory"
    ]
+  },
+  {
+   "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261023003337.htm",
+   "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the energy-producing structures inside cells. These proteins have been linked to protection against heart disease, Alzheimer's disease, and age-related damage.",
+   "date": "2026-10-25",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-25",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261023003337.htm"
+   ],
+   "format": "CUT",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 10,
+   "why": [
+    "형식 CUT",
+    "훅: surpris",
+    "생활소재: diet, aging, alzheimer"
+   ],
+   "text": "A new study suggests that the Mediterranean diet may protect the heart, brain, and aging cells through a surprising biological mechanism involving tiny proteins produced by mitochondria, the structures responsible for generating most of the energy our cells need. Researchers at the USC Leonard Davis School of Gerontology discovered that people who more closely followed the Mediterranean diet had higher levels of two mitochondrial microproteins called humanin and SHMOOSE. Both have previously been linked to protection against cardiovascular disease and neurodegeneration, the gradual deterioration of nerve cells that occurs in conditions such as Alzheimer's disease. The study, led by USC Leonard Davis Instructional Associate Professor of Gerontology Roberto Vicinanza, offers a possible explanation for how everyday food choices influence cellular health and the aging process. \"These microproteins may act as molecular messengers that translate what we eat into how our cells function and age,\" Vicinanza said. \"It's a new biological pathway that helps explain why the Mediterranean diet is so powerful.\" The Mediterranean diet emphasizes foods such as olive oil, fish, beans, lentils, fruits, and vegetables. It has consistently been associated with a lower risk of heart disease, type 2 diabetes, and cognitive decline. However, scientists are still working to understand exactly how this eating pattern produces its wide-ranging health benefits. To investigate, the researchers examined blood samples from older adults who followed the Mediterranean diet to different degrees. Those whose eating habits most closely matched the diet had significantly higher concentrations of humanin and SHMOOSE. They also showed lower indicators of oxidative stress, a process in which harmful molecules called reactive oxygen species overwhelm the body's protective defenses. Over time, oxidative stress can damage proteins, DNA, and other cellular components, contributing to aging and chronic disease. Interestingly, the researchers found that certain foods were associated with different microproteins. Higher consumption of olive oil, fish, and legumes was linked to increased humanin levels. Meanwhile, olive oil consumption and eating fewer refined carbohydrates were associated with higher levels of SHMOOSE. Refined carbohydrates include foods made with heavily processed grains and sugars, such as white bread, pastries, and many sugary snacks. These foods generally contain less fiber and fewer naturally occurring nutrients than their minimally processed counterparts. \"These findings suggest that specific components of the Mediterranean diet may directly influence mitochondrial biology,\" said USC Leonard Davis School Dean and USC Distinguished Professor Pinchas Cohen, the study's senior author. \"Humanin and SHMOOSE could serve as biomarkers for adherence to the Mediterranean diet and have clinical significance.\" Biomarkers are measurable biological indicators that can provide information about a person's health or physiological state. In this case, the researchers suggest that humanin and SHMOOSE could eventually help scientists understand how closely someone's diet aligns with healthy eating patterns and how their cells respond. The findings extend a scientific effort spanning more than 20 years to investigate small proteins produced by mitochondria. Cohen has played a leading role in discovering and studying these molecules, which are increasingly recognized as important participants in cellular health. Mitochondria are often described as the powerhouses of cells because they produce much of the energy required for essential biological activities. But their role extends beyond energy production. They also help regulate metabolism, cellular stress responses, and processes associated with aging. Unlike most proteins, which are produced using instructions stored in the DNA inside the cell's nucleus, mitochondrial microproteins originate from genetic instructions within mitochondria themselves. These instructions are found in small segments of mitochondrial DNA known as open reading frames. Some of these regions were once considered nonfunctional, but researchers have discovered that they can encode biologically active molecules. One of the best understood is humanin, first identified by Cohen and fellow researchers in 2003. Subsequent studies have associated humanin with improved insulin sensitivity, better cardiovascular health, increased longevity, and protection of cognitive abilities. Insulin sensitivity refers to how effectively the body's cells respond to insulin, the hormone that helps regulate blood sugar. Maintaining healthy insulin sensitivity is important for metabolic health and reducing the risk of type 2 diabetes. Another intriguing microprotein is SHMOOSE (Small Human Mitochondrial ORF Over SErine tRNA), which was identified more recently by Cohen's research team. SHMOOSE has attracted particular interest because of its possible role in protecting the brain. Scientists have found that a genetic variant of SHMOOSE is associated with an increased risk of Alzheimer's disease. The normal version, meanwhile, appears to help protect neurons from damage involving amyloid, a protein that can accumulate abnormally in the brains of people with Alzheimer's. \"These peptides are emerging as key regulators of aging biology,\" Cohen said. \"They connect mitochondrial function to diseases like Alzheimer's and heart disease and now, potentially, to nutrition.\" The scientists also identified a potentially important connection between humanin and an enzyme called Nox2, which helps generate reactive oxygen species. Although these molecules have useful roles in normal cell signaling and immune defense, excessive production can contribute to oxidative stress and damage blood vessels and other tissues. The researchers observed that people with higher humanin levels tended to have lower Nox2 activity. This relationship raises the possibility that humanin helps limit damaging oxidative processes, potentially offering an additional layer of cardiovascular protection. Based on these findings, the researchers propose that the Mediterranean diet could support heart health in two complementary ways. The diet may help reduce oxidative stress directly while also supporting the production of mitochondrial microproteins that influence pathways involved in cellular damage. However, the observed associations do not establish that the diet directly increases these proteins or that the proteins themselves prevent cardiovascular disease. \"This could represent a new cardioprotective mechanism of the Mediterranean diet,\" Vicinanza said. Vicinanza's interest in the Mediterranean diet extends beyond investigating its effects inside the body. He has also worked to promote this traditional eating pattern internationally as a way to support human health, cultural heritage, and environmental sustainability. As part of those efforts, he collaborated with the Municipality of Pollica in Italy, which is recognized as a UNESCO Mediterranean Diet emblematic community. That collaboration helped support the establishment of the International Day of the Mediterranean Diet through the United Nations. Observed every year on November 16, the international event is intended to draw attention to the Mediterranean diet's health benefits as well as its cultural traditions and environmental significance. For Vicinanza, the new findings reinforce the relationship between traditional food practices and modern discoveries about how the body functions. \"We're connecting centuries-old dietary traditions with cutting-edge molecular biology,\" Vicinanza said. \"It supports the idea that healthy eating patterns with little to no ultra-processed foods reflect how humans have eaten over long periods and may create conditions to which mitochondria -- ancient cellular organelles -- are likely adapted.\" Although the findings are promising, the resear",
+   "doi": [
+    "10.3389/fnut.2025.1727012"
+   ],
+   "journal_ref": "Journal Reference : Roberto Vicinanza, Vittoria Cammisotto, Junxiang Wan, Kelvin Yen, Francesco Violi, Pasquale Pignatelli, Pinchas Cohen. Mediterranean diet adherence is associated with mitochondrial microproteins Humanin and SHMOOSE; potential role of the Humanin–Nox2 interaction in cardioprotection . Frontiers in Nutrition , 2026; 12 DOI: 10.3389/fnut.2025.1727012",
+   "facts": [
+    "It has consistently been associated with a lower risk of heart disease, type 2 diabetes, and cognitive decline.",
+    "The findings extend a scientific effort spanning more than 20 years to investigate small proteins produced by mitochondria.",
+    "One of the best understood is humanin, first identified by Cohen and fellow researchers in 2003.",
+    "Maintaining healthy insulin sensitivity is important for metabolic health and reducing the risk of type 2 diabetes.",
+    "\"They connect mitochondrial function to diseases like Alzheimer's and heart disease and now, potentially, to nutrition.\" The scientists also identified a potentially important connection between humanin and an enzyme called Nox2, which helps generate reactive oxygen species.",
+    "The researchers observed that people with higher humanin levels tended to have lower Nox2 activity.",
+    "Observed every year on November 16, the international event is intended to draw attention to the Mediterranean diet's health benefits as well as its cultural traditions and environmental significance.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
   },
   {
    "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
@@ -473,6 +514,50 @@
    ]
   },
   {
+   "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261024222026.htm",
+   "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The discovery suggests that genetics could help explain why some people benefit while others do not.",
+   "date": "2026-10-25",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-25",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261024222026.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 9,
+   "why": [
+    "형식 DOSE",
+    "훅: unexpected",
+    "생활소재: cat, dementia"
+   ],
+   "text": "A new analysis from Monash University suggests that low-dose aspirin may be linked to a dramatically lower risk of dementia in older adults with certain genetic characteristics. Researchers found that people with a specific genetic profile who took aspirin had a 70 percent lower relative risk of developing dementia, raising the possibility that genetic testing could eventually help identify people who might benefit from preventive treatments. The findings, published in Alzheimer's & Dementia: The Journal of the Alzheimer's Association , were based on genetic data from more than 13,500 participants in the landmark ASPREE Trial (Aspirin in Reducing Events in the Elderly). Scientists examined whether differences in participants' genes could help explain why aspirin might affect dementia risk differently from one person to another. The most striking results involved genes associated with platelet count. Platelets are small components of the blood that help form clots, and researchers wanted to determine whether genetic variations related to platelet levels could influence aspirin's potential effects on dementia. After assigning participants genetic scores associated with platelet count, the team compared dementia rates among those who received aspirin and those given a placebo. Among people in the highest 20 percent of platelet count genetic scores, just 1 percent of aspirin users developed dementia, compared with 3.3 percent of participants taking a placebo. That difference translates to approximately a 70 percent lower relative risk of dementia among those receiving aspirin. However, the apparent benefit was accompanied by a significant safety concern. In the same genetic group, 4.4 percent of aspirin users experienced major bleeding, compared with 2.1 percent of those receiving a placebo. Lead author Dr. Peter Fransquet, a Research Fellow at Monash's School of Public Health and Preventive Medicine, said the results suggest that a person's genetic makeup could eventually play an important role in determining which dementia prevention strategies are most appropriate. \"Previous trials found aspirin didn't prevent dementia when everyone was considered together,\" Dr. Fransquet said. \"In people with this particular genetic profile, we saw substantially fewer cases of dementia among those taking aspirin. \"It raises the possibility that genetics could one day help us identify who may benefit from a preventive treatment, rather than taking a one-size-fits-all approach.\" The possibility of more targeted prevention is especially important as dementia becomes increasingly common. Dementia Australia estimates that approximately 446,500 people in Australia are living with the condition in 2026. That number is expected to exceed one million by 2065. Previous research has connected dementia with platelet activation and aggregation, the processes through which platelets become active and stick together. However, scientists have had a less complete understanding of how a person's overall platelet count might relate to dementia. The new findings point toward platelet biology as a potentially important area of investigation. Notably, the genetic association identified by researchers did not involve the well-established genetic risk factors typically linked to Alzheimer's disease and other forms of dementia. \"What's particularly interesting is that the signal wasn't linked to the established genetic risk factors for Alzheimer's disease and dementia,\" Dr. Fransquet said. \"Instead, it's pointing us towards platelet biology and gives us a new avenue to investigate.\" Although the findings suggest that aspirin could have different effects depending on a person's genes, researchers emphasize that the results must be confirmed before they can guide medical recommendations. The next step is to investigate whether the association appears in other populations. Scientists would then need to conduct a clinical trial specifically involving people with the genetic profile identified in the analysis. \"We now need to confirm the finding in other studies and ultimately test it in a trial designed specifically for people with this genetic profile. \"People shouldn't start taking aspirin to prevent dementia on the basis of this study without consulting with their doctor, particularly given the increased risk of serious bleeding. \"If it holds up, the fact that aspirin is already cheap and widely available could make personalized dementia prevention a real possibility.\" Materials provided by Monash University . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1002/alz.71817"
+   ],
+   "journal_ref": "Journal Reference : Peter D. Fransquet, Chenglong Yu, Cammie Tran, Sultana Monira Hussain, Amy Brodtmann, Andrew M. Tonkin, Mark R Nelson, Joanne Ryan, John J. McNeil, Paul Lacaze. Platelet count polygenic scores may modify the effect of aspirin in primary prevention of dementia . Alzheimer\\'s , 2026; 22 (9) DOI: 10.1002/alz.71817",
+   "facts": [
+    "Researchers found that people with a specific genetic profile who took aspirin had a 70 percent lower relative risk of developing dementia, raising the possibility that genetic testing could eventually help identify people who might benefit from preventive treatments.",
+    "The findings, published in Alzheimer's & Dementia: The Journal of the Alzheimer's Association , were based on genetic data from more than 13,500 participants in the landmark ASPREE Trial (Aspirin in Reducing Events in the Elderly).",
+    "Among people in the highest 20 percent of platelet count genetic scores, just 1 percent of aspirin users developed dementia, compared with 3.3 percent of participants taking a placebo.",
+    "That difference translates to approximately a 70 percent lower relative risk of dementia among those receiving aspirin.",
+    "In the same genetic group, 4.4 percent of aspirin users experienced major bleeding, compared with 2.1 percent of those receiving a placebo.",
+    "Dementia Australia estimates that approximately 446,500 people in Australia are living with the condition in 2026.",
+    "That number is expected to exceed one million by 2065.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": [
+    "13,500 participants",
+    "446,500 people"
+   ]
+  },
+  {
    "title": "Astronauts’ hearts just passed a surprising test for Mars",
    "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
    "key": "https://sciencedaily.com/releases/2026/10/261020085016.htm",
@@ -600,48 +685,6 @@
    ]
   },
   {
-   "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261016070639.htm",
-   "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unraveled, revealing how even convincing scientific models can fail when human behavior changes.",
-   "date": "2026-10-17",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "In 1960, Science , one of the world’s leading science journals, published an article with an unambiguous title: Doomsday: Friday, 13 November, A.D. 2026 . It predicted that on this future date — less than a month from today — the human population would approach infinity and effectively annihilate itself. The outlandishness of the claim landed the article widespread public attention . More surprisingly — because its underlying research and math seemed sound — it also received careful and sustained scientific attention. The authors — Heinz von Foerster , an Austrian-American professor and cybernetics expert and two of his students, Patricia M. Mora and Lawrence W. Amiot — argued that human populations are exceptional and might grow beyond an exponential rate, at an ever-increasing one. “Our great-great-grandchildren will not starve,” they argued. “They will be squeezed to death.” The article was regularly cited, and its predictions appeared remarkably accurate — until around 1993, halfway to the predicted “doomsday,” when the global population began falling behind its forecasts. Today, the global birth rate is slightly less than half what it was in 1960 . Hopefully, we will all wake up on Nov. 13 to an ordinary day. Nonetheless, this article remains exemplary for blending rigorous science with the art of stagecraft to staggering effect. The mid-20th century saw increasing societal concern about global population growth and its potential to lead to resource scarcity and geopolitical conflict. Underlying much of this concern was implicit or explicit acceptance of the Malthusian idea that whereas population has the potential to grow exponentially, it is kept constantly under check by its capacity to feed itself . In their article, however, von Foerster and his co-authors argued that as far as populations go, humans may be exceptional. Given our capacity to communicate and form “coalitions” that help us resolve problems, rising population density might simply mean more opportunities for collaboration, so that our numbers might grow not only beyond an exponential rate but at an ever-increasing one. They then used 24 estimates of the world population stretching across the past 2,000 years to show that human numbers have in fact continually outpaced expectations. All this was presented in calm, scientific prose and aided by dense mathematical equations. Von Foerster and his co-authors then projected these historical figures into the future, calculating that thanks to ever-increasing growth, in the year 2026 our numbers would near infinity. Thankfully, the same capacity for collaboration that assisted our species’ development throughout history could now avert this catastrophe. Since we are unlikely to want to reduce our life spans, they concluded, we should work together to reduce the global birth rate by half. This publication caused an immediate stir. There were stories in Time and The New York Times . It became the subject of a series of Pogo comic strips and many commentators took the article as strictly a tongue-in-cheek comment on population fears. Rather than the story dying out, a funny thing happened. When Science published letters to the editor from mathematicians and demographers attacking von Foerster and his colleagues’ work — calling it “ridiculous” and “manifestly absurd” — the authors responded with spirited defenses that doubled down on the underlying math and its conclusions. Throughout the 1960s through to the 1980s, the “doomsday” equation became regularly cited — usually at face value — in textbooks on genetics, ecology and demography. It appeared in stranger places, too. In a 1963 Canadian Parliamentary committee , for example, a witness from the chemical industry prominently cited it as reason chemical pesticides were required: to feed the approaching population explosion. In a 1971 U.S. Supreme Court abortion case leading up to Roe v. Wade, it was cited as why there was no compelling reason for the government to favor increased population. The doomsday idea persisted in part because its predictions for future populations turned out to be highly accurate — at least for a while. Its core equation yielded projections that were better than those of most demographers throughout the 1970s and 1980s . Only around 1993 did that accuracy begin to falter and the global population began falling behind the forecasts — because the world began to do what von Foerster and his colleagues recommended it do. Today, the global birth rate is slightly less than half the 1960 rate. We will probably not all wake up on Friday, Nov. 13 “squeezed to death.” But before simply moving on — prepping for the next doomsday scenario — it is worth asking what we can learn from this one. For me, the lesson is in how we present our beliefs to the world. Heinz von Foerster was, at one point in his life, a stage magician . Borrowing the classic language of stagecraft, an effective illusion relies on three parts: the setup, the extraordinary turn and the final reveal that returns the situation to normal. Von Foerster and his co-authors’ article gained attention because it was an ordinary scientific article wrapped in an extraordinary title and conclusion. It retained significance because it was firmly grounded in research and argument. To draw the world’s attention to a serious matter by way of absurdity — that’s a good trick. Materials provided by The Conversation . Original written by Alan MacEachern, Professor, History, Western University. Note: Content may be edited for style and length. Scientists Discover a Potential Early Warning Sign of Alzheimer’s in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery",
-   "facts": [
-    "In 1960, Science , one of the world’s leading science journals, published an article with an unambiguous title: Doomsday: Friday, 13 November, A.D. 2026 .",
-    "“They will be squeezed to death.” The article was regularly cited, and its predictions appeared remarkably accurate — until around 1993, halfway to the predicted “doomsday,” when the global population began falling behind its forecasts.",
-    "Today, the global birth rate is slightly less than half what it was in 1960 .",
-    "Hopefully, we will all wake up on Nov. 13 to an ordinary day.",
-    "The mid-20th century saw increasing societal concern about global population growth and its potential to lead to resource scarcity and geopolitical conflict.",
-    "They then used 24 estimates of the world population stretching across the past 2,000 years to show that human numbers have in fact continually outpaced expectations.",
-    "Von Foerster and his co-authors then projected these historical figures into the future, calculating that thanks to ever-increasing growth, in the year 2026 our numbers would near infinity.",
-    "Since we are unlikely to want to reduce our life spans, they concluded, we should work together to reduce the global birth rate by half.",
-    "There were stories in Time and The New York Times .",
-    "When Science published letters to the editor from mathematicians and demographers attacking von Foerster and his colleagues’ work — calling it “ridiculous” and “manifestly absurd” — the authors responded with spirited defenses that doubled down on the underlying math and its conclusions."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261016070639.htm"
-   ],
-   "format": "PRESS",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 8,
-   "why": [
-    "형식 PRESS",
-    "훅: surpris"
-   ]
-  },
-  {
    "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
    "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
    "key": "https://sciencedaily.com/releases/2026/10/261015073205.htm",
@@ -684,43 +727,6 @@
    "why": [
     "형식 PRESS",
     "훅: surpris, strange"
-   ]
-  },
-  {
-   "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261021231238.htm",
-   "summary": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
-   "date": "2026-10-22",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "NASA's Curiosity rover has captured a spectacular new panorama of Mars, providing its clearest look yet at a series of mysterious cliffs shaped by wind. Scientists have been eager to examine these distant formations up close, and the latest images offer an exciting preview of what lies ahead. Taken at 8:30 a.m. local Mars time, the scene reveals striking blue tones across the foreground while morning sunlight illuminates rugged cliffs known as yardangs along the horizon. Curiosity recorded the panorama using its Mastcam on August 11, during the mission's 4,982nd Martian day, or sol. Six separate photographs were transmitted to Earth and combined to create the sweeping view. Unlike most Mastcam photographs, the images were processed without white balancing, allowing the scene to retain the distinctive colors and lighting of the Martian morning. The yardangs stretch approximately 10 miles (16 kilometers) across the northwestern portion of Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain that Curiosity has been climbing since 2014. The rover recently achieved a major milestone, gaining 0.6 miles (1 kilometer) in elevation, a greater climb than any other rover has completed on Mars. As Curiosity continues toward these unusual formations, researchers anticipate increasingly detailed views of the cliffs. More importantly, they hope that examining the rocks firsthand will help explain how the remarkable landscape developed. Mount Sharp contains numerous layers of sedimentary rock, each preserving evidence from a different chapter of Martian history. Investigating these layers has helped scientists reconstruct a time billions of years ago when lakes and streams existed in this region of Mars. As the planet's environment changed, those bodies of water eventually disappeared, leaving deposits of salty minerals behind. Once additional material stopped accumulating on the mountain, powerful winds may have gradually eroded portions of the existing rock, carving out the distinctive yardangs visible today. Yet the unusual appearance of this particular layer has raised questions about its origins. Its color differs from the surrounding terrain, and its rock layers are tilted in an unexpected direction. Scientists suspect that processes beyond ordinary wind erosion may have contributed to its formation. \"The yardang layer looks out of place. It's the wrong color, the layers tilt at an odd angle, and it almost appears plastered on,\" said Ashwin Vasavada, Curiosity project scientist of NASA's Jet Propulsion Laboratory in Southern California. \"But that's what makes it exciting to reach. No one is sure exactly what created this layer, but one idea is it may be ash deposited by ancient volcanic eruptions.\" Curiosity is now in the second year of its fifth extended mission, which began with an investigation of unusual spiderweb-like boxwork ridges. Over roughly the next year, the rover will continue traveling through rock layers containing abundant sulfates and carbonates, minerals that provide evidence of ancient drying conditions on Mars. Mission scientists aim to reach the bottom of the yardang formations sometime in 2027. Once there, Curiosity should be able to examine the mysterious cliffs using its robotic arm, gathering unique measurements that could help determine how they formed and reveal more about the environmental changes that shaped Mars billions of years ago. Materials provided by NASA's Jet Propulsion Laboratory . Note: Content may be edited for style and length. Scientists Discover a Potential Early Warning Sign of Alzheimer’s in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery",
-   "facts": [
-    "Taken at 8:30 a.m. local Mars time, the scene reveals striking blue tones across the foreground while morning sunlight illuminates rugged cliffs known as yardangs along the horizon.",
-    "Curiosity recorded the panorama using its Mastcam on August 11, during the mission's 4,982nd Martian day, or sol.",
-    "The yardangs stretch approximately 10 miles (16 kilometers) across the northwestern portion of Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain that Curiosity has been climbing since 2014.",
-    "The rover recently achieved a major milestone, gaining 0.6 miles (1 kilometer) in elevation, a greater climb than any other rover has completed on Mars.",
-    "Mission scientists aim to reach the bottom of the yardang formations sometime in 2027.",
-    "Scientists Discover a Potential Early Warning Sign of Alzheimer’s in Adults As Young as 45 40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery"
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261021231238.htm"
-   ],
-   "format": "",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 7,
-   "why": [
-    "훅: strange, mystery, secret"
    ]
   },
   {
@@ -1347,6 +1353,8 @@
    "date": "2026-10-23",
    "source": "Phys.org",
    "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-overweight-vegan-fed-cats.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1359,8 +1367,7 @@
    "why": [
     "형식 WEIGH",
     "생활소재: cat, diet"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-overweight-vegan-fed-cats.html"
+   ]
   }
  ]
 }
