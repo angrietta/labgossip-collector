@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-26
 
-최근 8일 누적 411건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 478건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 10 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
@@ -28,19 +28,23 @@
   - "This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives."
   - "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
 
-## 3. Magic mushroom ingredient takes the fight out of aggressive fish
-- 점수 7 · DOSE · ScienceDaily 전체 · 2026-10-18
-- https://www.sciencedaily.com/releases/2026/10/261017230036.htm
-- DOI: 10.3389/fnbeh.2026.1767175
-- 주의: 동물 실험
-- 요약: A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The finding
-  - "Psilocybin, the psychedelic substance found in more than 200 species of mushrooms, appears to have an unexpected effect on aggressive fish."
-  - "One group received psilocybin, another provided the fish used to provoke social interactions, and the third helped researchers measure how much psilocybin entered and accumulated in the animals' bodies."
-  - "The following day, 24 hours after the initial observation, the researchers placed the same fish in water containing dissolved psilocybin."
-  - "Following 20 minutes of exposure, they returned it to the tank with the same fish it had encountered previously."
+## 3. Exercise doesn't just strengthen your heart. It rewires it
+- 점수 8 · CUT · ScienceDaily 전체 · 2026-10-26
+- https://www.sciencedaily.com/releases/2026/10/261025222848.htm
+- DOI: 10.1016/j.autneu.2025.103338
+- 요약: Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.
+  - "This could help explain why some treatments work better on one side than the other and, in future, help doctors target therapies more precisely and effectively." To investigate how exercise affects these nerve clusters, the researchers examined rats that underwent 10 weeks of moderate aerobic training."
+  - "In the trained rats, the cardiovascular nerve cluster on the right contained roughly four times as many neurons as the cluster on the left, a striking difference from the pattern observed in untrained rats."
+  - "Neurons on the left nearly doubled in size, while those on the right became slightly smaller."
   - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
 
-## 4. Fatty liver disease is actually five different conditions, scientists discover
+## 4. Treatment revives old liver cells in lab study, may help prevent Alzheimer's and heart disease
+- 점수 8 · CUT · MedicalXpress · 2026-10-26
+- https://medicalxpress.com/news/2026-10-treatment-revives-liver-cells-lab.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: The liver's job of clearing harmful substances from the body is so essential that the organ may have implications for addressing unexpected diseases, including Alzheimer's and heart disease. A promising example comes from new Keck School of Medicine of USC research published in the Journal of Biolog
+
+## 5. Fatty liver disease is actually five different conditions, scientists discover
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-10-19
 - https://www.sciencedaily.com/releases/2026/10/261016070642.htm
 - DOI: 10.1038/s41467-026-77410-6
@@ -52,7 +56,7 @@
   - "Scientists also want to determine whether different subtypes respond differently to available treatments, including GLP-1 receptor agonists, a class of medications used to treat conditions such as type 2 diabetes and obesity."
   - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
 
-## 5. Could lowering high blood pressure be as simple as stimulating your ear?
+## 6. Could lowering high blood pressure be as simple as stimulating your ear?
 - 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-24
 - https://www.sciencedaily.com/releases/2026/10/261023023732.htm
 - DOI: 10.1161/HYPERTENSIONAHA.126.27847
@@ -63,7 +67,7 @@
   - "For the following 10 weeks, they reduced their sessions to once per week."
   - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
 
-## 6. New evidence suggests spinosaurus spent most of its life underwater
+## 7. New evidence suggests spinosaurus spent most of its life underwater
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-10-25
 - https://www.sciencedaily.com/releases/2026/10/261024221956.htm
 - DOI: 10.1016/j.cub.2025.10.068
@@ -74,7 +78,7 @@
   - "Using this information, their models could predict with more than 90% accuracy whether an animal possessed soft tissue flippers and whether it had highly or fully aquatic habits."
   - "An especially unusual part of the research involved adapting a statistical method developed during the 1940s."
 
-## 7. Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit
+## 8. Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit
 - 점수 6 · SCALE · ScienceDaily 전체 · 2026-10-22
 - https://www.sciencedaily.com/releases/2026/10/261021231224.htm
 - DOI: 10.1016/j.jand.2026.156908
@@ -86,7 +90,7 @@
   - "By 2018, the leading sources of added coffee calories were non-dairy creamer, sugar or syrup, and dairy milk."
   - ""The more we know about what people are consuming, the better we can understand the link between nutrition and overall health." To investigate how Americans' coffee habits evolved, the research team examined eight consecutive cycles of the National Health and Nutrition Examination Survey (NHANES), covering 2003 through 2018."
 
-## 8. A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami
+## 9. A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami
 - 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261020085727.htm
 - DOI: 10.1038/s41467-025-63985-z
@@ -97,7 +101,7 @@
   - "The crater itself measures roughly three kilometers across and is surrounded by a much larger, 20-kilometer-wide region of circular faults, which are fractures in the rock where movement has occurred."
   - "When scientists first identified the formation in 2002, several features suggested that it had been created by a high-speed collision with an asteroid or comet."
 
-## 9. Too much RNA can starve cells of energy, scientists discover
+## 10. Too much RNA can starve cells of energy, scientists discover
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261020085023.htm
 - DOI: 10.1073/pnas.2605194123
@@ -108,7 +112,7 @@
   - ""Scientists already knew that too much double-stranded RNA can be harmful," Yang said."
   - ""What surprised us was finding out that too much mRNA -- something cells normally need every day -- can also damage mitochondria and interfere with the cell's ability to produce energy." Research reported in this study was supported, in part, by the National Institute of Allergy and Infectious Diseases (R01AI143709 to Z.Y.) and Texas A&M University."
 
-## 10. Scientists find 10 different diets linked to slower aging
+## 11. Scientists find 10 different diets linked to slower aging
 - 점수 6 · SCALE · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261019093439.htm
 - DOI: 10.1038/s41467-026-77064-4
@@ -121,7 +125,7 @@
   - "The initial analysis included 6,470 participants in DZNE's Rhineland Study in Bonn, Germany."
   - "The researchers then tested their findings using data from another 1,034 people enrolled in the EPIC-Potsdam Study, conducted by the German Institute of Human Nutrition Potsdam-Rehbrücke (DIfE)."
 
-## 11. Why some people escape Alzheimer’s despite carrying a high-risk gene
+## 12. Why some people escape Alzheimer’s despite carrying a high-risk gene
 - 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-19
 - https://www.sciencedaily.com/releases/2026/10/261018205044.htm
 - DOI: 10.1038/s43587-026-01204-0
@@ -132,7 +136,7 @@
   - "However, in people with APOE ε4, excessive amounts can accumulate around blood vessels in the brain, potentially compromising a critical protective system known as the blood-brain barrier."
   - "The rare FN1 mutation appears to limit this buildup and the damage associated with it."
 
-## 12. Something strange is happening beneath a volcano near 2 million people
+## 13. Something strange is happening beneath a volcano near 2 million people
 - 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-19
 - https://www.sciencedaily.com/releases/2026/10/261018205039.htm
 - DOI: 10.1029/2026GL123214
@@ -143,26 +147,48 @@
   - ""And then if there is a need to warn people, we can do that in a timely manner." To investigate Masaya's underground activity, the researchers analyzed measurements collected by the Sentinel-1 satellite, which observes the volcano approximately once every 12 days."
   - "By comparing satellite measurements taken at different times, scientists can identify areas where the ground is rising or sinking."
 
-## 13. Physicists create a bizarre new quantum state called a fractional fermi sea
-- 점수 6 · CUT · ScienceDaily 전체 · 2026-10-18
-- https://www.sciencedaily.com/releases/2026/10/261018084644.htm
-- DOI: 10.1103/j3s5-gjpf, 10.48550/arXiv.2602.17657
-- 요약: Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a "fractional Fermi sea." The discovery challenges established quantum theories and hints at exotic qua
+## 14. Modern neuroscience is rediscovering a surprising idea freud had 130 years ago
+- 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-19
+- https://www.sciencedaily.com/releases/2026/10/261018084028.htm
+- DOI: 10.3390/e28030318
+- 요약: Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new 
+  - "What if the human brain works in ways that Sigmund Freud began describing more than 130 years ago?"
+  - ""For over 130 years, psychoanalysis has developed psychological theories about how predictions take place at a subjective level, which cognitive neuropsychology is now studying at a physiological level." Although neuroscience and psychoanalysis approach the mind differently, the researchers suggest that both may be describing related processes."
   - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
 
-## 14. Your brain maps out numbers, including integers and fractions
+## 15. Wireless neural chip tracks brain changes in real time after Alzheimer's drug administration
+- 점수 6 · DOSE · MedicalXpress · 2026-10-27
+- https://medicalxpress.com/news/2026-10-wireless-neural-chip-tracks-brain.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A joint research team led by KAIST has used a small, implantable neural chip to wirelessly monitor real-time changes in a neurotransmitter involved in memory and learning after an Alzheimer's drug has been administered. In miniature pigs (minipigs), the team observed an increase in the neurotransmit
+
+## 16. Heart drug combo reduces kidney damage in septic shock surgery, major trial finds
+- 점수 6 · DOSE · MedicalXpress · 2026-10-27
+- https://medicalxpress.com/news/2026-10-heart-drug-combo-kidney-septic.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A simple adjustment to drugs given during operations for septic shock could prevent thousands of patients from suffering kidney damage, according to the results of a major trial now published in JAMA. Scientists from the University of Southampton working with experts from Zhejiang University School 
+
+## 17. Omega-3 EPA linked to longer survival after surgery for colorectal cancer liver metastases
+- 점수 6 · SCALE · MedicalXpress · 2026-10-26
+- https://medicalxpress.com/news/2026-10-omega-epa-linked-longer-survival.html
+- 주의: 상관관계
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Patients assigned to receive high-dose eicosapentaenoic acid (EPA), an omega-3 fatty acid, before and after surgery for colorectal cancer liver metastases had longer overall survival than those assigned to receive placebo, according to results of the phase 3 EMT2 trial presented at the ESMO Congress
+
+## 18. Your brain maps out numbers, including integers and fractions
 - 점수 5 · CUT · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-brain-integers-fractions.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: From learning to count to solving complex calculations, math requires an inherent organization of information. A team of researchers led by Stanislas Dehaene, Ph.D., and Daniela Valério, Ph.D., at the INSERM-CEA Cognitive Neuroimaging Unit (Unicog) Lab in France took dynamic brain scans of adults pr
 
-## 15. Mental health support for parents after pediatric intensive care may modestly reduce PTSD and depressive symptoms
+## 19. Mental health support for parents after pediatric intensive care may modestly reduce PTSD and depressive symptoms
 - 점수 5 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Admission to a pediatric intensive care unit (PICU) can have lasting psychological effects on both children receiving treatment and their parents. To investigate the effects of psychosocial interventions on parents' emotional health, researchers searched five major academic databases for studies pub
 
-## 16. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
+## 20. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
 - 점수 5 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html
 - 주의: 상관관계
@@ -170,104 +196,85 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A Hiroshima University–led clinical trial found that hydrogen supplementation did not significantly improve sleep quality compared with a placebo; however, exploratory analyses suggest that differences in the abundance of hydrogen-producing gut bacteria may be associated with individual differences 
 
-## 17. Plant-first food pyramid brings international dietary guidelines together in adaptable global guide
+## 21. Plant-first food pyramid brings international dietary guidelines together in adaptable global guide
 - 점수 5 · SCALE · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-food-pyramid-international-dietary-guidelines.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Dietary guidance varies by country, and no international food pyramid has brought its recommendations together until now. BYU nutritional science professor Karen Della Corte led a global team of nutrition scientists to develop an International Food Guide Pyramid that reflects broad scientific agreem
 
-## 18. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
+## 22. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
 - 점수 5 · WEIGH · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: South Africa endured its worst year of load shedding (scheduled power cuts by the country's utility, Eskom) in 2023. The power went off on 335 of the year's 365 days, often several times a day. Since then, the country has gone more than a year and a half without these planned power cuts.
 
-## 19. Elections are more predictable than they look
+## 23. Elections are more predictable than they look
 - 점수 5 · PRESS · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-elections.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when indiv
 
-## 20. Potatoes could be the secret to better plant-based meat, say food scientists
+## 24. Potatoes could be the secret to better plant-based meat, say food scientists
 - 점수 5 · SCALE · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.
 
-## 21. Tegoprubart preserves kidney function better than tacrolimus in first-time transplant patients, trial suggests
+## 25. Tegoprubart preserves kidney function better than tacrolimus in first-time transplant patients, trial suggests
 - 점수 5 · SCALE · MedicalXpress · 2026-10-24
 - https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The phase 2 BESTOW clinical trial showed that tegoprubart (a novel anti-CD40L antibody therapy) was better at preserving kidney function than tacrolimus (the current standard of care) in immunosuppressive regimens in adults receiving their first kidney transplant. Kidney graft function stabilized af
 
-## 22. ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer
+## 26. ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer
 - 점수 5 · SCALE · MedicalXpress · 2026-10-24
 - https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new analysis of a phase 3 clinical trial found that the targeted drug daraxonrasib improved survival compared with standard chemotherapy across multiple groups of patients with advanced pancreatic cancer, including those with different RAS mutations and those without an identified RAS mutation.
 
-## 23. Postpartum recovery window may play a critical role in maternal aging and long-term health
+## 27. Postpartum recovery window may play a critical role in maternal aging and long-term health
 - 점수 5 · CUT · MedicalXpress · 2026-10-26
 - https://medicalxpress.com/news/2026-10-postpartum-recovery-window-play-critical.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In many studies, it appears that women who have more children have a higher risk of heart disease and a shorter life span, but this effect is inconsistent across populations and no good explanation for it exists. Against this backdrop, new tools to assess biological age—the age reflected by one's bi
 
-## 24. Are 'mega-Earths' real? Stellar activity may explain these oversized rocky worlds
+## 28. Can we really predict the future? Over one million forecasts offer clues, not certainty
+- 점수 5 · PRESS · Phys.org · 2026-10-26
+- https://phys.org/news/2026-10-future-million-clues-certainty.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Can crowds of people trading on what they believe will happen collectively predict the future? A new Tel Aviv University study of more than 1 million forecasts suggests that they often come remarkably close. But when it comes to certain events, from international conflicts to elections, the odds may
+
+## 29. More education reduces dementia risk decades later
+- 점수 5 · 형식? · MedicalXpress · 2026-10-26
+- https://medicalxpress.com/news/2026-10-dementia-decades.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A law that required British teenagers to stay in school for an additional year had an unexpected consequence nearly 50 years later: fewer dementia diagnoses.
+
+## 30. Are 'mega-Earths' real? Stellar activity may explain these oversized rocky worlds
 - 점수 4 · WEIGH · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new study suggests that some of the heaviest rocky planets ever reported may not be as heavy as they look. These so-called 'mega-Earths,' rocky planets weighing more than about 10 Earths, could be an illusion created by activity on their host stars. The paper was posted to the arXiv preprint serve
 
-## 25. Paying for the past: Norway's finder's fees favor gold's weight over what it tells us
+## 31. Paying for the past: Norway's finder's fees favor gold's weight over what it tells us
 - 점수 4 · WEIGH · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-paying-norway-finder-fees-favor.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Ten years ago, in 2016, a metal detectorist came upon a hoard of gold. It had been buried in the dirt for around 1,800 years and consisted of around 396 grams (14 ounces) of gold rings. The detectorist handed in his finds to a museum and received the largest finder's fee ever paid out in Norwegian h
 
-## 26. Parental benefit encouraged people to have children in Estonia, but fathers mainly applied for financial reasons
+## 32. Parental benefit encouraged people to have children in Estonia, but fathers mainly applied for financial reasons
 - 점수 4 · 형식? · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-parental-benefit-people-children-estonia.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A generous parental leave reform was introduced in Estonia in 2004. This increased the likelihood of a second or third child being born into the family and also shortened the interval between births, according to Sanan Abdullayev's doctoral thesis, defended at Tallinn University. At the same time, t
 
-## 27. Baby manta rays hunker down close to coasts before facing the open ocean's dangers
+## 33. Baby manta rays hunker down close to coasts before facing the open ocean's dangers
 - 점수 4 · 형식? · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Giant manta rays can grow up to nine meters (30 feet) long with a disk size of seven meters (23 feet) across and weigh up to 2,000 kg (4,400 pounds). This size leaves them with very few natural enemies once they reach adulthood at around eight to 10 years old. But giant manta ray babies, called pups
 
-## 28. Clinical trials generate promising results for improving kidney health
-- 점수 4 · SCALE · MedicalXpress · 2026-10-22
-- https://medicalxpress.com/news/2026-10-clinical-trials-generate-results-kidney.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The results of numerous high-impact Phase III clinical trials that could affect kidney-related medical care were presented in person at American Society of Nephrology Kidney Week 2026, Oct. 22–25.
-
-## 29. Certain children are more prone to serious eating problems in later life
-- 점수 4 · SCALE · MedicalXpress · 2026-10-22
-- https://medicalxpress.com/news/2026-10-children-prone-problems-life.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Emotional overeating, sometimes called "comfort eating," is not just an innocent habit.
-
-## 30. Study finds 1 in 5 young adults in the U.S. experience daily anxiety
-- 점수 4 · DOSE · MedicalXpress · 2026-10-22
-- https://medicalxpress.com/news/2026-10-young-adults-daily-anxiety.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Nearly one in five young adults in the United States reported feeling anxious every day in 2024, up from 15% in 2020. Over the same period, the odds of receiving an anxiety diagnosis as well as use of prescription anxiety medication each rose by roughly a third.
-
-## 31. AAO: Sequential nonarteritic anterior ischemic optic neuropathy occurs earlier with GLP-1 receptor agonist exposure
-- 점수 4 · DOSE · MedicalXpress · 2026-10-22
-- https://medicalxpress.com/news/2026-10-aao-sequential-nonarteritic-anterior-ischemic.html
-- 주의: 상관관계
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: For patients with nonarteritic anterior ischemic optic neuropathy (NAION), glucagon-like peptide-1 (GLP-1) receptor agonist exposure is associated with earlier sequential NAION, according to a study presented at the annual meeting of the American Academy of Ophthalmology, held Oct. 9 to 12 in New Or
-
-## 32. AI identifies tumor aging patterns to predict immunotherapy response across multiple cancer types
-- 점수 4 · CUT · MedicalXpress · 2026-10-22
-- https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Even when given the same drug, some patients respond well while others show little or no response. This is particularly true of immunotherapy. A research team at POSTECH (Pohang University of Science and Technology) has developed an artificial intelligence (AI) technology that can predict, in advanc
-
-## 33. Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty
+## 34. Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty
 - 점수 4 · 형식? · The Conversation / Phys.org · 2026-10-20
 - https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659
 - 주의: DOI 못 찾음
@@ -278,7 +285,7 @@
   - "In 2022, countries worldwide adopted an agreement at that year’s biodiversity conference to halt and reverse biodiversity loss, known as the Kunming-Montreal Global Biodiversity Framework ."
   - "It includes goals to raise US$200 billion a year from public and private sources around the world by 2030 to conserve and manage at least 30% of the world’s land, coastal areas and oceans, stop human-caused extinctions and help struggling species survive."
 
-## 34. NASA’s Mars orbiter fleet is getting old – here’s how that could affect future exploration
+## 35. NASA’s Mars orbiter fleet is getting old – here’s how that could affect future exploration
 - 점수 4 · PRESS · The Conversation · 2026-10-19
 - https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555
 - 주의: DOI 못 찾음
@@ -289,43 +296,38 @@
   - "But in December 2025, NASA lost contact with its Maven spacecraft , bringing the total number of active satellites down to seven, and NASA’s to two."
   - "The cause of the loss of Maven has still not been publicly released, and NASA officially declared the mission over in June 2026."
 
-## 35. There should be black holes in our neighborhood. Can we find them?
+## 36. There should be black holes in our neighborhood. Can we find them?
 - 점수 4 · WEIGH · Phys.org · 2026-10-22
 - https://phys.org/news/2026-10-black-holes-neighborhood.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Scientific estimates show that there should be between about 100 million and 1 billion stellar-mass black holes in the Milky Way. But they aren't easy to locate. They're not like supermassive black holes (SMBH) at the centers of galaxies. Those are usually easy to spot for different reasons.
 
-## 36. Canine cancer patients contribute to next-generation minimally invasive cancer therapies for dogs and humans
+## 37. Canine cancer patients contribute to next-generation minimally invasive cancer therapies for dogs and humans
 - 점수 4 · CUT · Phys.org · 2026-10-23
 - https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Natural disasters. Hikes. Long, dark nights alone. For many people, dogs offer a sense of safety and comfort in challenging or uncertain times. Cancer researchers at a new lab at Purdue University are partnering with dogs to make cancer less frightening—and less deadly—to some of humanity's very bes
 
-## 37. Pedal to the metal: NASA's Psyche heads toward asteroid belt
+## 38. Pedal to the metal: NASA's Psyche heads toward asteroid belt
 - 점수 4 · WEIGH · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: With a successful Mars gravity assist in its rearview mirror, NASA's Psyche spacecraft has fired up its thrusters and is accelerating toward the metal-rich asteroid of the same name. During the first leg of its journey, following an October 2023 launch, the mission used its electric propulsion syste
 
-## 38. Sinking Antarctic ice reveals a hidden lake's massive water loss
+## 39. Sinking Antarctic ice reveals a hidden lake's massive water loss
 - 점수 4 · WEIGH · Phys.org · 2026-10-23
 - https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The Kronshtadskiy subglacial lake near East Antarctica's Amery Ice Shelf was hidden beneath Antarctica's ice, but its drainage left a mark visible from space as a broad depression that deepened by more than 6 meters (20 feet) at its center.
 
-## 39. El Niño then and now
-- 점수 4 · WEIGH · Phys.org · 2026-10-23
-- https://phys.org/news/2026-10-el-nio-1.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997–98 and 2015–16, upended weather patterns. Impacts spanned the planet, from fires in Ind
-
-## 40. I’m a Philly forensic psychologist who has conducted dozens of psychopathic evaluations – here’s why an evaluation of R.C. Horsch in the ‘80s didn’t identify him as a possible psychopath
-- 점수 3 · WEIGH · The Conversation · 2026-10-20
-- https://theconversation.com/im-a-philly-forensic-psychologist-who-has-conducted-dozens-of-psychopathic-evaluations-heres-why-an-evaluation-of-r-c-horsch-in-the-80s-didnt-identify-him-as-a-possible-psychopath-294035
+## 40. Why do people still get polio in some countries and not in others?
+- 점수 4 · DOSE · The Conversation · 2026-10-26
+- https://theconversation.com/why-do-people-still-get-polio-in-some-countries-and-not-in-others-294010
+- 대상: 350,000 children, 52 children
 - 주의: DOI 못 찾음
-- 요약: Philadelphia police and FBI are conducting a massive investigation into the home where the late R.C. Horsch and his son lived, along with several women who’ve gone missing.
-  - "Seven missing women have been linked to the house that was shared by 44-year-old Eugene Horsch and his late father, Raymond “R.C.” Horsch, in the Olney section of Philadelphia."
-  - "Law enforcement has said Raymond Horsch, who died in 2025 at the age of 82, is the suspected killer ."
-  - "Horsch, done in the mid-1980s, did not identify him as a potential psychopath."
-  - "One answer is that the tests used to identify psychopathic characteristics had not yet been developed in 1985."
-  - "Although a precursor to the PCL-R was developed in 1980, it was not commercially available, and the PCL-R was not commercially released until 1991."
+- 요약: Polio can survive only where it finds kids who aren’t protected by a vaccine.
+  - "Why are people still getting polio in some countries and in not others? – Mia, age 9, Centennial, Colorado On a busy street in Karachi, Pakistan, a healthcare worker kneels down so she’s eye to eye with a toddler."
+  - "But in about 1 out of every 200 infections globally, the virus attacks the nerves that control muscles, usually in the legs."
+  - "In 1988, polio paralyzed about 350,000 children in 125 countries."
+  - "Since then, polio cases have dropped by more than 99% globally ."
+  - "In 2025, wild polio paralyzed 52 children there."
