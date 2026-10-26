@@ -1,0 +1,1242 @@
+{
+ "week": "2026-10-26",
+ "updated": "2026-10-26",
+ "status": [
+  {
+   "feed": "ScienceDaily 전체",
+   "url": "https://www.sciencedaily.com/rss/all.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 6
+  },
+  {
+   "feed": "ScienceDaily 별난연구",
+   "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 36
+  },
+  {
+   "feed": "ScienceDaily 뇌·마음",
+   "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 29
+  },
+  {
+   "feed": "ScienceDaily 동식물",
+   "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 31
+  },
+  {
+   "feed": "ScienceDaily 건강",
+   "url": "https://www.sciencedaily.com/rss/top/health.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 10
+  },
+  {
+   "feed": "Phys.org",
+   "url": "https://phys.org/rss-feed/",
+   "ok": true,
+   "items": 30,
+   "span_days": 2
+  },
+  {
+   "feed": "MedicalXpress",
+   "url": "https://medicalxpress.com/rss-feed/",
+   "ok": true,
+   "items": 30,
+   "span_days": 3
+  },
+  {
+   "feed": "The Conversation",
+   "url": "https://theconversation.com/us/articles.atom",
+   "ok": true,
+   "items": 50,
+   "span_days": 8
+  }
+ ],
+ "top": [
+  {
+   "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261020085427.htm",
+   "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.",
+   "date": "2026-10-22",
+   "source": "ScienceDaily 뇌·마음",
+   "first_seen": "2026-10-22",
+   "text": "Millions of Americans take fish oil supplements in hopes of protecting their memory and keeping their brains healthy as they age. These products have become a major business, with Americans spending more than $1 billion each year on supplements containing omega-3 fatty acids. These essential nutrients help build and maintain the connections between brain cells that support memory, learning, and other cognitive functions. But a new study suggests that getting more omega-3s into the brain through supplements may not provide the protection many people expect. Researchers at Keck Medicine of USC found that even when high doses of omega-3s successfully reached the brain, they did not produce measurable improvements in memory, thinking abilities, or protection against brain shrinkage. The findings, published in eBioMedicine , come from a two-year clinical trial involving older adults considered to be at increased risk of developing Alzheimer's disease. Despite taking omega-3 supplements daily, participants showed no significant cognitive advantage over those who received a placebo. \"We all wish there was a silver bullet for preventing Alzheimer's, but our findings showed that fish oil supplements do not appear to protect brain health,\" said Hussein Naji Yassine, MD, director of the USC Center for Personalized Brain Health and lead investigator of the study. \"While omega-3s play an important role in forming brain cell connections needed for cognition, our results do not support fish oil supplements as a preventive measure against Alzheimer's.\" To investigate whether omega-3 supplements could protect the aging brain, researchers enrolled 365 adults between the ages of 55 and 80. All participants rarely ate fish, a major dietary source of omega-3 fatty acids, and were considered at elevated risk for Alzheimer's disease. Nearly half (47%) carried APOE4, a gene variant associated with a substantially higher risk of developing Alzheimer's later in life. Although having this variant does not mean someone will necessarily develop the disease, it is the strongest known genetic risk factor for late-onset Alzheimer's. Participants were randomly assigned to receive either a daily fish oil supplement or a placebo, an inactive treatment used for comparison. The supplements provided 2,000 mg of docosahexaenoic acid (DHA), an omega-3 fatty acid that is especially important for the brain. DHA is a major component of brain cell membranes, helping maintain the structure and function of neurons. It also supports communication between nerve cells, making it an important nutrient for normal brain activity. The study was double-blind, meaning neither participants nor researchers knew who was receiving the active supplement during the trial. This approach helps reduce bias and makes it easier to determine whether any observed benefits are actually caused by the treatment. Before evaluating whether the supplements improved brain health, researchers needed to answer a fundamental question: Were the omega-3 fatty acids actually reaching the brain? To find out, they measured DHA concentrations in cerebrospinal fluid, the clear liquid that surrounds and cushions the brain and spinal cord. Examining this fluid can provide information about substances entering and circulating within the central nervous system. After six months, DHA levels in the cerebrospinal fluid had increased by an average of 17% among participants taking the supplements. This provided evidence that the omega-3 fatty acids were reaching their intended destination. However, getting DHA into the central nervous system was only part of the goal. The more important question was whether those higher levels would translate into better brain health. Researchers assessed participants' memory and other cognitive abilities at the beginning of the trial and again after two years. Despite the increase in DHA, those taking fish oil performed no better on the cognitive tests than participants receiving the placebo. The supplements did not prevent shrinkage of the hippocampus, a region deep within the brain that plays a central role in forming and organizing memories. The hippocampus is particularly vulnerable to changes associated with aging and Alzheimer's disease, making its size an important indicator researchers use when studying brain health. Taken together, the results suggest that simply increasing DHA availability in the brain is not enough to produce measurable cognitive benefits in this group of older adults. The unexpected findings have raised a new question for researchers: If omega-3s can reach the brain, why don't higher levels necessarily improve its function? Yassine and his colleagues are now investigating how the brain absorbs, processes, and uses these nutrients. Their earlier research suggests that omega-3s may be more beneficial when consumed as part of a broader dietary pattern rather than taken in isolation as a supplement. One possibility involves the Mediterranean-style diet, which emphasizes foods such as fish, vegetables, fruits, whole grains, legumes, nuts, and olive oil. This eating pattern naturally supplies omega-3 fatty acids alongside other nutrients and has been associated with a lower risk of Alzheimer's disease. The researchers suspect that the combination of nutrients in a balanced diet, along with an individual's overall health, may influence how effectively omega-3s support the brain. \"We're focused on better understanding how the brain processes omega-3s and whether factors, such as poor health, dietary pattern, genetic risk and age, may change the brain's ability to effectively absorb and use omega-3s,\" said Yassine. \"We are working to develop medications that may help the brain better utilize these nutrients to preserve cognitive function.\" Understanding these differences could eventually help scientists identify why certain people might respond better to omega-3s than others and whether new treatments could improve the brain's ability to benefit from these essential fats. Importantly, the findings do not mean omega-3 fatty acids are unnecessary or that eating fish offers no health benefits. Instead, they indicate that taking high-dose DHA supplements alone did not provide measurable protection against cognitive decline or hippocampal shrinkage in the population studied. Although the trial focused specifically on fish oil supplements, the researchers emphasize that protecting brain health requires a much broader approach. Rather than relying on a single supplement, they recommend maintaining healthy habits throughout life, including regular physical activity, sufficient high-quality sleep, and a nutritious, balanced diet. These behaviors support overall health and may help reduce factors associated with cognitive decline. Physical exercise, for example, promotes cardiovascular health and blood flow, while sleep plays an important role in memory formation and normal brain maintenance. \"Staying healthy throughout life remains the most powerful tool we have for reducing Alzheimer's risk, including regular exercise, quality sleep and a balanced diet,\" said Yassine. \"Living a healthy lifestyle is the brain's equivalent of getting regular car maintenance and high-quality oil changes. The brain is more likely to lose greater function if health issues in other parts of the body go unaddressed, in the same way that car engines stop working if regular maintenance is skipped.\" While these lifestyle factors were not directly tested in the trial, the researchers believe they offer a more promising foundation for long-term brain health than depending on fish oil supplements alone. The results also highlight an important distinction: A nutrient can be essential for healthy brain function without providing additional protection when consumed in large doses as a supplement. Understanding why that happens may open new avenues for research into Alzheimer's prevention and the nutritional needs of the aging ",
+   "facts": [
+    "These products have become a major business, with Americans spending more than $1 billion each year on supplements containing omega-3 fatty acids.",
+    "But a new study suggests that getting more omega-3s into the brain through supplements may not provide the protection many people expect.",
+    "Researchers at Keck Medicine of USC found that even when high doses of omega-3s successfully reached the brain, they did not produce measurable improvements in memory, thinking abilities, or protection against brain shrinkage.",
+    "Despite taking omega-3 supplements daily, participants showed no significant cognitive advantage over those who received a placebo.",
+    "\"While omega-3s play an important role in forming brain cell connections needed for cognition, our results do not support fish oil supplements as a preventive measure against Alzheimer's.\" To investigate whether omega-3 supplements could protect the aging brain, researchers enrolled 365 adults between the ages of 55 and 80.",
+    "All participants rarely ate fish, a major dietary source of omega-3 fatty acids, and were considered at elevated risk for Alzheimer's disease.",
+    "Nearly half (47%) carried APOE4, a gene variant associated with a substantially higher risk of developing Alzheimer's later in life.",
+    "The supplements provided 2,000 mg of docosahexaenoic acid (DHA), an omega-3 fatty acid that is especially important for the brain.",
+    "The study was double-blind, meaning neither participants nor researchers knew who was receiving the active supplement during the trial.",
+    "Before evaluating whether the supplements improved brain health, researchers needed to answer a fundamental question: Were the omega-3 fatty acids actually reaching the brain?"
+   ],
+   "doi": [
+    "10.1016/j.ebiom.2026.106316"
+   ],
+   "sample": [
+    "365 adults"
+   ],
+   "journal_ref": "Journal Reference : Hussein N. Yassine, Sara Ghasem Pour, Marlene Juarez, Isabella C. Arrelanas, Nada Ali, Dante Dikeman, Ashley Sanchez, Jackson Park, Bilal Kerman, Marlon V. Duro, Isaac Asante, Stan Louie, Naoko Kono, Lina M. D\\'Orazio, Helena Chui, Wendy J. Mack, Michael G. Harrington, Meredith N. Braskie, Lon S. Schneider. CNS target engagement of high-dose DHA supplementation in older adults ",
+   "catch_extra": [
+    "세포·시험관",
+    "상관관계"
+   ],
+   "sources": [
+    "ScienceDaily 뇌·마음"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261020085427.htm"
+   ],
+   "format": "SCALE",
+   "seen": "2026-10-19",
+   "catch": [
+    "세포·시험관",
+    "상관관계"
+   ],
+   "score": 10,
+   "why": [
+    "형식 SCALE",
+    "훅: surpris, failed to",
+    "생활소재: diet, supplement, memory",
+    "이미 본 소재(2026-10-19)"
+   ]
+  },
+  {
+   "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261023023710.htm",
+   "summary": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how these animals evolved.",
+   "date": "2026-10-24",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-24",
+   "text": "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved. Rather than developing increasingly sophisticated flight abilities, some of the earliest birds appear to have taken a very different evolutionary path, including losing the ability to fly altogether. The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago). Described in a study published in Nature, the crow-sized creature provides evidence that early bird evolution was much more complex than scientists once believed. Instead of evolving primarily to become better flyers, ancient birds were adapting to a variety of environments and ways of life, including those that favored living on the ground. Researchers from the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP) of the Chinese Academy of Sciences (CAS) and the Fujian Institute of Geological Sciences uncovered the fossil in the recently recognized Zhenghe Fauna of Fujian Province in southeastern China. According to their findings, Yuezhuornis represents the earliest known example of a bird lineage losing its ability to fly. One of the most remarkable features of Yuezhuornis is its unusual combination of bird and dinosaur characteristics. Although it possessed skeletal features associated with birds, it also retained anatomical traits that would have been familiar among small predatory dinosaurs. Its jaws contained closely spaced, serrated teeth resembling those of deinonychosaurs, a group of meat-eating dinosaurs that included agile predators related to birds. Such teeth are not normally associated with early birds. Even more striking was its second toe, which could bend backward unusually far and carried a curved, sickle-shaped claw. This specialized feature is strongly associated with deinonychosaurs, including dromaeosaurids and troodontids, two groups of predatory dinosaurs. \"When we examined Yuezhuornis , we were struck by its extraordinary mix of features,\" said Dr. Min Wang, corresponding author of the study. \"It possesses bird-like pelvic and hindlimb structures yet retains the specialized predatory foot and teeth of a small meat-eating dinosaur. It shows us that early bird evolution was far more complicated than we previously realized.\" To understand how Yuezhuornis was related to other prehistoric birds and dinosaurs, scientists carried out detailed analyses of its evolutionary relationships. They used two approaches, maximum parsimony and Bayesian tip-dating, to compare anatomical characteristics and reconstruct the species' position on the evolutionary tree. Maximum parsimony identifies evolutionary relationships that require the fewest changes in characteristics, while Bayesian tip-dating also incorporates statistical estimates of evolutionary history and information about when fossils lived. Both methods produced consistent results, placing Yuezhuornis within Avialae, the evolutionary group that includes modern birds and their closest extinct relatives. \"The results consistently placed Yuezhuornis firmly within Avialae (the group containing modern birds and their closest extinct relatives), just crownward of Archaeopteryx and as a sister taxon to Zhengheornis,\" said Dr. Zhonghe Zhou, a co-author of the study. This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives. The findings indicate that Yuezhuornis belonged to an early branch of bird evolution rather than simply being a small predatory dinosaur with bird-like characteristics. The researchers also examined how Yuezhuornis might have lived. Using measurements of its skeletal proportions and statistical comparisons with other animals, they investigated whether its anatomy was better suited for flying or moving along the ground. The results showed that its limb proportions closely resembled those of modern ground-dwelling birds and certain other prehistoric dinosaurs closely related to birds. This similarity suggests that Yuezhuornis spent its life on the ground and was likely unable to fly. The findings point to an unexpected development in the history of birds. Rather than simply progressing toward stronger wings and more efficient flight, some early bird lineages appear to have moved in the opposite direction, adapting to lifestyles in which flying was no longer necessary. This challenges the traditional assumption that the earliest stages of bird evolution were driven primarily by the demands of flight. Instead, birds were already exploring different ecological roles and developing a surprisingly wide range of body forms. The discovery of Yuezhuornis suggests that the evolution of birds was never a simple, one-directional process. Even during the Late Jurassic, when the earliest bird lineages were emerging, some species were developing adaptations that favored life on land rather than in the air. Its unusual combination of bird-like anatomy, dinosaur-style predatory features, and apparent flightlessness provides a revealing glimpse into that evolutionary experimentation. The fossil shows that early birds were more anatomically and ecologically diverse than previously recognized. It also underscores the scientific importance of the Zhenghe Fauna, a fossil assemblage that is helping researchers investigate a poorly understood period in bird evolution. As additional discoveries emerge from this region of China, scientists may gain an even clearer picture of the surprising evolutionary paths taken by the earliest birds. Materials provided by Chinese Academy of Sciences Headquarters . Note: Content may be edited for style and length. What if Dark Energy Was Once Negative? Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds",
+   "facts": [
+    "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved.",
+    "The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago).",
+    "This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives.",
+    "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
+   ],
+   "doi": [
+    "10.1038/s41586-026-10972-z"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Liming Xu, Min Wang, Ganmin Lin, Liping Dong, Ke Deng, Xing Xu, Honggang Du, Min Lin, Runsheng Chen, Zhonghe Zhou. Jurassic flightless bird reveals early ecological diversity of avialans . Nature , 2026; 658 (8136): 690 DOI: 10.1038/s41586-026-10972-z",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261023023710.htm"
+   ],
+   "format": "CUT",
+   "seen": "2026-10-19",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 8,
+   "why": [
+    "형식 CUT",
+    "훅: strange, bizarre, secret",
+    "생활소재: bird, dinosaur",
+    "이미 본 소재(2026-10-19)"
+   ]
+  },
+  {
+   "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261017230036.htm",
+   "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The findings suggest psilocybin may selectively calm escalating aggression rather than simply suppressing all behavior.",
+   "date": "2026-10-18",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261017230036.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "훅: unexpected",
+    "생활소재: fish"
+   ],
+   "text": "Psilocybin, the psychedelic substance found in more than 200 species of mushrooms, appears to have an unexpected effect on aggressive fish. Most mushrooms containing this compound belong to the gilled mushroom genus Psilocybe . In mammals, psilocybin interacts with serotonin receptors in the brain, influencing emotions and behaviors such as mood, appetite, and aggression. However, scientists still know relatively little about how the substance affects social interactions among animals. To investigate this question, researchers in Canada examined the effects of psilocybin on the amphibious mangrove rivulus fish ( Kryptolebias marmoratus ). Their findings, published in Frontiers in Behavioral Neuroscience , suggest that even a brief exposure to a low dose can significantly reduce aggressive behavior without disrupting normal social interactions. \"We show that an acute, low dose of psilocybin significantly reduces activity and aggressive attack behavior during social interactions in adult mangrove rivulus fish, a species that is naturally highly aggressive,\" said first author Dayna Forsyth, a research associate and former MSc student at Acadia University in Nova Scotia. \"These findings provide the first evidence that psilocybin can selectively reduce escalated aggression in a vertebrate model without suppressing social interaction,\" added senior author Dr. Suzie Currie, a biologist at The University of British Columbia. Mangrove rivulus fish are naturally combative, particularly when they encounter another member of their species. Their aggressive responses are easy to recognize and measure, allowing researchers to detect even small changes in behavior. These fish also have an unusual reproductive ability. They can fertilize themselves, producing offspring that are genetically identical. This makes them especially useful for experiments because scientists can minimize genetic variation and more confidently attribute behavioral differences to psilocybin rather than inherited traits. For the experiment, the researchers worked with three genetically distinct lines of fish bred in the laboratory. One group received psilocybin, another provided the fish used to provoke social interactions, and the third helped researchers measure how much psilocybin entered and accumulated in the animals' bodies. The researchers first established a baseline for each fish's behavior. They placed a fish into a tank already occupied by another fish, with the two separated by a fiberglass mesh barrier and an opaque cover. The mesh prevented physical contact while allowing the fish to see and smell each other once the cover was removed. After allowing five minutes for the fish to adjust to their shared environment, the team removed the opaque cover and recorded their interactions. The following day, 24 hours after the initial observation, the researchers placed the same fish in water containing dissolved psilocybin. Following 20 minutes of exposure, they returned it to the tank with the same fish it had encountered previously. The opaque cover was then removed again so the researchers could observe any changes in behavior. The results revealed a striking change. Fish exposed to psilocybin moved around less and displayed fewer bursts of aggressive swimming than fish that had not received the substance. To assess these changes, the scientists measured overall activity (time spent moving) and several signs of aggression (including swimming bursts). These rapid bursts are particularly important because they indicate that an encounter is escalating toward an attack, even when the fish cannot make physical contact. \"Swimming bursts are high-energy attack behaviors that represent an escalation of aggression towards the stimulus fish without making physical contact,\" explained Currie. \"Other types of aggressive behaviors, like head-on displays, are more about communication and social assessment and require very little energy.\" Interestingly, psilocybin did not suppress every form of aggressive or social behavior. While the fish became less likely to engage in intense, energy-demanding attacks, their less physically demanding social displays remained largely unchanged. \"Psilocybin's calming effect appears to selectively reduce energetically costly, escalated behaviors while lower-energy social display behaviors remained largely unchanged,\" said Forsyth. \"This suggests that this compound can selectively dampen escalated social conflict rather than shutting down behavior altogether.\" The compound also reduced general activity. When placed alongside another member of their species, fish treated with psilocybin spent less time swimming than untreated controls. Together, these findings suggest that psilocybin may influence specific aspects of aggressive behavior rather than simply making animals less responsive to their surroundings. The researchers believe animal studies like this one could eventually help scientists better understand how psychedelic compounds influence behavior and identify possible directions for therapeutic research. By examining which social responses are most sensitive to psilocybin, researchers may be able to uncover biological mechanisms that are difficult to investigate directly in people. Such insights could ultimately inform studies of potential clinical applications. However, the team emphasized that the findings should not be interpreted as evidence of a treatment for aggression in humans. The experiment involved fish, did not evaluate any clinical intervention, and cannot establish whether similar effects would occur in people. There are also important questions about how long the calming effect lasts. The researchers examined only single doses and short exposure periods. They did not investigate repeated treatments, long-term behavioral changes, or whether the fish might adapt to the substance over time. Additional experiments will be necessary to determine whether psilocybin's ability to reduce aggressive attacks can persist beyond the brief period examined in this study. \"Future studies can build on this work to explore how psilocybin alters neural signaling, which serotonin pathways are involved, and why some aspects of social behavior are affected while others are not,\" concluded Currie. \"These are questions that are difficult or impossible to answer directly in humans.\" Materials provided by Frontiers . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.3389/fnbeh.2026.1767175"
+   ],
+   "journal_ref": "Journal Reference : Dayna Forsyth, Nicoletta Faraone, Simon G. Lamarre, Suzanne Currie. The magic of mushrooms: psilocybin influences behavior in the mangrove rivulus fish, Kryptolebias marmoratus . Frontiers in Behavioral Neuroscience , 2026; 20 DOI: 10.3389/fnbeh.2026.1767175",
+   "facts": [
+    "Psilocybin, the psychedelic substance found in more than 200 species of mushrooms, appears to have an unexpected effect on aggressive fish.",
+    "One group received psilocybin, another provided the fish used to provoke social interactions, and the third helped researchers measure how much psilocybin entered and accumulated in the animals' bodies.",
+    "The following day, 24 hours after the initial observation, the researchers placed the same fish in water containing dissolved psilocybin.",
+    "Following 20 minutes of exposure, they returned it to the tank with the same fish it had encountered previously.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Fatty liver disease is actually five different conditions, scientists discover",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261016070642.htm",
+   "summary": "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized. Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, cancer, heart disease, and other serious complications.",
+   "date": "2026-10-19",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261016070642.htm"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 CUT",
+    "훅: actually"
+   ],
+   "text": "A common liver disease affecting nearly 30% of adults worldwide is far more complex than previously understood. Researchers at Mayo Clinic have identified five biologically distinct forms of the condition, each associated with different risks of serious health complications, including heart disease, liver failure, cancer, and the need for a liver transplant. The findings, published in Nature Communications , come from a collaboration between Mayo Clinic and Virginia Tech. Scientists discovered that metabolic dysfunction-associated steatotic liver disease, or MASLD, can develop through several different biological pathways. Some are closely connected to obesity and diabetes, while others appear to be driven by inherited genetic differences. One of the most important findings involves the genetic forms of the disease. These subtypes are associated with a greater likelihood of progressing to advanced liver damage, even in people who do not have the metabolic risk factors typically linked to fatty liver disease. By identifying these differences, doctors may eventually be able to recognize vulnerable patients sooner, improve screening, and select treatments based on the specific biological processes responsible for their illness. \"When clinical and genomic data are analyzed together at this scale, you begin to see patterns of disease progression that would otherwise remain hidden,\" says Shulan Tian, Ph.D., co-senior author and a bioinformatician at Mayo Clinic. \"Once you separate these subtypes, you can start to match treatments to the biology that's actually driving the disease.\" MASLD, previously known as nonalcoholic fatty liver disease, develops when excess fat accumulates in the liver. Many people experience no noticeable symptoms, allowing the condition to go undetected for years. Although fatty liver disease does not always cause serious complications, it can progress to inflammation, scarring, and permanent liver damage. Over time, severe cases may develop into cirrhosis, a condition in which extensive scarring prevents the liver from functioning properly. MASLD is a major contributor to cirrhosis, liver cancer, and liver transplantation worldwide. Understanding why some patients experience severe complications while others do not has therefore become an important goal for researchers. Genetic Analysis Reveals Five Distinct Liver Disease Subtypes To investigate these differences, the research team examined genetic sequencing results alongside extensive medical information from more than 4,600 patients diagnosed with MASLD. Their analysis included liver enzyme measurements, body mass index, blood lipid levels, and other indicators of metabolic health. The researchers also considered additional medical conditions, including diabetes, depression, and sleep apnea. Using advanced computer models, they searched for patterns connecting patients with similar genetic characteristics and clinical findings. This approach revealed five distinct groups, each with its own underlying biological features. The results suggest that patients who receive the same fatty liver disease diagnosis may actually have substantially different forms of the condition, with different risks of developing serious complications. \"What's emerging here is a way to systematically identify meaningful subgroups within complex disease,\" says Eric Klee, Ph.D., co-senior author and the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation. \"It helps us map complex disease with such precision that we can begin to anticipate its course and intervene before the most serious damage occurs.\" The researchers relied on Mayo Clinic's Research Data Atlas, a system designed to connect patients' genetic information with detailed medical records. By bringing these large collections of data together, scientists can detect relationships that might be difficult to recognize when studying individual patients. Dr. Klee helped develop the platform, which draws on resources including the Tapestry Study. That project has produced Mayo Clinic's largest collection of exome data, involving more than 100,000 participants. An exome is the portion of a person's DNA that contains instructions for making proteins, which carry out many of the body's essential functions. Studying this genetic information can reveal inherited differences that influence how diseases begin and progress. The combination of genetic data and medical histories allows researchers to investigate diseases in much greater detail, potentially uncovering important differences that conventional diagnostic methods cannot detect. \"This is exactly the kind of insight large-scale genomic research was built to deliver,\" says Konstantinos Lazaridis, M.D., the Carlson and Nelson Endowed Executive Director for the Center for Individualized Medicine who led the Tapestry Study and is a co-author of the research. \"When you connect genetic data with detailed clinical information across large populations, you can start to redefine diseases in ways that directly impact patient care.\" The findings also suggest that the differences between fatty liver disease subtypes extend beyond the liver itself. For the first time, researchers identified associations between particular MASLD subtypes and conditions such as depression, sleep apnea, and migraine. These connections suggest that the biological processes underlying certain forms of fatty liver disease may be linked to health problems affecting multiple parts of the body. Although the findings do not establish that fatty liver disease directly causes these conditions, they highlight how closely liver health may be connected to other biological systems. Could Personalized Treatments Change Fatty Liver Disease Care? The discovery could eventually change how doctors assess and treat MASLD. Rather than approaching every patient as though they have the same disease, clinicians may be able to use genetic and clinical information to determine which subtype is present and which complications are most likely to develop. Such an approach could be particularly valuable for identifying patients with genetic forms associated with severe liver damage, including those who appear to have relatively few conventional risk factors. The research team now plans to evaluate its findings in larger and more diverse patient populations. Scientists also want to determine whether different subtypes respond differently to available treatments, including GLP-1 receptor agonists, a class of medications used to treat conditions such as type 2 diabetes and obesity. If future studies confirm these differences, the findings could help move fatty liver disease care toward more precise screening, earlier intervention, and treatments tailored to each patient's underlying biology. Materials provided by Mayo Clinic . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1038/s41467-026-77410-6"
+   ],
+   "journal_ref": "Journal Reference : Tahmina Sultana Priya, Huihuang Yan, Kirk J. Wangensteen, Stephen Wu, Anthony C. Luehrs, Filippo Pinto e Vairo, Fan Leng, Andres J. Acosta, Robert A. Vierkant, Alina M. Allen, Konstantinos N. Lazaridis, Eric W. Klee, Danfeng Daphne Yao, Shulan Tian. Subtyping metabolic dysfunction-associated steatotic liver disease using electronic health record-linked genomic cohorts reveals d",
+   "facts": [
+    "A common liver disease affecting nearly 30% of adults worldwide is far more complex than previously understood.",
+    "Genetic Analysis Reveals Five Distinct Liver Disease Subtypes To investigate these differences, the research team examined genetic sequencing results alongside extensive medical information from more than 4,600 patients diagnosed with MASLD.",
+    "That project has produced Mayo Clinic's largest collection of exome data, involving more than 100,000 participants.",
+    "Scientists also want to determine whether different subtypes respond differently to available treatments, including GLP-1 receptor agonists, a class of medications used to treat conditions such as type 2 diabetes and obesity.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": [
+    "100,000 participants",
+    "4,600 patients"
+   ]
+  },
+  {
+   "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261023023732.htm",
+   "summary": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a placebo overall, patients with more severe hypertension showed promising reductions in blood pressure.",
+   "date": "2026-10-24",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261023023732.htm"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "훅: did not"
+   ],
+   "text": "A small device that delivers gentle electrical pulses through the ear could offer a new approach to treating stubborn high blood pressure. In a clinical trial led by researchers at Queen Mary University of London, the technology proved safe, well tolerated, and practical for patients to use at home. Although the treatment did not significantly lower blood pressure compared with a placebo device across all participants, researchers observed encouraging results in patients with more severe hypertension. The findings suggest that stimulating nerves in the ear could eventually help certain people whose blood pressure remains elevated despite taking medication. The results come from the SCRATCH-HTN trial, published in Hypertension , a journal of the American Heart Association. Researchers emphasize that larger studies are needed to determine whether the approach can provide meaningful benefits and which patients might respond best. The experimental treatment uses a technique called transcutaneous autonomic neuromodulation (tAN), which aims to influence the autonomic nervous system. This network of nerves automatically controls essential bodily functions, including heart rate, digestion, and blood pressure. By delivering mild electrical signals to nerves in the ear, researchers hope to influence the body's natural mechanisms for regulating blood pressure without requiring an invasive procedure. The handheld device, developed by Afferent Medical Solutions, uses two small clips positioned on the tragus, the small flap of cartilage located just in front of the ear canal. These clips deliver gentle electrical stimulation, allowing patients to administer the treatment themselves without visiting a clinic. The clinical trial, funded by the National Institute for Health and Care Research (NIHR), enrolled 63 people with uncontrolled hypertension. All participants were already taking at least one medication to lower their blood pressure, but their readings remained above recommended levels. Researchers randomly divided the participants into two groups. One received active nerve stimulation, while the other used a sham device designed to serve as a comparison. This approach helped investigators assess whether the electrical stimulation produced benefits beyond those associated with using the device itself. Participants used their assigned devices for 30 minutes daily during the first two weeks. For the following 10 weeks, they reduced their sessions to once per week. The results showed that the treatment was safe and generally comfortable for participants. Most also followed the prescribed schedule, suggesting that the technology could be practical for regular use at home. However, when researchers compared blood pressure changes across the entire study population, they found no statistically significant difference between patients receiving active stimulation and those using the sham device. Despite the lack of a significant overall benefit, the researchers identified a potentially important finding among participants who entered the trial with more severe hypertension. A prespecified subgroup analysis, meaning the researchers had planned this comparison before examining the results, revealed a greater reduction in blood pressure among these patients when they received active nerve stimulation rather than the sham treatment. This finding raises the possibility that the technique may work better for people with particularly difficult-to-control blood pressure. However, the trial was relatively small, and the subgroup results require confirmation in larger studies before any conclusions can be drawn about its effectiveness. Dr. Ajay Gupta, Chief Investigator, Clinical Reader at Queen Mary University of London and Consultant Physician at Barts Health NHS Trust, said: \"This is an exciting, highly patient-acceptable technology that could ultimately provide a cheap, scalable solution for millions. Although the trial did not achieve significance across the broad unselected group, those with more severe hypertension exhibited a clear blood pressure reduction in the active group compared to sham. \"As the first and most thorough study of its kind, this points towards important new research directions that could help us understand whether non-invasive neuromodulation can benefit particular groups of patients with uncontrolled hypertension.\" High blood pressure, also known as hypertension, is a major contributor to cardiovascular disease and increases the risk of heart attacks and strokes. It places additional strain on blood vessels and the heart, potentially causing serious damage over time. Although medications help many patients manage their condition, a substantial number continue to have blood pressure readings above recommended targets even while receiving treatment. This ongoing challenge has encouraged scientists to explore additional approaches that could complement existing therapies. Ear nerve stimulation is one such possibility. Because the device is small, does not require surgery, and can be used at home, it could offer a convenient option if future research establishes that it reliably lowers blood pressure in certain patients. For now, the findings represent an early step rather than proof of an effective new treatment. The researchers say larger clinical trials will be essential to confirm the encouraging results in patients with severe hypertension and identify which groups, if any, could benefit most from this approach. Materials provided by Queen Mary University of London . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1161/HYPERTENSIONAHA.126.27847"
+   ],
+   "journal_ref": "Journal Reference : Ajay Gupta, David Collier, James Steckelmacher, Jane Field, George Collett, Olivier Zongo, Mital Patel, Manish Saxena, Annastazia Learoyd, Amrita Ahluwalia, and Peter Sever on behalf of SCRATCH Trial Investigators . Safety, Acceptability and Efficacy of Noninvasive Transcutaneous-Autonomic Neuromodulation in Uncontrolled Hypertension . Hypertension , DOI: 10.1161/HYPERTENSIONAH",
+   "facts": [
+    "The clinical trial, funded by the National Institute for Health and Care Research (NIHR), enrolled 63 people with uncontrolled hypertension.",
+    "Participants used their assigned devices for 30 minutes daily during the first two weeks.",
+    "For the following 10 weeks, they reduced their sessions to once per week.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": [
+    "63 people"
+   ]
+  },
+  {
+   "title": "New evidence suggests spinosaurus spent most of its life underwater",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261024221956.htm",
+   "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their findings suggest that Spinosaurus spent most of its life underwater, while some ancient marine reptiles previously thought to be fully aquatic actually spent considerable time on land.",
+   "date": "2026-10-25",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-25",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261024221956.htm"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 CUT",
+    "훅: surpris, actually"
+   ],
+   "text": "For millions of years, evolution helped animals make the transition from life in the ocean to life on land. But the journey did not always move in one direction. Many species eventually returned to the water, developing new adaptations that allowed them to thrive in aquatic environments. Dozens of major groups of mammals and reptiles made this remarkable evolutionary reversal. Now, a new study from Yale University is shedding light on when and how these transitions occurred, as well as which ancient animals became fully aquatic and which continued to depend on land. \"These secondarily aquatic groups adapted in strikingly similar ways to their new aquatic home -- evolving flippers and a suite of other features that made them better swimmers,\" said lead author Caleb Gordon, who completed his doctorate at Yale's Graduate School of Arts and Sciences (GSAS) earlier this year and is now a postdoctoral researcher at the Florida Museum of Natural History. \"As a result, they've become textbook examples of convergent evolution, which can tell us a lot about the processes driving and constraining adaptive change in response to similar environmental cues.\" To investigate these evolutionary changes, the researchers examined hundreds of fossil and modern specimens housed at the Yale Peabody Museum and dozens of other institutions worldwide. They collected extensive new data, including measurements (more than 11,000), photographs, and CT scans. The team combined traditional paleontological techniques with machine learning models that account for evolutionary relationships. They also incorporated a statistical approach originally used by naval forces during World War II. Together, these methods offered a new way to investigate one of the most remarkable transitions in vertebrate evolution. \"Reconstructing the lives of extinct life forms in a scientifically rigorous way, as opposed to just telling stories, is a precise and delicate undertaking,\" said Bhart-Anjan Bhullar, senior author of the study. Bhullar is an associate professor of Earth and planetary sciences in Yale's Faculty of Arts and Sciences (FAS) and an associate curator of vertebrate paleontology and vertebrate zoology at the Peabody Museum. \"It requires a careful interweaving of data from modern organisms, of which our understanding is necessarily far deeper, and knowledge of these living organisms' genealogy relative to fossil forms,\" he said. \"Caleb's work accomplishes all of this and more, and on a massive evolutionary scale.\" For decades, scientists have disagreed about when particular groups of prehistoric animals became fully adapted to life underwater. The fossil record often provides incomplete or conflicting clues, making it difficult to determine whether an extinct species primarily lived on land, in water, or in both environments. Some skeletal features may indicate an aquatic lifestyle, while others suggest that the same animal remained capable of moving and feeding on land. These contradictions have led researchers to different conclusions about how ancient species behaved. \"In these cases, paleontologists are often stuck, as different lines of evidence disagree about what the ancient animal was like,\" Gordon said. To address this uncertainty, Gordon developed a method using relatively simple but effective machine learning models trained on living animals. By identifying relationships between skeletal proportions and known lifestyles, the models can estimate how extinct species used aquatic environments. They can also predict soft tissue adaptations, including swimming structures that rarely survive in fossils. One of the most striking findings concerns Spinosaurus, a giant prehistoric dinosaur whose relationship with water has generated considerable controversy. Spinosaurus lived approximately 113 million to 94 million years ago in what is now northern Africa. Although scientists generally agree that it was associated with aquatic environments, exactly how it moved, hunted, and spent its time remains a subject of debate. Some evidence points to an animal that frequently submerged itself and pursued prey underwater, much like seals or penguins. Other findings suggest a lifestyle closer to that of a modern heron, with Spinosaurus walking and searching for food along shorelines and in shallow water. The Yale team's analysis provides new support for the more aquatic interpretation. \"Our results shed new light on how much time Spinosaurus spent submerged, which could support the underwater hunting view,\" Gordon said. \"We confidently recovered highly aquatic habits for Spinosaurus, indicating that it spent the vast majority of its time submerged in the water.\" Although the findings do not settle every question about how Spinosaurus hunted, they strengthen the case that this enormous predator spent much more of its life underwater than on land. The researchers reached a different conclusion about mesosaurs, small marine reptiles that lived between 290 million and 274 million years ago in regions now forming parts of South Africa and eastern South America. Mesosaurs have long interested paleontologists because they gave birth to live young, a characteristic some researchers have interpreted as evidence of a fully aquatic existence. However, the new analysis suggests that their limbs were not adapted for a life spent entirely in water. Instead, their skeletal proportions indicate that mesosaurs regularly moved between aquatic and terrestrial environments. \"They spent a lot of time on land, like a modern-day alligator or platypus does,\" Gordon said. \"Mesosaurs didn't completely leave the land behind.\" The findings also suggest a broader pattern among the earliest marine reptiles. According to the researchers, all Paleozoic marine reptiles (all marine reptiles around before the dinosaurs appeared) continued to return to land regularly. None appeared to have evolved a completely aquatic lifestyle, with even the most water adapted species remaining amphibious. The researchers found that forelimb proportions were particularly useful for distinguishing these lifestyles. Using this information, their models could predict with more than 90% accuracy whether an animal possessed soft tissue flippers and whether it had highly or fully aquatic habits. An especially unusual part of the research involved adapting a statistical method developed during the 1940s. \"Caleb resurrected a statistical technique from a bygone era,\" said co-author Jacques Gauthier, a professor of Earth and planetary sciences at Yale and curator-in-charge for vertebrate paleontology at the Peabody Museum. \"It was developed during WWII to estimate the probability that an approaching blip on the radar screen was an enemy plane. Caleb cleverly used it to get at whether or not an extinct animal had limbs modified for swimming.\" By repurposing this approach, the researchers could assess the likelihood that an extinct species possessed specialized swimming adaptations, even when direct evidence of those features was missing. The method could eventually help scientists investigate other major changes in evolutionary history. Potential applications include studying when human ancestors developed the ability to walk on two legs and how the dinosaur ancestors of birds evolved the ability to fly. Because most prehistoric vertebrates are known primarily through their fossilized skeletons, reconstructing their behavior is one of paleontology's greatest challenges. Bones preserve valuable information, but they rarely provide a complete picture of how an animal lived. Traditionally, scientists have interpreted particular skeletal features to make arguments about the lifestyles of extinct species. Those interpretations can differ significantly, especially when fossils are incomplete or several anatomical characteristics point toward different conclusions. The new approach offers a more systematic way to evaluate that evidence, using patterns observed in ",
+   "doi": [
+    "10.1016/j.cub.2025.10.068"
+   ],
+   "journal_ref": "Journal Reference : Caleb M. Gordon, Lisa S. Freisem, Christopher T. Griffin, Jacques A. Gauthier, Bhart-Anjan S. Bhullar. Limb proportions predict aquatic habits and soft-tissue flippers in extinct amniotes . Current Biology , 2025; 35 (24): 5982 DOI: 10.1016/j.cub.2025.10.068",
+   "facts": [
+    "They collected extensive new data, including measurements (more than 11,000), photographs, and CT scans.",
+    "Spinosaurus lived approximately 113 million to 94 million years ago in what is now northern Africa.",
+    "The researchers reached a different conclusion about mesosaurs, small marine reptiles that lived between 290 million and 274 million years ago in regions now forming parts of South Africa and eastern South America.",
+    "Using this information, their models could predict with more than 90% accuracy whether an animal possessed soft tissue flippers and whether it had highly or fully aquatic habits.",
+    "An especially unusual part of the research involved adapting a statistical method developed during the 1940s.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261021231224.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261021231224.htm",
+   "summary": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason. A study of 30,000 Americans found that non-dairy creamer has overtaken sugar and milk as the leading source of added coffee calories, helping drive a nearly 40% increase between 2003 and 2018.",
+   "date": "2026-10-22",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261021231224.htm"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: coffee"
+   ],
+   "text": "Americans are getting more calories from their daily coffee, even though the amount they drink has barely changed. Researchers at the Gerald J. and Dorothy R. Friedman School of Nutrition Science and Policy at Tufts University have identified a surprising reason for the increase: non-dairy creamer, which has overtaken sugar and milk as the largest contributor to added calories in coffee. The study, published online in the Journal of the Academy of Nutrition and Dietetics, examined dietary information from 30,000 American adults aged 20 and older. Between 2003 and 2018, average coffee consumption stayed relatively constant at approximately 13 ounces per day. However, the average number of calories consumed from coffee increased from 43 to 60 per day, a rise of nearly 40%. By 2018, the leading sources of added coffee calories were non-dairy creamer, sugar or syrup, and dairy milk. \"Coffee consumption has been associated with several health benefits. However, coffee is often accompanied by the addition of sugar and cream, which can contribute to an increased consumption of calories from added sugar and saturated fat,\" said Fang Fang Zhang, senior author of the study and Neely Family Professor at the Friedman School. \"The more we know about what people are consuming, the better we can understand the link between nutrition and overall health.\" To investigate how Americans' coffee habits evolved, the research team examined eight consecutive cycles of the National Health and Nutrition Examination Survey (NHANES), covering 2003 through 2018. The nationally representative dataset included 30,000 adults aged 20 and older, each of whom completed two 24-hour dietary recalls. Researchers separated coffee beverages into two broad groups: non-combination beverages and those containing additional ingredients. They then classified the additions into several categories, including dairy milk, half-and-half, dairy cream, non-dairy milk, non-dairy creamer, sugar/syrup, sugar substitutes, and other ingredients such as alcohol and cocoa powder. Some participants reported consuming pre-mixed coffee beverages/powder, making it necessary to estimate the amounts of individual ingredients they contained. To do this, the researchers used the USDA Food and Nutrition Database for Dietary Studies corresponding to each survey cycle, along with linked Standard Reference codes. The analysis showed that Americans' overall coffee intake, including coffee consumed without additions, remained largely unchanged between 2003 and 2018. What changed was the amount and type of ingredients being mixed into those beverages. In 2018, dairy milk was the most commonly added ingredient by weight, averaging 21.4 grams per day. Non-dairy creamer followed at 8.1 grams per day, while sugar accounted for 4.4 grams per day. Consumption of dairy milk, sugar, and sugar substitutes showed no statistically significant changes over the study period. Non-dairy additions, however, followed a very different pattern. Their average consumption rose from 3.65 grams per day in 2003 to 10.5 grams per day in 2018. Much of this growth came from non-dairy creamer, which increased from 3.37 to 8 grams per day. Non-dairy milk consumption also climbed sharply, rising from 0.27 to 2.45 grams per day. Other coffee additions increased slightly as well, with an average gain of 0.5 grams per day. Although dairy milk remained the most common coffee addition by weight, non-dairy creamer had become the leading source of added calories by 2018. On average, non-dairy creamer contributed 18.5 calories per day, compared with 16 calories from sugar and 11 calories from dairy milk. In 2003, non-dairy creamer had contributed just 7.71 calories per day, illustrating how dramatically its role in Americans' coffee consumption had changed. \"We found that non-dairy creamer being added to coffee has now passed both sugar and dairy for its contribution to the total energy consumed from coffee. Non-dairy creamers can be high in saturated fat, which is calorie dense. This could explain the increased calories that non-dairy creamer is contributing,\" said Yongyi Pan, the study's lead author and a Ph.D. candidate at the Friedman School. \"Even though it has been on the market since the 1950s, non-dairy creamer has increased in popularity in recent years as consumers seek plant-based or dairy alternatives.\" The researchers also investigated whether coffee consumption differed across groups of adults based on their daily routines and overall diet quality. They found that people who slept fewer hours generally drank more coffee than those who slept longer. A similar pattern emerged among adults who worked longer hours, who tended to consume more coffee than those with shorter work schedules. However, coffee consumption was comparable among people with higher and lower overall diet quality, suggesting that drinking more or less coffee was not strongly associated with how healthy their broader diets were. The researchers acknowledged that the study relied on participants recalling what they had eaten and drunk, which can introduce measurement errors. Because food and beverage consumption can vary considerably from day to day, self-reported dietary information does not always perfectly reflect people's usual habits. The research team took steps to improve the reliability of its estimates. Co-author Bingjie Zhou contributed to the research while pursuing a Ph.D. at the Friedman School. Materials provided by Tufts University . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1016/j.jand.2026.156908"
+   ],
+   "journal_ref": "Journal Reference : Yongyi Pan, Bingjie Zhou, Fang Fang Zhang. Trends in the Consumption of Coffee and Coffee Additions Among U.S. Adults Aged 20 Years, The National Health and Nutrition Examination Survey 2003–2018 . Journal of the Academy of Nutrition and Dietetics , 2026; 156908 DOI: 10.1016/j.jand.2026.156908",
+   "facts": [
+    "The study, published online in the Journal of the Academy of Nutrition and Dietetics, examined dietary information from 30,000 American adults aged 20 and older.",
+    "Between 2003 and 2018, average coffee consumption stayed relatively constant at approximately 13 ounces per day.",
+    "However, the average number of calories consumed from coffee increased from 43 to 60 per day, a rise of nearly 40%.",
+    "By 2018, the leading sources of added coffee calories were non-dairy creamer, sugar or syrup, and dairy milk.",
+    "\"The more we know about what people are consuming, the better we can understand the link between nutrition and overall health.\" To investigate how Americans' coffee habits evolved, the research team examined eight consecutive cycles of the National Health and Nutrition Examination Survey (NHANES), covering 2003 through 2018.",
+    "The nationally representative dataset included 30,000 adults aged 20 and older, each of whom completed two 24-hour dietary recalls.",
+    "They then classified the additions into several categories, including dairy milk, half-and-half, dairy cream, non-dairy milk, non-dairy creamer, sugar/syrup, sugar substitutes, and other ingredients such as alcohol and cocoa powder.",
+    "The analysis showed that Americans' overall coffee intake, including coffee consumed without additions, remained largely unchanged between 2003 and 2018.",
+    "In 2018, dairy milk was the most commonly added ingredient by weight, averaging 21.4 grams per day.",
+    "Non-dairy creamer followed at 8.1 grams per day, while sugar accounted for 4.4 grams per day."
+   ],
+   "sample": [
+    "30,000 adults"
+   ]
+  },
+  {
+   "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261020085727.htm",
+   "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain of rock and water 1.5 kilometers into the air and triggered a tsunami more than 100 meters high.",
+   "date": "2026-10-21",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261020085727.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "훅: mystery"
+   ],
+   "text": "A massive asteroid slammed into the North Sea roughly 43 to 46 million years ago, triggering a tsunami more than 100 meters (330 feet) high. Now, after more than two decades of scientific disagreement, researchers have uncovered compelling evidence confirming the ancient collision. The impact created what is now known as the Silverpit Crater, a massive structure buried deep beneath the seafloor. Although scientists first discovered it in 2002, its origins remained fiercely debated, with some researchers arguing that geological processes, rather than an object from space, were responsible. A research team led by Dr. Uisdean Nicholson of Heriot-Watt University in Edinburgh has now provided the strongest evidence yet that Silverpit was formed by an asteroid or comet. By combining advanced seismic imaging, microscopic examination of rock samples, and computer simulations, the scientists have reconstructed the violent event and identified minerals that could only have formed under extraordinary pressure. The findings, published in Nature Communications , establish Silverpit as one of the relatively few confirmed impact craters on Earth. The Silverpit Crater lies approximately 700 meters beneath the seabed in the southern North Sea, about 80 miles off the coast of Yorkshire, England. The crater itself measures roughly three kilometers across and is surrounded by a much larger, 20-kilometer-wide region of circular faults, which are fractures in the rock where movement has occurred. When scientists first identified the formation in 2002, several features suggested that it had been created by a high-speed collision with an asteroid or comet. Its nearly circular outline, elevated central peak, and surrounding rings of faults resembled structures found at other impact sites. Central peaks can develop when rocks compressed by a powerful collision rebound upward, somewhat like the way water rises in the center after an object splashes into a pool. Some geologists proposed that the unusual formation resulted from the movement of underground salt deposits, which can deform the rock layers above them. Others suggested that volcanic activity had caused part of the seabed to collapse, producing a structure that only appeared to be an impact crater. The disagreement persisted for years. In 2009, geologists even voted on the competing explanations, as documented in Geoscientist magazine. Most participants rejected the asteroid impact hypothesis. The latest findings show that the impact explanation was correct. Scientists Find the Smoking Gun for an Ancient Asteroid Impact The breakthrough came from combining newly available seismic images with microscopic evidence recovered from beneath the seabed. Seismic imaging allows geologists to investigate structures hidden underground by analyzing how sound waves travel through different layers of rock. This technique can reveal buried faults, craters, and other formations that cannot be observed directly. Using the improved data, Nicholson and his colleagues were able to examine Silverpit's internal structure in unprecedented detail. But the most decisive evidence came from tiny mineral crystals discovered in rock cuttings collected from an oil well near the crater. Dr. Uisdean Nicholson, a sedimentologist in Heriot-Watt University's School of Energy, Geoscience, Infrastructure and Society, said: \"New seismic imaging has given us an unprecedented look at the crater. \"Samples from an oil well in the area also revealed rare 'shocked' quartz and feldspar crystals at the same depth as the crater floor. \"We were exceptionally lucky to find these -- a real 'needle-in-a-haystack' effort. These prove the impact crater hypothesis beyond doubt, because they have a fabric that can only be created by extreme shock pressures.\" Shocked minerals are particularly important because their internal crystal structures have been altered by immense pressure. Such changes can occur when an asteroid strikes at tremendous speed, generating powerful shock waves that pass through the surrounding rock. Ordinary geological processes generally cannot produce these distinctive microscopic features. Their discovery at the same depth as the crater floor provides strong physical evidence that an extremely violent impact occurred. With the crater's origins established, researchers used numerical models, or computer simulations based on physical laws, to reconstruct what happened during the collision. Their results suggest that an asteroid approximately 160 meters across approached from the west and struck the seabed at a shallow angle. Although much smaller than the asteroid associated with the extinction of the dinosaurs, an object of this size could still release an enormous amount of energy when traveling at cosmic speeds. According to the simulations, the impact violently displaced vast quantities of rock and seawater, producing a towering curtain of debris before the material collapsed back into the ocean. Dr. Nicholson said: \"Our evidence shows that a 160-meter-wide asteroid hit the seabed at a low angle from the west. \"Within minutes, it created a 1.5-kilometer-high curtain of rock and water that then collapsed into the sea, creating a tsunami over 100 meters high.\" That means the collision sent material nearly a mile into the air before it fell back into the sea, generating a tsunami taller than a 30-story building. Unlike ordinary wind-driven waves, tsunamis involve the movement of enormous volumes of water. They are typically generated when a sudden disturbance, such as an earthquake, underwater landslide, or asteroid impact, rapidly displaces the water above it. The estimated height of Silverpit's tsunami comes from computer modeling of the ancient impact rather than direct observation. Nevertheless, the reconstruction illustrates just how destructive even a relatively modest asteroid can be when it strikes the ocean. For Professor Gareth Collins of Imperial College London, the discovery brings a satisfying conclusion to a controversy he witnessed firsthand. Collins participated in the 2009 debate over Silverpit's origins and contributed the numerical simulations used in the new research. Professor Collins said: \"I always thought that the impact hypothesis was the simplest explanation and most consistent with the observations. \"It is very rewarding to have finally found the silver bullet. We can now get on with the exciting job of using the amazing new data to learn more about how impacts shape planets below the surface, which is really hard to do on other planets. \" The findings do more than settle an old argument. They also give scientists a valuable opportunity to study the underground damage caused by high-speed asteroid impacts. Because much of Silverpit's structure remains buried and well preserved, researchers can investigate how the collision fractured, displaced, and reshaped the surrounding geological layers. These observations could help scientists interpret impact structures on other worlds, where the subsurface effects of collisions are often much more difficult to examine. Earth has experienced countless asteroid and comet impacts throughout its history, but relatively few recognizable craters remain. Weathering, erosion, sediment deposition, and plate tectonics continually reshape the planet's surface. Over millions of years, these processes can wear down, bury, or completely destroy evidence of ancient collisions. As a result, exceptionally preserved impact sites like Silverpit are scientifically valuable. Dr. Nicholson said, \"Silverpit is a rare and exceptionally preserved hypervelocity impact crater. \"These are rare because the Earth is such a dynamic planet -- plate tectonics and erosion destroy almost all traces of most of these events. \"Around 200 confirmed impact craters exist on land, and only about 33 have been identified beneath the ocean. \"We can use these findings to understand how asteroid impacts shaped our planet throug",
+   "doi": [
+    "10.1038/s41467-025-63985-z"
+   ],
+   "journal_ref": "Journal Reference : Uisdean Nicholson, Iain de Jonge-Anderson, Alex Gillespie, Thomas Kenkmann, Tom Dunkley Jones, Gareth S. Collins, James Frankel, Veronica Bray, Sean P. S. Gulick, Ronnie Parr. Multiple lines of evidence for a hypervelocity impact origin for the Silverpit Crater . Nature Communications , 2025; 16 (1) DOI: 10.1038/s41467-025-63985-z",
+   "facts": [
+    "A massive asteroid slammed into the North Sea roughly 43 to 46 million years ago, triggering a tsunami more than 100 meters (330 feet) high.",
+    "Although scientists first discovered it in 2002, its origins remained fiercely debated, with some researchers arguing that geological processes, rather than an object from space, were responsible.",
+    "The Silverpit Crater lies approximately 700 meters beneath the seabed in the southern North Sea, about 80 miles off the coast of Yorkshire, England.",
+    "The crater itself measures roughly three kilometers across and is surrounded by a much larger, 20-kilometer-wide region of circular faults, which are fractures in the rock where movement has occurred.",
+    "When scientists first identified the formation in 2002, several features suggested that it had been created by a high-speed collision with an asteroid or comet.",
+    "In 2009, geologists even voted on the competing explanations, as documented in Geoscientist magazine.",
+    "Their results suggest that an asteroid approximately 160 meters across approached from the west and struck the seabed at a shallow angle.",
+    "Nicholson said: \"Our evidence shows that a 160-meter-wide asteroid hit the seabed at a low angle from the west.",
+    "\"Within minutes, it created a 1.5-kilometer-high curtain of rock and water that then collapsed into the sea, creating a tsunami over 100 meters high.\" That means the collision sent material nearly a mile into the air before it fell back into the sea, generating a tsunami taller than a 30-story building.",
+    "Collins participated in the 2009 debate over Silverpit's origins and contributed the numerical simulations used in the new research."
+   ],
+   "sample": []
+  },
+  {
+   "title": "Too much RNA can starve cells of energy, scientists discover",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261020085023.htm",
+   "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery could help explain how viral infections and certain aging-related diseases damage cells.",
+   "date": "2026-10-21",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "훅: unexpected",
+    "생활소재: aging"
+   ],
+   "text": "Scientists have uncovered a surprising way that viruses can interfere with the body's cells. When too much RNA accumulates inside a cell, it can damage the structures that produce energy, potentially leaving the cell struggling to function normally. A new study led by researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) found that excess RNA produced during poxvirus infections can impair mitochondria, the tiny structures responsible for generating most of the energy cells need to survive. Published in Proceedings of the National Academy of Sciences , the research reveals an unexpected connection between RNA buildup and cellular energy production. The findings could have implications far beyond viral infections, potentially helping scientists better understand aging-related diseases and improve RNA-based medical treatments, including mRNA vaccines. \"Scientists have long known that RNA degradation helps control protein production and remove defective RNA,\" said Dr. Zhilong Yang, a professor in VMBS' Department of Veterinary Pathobiology. \"Our study reveals another important role: it helps cells maintain the energy they need to function properly.\" Cells constantly produce and break down RNA as part of their normal activities. This cleanup process, known as RNA degradation, helps regulate protein production, eliminate faulty RNA, and control immune responses. The new findings suggest it also performs another essential function by protecting the cell's energy supply. RNA plays several important roles in keeping cells functioning. Messenger RNA (mRNA), for example, carries genetic instructions that tell cells which proteins to produce. These proteins are needed for nearly everything cells do, from maintaining their structure to carrying out essential chemical reactions. Another type, double-stranded RNA (dsRNA), frequently appears during viral infections. Its presence can serve as a warning signal, alerting the immune system that a virus may have entered the cell. Viruses often generate large quantities of RNA as they reproduce inside infected cells. Ordinarily, cellular cleanup systems help prevent RNA from accumulating to harmful levels. However, when RNA production exceeds the cell's ability to break it down, the excess material can interfere with mitochondria and reduce energy production. Scientists already understood that excessive double-stranded RNA could provoke potentially harmful immune responses. What surprised the researchers was discovering that too much ordinary messenger RNA could also damage mitochondria. \"MRNA is a normal component of our cells, but it seems like with many good things, if we get too much, that can become a problem for the cell,\" Yang said. \"When too much RNA builds up, including mRNA, it can damage the mitochondria and interfere with the cell's ability to produce energy.\" This creates an unusual challenge for viruses. Although viruses depend entirely on the cells they infect to supply energy and manufacture proteins, producing excessive amounts of viral RNA can damage the very machinery they need to reproduce. According to Yang, poxviruses, a group that includes the viruses responsible for smallpox and mpox, appear to have ways of managing this problem. They use RNA cleanup mechanisms to remove excess RNA, helping infected cells remain functional long enough for viral replication to continue. \"If the cell is not healthy, the virus would not replicate well,\" Yang said. \"The virus needs to keep RNA levels balanced inside the cell.\" One of the study's most unexpected findings emerged when researchers investigated exactly how excess RNA affects mitochondria. Initially, the team suspected that RNA buildup was damaging these cellular powerhouses indirectly by activating the immune system. Certain types of RNA are known to trigger defensive responses, which can place additional stress on infected cells. However, experiments revealed that the damage did not require an immune response. \"When we isolated only the mitochondria and added RNA, we still saw mitochondrial damage,\" said Dr. Djamal Brahim Belhaouari, the study's first author. \"That was the moment we realized this could be a previously unknown cellular response to RNA.\" The researchers also observed that mitochondrial problems developed before substantial immune activation occurred. Furthermore, the damage did not depend on the immune pathways normally activated during infection. Together, these results indicate that excess RNA itself can interfere with mitochondrial function, rather than simply causing damage through the body's response to a virus. The precise mechanism remains unclear, but the researchers have proposed a possible explanation involving electrical charges. Mitochondria produce energy by maintaining an electrical and chemical difference across their inner membranes. This difference helps drive the production of ATP, the molecule cells use as their primary energy source. RNA carries a negative electrical charge. The researchers suspect that when unusually large amounts accumulate near mitochondria, they may disturb the electrical conditions required for efficient energy production. \"We think the negatively charged RNA may accumulate around mitochondria and disrupt the electrical balance needed for energy production, although how it happens is unknown,\" Yang said. \"This is a new concept that we are continuing to explore.\" Although the experiments focused on viral infections, the findings raise questions about whether RNA buildup might contribute to other health problems. Abnormal RNA accumulation has been observed in several conditions, including certain cancers, neurodegenerative diseases, and disorders associated with aging. Neurodegenerative diseases involve the progressive deterioration of nerve cells, as occurs in conditions such as Alzheimer's and Parkinson's disease. Because mitochondria are essential for maintaining healthy cells, disruptions to their energy production could potentially contribute to cellular dysfunction in some of these conditions. The researchers suggest that excess RNA may represent one previously unrecognized source of mitochondrial stress. However, further studies are needed to determine how broadly this mechanism operates and whether it directly contributes to these diseases. \"We think this has quite broad translational implications,\" Brahim Belhaouari said. \"Too much double-stranded RNA or mRNA that cannot be degraded effectively may contribute to disease processes in some contexts.\" Potential Implications for mRNA Vaccines and Future Treatments The discovery could also provide useful information for scientists developing medicines that rely on RNA. RNA-based therapies, including mRNA vaccines, work by introducing RNA instructions into cells to produce specific proteins. Understanding how cells respond to RNA, process it, and eventually break it down is important for designing these treatments. By identifying another way excessive RNA can affect cellular health, the findings may help researchers optimize future RNA-based therapies and vaccines. The study does not establish that existing mRNA vaccines cause mitochondrial damage in people. \"Understanding this mechanism could help researchers design and optimize future RNA-based therapeutics and vaccines by better understanding how cells respond to large amounts of RNA,\" Yang said. More broadly, the research suggests that controlling RNA levels is important for more than maintaining accurate protein production or managing immune activity. It may also be essential for keeping mitochondria functioning and ensuring cells have enough energy. For the scientists, the most striking result was that even a molecule cells depend on every day can become harmful when it accumulates beyond normal levels. \"Scientists already knew that too much double-stranded RNA can be harmful,\" Yang said. \"What surprised us was finding out that too much mRNA -- something",
+   "doi": [
+    "10.1073/pnas.2605194123"
+   ],
+   "journal_ref": "Journal Reference : Djamal Brahim Belhaouari, Anil Pant, Santiago Navarro-Forero, Fernando Cantu, Zhilong Yang. Perturbation of RNA homeostasis impairs mitochondrial respiration during poxvirus infection through excess RNA accumulation . Proceedings of the National Academy of Sciences , 2026; 123 (22) DOI: 10.1073/pnas.2605194123",
+   "facts": [
+    "Another type, double-stranded RNA (dsRNA), frequently appears during viral infections.",
+    "Scientists already understood that excessive double-stranded RNA could provoke potentially harmful immune responses.",
+    "\"Too much double-stranded RNA or mRNA that cannot be degraded effectively may contribute to disease processes in some contexts.\" Potential Implications for mRNA Vaccines and Future Treatments The discovery could also provide useful information for scientists developing medicines that rely on RNA.",
+    "\"Scientists already knew that too much double-stranded RNA can be harmful,\" Yang said.",
+    "\"What surprised us was finding out that too much mRNA -- something cells normally need every day -- can also damage mitochondria and interfere with the cell's ability to produce energy.\" Research reported in this study was supported, in part, by the National Institute of Allergy and Infectious Diseases (R01AI143709 to Z.Y.) and Texas A&M University.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Scientists find 10 different diets linked to slower aging",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261019093439.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261019093439.htm",
+   "summary": "A study by DZNE finds that healthy eating is associated with slower biological aging—and that there is more than one way to eat healthily. The researchers examined ten dietary patterns considered healthy, including the Mediterranean, Nordic, and a plant-based diet, as well as the DASH diet, which is designed to help lower blood pressure. The findings are published in the journal Nature Communications.",
+   "date": "2026-10-21",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261019093439.htm"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet, aging"
+   ],
+   "text": "A large study involving approximately 7,500 people suggests that eating a healthy diet may help slow biological aging, and there is no single eating plan that stands above all others. Scientists at the German Center for Neurodegenerative Diseases (DZNE) investigated 10 different dietary patterns, including the Mediterranean, Nordic, plant-based, and DASH diets. The DASH diet was specifically developed to help reduce blood pressure. Every dietary pattern examined was associated with slower biological aging, as measured by chemical changes in DNA that reflect the body's aging process. The findings were first identified using data from DZNE's Rhineland Study and then independently confirmed in another population. The research was published in Nature Communications . \"Our study suggests that healthy eating goes hand in hand with slower biological aging. The effects are not massive, but they are measurable and relevant for prevention. By slowing the aging process, the risk of age-related diseases such as dementia or cardiovascular disorders can be reduced. Thus, healthy eating contributes to healthy aging,\" says Prof. Monique Breteler, Director of Population Health Sciences at DZNE and head of the Rhineland Study. \"Importantly, there is probably no single 'correct' diet. According to our data, various dietary patterns are associated with slower aging, some more, some less. That is an encouraging finding, because it leaves room to tailor healthy eating to personal and cultural preferences, budget and taste.\" To investigate the connection between diet and aging, the scientists analyzed dietary information and blood samples from roughly 7,500 men and women. The initial analysis included 6,470 participants in DZNE's Rhineland Study in Bonn, Germany. The researchers then tested their findings using data from another 1,034 people enrolled in the EPIC-Potsdam Study, conducted by the German Institute of Human Nutrition Potsdam-Rehbrücke (DIfE). Rather than relying only on participants' chronological ages, the team looked for molecular signs of aging in their blood. Specifically, they measured DNA methylation, a process involving chemical modifications to DNA that help regulate gene activity and influence how cells function. These chemical patterns change in relatively predictable ways as people grow older, allowing scientists to estimate biological age. Unlike chronological age, which simply measures how long someone has been alive, biological age offers clues about how the body is aging at the molecular level. \"We applied three different approaches, so-called epigenetic clocks, to read biological aging from DNA methylation,\" explains Juliana Tavares, a doctoral researcher at DZNE and lead author of the current publication. \"To this end, we leveraged state-of-the-art technology, which allowed us to cover about 850,000 sites in the DNA. This is roughly twice as many as in most previous studies.\" The next step was to determine how closely each participant followed the 10 dietary patterns. Researchers compared reported food consumption with the recommendations for each diet and assigned scores reflecting how well individuals followed those guidelines. Because the diets emphasize different foods and nutritional goals, a person could receive a high score for one eating pattern while scoring poorly on another. In fact, participants who met one definition of healthy eating often did not meet the requirements of other diets. \"One and the same person could therefore rank high on one diet score and low on another. In other words: People who ate healthily by one standard were often not the same people who ate healthily by another. According to our data, hardly anyone counts as a healthy eater by every standard at once,\" says Tavares. Despite those differences, the overall pattern was remarkably consistent. Better adherence to every one of the 10 diets was associated with slower biological aging. Some eating patterns showed stronger associations than others, but the absolute differences were relatively small. \"While there are measurable differences between the diets, they are modest in absolute terms. It's the big picture what matters,\" says Tavares. \"In summary: When it comes to slowing down the aging process, there isn't just one healthy diet, but indeed a whole repertoire of possible diets with a positive effect.\" One unexpected result emerged when researchers examined the association between diet and aging among smokers. The link between healthier eating and slower biological aging was stronger in smokers than in nonsmokers, even though smokers did not generally have healthier diets. The researchers have not yet determined what biological processes might explain this difference. One possibility is that the extensive damage caused by smoking leaves greater room for measurable improvements associated with healthier eating. However, the finding does not lessen the well-established dangers of tobacco use. \"Smoking is very harmful to health,\" says Tavares, \"One explanation for our findings might be that there is just more health benefit to gain for smokers by eating healthy because of the enormous detrimental effects of smoking.\" The scientists also investigated which biological processes might connect the different diets to slower aging. Although each eating pattern was associated with changes at a distinct collection of DNA methylation sites, the underlying biological pathways were surprisingly similar. More than 70% of the affected pathways were shared across all 10 diets. These processes help regulate essential functions such as cellular structure, communication between cells, and metabolism. They also play important roles in aging and the development of chronic diseases. The researchers identified some differences that reflected the specific goals of individual diets. For example, the DASH diet was associated with pathways related to heart health, while the MIND diet, which was developed to support brain health, showed distinct associations with pathways involved in memory and cognitive function. \"More than 70 percent of the affected biological pathways were shared across all diets. These involve cell structure, cell signaling and metabolism -- processes central to aging and chronic disease. Therefore, it is understandable that the dietary patterns we examined were all linked with a slowing of biological aging,\" says Tavares. \"A few pathways were diet-specific, and they matched each diet's main objectives: heart-related pathways were unique to the DASH diet, and pathways related to cognition and memory were unique to the so-called MIND diet, which aims to support brain health. You don't need a perfect diet -- that may be the most practical message here. But moving forward, the diet-specific pathways point to future research on targeted dietary interventions. This could be helpful in designing targeted health recommendations.\" Materials provided by DZNE - German Center for Neurodegenerative Diseases . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1038/s41467-026-77064-4"
+   ],
+   "journal_ref": "Journal Reference : Juliana F. Tavares, Dan Liu, Valentina Talevi, Fabian Eichelmann, Franziska Jannasch, Matthias B. Schulze, N. Ahmad Aziz, Ute Nöthlings, Monique M. B. Breteler. Associations between diet quality, epigenetic aging and epigenome in two population-based cohorts . Nature Communications , 2026; 17 (1) DOI: 10.1038/s41467-026-77064-4",
+   "facts": [
+    "A large study involving approximately 7,500 people suggests that eating a healthy diet may help slow biological aging, and there is no single eating plan that stands above all others.",
+    "Scientists at the German Center for Neurodegenerative Diseases (DZNE) investigated 10 different dietary patterns, including the Mediterranean, Nordic, plant-based, and DASH diets.",
+    "That is an encouraging finding, because it leaves room to tailor healthy eating to personal and cultural preferences, budget and taste.\" To investigate the connection between diet and aging, the scientists analyzed dietary information and blood samples from roughly 7,500 men and women.",
+    "The initial analysis included 6,470 participants in DZNE's Rhineland Study in Bonn, Germany.",
+    "The researchers then tested their findings using data from another 1,034 people enrolled in the EPIC-Potsdam Study, conducted by the German Institute of Human Nutrition Potsdam-Rehbrücke (DIfE).",
+    "\"To this end, we leveraged state-of-the-art technology, which allowed us to cover about 850,000 sites in the DNA.",
+    "This is roughly twice as many as in most previous studies.\" The next step was to determine how closely each participant followed the 10 dietary patterns.",
+    "Better adherence to every one of the 10 diets was associated with slower biological aging.",
+    "More than 70% of the affected pathways were shared across all 10 diets.",
+    "\"More than 70 percent of the affected biological pathways were shared across all diets."
+   ],
+   "sample": [
+    "1,034 people",
+    "6,470 participants",
+    "7,500 men",
+    "7,500 people"
+   ]
+  },
+  {
+   "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261018205044.htm",
+   "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.",
+   "date": "2026-10-19",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261018205044.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: alzheimer, brain"
+   ],
+   "text": "Some people carry one of the strongest genetic risk factors for Alzheimer's disease yet never develop it, remaining mentally sharp well into their 80s. For years, scientists have wondered what protects these individuals despite their increased genetic vulnerability. Now, researchers at Columbia University have uncovered a biological mechanism that could help explain this remarkable resistance. Their findings point to a rare genetic mutation that protects the brain's blood vessels from damage, potentially opening a new path toward Alzheimer's treatments. The discovery builds on research the team published two years ago involving APOE ε4, a gene variant strongly associated with Alzheimer's risk. The scientists found that some people carrying APOE ε4 also possess a rare protective mutation in the fibronectin (FN1) gene. Fibronectin is a protein that helps support the structure of tissues. However, in people with APOE ε4, excessive amounts can accumulate around blood vessels in the brain, potentially compromising a critical protective system known as the blood-brain barrier. The rare FN1 mutation appears to limit this buildup and the damage associated with it. That earlier discovery suggested an intriguing possibility: What if scientists could develop a treatment that recreates the protection provided by this rare mutation? A new study published in Nature Aging brings that possibility closer by identifying how excess fibronectin damages the brain's protective barrier and revealing potential ways to interrupt the process. \"This new study takes us from a genetic clue to a disease mechanism,\" says Caghan Kizil, the study's corresponding author and professor of neurological sciences in the Department of Neurology and the Taub Institute for Research on Alzheimer's Disease and the Aging Brain at Columbia University Vagelos College of Physicians and Surgeons. \"We knew that changes in fibronectin could protect against Alzheimer's, but we didn't know why excess fibronectin was harmful in the first place. This study gives us that detailed mechanism -- and with it, ideas for how to reproduce that natural protection.\" The blood-brain barrier serves as a protective boundary between the bloodstream and the brain. Made up of tightly connected cells surrounding the brain's blood vessels, it carefully regulates which substances can enter brain tissue while helping maintain conditions necessary for removing potentially harmful waste. When this barrier becomes damaged or excessively permeable, substances that would normally be kept out can enter the brain more easily. Such disruptions may contribute to inflammation and other processes involved in neurological diseases, including Alzheimer's. To investigate the role of fibronectin, the Columbia team combined several advanced research approaches. They examined human brain tissue and cerebrospinal fluid, the clear liquid surrounding the brain and spinal cord, using genetic and epigenetic analyses to explore changes in DNA and gene activity. Their investigation also included single-cell sequencing, which reveals the activity of individual cells, and spatial imaging to examine where biological changes occur within tissues. Additional experiments involved human stem-cell models, three-dimensional cultures of blood vessels, and studies in zebrafish and mice. Despite the variety of methods, the findings consistently pointed to the same mechanism: APOE ε4 promotes the production and accumulation of fibronectin around the brain's blood vessels. In mice engineered to carry human APOE ε4, researchers measured nearly twice as much fibronectin in the brain as in mice carrying APOE ε3, another common version of the gene. The greater accumulation was accompanied by evidence that the blood-brain barrier had become leaky. One experiment provided especially important evidence that fibronectin does more than simply accumulate in damaged blood vessels. The researchers increased human fibronectin specifically in astrocytes, specialized support cells that help maintain the blood-brain barrier and keep the brain functioning properly. Increasing fibronectin in these cells was enough to disrupt the barrier, allowing it to become more permeable. Conversely, reducing fibronectin improved the barrier's ability to function normally. These results provided experimental evidence that excess fibronectin can directly contribute to blood-brain barrier damage rather than merely appearing alongside it. \"The animal experiments allowed us to move beyond association,\" says co-first author Prabesh Bhattarai, an associate research scientist in the Kizil lab. \"When we increased fibronectin in astroglia, the barrier became permeable. When we reduced fibronectin, barrier function improved.\" The team then investigated the molecular events responsible for the damage. They found that excessive fibronectin interferes with communication between cells by activating abnormal signals through integrins, proteins that help cells sense and respond to their surroundings, and an enzyme known as focal adhesion kinase. These abnormal signals disrupt a network of growth factors called VEGF, HBEGF, and IGF1. Although growth factors are often associated with cell development and repair, these particular signaling molecules also help astrocytes and blood vessel cells coordinate their activities to maintain a healthy blood-brain barrier. When their communication becomes disrupted, the barrier can lose its integrity, potentially leaving brain tissue more vulnerable to damage. \"Single-cell analysis allowed us to examine this pathway in the different cells that maintain the brain's blood vessels,\" says co-first author Elanur Yilmaz, an associate research scientist in the Kizil lab. \"We observed the same biological pattern across experimental models and human Alzheimer's tissue, making the mechanism especially compelling.\" Evidence From Human Brains Strengthens the Alzheimer's Connection Importantly, the researchers found signs of similar biological disturbances in human samples, suggesting that the process identified in laboratory experiments may also contribute to Alzheimer's disease in people carrying APOE ε4. Analyses of brain tissue and cerebrospinal fluid showed that elevated fibronectin levels were associated with inflammation in astrocytes. Genetic and gene-regulation analyses also connected FN1 to blood vessel disease and changes involving VEGFA, a growth factor that plays an important role in maintaining healthy brain blood vessels. Together, these findings provide multiple lines of evidence linking excess fibronectin to the vascular damage associated with APOE ε4. \"The convergence of these independent human datasets strengthens the case that fibronectin is part of the APOE ε4-related vascular disease process,\" says Badri Vardarajan, associate professor of neurological science in the Department of Neurology, Gertrude H. Sergievsky Center, and Taub Institute, who collaborated on this discovery of the FN1 mutation. A Rare Genetic Defense Could Inspire New Alzheimer's Treatments The potential implications are significant because APOE ε4 is the strongest common genetic risk factor for Alzheimer's disease. Approximately one in five people carries at least one copy of this gene variant. Although carrying APOE ε4 does not guarantee that someone will develop Alzheimer's, it increases their likelihood of developing the disease. Understanding why certain carriers remain unaffected could reveal new opportunities for prevention and treatment. One strategy would be to prevent harmful amounts of fibronectin from accumulating around the brain's blood vessels. Another would involve blocking the abnormal cellular signals triggered by excess fibronectin. A third possibility would be to restore the growth factor signaling that allows astrocytes and blood vessel cells to maintain the blood-brain barrier. Researchers are already investigating these possibilities through laboratory experiments. Howev",
+   "doi": [
+    "10.1038/s43587-026-01204-0"
+   ],
+   "journal_ref": "Journal Reference : Prabesh Bhattarai, Elanur Yilmaz, Elif Öykü Cakir, Huseyin Tayran, Imdadul Haq, Dylan Murphy, Jonah Nadelmann Keller, Quentin Le Grand, Jacqueline O. Eschbach, Hilal Celikkaya, Mehmet I. Cosacak, Hande Yüceer Korkmaz, Annie J. Lee, Verena Haage, Yiyi Ma, Xue Wang, Nastasia Nelson, Weilin Lin, Yixin Zhang, Bengisu Turgutalp, Sherida M. de Leeuw, Ronak Patel, Dörthe Jülich, Özkan",
+   "facts": [
+    "Some people carry one of the strongest genetic risk factors for Alzheimer's disease yet never develop it, remaining mentally sharp well into their 80s.",
+    "The discovery builds on research the team published two years ago involving APOE ε4, a gene variant strongly associated with Alzheimer's risk.",
+    "The scientists found that some people carrying APOE ε4 also possess a rare protective mutation in the fibronectin (FN1) gene.",
+    "However, in people with APOE ε4, excessive amounts can accumulate around blood vessels in the brain, potentially compromising a critical protective system known as the blood-brain barrier.",
+    "The rare FN1 mutation appears to limit this buildup and the damage associated with it.",
+    "Despite the variety of methods, the findings consistently pointed to the same mechanism: APOE ε4 promotes the production and accumulation of fibronectin around the brain's blood vessels.",
+    "In mice engineered to carry human APOE ε4, researchers measured nearly twice as much fibronectin in the brain as in mice carrying APOE ε3, another common version of the gene.",
+    "These abnormal signals disrupt a network of growth factors called VEGF, HBEGF, and IGF1.",
+    "Genetic and gene-regulation analyses also connected FN1 to blood vessel disease and changes involving VEGFA, a growth factor that plays an important role in maintaining healthy brain blood vessels.",
+    "Together, these findings provide multiple lines of evidence linking excess fibronectin to the vascular damage associated with APOE ε4."
+   ],
+   "sample": []
+  },
+  {
+   "title": "Something strange is happening beneath a volcano near 2 million people",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261018205039.htm",
+   "summary": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve eruption forecasting for the active volcano, which sits near 2 million people and attracts tourists to its spectacular lava lake.",
+   "date": "2026-10-19",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261018205039.htm"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 PRESS",
+    "훅: strange"
+   ],
+   "text": "A volcano famous for its glowing lava lake is hiding a surprisingly complex system of magma deep underground. Scientists at Penn State have uncovered evidence of two previously unrecognized magma sources beneath Nicaragua's active Masaya volcano, raising new questions about how molten rock moves beneath the surface. The discovery is particularly important because approximately 2 million people live within 13 miles of the volcano, which is also a popular tourist destination. Understanding its underground activity could help scientists recognize warning signs of future eruptions and better protect nearby communities. Using six years of satellite observations, researchers tracked subtle changes in the ground around Masaya. They discovered that one part of the volcano initially sank before beginning to rise, possibly indicating that fresh magma was entering a deep reservoir. Meanwhile, the ground around its active Santiago crater and lava lake continued to sink, suggesting that a separate, shallower magma reservoir was behaving differently. The findings, published in Geophysical Research Letters , reveal that the volcano's underground magma system may be considerably more complicated than previously understood. \"These observations help scientists better understand how magma moves beneath Masaya and may improve monitoring and eruption forecasting in the future,\" said lead author Lizzie Johnson, who earned her bachelor's degree in geosciences from Penn State in May. Located near Managua, Nicaragua's capital, Masaya is a geologically complex volcano featuring multiple overlapping craters and calderas. Calderas are large depressions that generally form when the ground collapses after magma is removed from an underground chamber. Although scientists have studied Masaya for years, the movement of magma through its underground reservoirs and passageways remains poorly understood. These systems can change over time, making it difficult to determine exactly what is happening beneath the volcano. \"Having a thorough understanding of Masaya's volcanic activity and its related hazards is critical as around 2 million people live near Masaya and the caldera is a national park and popular tourist destination,\" Johnson said. \"Although Masaya last produced a major lava flow in 1772, its persistent degassing often produces dangerously high concentrations of sulfur dioxide volcanic gas.\" Sulfur dioxide is a potentially harmful volcanic gas released as magma approaches or remains near the surface. Even without a major eruption, elevated concentrations can create dangerous conditions for visitors and surrounding communities. Young Cheol Kim, who completed his doctorate in geosciences at Penn State this summer, explained that monitoring the volcano continuously is essential for distinguishing normal activity from changes that might signal increasing volcanic hazards. \"Doing continuous monitoring allows us to understand the baseline activity and identify see if things are changing,\" he said, explaining that certain shifts in volcanic behavior could indicate a period of heightened activity or a possible eruption. \"And then if there is a need to warn people, we can do that in a timely manner.\" To investigate Masaya's underground activity, the researchers analyzed measurements collected by the Sentinel-1 satellite, which observes the volcano approximately once every 12 days. The team used a technique called interferometric synthetic aperture radar (InSAR), which can detect extremely small changes in the elevation of Earth's surface. By comparing satellite measurements taken at different times, scientists can identify areas where the ground is rising or sinking. The technique combines two important capabilities. Synthetic aperture radar sends microwave signals toward Earth's surface, allowing satellites to collect measurements even when clouds obscure the ground. Interferometry compares the returning radar signals to detect changes in distance between the satellite and the surface. This is especially valuable in tropical regions, where frequent cloud cover can make conventional satellite imagery less reliable. \"Cloud penetration is important for volcanoes because many of them, like Masaya, are in tropical areas where there is often cloud cover,\" Kim explained. \"And when we look at all the different satellite images across multiple years, we can see how the distance between the satellite and the ground changes, where it is uplifting or subsiding.\" By examining these subtle movements over time, researchers can investigate processes happening far below the surface without directly observing the magma itself. The satellite measurements revealed an intriguing pattern between 2018 and 2024. During the first part of the study, the ground within Masaya's caldera gradually subsided, meaning it moved downward. Later, the same general area began to rise. Scientists believe this transition could reflect changes in the amount of magma stored underground. When magma drains away from a reservoir, the overlying ground can sink. When additional magma enters and increases pressure within a reservoir, the surface may rise. The most surprising finding was that the area surrounding Santiago crater did not follow the same pattern. Instead, it continued to sink throughout the six-year study, even as the broader caldera began rising. \"When it's subsiding, that means that there's probably magma draining away from the volcano, but once the ground starts uplifting again, that can mean that there's potentially new magma moving in,\" Johnson said. \"At the same time, the area directly around the active Santiago crater deflated over the entire study period independently of the transition to inflation of the main reservoir. This indicates that the plumbing system is more complex and could be due to decreasing magma in a second, shallower reservoir.\" Together, these observations suggest that Masaya may have at least two distinct parts of its magma storage system undergoing different changes. A deeper source could be supplying additional magma to the main reservoir, while a shallower reservoir near Santiago crater may be losing magma. This would help explain why different sections of the same volcano moved in opposite directions. Understanding these underground movements is important because changes in the ground can provide clues about where magma is accumulating, where it is moving, and how it might eventually reach the surface. The researchers emphasized that their observations did not reveal any immediate danger to communities surrounding Masaya. However, identifying the volcano's normal behavior and understanding its magma supply system could make it easier to recognize unusual changes in the future. Continued satellite observations, combined with more detailed computer models, could also help scientists better understand the connections between underground magma reservoirs and volcanic activity at the surface. \"Further long-term geodetic and modeling studies will provide a more thorough understanding and allow for effective hazard monitoring and mitigation at Masaya and other lava-lake hosting basaltic volcanoes,\" Johnson said. The findings may therefore have implications beyond Nicaragua, particularly for other active volcanoes that contain persistent lava lakes and complex underground magma systems. Johnson became involved in the project after attending a presentation by Christelle Wauthier, a Penn State professor of geosciences and computational sciences hub director at the university's Institute for Computational and Data Sciences. She completed the research as part of her Schreyer's Honors College thesis, working alongside graduate researchers, including Kim, to analyze satellite measurements and develop her scientific skills. \"I appreciated learning how a research group works,\" said Johnson, who has recently started a doctoral program in Earth sciences at the University of Hawaii at Manoa, where she wi",
+   "doi": [
+    "10.1029/2026GL123214"
+   ],
+   "journal_ref": "Journal Reference : E. Johnson, Y. C. Kim, C. Wauthier. Double Trouble: Two Active Magma Reservoirs Identified at Masaya Volcano, Nicaragua, Using Satellite Geodesy . Geophysical Research Letters , 2026; 53 (14) DOI: 10.1029/2026GL123214",
+   "facts": [
+    "The discovery is particularly important because approximately 2 million people live within 13 miles of the volcano, which is also a popular tourist destination.",
+    "\"Having a thorough understanding of Masaya's volcanic activity and its related hazards is critical as around 2 million people live near Masaya and the caldera is a national park and popular tourist destination,\" Johnson said.",
+    "\"Although Masaya last produced a major lava flow in 1772, its persistent degassing often produces dangerously high concentrations of sulfur dioxide volcanic gas.\" Sulfur dioxide is a potentially harmful volcanic gas released as magma approaches or remains near the surface.",
+    "\"And then if there is a need to warn people, we can do that in a timely manner.\" To investigate Masaya's underground activity, the researchers analyzed measurements collected by the Sentinel-1 satellite, which observes the volcano approximately once every 12 days.",
+    "By comparing satellite measurements taken at different times, scientists can identify areas where the ground is rising or sinking.",
+    "The satellite measurements revealed an intriguing pattern between 2018 and 2024.",
+    "National Science Foundation through awards 1945417 and 2523375, along with computational resources provided by Penn State's Institute for Computational and Data Sciences.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261018084644.htm",
+   "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic quasiparticles that scientists have dubbed potential \"super-Fermions.\"",
+   "date": "2026-10-18",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "훅: surpris, strange, bizarre",
+    "시각화 어려움: quantum"
+   ],
+   "text": "Physicists have uncovered a strange new form of quantum behavior in which particles organize themselves in ways that challenge established theories. Even more surprising, the particles maintain a remarkable hidden order despite being driven into an extremely energetic state. In a study published in Physical Review Letters , researchers from the group led by Hanns-Christoph Nägerl, working with theoretical physicist Alvise Bastianello of the CNRS and Université Paris-Dauphine, describe how to engineer an exotic quantum state known as a \"fractional Fermi sea.\" The breakthrough involves pushing ultracold cesium atoms far beyond their normal conditions by repeatedly changing how strongly they attract or repel one another. Rather than simply becoming disordered, the particles rearrange themselves into an unusual configuration that behaves differently from the quantum systems scientists have traditionally studied. The theoretical findings provide the foundation for recent experimental research conducted by Nägerl's team at the Department of Experimental Physics. Under ordinary conditions, quantum particles follow well-established rules that determine how they arrange themselves, particularly at extremely low temperatures. One important example involves fermions, a category of particles that includes electrons. These particles cannot all occupy the same quantum state, so they fill available energy levels according to specific restrictions. At very low temperatures, this arrangement produces what physicists call a Fermi sea. But what happens when researchers deliberately disrupt the conditions that normally govern how particles behave? As Alvise Bastianello explains: \"Fermions, for instance, stack neatly into the available energy states to form the so-called 'Fermi sea'. But what happens if one forces interacting atoms to continuously cycle through extreme conditions, smoothly shifting them from strongly repelling each other to strongly attracting each other?\" To investigate this possibility, the researchers studied ultracold cesium atoms confined to a one-dimensional system. This means the atoms are restricted to moving along a single direction, creating an environment in which their quantum interactions can be studied with exceptional control. The team examined what happens when the interactions between these atoms are repeatedly adjusted, cycling between powerful repulsion and attraction. Their calculations revealed something unexpected. Starting from the ground state, the lowest energy configuration available to the system, the atoms could be driven into a highly excited state without losing their underlying organization. The researchers call this unusual arrangement a fractional Fermi sea because its particles appear to obey a modified rule governing how quantum states are occupied. \"Instead of simply heating the system, the interaction cycle reorganizes the atoms into a new many-body state,\" says Yi Zeng, the leading author of this study. \"This gives us a controlled way to explore quantum matter beyond the usual equilibrium paradigms.\" One of the most intriguing features of the fractional Fermi sea is that its particles remain organized even though the system has been pushed far from equilibrium. In physics, equilibrium describes a condition in which a system's overall properties have settled into a stable balance. Systems driven far from equilibrium can behave in complicated and unexpected ways, making them particularly challenging to understand. Yet the fractional Fermi sea is not simply a collection of excited particles behaving randomly. Instead, it contains distinctive mathematical patterns that reveal a deeper structure. Among these patterns are pronounced ripples called Friedel oscillations. These are wave-like variations associated with the way quantum particles influence one another. The researchers also identified unusual patterns in how correlations between particles weaken with increasing distance, even when the repulsive interactions are relatively weak. These signatures are important because they differ from predictions associated with Tomonaga-Luttinger liquid theory, a long-established framework for describing how interacting quantum particles behave in one-dimensional systems. The findings therefore point toward a previously unexplored type of quantum behavior that cannot be fully described using this familiar theoretical picture. \"This state is highly excited, but it is not random,\" says Hanns-Christoph Nägerl, the group leader. \"It has a hidden order that becomes visible in its correlations.\" The strange behavior also raises questions about the effective particles that emerge within the system. Physicists call these collective excitations quasiparticles because they can behave like individual particles even though they arise from the coordinated motion of many interacting particles. Nägerl suggests that the unusual excitations might eventually deserve a name of their own. \"We are not yet sure how we should name these new quasiparticles. Perhaps 'super-Fermions'?\" The discovery suggests that fractional Fermi seas represent an exotic critical phase of quantum matter, with characteristic patterns of particle correlations that extend beyond existing descriptions of one-dimensional quantum systems. It also demonstrates the growing power of quantum simulation, a technique that allows scientists to use carefully controlled quantum systems to investigate physical behavior that would otherwise be difficult to reproduce or study. Ultracold atoms are particularly useful for this purpose because researchers can precisely adjust their interactions and observe how the resulting quantum states change. Rather than limiting these experiments to recreating phenomena already understood through established theories, scientists can now explore deliberately engineered states that reveal entirely new possibilities. As Hanns-Christoph Nägerl says: \"The discovery of fractional Fermi seas shows how far we can push quantum simulation: not only reproducing known models, but creating and probing states that go beyond established paradigms.\" The current publication establishes the theoretical framework for fractional Fermi seas. A companion study describing their experimental realization through quantum simulation is undergoing peer review. Together, the research points toward new ways of investigating the fundamental behavior of quantum matter, including unusual collective excitations and hidden forms of order that emerge only when particles are pushed far outside their normal conditions. Materials provided by University of Innsbruck . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1103/j3s5-gjpf",
+    "10.48550/arXiv.2602.17657"
+   ],
+   "journal_ref": "Journal References : Alvise Bastianello, Yi Zeng, Sudipta Dhar, Zekui Wang, Xudong Yu, Milena Horvath, Grigori E. Astrakharchik, Yanliang Guo, Hanns-Christoph Nägerl, Manuele Landini. Exotic Critical States as Fractional Fermi Seas in the One-Dimensional Bose Gas . Physical Review Letters , 2026; 136 (23) DOI: 10.1103/j3s5-gjpf Yi Zeng, Alvise Bastianello, Sudipta Dhar, Zekui Wang, Xudong Yu, Mile",
+   "facts": [
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Your brain maps out numbers, including integers and fractions",
+   "link": "https://medicalxpress.com/news/2026-10-brain-integers-fractions.html",
+   "key": "https://medicalxpress.com/news/2026-10-brain-integers-fractions.html",
+   "summary": "From learning to count to solving complex calculations, math requires an inherent organization of information. A team of researchers led by Stanislas Dehaene, Ph.D., and Daniela Valério, Ph.D., at the INSERM-CEA Cognitive Neuroimaging Unit (Unicog) Lab in France took dynamic brain scans of adults presented with fractions and integers. Their findings, published on Oct. 22 in the journal PLOS Biology, revealed a map of brain activity that underlies how we arrange numerical information.",
+   "date": "2026-10-23",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-23",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-brain-integers-fractions.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "생활소재: brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-brain-integers-fractions.html"
+  },
+  {
+   "title": "Mental health support for parents after pediatric intensive care may modestly reduce PTSD and depressive symptoms",
+   "link": "https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html",
+   "key": "https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html",
+   "summary": "Admission to a pediatric intensive care unit (PICU) can have lasting psychological effects on both children receiving treatment and their parents. To investigate the effects of psychosocial interventions on parents' emotional health, researchers searched five major academic databases for studies published through January 2026 and analyzed eight randomized controlled trials evaluating psychosocial interventions in parents of children admitted to the PICU. The interventions included visits to follow-up clinics, psychological screening with referral, telephone-based psychoeducation, palliative care consultations and acceptance and commitment therapy delivered via videoconference. The findings a",
+   "date": "2026-10-23",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-23",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "생활소재: children"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.ht"
+  },
+  {
+   "title": "Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation",
+   "link": "https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html",
+   "key": "https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html",
+   "summary": "A Hiroshima University–led clinical trial found that hydrogen supplementation did not significantly improve sleep quality compared with a placebo; however, exploratory analyses suggest that differences in the abundance of hydrogen-producing gut bacteria may be associated with individual differences in sleep-related responses.",
+   "date": "2026-10-23",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-24",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementati",
+   "catch_extra": [],
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html"
+   ],
+   "format": "SCALE",
+   "seen": "2026-10-19",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "훅: did not",
+    "생활소재: sleep, supplement",
+    "이미 본 소재(2026-10-19)"
+   ]
+  },
+  {
+   "title": "Plant-first food pyramid brings international dietary guidelines together in adaptable global guide",
+   "link": "https://medicalxpress.com/news/2026-10-food-pyramid-international-dietary-guidelines.html",
+   "key": "https://medicalxpress.com/news/2026-10-food-pyramid-international-dietary-guidelines.html",
+   "summary": "Dietary guidance varies by country, and no international food pyramid has brought its recommendations together until now. BYU nutritional science professor Karen Della Corte led a global team of nutrition scientists to develop an International Food Guide Pyramid that reflects broad scientific agreement and can be adapted across cultures and borders.",
+   "date": "2026-10-23",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-food-pyramid-international-dietary-guidelines.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-food-pyramid-international-dietary-guideline"
+  },
+  {
+   "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades",
+   "link": "https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html",
+   "key": "https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html",
+   "summary": "South Africa endured its worst year of load shedding (scheduled power cuts by the country's utility, Eskom) in 2023. The power went off on 335 of the year's 365 days, often several times a day. Since then, the country has gone more than a year and a half without these planned power cuts.",
+   "date": "2026-10-24",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: sleep"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html"
+  },
+  {
+   "title": "Elections are more predictable than they look",
+   "link": "https://phys.org/news/2026-10-elections.html",
+   "key": "https://phys.org/news/2026-10-elections.html",
+   "summary": "As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when individual races produce surprises.",
+   "date": "2026-10-24",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-elections.html"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 PRESS",
+    "훅: surpris"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-elections.html"
+  },
+  {
+   "title": "Potatoes could be the secret to better plant-based meat, say food scientists",
+   "link": "https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html",
+   "key": "https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html",
+   "summary": "Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.",
+   "date": "2026-10-24",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "훅: secret"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html"
+  },
+  {
+   "title": "Tegoprubart preserves kidney function better than tacrolimus in first-time transplant patients, trial suggests",
+   "link": "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html",
+   "key": "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html",
+   "summary": "The phase 2 BESTOW clinical trial showed that tegoprubart (a novel anti-CD40L antibody therapy) was better at preserving kidney function than tacrolimus (the current standard of care) in immunosuppressive regimens in adults receiving their first kidney transplant. Kidney graft function stabilized after the first month of treatment and remained higher in tegoprubart-treated patients than in tacrolimus-treated patients at each reported time point, with a statistically significant kidney function benefit at 18 months. A recent analysis of BESTOW data found that tegoprubart also caused greater improvements in patient-reported health-related quality of life compared with tacrolimus in study parti",
+   "date": "2026-10-24",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-trans"
+  },
+  {
+   "title": "ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer",
+   "link": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
+   "key": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
+   "summary": "A new analysis of a phase 3 clinical trial found that the targeted drug daraxonrasib improved survival compared with standard chemotherapy across multiple groups of patients with advanced pancreatic cancer, including those with different RAS mutations and those without an identified RAS mutation.",
+   "date": "2026-10-24",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html"
+  },
+  {
+   "title": "Postpartum recovery window may play a critical role in maternal aging and long-term health",
+   "link": "https://medicalxpress.com/news/2026-10-postpartum-recovery-window-play-critical.html",
+   "key": "https://medicalxpress.com/news/2026-10-postpartum-recovery-window-play-critical.html",
+   "summary": "In many studies, it appears that women who have more children have a higher risk of heart disease and a shorter life span, but this effect is inconsistent across populations and no good explanation for it exists. Against this backdrop, new tools to assess biological age—the age reflected by one's biological state, rather than simply the number of years they have been alive—have revealed that pregnancy temporarily elevates biological age, while postpartum recovery can return it closer to baseline.",
+   "date": "2026-10-26",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-26",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-postpartum-recovery-window-play-critical.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "생활소재: aging, children"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-postpartum-recovery-window-play-critical.htm"
+  },
+  {
+   "title": "Are 'mega-Earths' real? Stellar activity may explain these oversized rocky worlds",
+   "link": "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html",
+   "key": "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html",
+   "summary": "A new study suggests that some of the heaviest rocky planets ever reported may not be as heavy as they look. These so-called 'mega-Earths,' rocky planets weighing more than about 10 Earths, could be an illusion created by activity on their host stars. The paper was posted to the arXiv preprint server on Oct. 8.",
+   "date": "2026-10-22",
+   "source": "Phys.org",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html"
+  },
+  {
+   "title": "Paying for the past: Norway's finder's fees favor gold's weight over what it tells us",
+   "link": "https://phys.org/news/2026-10-paying-norway-finder-fees-favor.html",
+   "key": "https://phys.org/news/2026-10-paying-norway-finder-fees-favor.html",
+   "summary": "Ten years ago, in 2016, a metal detectorist came upon a hoard of gold. It had been buried in the dirt for around 1,800 years and consisted of around 396 grams (14 ounces) of gold rings. The detectorist handed in his finds to a museum and received the largest finder's fee ever paid out in Norwegian history. He had been rewarded for the gold weight, not its rarity.",
+   "date": "2026-10-22",
+   "source": "Phys.org",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-paying-norway-finder-fees-favor.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-paying-norway-finder-fees-favor.html"
+  },
+  {
+   "title": "Parental benefit encouraged people to have children in Estonia, but fathers mainly applied for financial reasons",
+   "link": "https://phys.org/news/2026-10-parental-benefit-people-children-estonia.html",
+   "key": "https://phys.org/news/2026-10-parental-benefit-people-children-estonia.html",
+   "summary": "A generous parental leave reform was introduced in Estonia in 2004. This increased the likelihood of a second or third child being born into the family and also shortened the interval between births, according to Sanan Abdullayev's doctoral thesis, defended at Tallinn University. At the same time, taking shared parental leave did not necessarily mean that the father took time off work and assumed primary responsibility for the children while receiving the benefit.",
+   "date": "2026-10-22",
+   "source": "Phys.org",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-parental-benefit-people-children-estonia.html"
+   ],
+   "format": "",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "훅: did not",
+    "생활소재: children"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-parental-benefit-people-children-estonia.html"
+  },
+  {
+   "title": "Baby manta rays hunker down close to coasts before facing the open ocean's dangers",
+   "link": "https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html",
+   "key": "https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html",
+   "summary": "Giant manta rays can grow up to nine meters (30 feet) long with a disk size of seven meters (23 feet) across and weigh up to 2,000 kg (4,400 pounds). This size leaves them with very few natural enemies once they reach adulthood at around eight to 10 years old. But giant manta ray babies, called pups, cannot rely on their size to protect them from predators that live in the open ocean, including several species of shark and orcas.",
+   "date": "2026-10-22",
+   "source": "Phys.org",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html"
+   ],
+   "format": "",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "생활소재: baby, babies, shark"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html"
+  },
+  {
+   "title": "Clinical trials generate promising results for improving kidney health",
+   "link": "https://medicalxpress.com/news/2026-10-clinical-trials-generate-results-kidney.html",
+   "key": "https://medicalxpress.com/news/2026-10-clinical-trials-generate-results-kidney.html",
+   "summary": "The results of numerous high-impact Phase III clinical trials that could affect kidney-related medical care were presented in person at American Society of Nephrology Kidney Week 2026, Oct. 22–25.",
+   "date": "2026-10-22",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-clinical-trials-generate-results-kidney.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 SCALE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-clinical-trials-generate-results-kidney.html"
+  },
+  {
+   "title": "Certain children are more prone to serious eating problems in later life",
+   "link": "https://medicalxpress.com/news/2026-10-children-prone-problems-life.html",
+   "key": "https://medicalxpress.com/news/2026-10-children-prone-problems-life.html",
+   "summary": "Emotional overeating, sometimes called \"comfort eating,\" is not just an innocent habit.",
+   "date": "2026-10-22",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-children-prone-problems-life.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 SCALE",
+    "생활소재: children"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-children-prone-problems-life.html"
+  },
+  {
+   "title": "Study finds 1 in 5 young adults in the U.S. experience daily anxiety",
+   "link": "https://medicalxpress.com/news/2026-10-young-adults-daily-anxiety.html",
+   "key": "https://medicalxpress.com/news/2026-10-young-adults-daily-anxiety.html",
+   "summary": "Nearly one in five young adults in the United States reported feeling anxious every day in 2024, up from 15% in 2020. Over the same period, the odds of receiving an anxiety diagnosis as well as use of prescription anxiety medication each rose by roughly a third.",
+   "date": "2026-10-22",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-young-adults-daily-anxiety.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 DOSE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-young-adults-daily-anxiety.html"
+  },
+  {
+   "title": "AAO: Sequential nonarteritic anterior ischemic optic neuropathy occurs earlier with GLP-1 receptor agonist exposure",
+   "link": "https://medicalxpress.com/news/2026-10-aao-sequential-nonarteritic-anterior-ischemic.html",
+   "key": "https://medicalxpress.com/news/2026-10-aao-sequential-nonarteritic-anterior-ischemic.html",
+   "summary": "For patients with nonarteritic anterior ischemic optic neuropathy (NAION), glucagon-like peptide-1 (GLP-1) receptor agonist exposure is associated with earlier sequential NAION, according to a study presented at the annual meeting of the American Academy of Ophthalmology, held Oct. 9 to 12 in New Orleans.",
+   "date": "2026-10-22",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-aao-sequential-nonarteritic-anterior-ischemic.html"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 4,
+   "why": [
+    "형식 DOSE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-aao-sequential-nonarteritic-anterior-ischemi"
+  },
+  {
+   "title": "AI identifies tumor aging patterns to predict immunotherapy response across multiple cancer types",
+   "link": "https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html",
+   "key": "https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html",
+   "summary": "Even when given the same drug, some patients respond well while others show little or no response. This is particularly true of immunotherapy. A research team at POSTECH (Pohang University of Science and Technology) has developed an artificial intelligence (AI) technology that can predict, in advance, which patients are likely to benefit from treatment.",
+   "date": "2026-10-22",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 CUT",
+    "생활소재: aging"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html"
+  },
+  {
+   "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
+   "link": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
+   "key": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
+   "summary": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment.",
+   "date": "2026-10-20",
+   "source": "The Conversation",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "The Conversation",
+    "Phys.org"
+   ],
+   "links": [
+    "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
+    "https://phys.org/news/2026-10-species-california-condor-lessons-global.html"
+   ],
+   "format": "",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 4,
+   "why": [
+    "생활소재: bird",
+    "2곳 보도"
+   ],
+   "text": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment. It was a victory for the species’ survival, yet this triumph was contested at nearly every step of the way. Conservationists fought bitterly over whether trapping every bird should be considered rescue or surrender. Critics argued that the cost was better spent on other threatened species. Rural communities in Utah and Arizona raised concerns about federal land-use restrictions . Hunting groups such as the National Rifle Association opposed bans on lead ammunition, a leading cause of condor deaths . The condor’s comeback illustrates several questions that governments and conservation organizations grapple with today, including which species get funded and who bears the costs. These are some of the questions being discussed at the U.N. Convention on Biological Diversity conference , being held Oct. 19-30, 2026, in Yerevan, Armenia. In 2022, countries worldwide adopted an agreement at that year’s biodiversity conference to halt and reverse biodiversity loss, known as the Kunming-Montreal Global Biodiversity Framework . It includes goals to raise US$200 billion a year from public and private sources around the world by 2030 to conserve and manage at least 30% of the world’s land, coastal areas and oceans, stop human-caused extinctions and help struggling species survive. The agreement itself doesn’t choose which species to save, but its rules are designed to shape national conservation priorities and guide the funds that pay for conservation. Saving a species like the condor affects local communities and businesses whose activities have put those species at risk. Without local buy-in, pouring money into recovery efforts can fail, yet local communities are often left out of the discussions. An estimated 1 million species are currently threatened with extinction worldwide, and early assessments suggest the world is falling short on most of the agreement’s global biodiversity targets . Because resources are limited, conservationists must weigh trade-offs in deciding which species to protect and how. Should they fund expensive rescue efforts for a species close to extinction, or interventions likely to help multiple species at once? Or maybe they should protect organisms that are unique to a specific geographic region or a species that sustains local livelihoods. Some species are valued for what they do for humanity, such as pollinating crops or purifying water, known as ecosystem services . Honeybees, for example, pollinate over $15 billion worth of crops in the U.S. alone each year. Others hold cultural and spiritual significance, as the condor does for the Yurok Tribe in California. Many conservationists argue that living species possess an inherent right to exist independent of their usefulness to human beings. Getting support for measures to save charismatic species can be easier than for others, however. Think of Greenpeace’s “save the whales” campaign or the World Wildlife Fund’s panda logo. A panda’s adorable face can help pay for its protection and potentially the protection of its surrounding habitat , helping other species living there. A 2025 study examined more than 14,000 species-focused conservation projects from 1992 to 2016. Five mammal groups – primates, carnivores, whales, elephants and rhinos – received 86% of available funding , despite accounting for only one-third of threatened mammal projects. Plants and invertebrates, which are crucial for pollination, nutrient cycling and sustaining food webs, received only 6.6% of the financial backing. Conservation groups and economists at the Paulson Institute estimate that the world needs to spend an additional $1.3 trillion annually on biodiversity conservation and restoration to stop and reverse biodiversity loss. At the 2026 biodiversity conference, delegates will also take up another question that can make or break species recovery: When conservation affects local people, who pays and who gets a say? While conservationists celebrated efforts to return wolves to Europe over the past two decades, some farmers lost livestock to these predators and faced higher costs to protect their flocks. Current European Union funding programs help support livestock protection , but farmers’ ability to shape wolf recovery is part of the story too. Conservation can go terribly wrong if local communities aren’t consulted during planning. In the Ngorongoro Conservation Area, a protected area in Tanzania, the Maasai have fought for years against government orders that they leave the land they have lived on for generations in the name of lion conservation. In March 2026, two presidential commissions recommended that the evictions continue in order to protect wildlife, in a process that included few Maasai , Indigenous peoples’ advocates at the Oakland Institute reported. Protecting vulnerable species often means also supporting the communities living alongside them. At the last round of biodiversity talks in 2024, countries created a permanent advisory body to bring Indigenous peoples and local communities’ knowledge and decisions into the treaty’s decisions. At this year’s conference, known as COP17, they must agree on how that advisory body will operate, including whether these communities get a formal role in decision-making. They are also expected to adopt guidelines for how the 30% global conservation targets apply in Indigenous territories. The international agreement can’t dictate what happens on the ground, but its rules shape national conservation priorities and guide the funds that pay for conservation. That is why the debate over local consultation is at the heart of the 2026 talks. Conservation that is designed for people, rather than with them, risks losing the trust and local cooperation that makes recovery last. Two key issues at the conference involve guaranteeing that Indigenous peoples and local communities have a say in decisions on their territory, including how conservation programs are designed and how resources are allocated. The global biodiversity framework calls for a “ whole-of-society” approach , recognizing that protecting nature needs more than government action alone. But participation is not the same as decision-making power. Advocates for Indigenous groups say communities are too often consulted after priorities are set, rather than being involved in setting them. Whether the farmer paying for fencing or the Indigenous community with connections to a species helps set priorities or is only asked for input after the project has been approved shows whether consultation is genuine or not. The condor’s return shows that nearly extinct species can recover with help. But sustaining a species’ recovery requires protecting the conditions – and supporting the people – that make their survival possible. Researcher Garrett Ordonez, an environmental studies and international relations student at USC, contributed to this article.",
+   "doi": [],
+   "facts": [
+    "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild.",
+    "Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment.",
+    "Convention on Biological Diversity conference , being held Oct. 19-30, 2026, in Yerevan, Armenia.",
+    "In 2022, countries worldwide adopted an agreement at that year’s biodiversity conference to halt and reverse biodiversity loss, known as the Kunming-Montreal Global Biodiversity Framework .",
+    "It includes goals to raise US$200 billion a year from public and private sources around the world by 2030 to conserve and manage at least 30% of the world’s land, coastal areas and oceans, stop human-caused extinctions and help struggling species survive.",
+    "An estimated 1 million species are currently threatened with extinction worldwide, and early assessments suggest the world is falling short on most of the agreement’s global biodiversity targets .",
+    "Honeybees, for example, pollinate over $15 billion worth of crops in the U.S. alone each year.",
+    "A 2025 study examined more than 14,000 species-focused conservation projects from 1992 to 2016.",
+    "Five mammal groups – primates, carnivores, whales, elephants and rhinos – received 86% of available funding , despite accounting for only one-third of threatened mammal projects.",
+    "Plants and invertebrates, which are crucial for pollination, nutrient cycling and sustaining food webs, received only 6.6% of the financial backing."
+   ],
+   "sample": []
+  },
+  {
+   "title": "NASA’s Mars orbiter fleet is getting old – here’s how that could affect future exploration",
+   "link": "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555",
+   "key": "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555",
+   "summary": "NASA lost contact with its Maven spacecraft – the youngest of its Mars orbiters – at the end of 2025. The others in its fleet are over two decades old.",
+   "date": "2026-10-19",
+   "source": "The Conversation",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555"
+   ],
+   "format": "PRESS",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 4,
+   "why": [
+    "형식 PRESS"
+   ],
+   "text": "Currently, about 16,000 satellites are orbiting Earth , providing everything from GPS service and weather reports to phone service in remote locations to people across the globe. In contrast, the highest-ever number of active satellites in orbit around Mars , one of the best-explored other planets in our solar system, is eight. Starting in 2021, there were three from NASA, two from the European Space Agency and one each from the Indian Space Research Organization, the UAE Space Agency and the China National Space Administration. The oldest of these is still 2001 Mars Odyssey, which has now spent 25 years in space, with Mars Express, at 23 years, and the Mars Reconnaissance Orbiter, at 20 years, hot on its heels. But in December 2025, NASA lost contact with its Maven spacecraft , bringing the total number of active satellites down to seven, and NASA’s to two. The cause of the loss of Maven has still not been publicly released, and NASA officially declared the mission over in June 2026. A final report on the cause of the loss is due later this year. NASA is exploring potential commercial solutions to supplement the current fleet of Mars orbiters. In September 2026, NASA selected Jeff Bezos’ Blue Origin to provide a Mars telecommunication satellite no later than Dec. 31, 2028. These satellites are important because future missions will rely on them to communicate with Earth and select safe landing sites on Mars. Planetary scientists like me rely on the data they’ve taken over the past few decades to learn more about our close, red neighbor. The Mars Atmosphere and Volatile EvolutioN, or Maven, spacecraft arrived at Mars in 2014, making it NASA’s youngest orbiter. It was only briefly the youngest in the international Mars family, as the Indian space agency’s Mars Orbiting Mission spacecraft arrived a few days later. The longer any satellite spends in space, the greater the toll of the harsh environment – from extreme temperature swings to solar radiation . Maven, however, appeared generally healthy until it missed a radio check-in – a sign of trouble – after emerging back from behind the planet. Whatever happened to Maven last December was only the second time in the 21st century that NASA had lost contact with an orbiter during otherwise ordinary operations. The other time was in 2006, with Mars Global Surveyor , which NASA ultimately lost, likely due to issues with uploaded software commands. The Mars exploration community, myself among them, is waiting with bated breath to understand why one-third of NASA’s Mars fleet lost contact seemingly overnight. The loss ends a stellar, almost two-decade-long track record of missions ending when expected, not before. Mars science has been in a golden age since 2001 Mars Odyssey arrived at the red planet 25 years ago. NASA has had a Mars rover of some type operating on the surface continuously since 2004 with the Exploration rover landings , so there have been only a handful of years in the 21st century where scientists couldn’t access nearly simultaneous views of Mars from the surface and from orbit. This access gives Mars scientists the ability to study how both the surface and atmosphere change over time. In particular, we can follow changes with Mars’ seasons , which drive about a quarter of its atmosphere onto its surface as seasonal ice . And we have found laundry lists of these changing features, including “spiderlike” araneiform features in the soil that likely develop from carbon dioxide geysers. Learning about rare events like global dust storms , which obscure Mars’ entire surface, also opens up many new questions. We still don’t know what triggers the start of a global dust storm, and they only occur every several Mars years. In Maven’s 11 years at Mars, it was only able to observe one global dust storm, in 2018 . From a practical standpoint, Mars orbiters have their own science missions. However, their powerful radios are also critical for delivering data from landers and rovers , like Perseverance or Curiosity, back to Earth. In the past, NASA has adjusted the Mars Reconnaissance Orbiter and Maven orbits to support landings and surface operations. HiRISE (High-Resolution Imaging Science Experiment) aboard the Reconnaissance orbiter, is the highest-resolution camera in orbit to date. Engineers have used data from HiRISE to ensure they could deliver the Mars rovers Curiosity and Perseverance to the surface, as well as the InSight lander . While Mars orbiters and their instrument suites are selected for their science value, they have come to participate in infrastructure that is essential for getting all the possible data back to Earth. These tasks, which go beyond science data collection, make the orbiter fleet critical to Mars exploration. The Dec. 31, 2028, delivery date for the Blue Origin telecommunications Mars orbiter to NASA represents the earliest a new orbiter could be launched for Mars. Mars launch opportunities happen at an approximately 2-year cadence, when Mars and Earth get closest to each other in their respective orbits. During this window, less fuel is needed for the journey. If a new Mars orbiter for science or telecommunications is not launched by the 2028 window, the next opportunity would be in 2030 or 2031. While the Blue Origin telecommunications orbiter would support future exploration missions, the announcement did not outline plans for any science instrumentation onboard. Mars Odyssey will be around 30 years old by then, and the Mars Reconnaissance Orbiter around 25. NASA hardware tends to be hardy, often greatly exceeding expectations. For example, the Mars Exploration rovers were meant to last for 90 days, with Spirit ending its mission after over six years and Opportunity after over 14 years. However, orbiters may slowly lose capability over time – the Mars Reconnaissance Orbiter’s spectrometer instrument ceased operations in 2023 , while its other instruments are still active. But three or four decades in a space environment is a long tour of duty for any hardware in space, let alone hardware that is pulling double-duty as scientist and radio broadcaster. Much like driving your first car for far longer than you had planned on, the NASA orbiter fleet is waiting to see if the next repair bill means it’s time for an upgrade, or if it’ll have to catch rides from its friends. Until NASA releases its report, scientists and engineers will be waiting to understand what happened to end the Maven spacecraft’s mission early, and how those details can help them keep the current fleet flying until reinforcements finally arrive.",
+   "doi": [],
+   "facts": [
+    "Currently, about 16,000 satellites are orbiting Earth , providing everything from GPS service and weather reports to phone service in remote locations to people across the globe.",
+    "Starting in 2021, there were three from NASA, two from the European Space Agency and one each from the Indian Space Research Organization, the UAE Space Agency and the China National Space Administration.",
+    "The oldest of these is still 2001 Mars Odyssey, which has now spent 25 years in space, with Mars Express, at 23 years, and the Mars Reconnaissance Orbiter, at 20 years, hot on its heels.",
+    "But in December 2025, NASA lost contact with its Maven spacecraft , bringing the total number of active satellites down to seven, and NASA’s to two.",
+    "The cause of the loss of Maven has still not been publicly released, and NASA officially declared the mission over in June 2026.",
+    "In September 2026, NASA selected Jeff Bezos’ Blue Origin to provide a Mars telecommunication satellite no later than Dec. 31, 2028.",
+    "The Mars Atmosphere and Volatile EvolutioN, or Maven, spacecraft arrived at Mars in 2014, making it NASA’s youngest orbiter.",
+    "Whatever happened to Maven last December was only the second time in the 21st century that NASA had lost contact with an orbiter during otherwise ordinary operations.",
+    "The other time was in 2006, with Mars Global Surveyor , which NASA ultimately lost, likely due to issues with uploaded software commands.",
+    "The Mars exploration community, myself among them, is waiting with bated breath to understand why one-third of NASA’s Mars fleet lost contact seemingly overnight."
+   ],
+   "sample": []
+  },
+  {
+   "title": "There should be black holes in our neighborhood. Can we find them?",
+   "link": "https://phys.org/news/2026-10-black-holes-neighborhood.html",
+   "key": "https://phys.org/news/2026-10-black-holes-neighborhood.html",
+   "summary": "Scientific estimates show that there should be between about 100 million and 1 billion stellar-mass black holes in the Milky Way. But they aren't easy to locate. They're not like supermassive black holes (SMBH) at the centers of galaxies. Those are usually easy to spot for different reasons.",
+   "date": "2026-10-22",
+   "source": "Phys.org",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-black-holes-neighborhood.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-black-holes-neighborhood.html"
+  },
+  {
+   "title": "Canine cancer patients contribute to next-generation minimally invasive cancer therapies for dogs and humans",
+   "link": "https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html",
+   "key": "https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html",
+   "summary": "Natural disasters. Hikes. Long, dark nights alone. For many people, dogs offer a sense of safety and comfort in challenging or uncertain times. Cancer researchers at a new lab at Purdue University are partnering with dogs to make cancer less frightening—and less deadly—to some of humanity's very best friends using a technique called tumor ablation.",
+   "date": "2026-10-23",
+   "source": "Phys.org",
+   "first_seen": "2026-10-23",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 CUT",
+    "생활소재: dog"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html"
+  },
+  {
+   "title": "Pedal to the metal: NASA's Psyche heads toward asteroid belt",
+   "link": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
+   "key": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
+   "summary": "With a successful Mars gravity assist in its rearview mirror, NASA's Psyche spacecraft has fired up its thrusters and is accelerating toward the metal-rich asteroid of the same name. During the first leg of its journey, following an October 2023 launch, the mission used its electric propulsion system intermittently to maneuver into the right position to harness Mars' gravity for a propellant-saving speed boost and a slight trajectory change.",
+   "date": "2026-10-24",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html"
+  },
+  {
+   "title": "Sinking Antarctic ice reveals a hidden lake's massive water loss",
+   "link": "https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html",
+   "key": "https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html",
+   "summary": "The Kronshtadskiy subglacial lake near East Antarctica's Amery Ice Shelf was hidden beneath Antarctica's ice, but its drainage left a mark visible from space as a broad depression that deepened by more than 6 meters (20 feet) at its center.",
+   "date": "2026-10-23",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html"
+  },
+  {
+   "title": "El Niño then and now",
+   "link": "https://phys.org/news/2026-10-el-nio-1.html",
+   "key": "https://phys.org/news/2026-10-el-nio-1.html",
+   "summary": "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997–98 and 2015–16, upended weather patterns. Impacts spanned the planet, from fires in Indonesia and the Amazon to crop failures due to drought in southern Africa to heavy rain and coastal flooding in Southern California. The current El Niño rivals these past heavyweights.",
+   "date": "2026-10-23",
+   "source": "Phys.org",
+   "first_seen": "2026-10-24",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-el-nio-1.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-el-nio-1.html"
+  },
+  {
+   "title": "I’m a Philly forensic psychologist who has conducted dozens of psychopathic evaluations – here’s why an evaluation of R.C. Horsch in the ‘80s didn’t identify him as a possible psychopath",
+   "link": "https://theconversation.com/im-a-philly-forensic-psychologist-who-has-conducted-dozens-of-psychopathic-evaluations-heres-why-an-evaluation-of-r-c-horsch-in-the-80s-didnt-identify-him-as-a-possible-psychopath-294035",
+   "key": "https://theconversation.com/im-a-philly-forensic-psychologist-who-has-conducted-dozens-of-psychopathic-evaluations-heres-why-an-evaluation-of-r-c-horsch-in-the-80s-didnt-identify-him-as-a-possible-psychopath-294035",
+   "summary": "Philadelphia police and FBI are conducting a massive investigation into the home where the late R.C. Horsch and his son lived, along with several women who’ve gone missing.",
+   "date": "2026-10-20",
+   "source": "The Conversation",
+   "first_seen": "2026-10-22",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/im-a-philly-forensic-psychologist-who-has-conducted-dozens-of-psychopathic-evaluations-heres-why-an-evaluation-of-r-c-horsch-in-the-80s-didnt-identify-him-as-a-possible-psychopath-294035"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 3,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "text": "Seven missing women have been linked to the house that was shared by 44-year-old Eugene Horsch and his late father, Raymond “R.C.” Horsch, in the Olney section of Philadelphia. With five of the seven women feared dead, Philadelphia police and the FBI are conducting a massive investigation of the home . Law enforcement has said Raymond Horsch, who died in 2025 at the age of 82, is the suspected killer . Eugene Horsch has not been charged with any homicides or missing-person offenses related to the missing women. The Horsch house investigation raises questions about serial killers and whether mental health professionals can identify a person at risk of becoming one. The early identification of psychopathy can potentially prevent an escalation of antisocial behavior . As a forensic psychologist , I conduct psychological evaluations to help courts make decisions when someone’s mental health is relevant. I’ve conducted hundreds of forensic psychological evaluations, including dozens with individuals with psychopathic characteristics. I’m not surprised that a previous psychological evaluation of R.C. Horsch, done in the mid-1980s, did not identify him as a potential psychopath. That’s because reliable tools for identifying psychopathy were not available at that time. Psychopathic personality disorder, or psychopathy , is not an officially recognized disorder in the current version of the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders , or DSM. This is the primary diagnostic resource used by mental health professionals in the United States. Although a version of psychopathy was included in prior editions of the DSM, more recent editions have eliminated the diagnosis. This is because of the difficulty in assessing some of the emotional characteristics of psychopathy. Instead, the DSM includes a diagnosis for antisocial personality disorder , which focuses primarily on the behavioral aspects of psychopathy. Psychopathy is generally considered to be a more extreme variant of antisocial personality disorder. While psychopathy is no longer in the DSM, it has been vigorously researched and written about for decades. It is characterized by a distinct group of personality, behavioral and emotional traits. It has been defined in slightly different ways over the years, but some of the traits commonly associated with psychopathy include pathological lying, extreme narcissism, shallow affect, impulsivity and lack of empathy and remorse. Psychopathy is also characterized by a persistent pattern of antisocial or manipulative behaviors. These can range from infidelity and intimidation to aggression and extreme violence. The link between serial killers – individuals who kill several people in separate, unrelated events over a period of time – and psychopathy is not new. Several well-known American serial killers, including Ted Bundy and Jeffrey Dahmer , are suspected to have had psychopathic personality disorder . To be clear, most individuals with psychopathic personality disorder are not serial killers. In fact, people with psychopathic characteristics can be found among corporate executives , elected officials and attorneys . But some traits associated with extreme psychopathy, including the ability to engage in violent behavior with little remorse or guilt, are typically found among serial killers. Given that psychopathic characteristics are common among serial killers, one might wonder: Can mental health professionals identify psychopathy when conducting a psychological evaluation and possibly thwart a future serial killer? Mental health professionals are frequently asked to conduct evaluations of people involved in the criminal justice system who’ve been accused or convicted of serious crimes. For example, we might evaluate someone to help a court determine whether the person is competent to stand trial, or whether they should be found not guilty by reason of insanity. Identifying whether a person has psychopathic characteristics may also be relevant to how a court sentences them after conviction. Individuals with more psychopathic characteristics typically present a higher risk for future criminal behavior . As such, because of the discretion given to judges and juries when it comes to sentencing in most states, courts are more likely to give a longer sentence because of the increased risk to public safety. One of the most widely used psychopathy assessment tools, the psychopathy checklist-revised , or PCL-R, has been the subject of tremendous research over the past few decades. Most studies find that the PCL-R can reliably identify psychopathic characteristics in both research and clinical settings. Individuals with higher PCL-R scores are more psychopathic and, therefore, at higher risk of engaging in future criminal behavior . In 1985, R.C. Horsch was convicted in federal court of charges related to counterfeiting and methamphetamine manufacturing. As part of the federal sentencing proceedings, he underwent a lengthy psychological evaluation, which the Philadelphia Inquirer obtained through a federal records request. The psychologist described Horsch as “ grandiose, mistrustful, suspicious and excessively controlling ,” and noted that he was “consumed by anger.” He concluded that Horsch likely had bipolar disorder and paranoid personality disorder. The psychological evaluation found that Horsch had several characteristics associated with psychopathy, but he was not identified as psychopathic. Why? One answer is that the tests used to identify psychopathic characteristics had not yet been developed in 1985. Although a precursor to the PCL-R was developed in 1980, it was not commercially available, and the PCL-R was not commercially released until 1991. Other psychopathy assessment tests were not developed until after the PCL-R. An astonishing level of research regarding psychopathy has been conducted since the early 1990s. Some research has found that the introduction of psychopathy evidence in both American and Canadian courts has increased dramatically over the past few decades. In these cases, psychopathy evidence is primarily used by the prosecution to argue for a more severe punishment of a convicted defendant. There is also evidence that psychopathy evidence is being inappropriately relied on in death penalty cases . The PCL-R has not been proven to predict violence among inmates on death row or in highly restrictive prison settings. However, it can reliably predict violence among inmates in less secure correctional settings and among individuals about to be released from incarceration. Other research has focused on the brain structure and function associated with psychopathy. Studies have found that the brain region associated with thrill-seeking and impulsive behavior is larger among people with psychopathic characteristics, while regions associated with emotional regulation and fear processing are smaller . Identifying psychopathic characteristics before someone engages in violence is the ideal. However, most psychological evaluations of people involved in the criminal justice system take place only after the person has been arrested or convicted. But if a psychological evaluation is conducted after an individual has been arrested for or convicted of a less serious crime, or when someone is showing early signs of antisocial behavior, the identification of psychopathic characteristics could help courts and treatment providers intervene before there is an escalation to violence. Read more of our stories about Philadelphia and Pennsylvania , or sign up for our Philadelphia newsletter on Substack .",
+   "doi": [],
+   "facts": [
+    "Seven missing women have been linked to the house that was shared by 44-year-old Eugene Horsch and his late father, Raymond “R.C.” Horsch, in the Olney section of Philadelphia.",
+    "Law enforcement has said Raymond Horsch, who died in 2025 at the age of 82, is the suspected killer .",
+    "Horsch, done in the mid-1980s, did not identify him as a potential psychopath.",
+    "One answer is that the tests used to identify psychopathic characteristics had not yet been developed in 1985.",
+    "Although a precursor to the PCL-R was developed in 1980, it was not commercially available, and the PCL-R was not commercially released until 1991.",
+    "An astonishing level of research regarding psychopathy has been conducted since the early 1990s."
+   ],
+   "sample": []
+  }
+ ]
+}
