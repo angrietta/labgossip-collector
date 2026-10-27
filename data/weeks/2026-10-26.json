@@ -1,6 +1,6 @@
 {
  "week": "2026-10-26",
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,21 +14,21 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 35
+   "span_days": 36
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 29
+   "span_days": 30
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 31
+   "span_days": 32
   },
   {
    "feed": "ScienceDaily 건강",
@@ -120,6 +120,21 @@
    "date": "2026-10-26",
    "source": "The Conversation",
    "first_seen": "2026-10-27",
+   "text": "Exercise, avoiding alcohol or even getting enough sleep aren’t the factors most connected to college students’ well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students. This finding matters because young people are spending less time together in person and more time communicating through screens. Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% . Against this backdrop, mental health challenges among young people have become an increasing public health concern . Suicide remains the second-leading cause of death among Americans ages 15 to 34. But mental health is about more than the absence of mental illness. My student researchers and I wanted to ask a somewhat different question: What helps young people flourish? To answer that question, we created a broad measure of well-being that captured more than the lack of mental health problems, such as psychological distress. It also included positive aspects of life, such as having supportive relationships, hobbies and a sense of meaning and purpose. Our research team analyzed responses from 79,246 college students across the United States and Canada. We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges. We also examined how students spent their free time, whether that meant exercising, studying, socializing, meditating, playing video games or scrolling on social media. We used statistical methods that allowed us to compare dozens of potential influences on student well-being simultaneously, helping us identify which factors were most strongly associated with flourishing. Among the dozens of factors we examined, six stood out as the most important and influential. The strongest factor connected to student flourishing was remarkably ordinary: spending time with other people. Students who spent more hours socializing with friends, attending student organizations and participating in cultural events tended to report feeling an overall sense of well-being. The second most important factor surprised us. Students who spent more time on obligations, including paid work and unpaid family responsibilities, also tended to report a greater sense of well-being. Our results raise an intriguing possibility: Well-being may come not only from leisure and self-care but also from contributing to something larger than oneself. While problematic substance use, passive screen time and sleep problems tended to compromise well-being, these factors weren’t the biggest detriment. It was difficulty navigating interpersonal relationships, including problems with friends, romantic partners and roommates. Making friends, maintaining healthy relationships and working through conflicts requires practice, and some of that practice time now competes with communication mediated by screens . Notably, the contributors to student flourishing were similar among students diagnosed with anxiety or depression and those without these diagnoses. That suggests these everyday experiences may matter across a broad spectrum of mental health. Supporting students’ mental and emotional health is not simply a matter of reducing screen time. It also means making it easier for young people to spend time together in person, whether through clubs, recreation programs, community events or other welcoming spaces. Counseling and educational programs can likewise help students build friendships, communicate effectively and navigate conflict in healthy ways. None of this means mental illness can be solved by telling a struggling young person to put down their phone, join a club or get more sleep. Mental health conditions are complex, and people experiencing them need access to effective professional care. But our findings suggest that helping young people thrive requires more than treating symptoms. It also requires cultivating supportive relationships, healthy sleep and meaningful engagement in work, school and family life.",
+   "facts": [
+    "Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students.",
+    "Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% .",
+    "Suicide remains the second-leading cause of death among Americans ages 15 to 34.",
+    "Our research team analyzed responses from 79,246 college students across the United States and Canada.",
+    "We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges."
+   ],
+   "doi": [],
+   "sample": [
+    "80,000 students"
+   ],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
    "sources": [
     "The Conversation",
     "Phys.org"
@@ -138,18 +153,6 @@
     "형식 PRESS",
     "생활소재: sleep, alcohol, exercise",
     "2곳 보도"
-   ],
-   "text": "Exercise, avoiding alcohol or even getting enough sleep aren’t the factors most connected to college students’ well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students. This finding matters because young people are spending less time together in person and more time communicating through screens. Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% . Against this backdrop, mental health challenges among young people have become an increasing public health concern . Suicide remains the second-leading cause of death among Americans ages 15 to 34. But mental health is about more than the absence of mental illness. My student researchers and I wanted to ask a somewhat different question: What helps young people flourish? To answer that question, we created a broad measure of well-being that captured more than the lack of mental health problems, such as psychological distress. It also included positive aspects of life, such as having supportive relationships, hobbies and a sense of meaning and purpose. Our research team analyzed responses from 79,246 college students across the United States and Canada. We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges. We also examined how students spent their free time, whether that meant exercising, studying, socializing, meditating, playing video games or scrolling on social media. We used statistical methods that allowed us to compare dozens of potential influences on student well-being simultaneously, helping us identify which factors were most strongly associated with flourishing. Among the dozens of factors we examined, six stood out as the most important and influential. The strongest factor connected to student flourishing was remarkably ordinary: spending time with other people. Students who spent more hours socializing with friends, attending student organizations and participating in cultural events tended to report feeling an overall sense of well-being. The second most important factor surprised us. Students who spent more time on obligations, including paid work and unpaid family responsibilities, also tended to report a greater sense of well-being. Our results raise an intriguing possibility: Well-being may come not only from leisure and self-care but also from contributing to something larger than oneself. While problematic substance use, passive screen time and sleep problems tended to compromise well-being, these factors weren’t the biggest detriment. It was difficulty navigating interpersonal relationships, including problems with friends, romantic partners and roommates. Making friends, maintaining healthy relationships and working through conflicts requires practice, and some of that practice time now competes with communication mediated by screens . Notably, the contributors to student flourishing were similar among students diagnosed with anxiety or depression and those without these diagnoses. That suggests these everyday experiences may matter across a broad spectrum of mental health. Supporting students’ mental and emotional health is not simply a matter of reducing screen time. It also means making it easier for young people to spend time together in person, whether through clubs, recreation programs, community events or other welcoming spaces. Counseling and educational programs can likewise help students build friendships, communicate effectively and navigate conflict in healthy ways. None of this means mental illness can be solved by telling a struggling young person to put down their phone, join a club or get more sleep. Mental health conditions are complex, and people experiencing them need access to effective professional care. But our findings suggest that helping young people thrive requires more than treating symptoms. It also requires cultivating supportive relationships, healthy sleep and meaningful engagement in work, school and family life.",
-   "doi": [],
-   "facts": [
-    "Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students.",
-    "Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% .",
-    "Suicide remains the second-leading cause of death among Americans ages 15 to 34.",
-    "Our research team analyzed responses from 79,246 college students across the United States and Canada.",
-    "We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges."
-   ],
-   "sample": [
-    "80,000 students"
    ]
   },
   {
@@ -254,43 +257,40 @@
    ]
   },
   {
-   "title": "Fatty liver disease is actually five different conditions, scientists discover",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261016070642.htm",
-   "summary": "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized. Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, cancer, heart disease, and other serious complications.",
-   "date": "2026-10-19",
+   "title": "Low testosterone may make sugar far more harmful to your liver",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261026225622.htm",
+   "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.",
+   "date": "2026-10-27",
    "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "A common liver disease affecting nearly 30% of adults worldwide is far more complex than previously understood. Researchers at Mayo Clinic have identified five biologically distinct forms of the condition, each associated with different risks of serious health complications, including heart disease, liver failure, cancer, and the need for a liver transplant. The findings, published in Nature Communications , come from a collaboration between Mayo Clinic and Virginia Tech. Scientists discovered that metabolic dysfunction-associated steatotic liver disease, or MASLD, can develop through several different biological pathways. Some are closely connected to obesity and diabetes, while others appear to be driven by inherited genetic differences. One of the most important findings involves the genetic forms of the disease. These subtypes are associated with a greater likelihood of progressing to advanced liver damage, even in people who do not have the metabolic risk factors typically linked to fatty liver disease. By identifying these differences, doctors may eventually be able to recognize vulnerable patients sooner, improve screening, and select treatments based on the specific biological processes responsible for their illness. \"When clinical and genomic data are analyzed together at this scale, you begin to see patterns of disease progression that would otherwise remain hidden,\" says Shulan Tian, Ph.D., co-senior author and a bioinformatician at Mayo Clinic. \"Once you separate these subtypes, you can start to match treatments to the biology that's actually driving the disease.\" MASLD, previously known as nonalcoholic fatty liver disease, develops when excess fat accumulates in the liver. Many people experience no noticeable symptoms, allowing the condition to go undetected for years. Although fatty liver disease does not always cause serious complications, it can progress to inflammation, scarring, and permanent liver damage. Over time, severe cases may develop into cirrhosis, a condition in which extensive scarring prevents the liver from functioning properly. MASLD is a major contributor to cirrhosis, liver cancer, and liver transplantation worldwide. Understanding why some patients experience severe complications while others do not has therefore become an important goal for researchers. Genetic Analysis Reveals Five Distinct Liver Disease Subtypes To investigate these differences, the research team examined genetic sequencing results alongside extensive medical information from more than 4,600 patients diagnosed with MASLD. Their analysis included liver enzyme measurements, body mass index, blood lipid levels, and other indicators of metabolic health. The researchers also considered additional medical conditions, including diabetes, depression, and sleep apnea. Using advanced computer models, they searched for patterns connecting patients with similar genetic characteristics and clinical findings. This approach revealed five distinct groups, each with its own underlying biological features. The results suggest that patients who receive the same fatty liver disease diagnosis may actually have substantially different forms of the condition, with different risks of developing serious complications. \"What's emerging here is a way to systematically identify meaningful subgroups within complex disease,\" says Eric Klee, Ph.D., co-senior author and the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation. \"It helps us map complex disease with such precision that we can begin to anticipate its course and intervene before the most serious damage occurs.\" The researchers relied on Mayo Clinic's Research Data Atlas, a system designed to connect patients' genetic information with detailed medical records. By bringing these large collections of data together, scientists can detect relationships that might be difficult to recognize when studying individual patients. Dr. Klee helped develop the platform, which draws on resources including the Tapestry Study. That project has produced Mayo Clinic's largest collection of exome data, involving more than 100,000 participants. An exome is the portion of a person's DNA that contains instructions for making proteins, which carry out many of the body's essential functions. Studying this genetic information can reveal inherited differences that influence how diseases begin and progress. The combination of genetic data and medical histories allows researchers to investigate diseases in much greater detail, potentially uncovering important differences that conventional diagnostic methods cannot detect. \"This is exactly the kind of insight large-scale genomic research was built to deliver,\" says Konstantinos Lazaridis, M.D., the Carlson and Nelson Endowed Executive Director for the Center for Individualized Medicine who led the Tapestry Study and is a co-author of the research. \"When you connect genetic data with detailed clinical information across large populations, you can start to redefine diseases in ways that directly impact patient care.\" The findings also suggest that the differences between fatty liver disease subtypes extend beyond the liver itself. For the first time, researchers identified associations between particular MASLD subtypes and conditions such as depression, sleep apnea, and migraine. These connections suggest that the biological processes underlying certain forms of fatty liver disease may be linked to health problems affecting multiple parts of the body. Although the findings do not establish that fatty liver disease directly causes these conditions, they highlight how closely liver health may be connected to other biological systems. Could Personalized Treatments Change Fatty Liver Disease Care? The discovery could eventually change how doctors assess and treat MASLD. Rather than approaching every patient as though they have the same disease, clinicians may be able to use genetic and clinical information to determine which subtype is present and which complications are most likely to develop. Such an approach could be particularly valuable for identifying patients with genetic forms associated with severe liver damage, including those who appear to have relatively few conventional risk factors. The research team now plans to evaluate its findings in larger and more diverse patient populations. Scientists also want to determine whether different subtypes respond differently to available treatments, including GLP-1 receptor agonists, a class of medications used to treat conditions such as type 2 diabetes and obesity. If future studies confirm these differences, the findings could help move fatty liver disease care toward more precise screening, earlier intervention, and treatments tailored to each patient's underlying biology. Materials provided by Mayo Clinic . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
-   "facts": [
-    "A common liver disease affecting nearly 30% of adults worldwide is far more complex than previously understood.",
-    "Genetic Analysis Reveals Five Distinct Liver Disease Subtypes To investigate these differences, the research team examined genetic sequencing results alongside extensive medical information from more than 4,600 patients diagnosed with MASLD.",
-    "That project has produced Mayo Clinic's largest collection of exome data, involving more than 100,000 participants.",
-    "Scientists also want to determine whether different subtypes respond differently to available treatments, including GLP-1 receptor agonists, a class of medications used to treat conditions such as type 2 diabetes and obesity.",
-    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-   ],
-   "doi": [
-    "10.1038/s41467-026-77410-6"
-   ],
-   "sample": [
-    "100,000 participants",
-    "4,600 patients"
-   ],
-   "journal_ref": "Journal Reference : Tahmina Sultana Priya, Huihuang Yan, Kirk J. Wangensteen, Stephen Wu, Anthony C. Luehrs, Filippo Pinto e Vairo, Fan Leng, Andres J. Acosta, Robert A. Vierkant, Alina M. Allen, Konstantinos N. Lazaridis, Eric W. Klee, Danfeng Daphne Yao, Shulan Tian. Subtyping metabolic dysfunction-associated steatotic liver disease using electronic health record-linked genomic cohorts reveals d",
-   "catch_extra": [],
+   "first_seen": "2026-10-28",
    "sources": [
     "ScienceDaily 전체"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261016070642.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261026225622.htm"
    ],
    "format": "CUT",
-   "catch": [],
-   "score": 7,
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 8,
    "why": [
     "형식 CUT",
-    "훅: actually"
-   ]
+    "훅: unexpected",
+    "생활소재: diet, mice"
+   ],
+   "text": "Low testosterone can contribute to several health problems, and an unhealthy diet may make some of those risks even worse. One major concern is metabolic dysfunction-associated steatotic liver disease (MASLD), a condition that affects approximately 40% of adult men worldwide and has become a significant global health issue. Fatty liver, the earliest stage of MASLD, occurs when excess fat builds up in the liver. Several factors are associated with the condition, including obesity, type 2 diabetes, low testosterone levels, and excessive fructose consumption from sugary drinks and processed foods. However, scientists have not fully understood how these factors interact or whether their combined effects are more harmful than each one individually. To investigate this connection, a research team from the Graduate School of Agriculture, led by graduate student Hiroki Takahashi and Associate Professor Naoki Harada, examined how reduced testosterone and high fructose intake influence liver health. The researchers used eight-week-old male mice and divided them into six experimental groups. Some underwent castration to lower testosterone levels, while others received a sham operation. The groups included Sham/Control, Sham/Fructose, Sham/Fructose + Antibiotics, Castration/Control, Castration/Fructose, and Castration/Fructose + Antibiotics. To determine how these conditions affected the animals, the team analyzed liver cells and tissues, blood plasma, organic acids from the cecum, and samples of gut bacteria. The results revealed that mice with reduced testosterone levels developed heavier livers when they consumed fructose. However, this increase in liver weight was smaller in mice that also received antibiotics. When examined separately, low testosterone and fructose intake produced only modest changes in liver triglyceride levels. When combined, however, the two factors had a much stronger effect, significantly increasing fat accumulation and worsening fatty liver. The researchers also identified changes in the composition of gut bacteria, altered liver gene activity, and elevated levels of pyruvate in the cecum among mice exposed to both reduced testosterone and fructose. These findings suggested that the gut microbiome could play an important role in explaining why the combination was particularly harmful. Further experiments helped the researchers identify a possible biological explanation for the increased liver fat. \"Upon examining this mechanism, we found that changes in the gut microbiota led to increased levels of pyruvate within the intestine. Furthermore, experiments using mouse-derived primary hepatocytes revealed that pyruvate acts synergistically with fructose to promote neutral lipid accumulation in hepatocytes,\" explained Takahashi. In other words, changes in gut bacteria appeared to increase intestinal pyruvate, a compound involved in energy metabolism. Laboratory experiments with liver cells isolated from mice showed that pyruvate and fructose worked together to increase fat storage in those cells. The discovery suggests that interactions among testosterone levels, dietary fructose, and gut bacteria may help explain how fatty liver develops and worsens. Understanding this relationship could eventually help researchers identify new approaches to preventing or treating fatty liver disease. In particular, targeting the processes through which pyruvate contributes to fat accumulation may offer promising possibilities. \"Going forward, we hope to clarify the mechanism by which pyruvate promotes triglyceride accumulation to pioneer the development of therapeutic drugs and establishment of preventive methods through dietary interventions,\" added Professor Harada. Although the findings come from experiments in mice and isolated mouse liver cells, they provide new insight into how hormonal changes and diet may interact to influence liver health. The study was published in American Journal of Physiology-Endocrinology and Metabolism . Materials provided by Osaka Metropolitan University . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1152/ajpendo.00518.2025"
+   ],
+   "journal_ref": "Journal Reference : Hiroki Takahashi, Naoki Harada, Yohei Hayamizu, Erdenetsogt Dungubat, Masami Nakazawa, Tomoya Kitakaze, Keiichiro Sugimoto, Hiroshi Inui, Eiji Yoshihara, Yoshihisa Takahashi, Ryoichi Yamaji. Testosterone deficiency synergistically exacerbates fructose-induced hepatic steatosis through gut microbiota and pyruvate in mice . American Journal of Physiology-Endocrinology and Metabol",
+   "facts": [
+    "One major concern is metabolic dysfunction-associated steatotic liver disease (MASLD), a condition that affects approximately 40% of adult men worldwide and has become a significant global health issue.",
+    "Several factors are associated with the condition, including obesity, type 2 diabetes, low testosterone levels, and excessive fructose consumption from sugary drinks and processed foods.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
   },
   {
    "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
@@ -365,6 +365,122 @@
     "형식 CUT",
     "훅: surpris, actually"
    ]
+  },
+  {
+   "title": "The secret to slower aging may be hiding in your gut",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261026225620.htm",
+   "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological aging rates. Some bacterial species were associated with slower aging, while others were linked to accelerated aging.",
+   "date": "2026-10-27",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261026225620.htm"
+   ],
+   "format": "CUT",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 7,
+   "why": [
+    "형식 CUT",
+    "훅: secret",
+    "생활소재: aging"
+   ],
+   "text": "Scientists have uncovered a surprising connection between the bacteria living in the human gut and the speed at which the body ages. Researchers at the University of Hawaiʻi at Mānoa found that certain gut microbes are associated with slower biological aging, while others are linked to faster aging. The study, published in Scientific Reports , found that differences in gut bacterial communities accounted for approximately 15% of the variation in participants' biological aging rates. The results suggest that the gut microbiome, the vast community of microorganisms living in the digestive system, may provide valuable clues about aging at the molecular level. \"This study advances our understanding of the relationship between the gut microbiome and biological aging,\" said senior author Alika K. Maunakea of the UH Mānoa John A. Burns School of Medicine. \"We found that microbial patterns in the gut were significantly associated with molecular measures of aging, even independent of chronological age. These findings open important new directions for understanding how modifiable biological systems influence long-term health trajectories and longevity.\" Scientists Identify Gut Bacteria Linked to Faster and Slower Aging To investigate the relationship between gut bacteria and aging, researchers examined stool and blood samples collected from 123 adults across a wide range of ages. They identified the bacteria present in each participant's gut and compared those findings with blood-based molecular markers used to estimate the body's rate of aging. These biological measurements differ from chronological age, which simply reflects how many years someone has been alive. Instead, they are designed to assess how quickly aging-related changes are occurring within the body. The researchers found a notable association between the composition of the gut microbiome and DunedinPACE, an advanced biomarker that measures the pace of biological aging. Some bacterial species stood out for their particularly strong relationships with aging. Bifidobacterium adolescentis was among the microbes most strongly associated with slower biological aging. In contrast, Succinivibrio dextrinosolvens showed one of the strongest associations with faster aging. These differences suggest that particular patterns of gut bacteria may offer important information about how rapidly the body is aging. How Diet, Lifestyle, and Environment May Influence Gut Health Lead author Braden P. Kunihiro said the discovery adds to growing evidence that the gut microbiome could play an important role in precision health research, which aims to better understand individual differences in health and disease. Unlike chronological age, the composition of the gut microbiome can change in response to everyday influences, including diet, lifestyle, and environmental conditions. This makes it a particularly interesting area of investigation for scientists studying healthy aging. \"The gut microbiome is highly responsive to lifestyle, diet, environment and other everyday exposures,\" Kunihiro said. \"Our findings suggest that the microbiome may reflect important aspects of biological resilience and aging in ways that could eventually help inform future wellness and healthy aging strategies.\" The research also included Native Hawaiian and Pacific Islander participants, groups that have historically received limited representation in studies of aging and gut microorganisms. Co-author Ruben Juarez explained that including these populations could help scientists investigate how social circumstances and environmental conditions leave lasting biological effects over the course of a person's life. \"The microbiome exists at the intersection of behavior, environment and human biology,\" Juarez said. \"Studies like this help illuminate potential pathways through which lived experiences and social factors influence long-term health outcomes.\" Although the findings reveal a meaningful relationship between gut bacteria and biological aging, researchers stress that the study does not establish cause and effect. In other words, finding certain microbes in people who age more slowly does not necessarily mean those bacteria are responsible for slowing the aging process. Further studies will be needed to determine whether deliberately changing the gut microbiome can influence biological aging or improve long-term health. Still, the findings offer a promising starting point for exploring how the microorganisms living inside us relate to the aging process and whether they could eventually help guide more personalized approaches to healthy aging. \"This is an important early step toward understanding the gut microbiome's relationship with healthy aging,\" Maunakea said. \"Future research will help clarify the mechanisms involved and whether these microbial signatures may eventually contribute to precision approaches for promoting long-term health and wellness.\" Materials provided by University of Hawaii at Manoa . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1038/s41598-026-52974-x"
+   ],
+   "journal_ref": "Journal Reference : Braden P. Kunihiro, Brennan Y. Yamamoto, Ruben Juarez, Alika K. Maunakea. Gut microbiome signatures associate with DNA methylation-based biological aging . Scientific Reports , 2026; 16 (1) DOI: 10.1038/s41598-026-52974-x",
+   "facts": [
+    "The study, published in Scientific Reports , found that differences in gut bacterial communities accounted for approximately 15% of the variation in participants' biological aging rates.",
+    "These findings open important new directions for understanding how modifiable biological systems influence long-term health trajectories and longevity.\" Scientists Identify Gut Bacteria Linked to Faster and Slower Aging To investigate the relationship between gut bacteria and aging, researchers examined stool and blood samples collected from 123 adults across a wide range of ages.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": [
+    "123 adults"
+   ]
+  },
+  {
+   "title": "Common drugs may help dangerous viruses spread through the body",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261026225606.htm",
+   "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and other infections. By suppressing genes that normally fight viruses, these medications may leave patients more vulnerable to infection.",
+   "date": "2026-10-27",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261026225606.htm"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris"
+   ],
+   "text": "Medications are designed to treat diseases and relieve symptoms, but some can also produce unintended effects that put patients at risk. While side effects are common with many treatments, researchers have identified a particularly concerning possibility involving drugs used to control inflammation. Scientists at the Norwegian University of Science and Technology (NTNU) have discovered that a widely used class of anti-inflammatory medications may make it easier for certain viruses to infect cells and spread throughout the body. \"We have found a surprising and potentially serious side effect of a class of anti-inflammatory drugs. They can help viruses spread more easily in the body,\" says Denis Kainov, a professor at the Department of Clinical and Molecular Medicine at the Norwegian University of Science and Technology (NTNU). The medications at the center of the findings belong to a class called Janus kinase inhibitors, or JAKs. These drugs are widely prescribed to control inflammation, but their effects on the immune system may also leave the body more vulnerable to viral infections. \"Among the viruses that more easily affect the body with the help of these drugs are Rift Valley fever virus, influenza A, adenovirus and SARS-CoV-2, the virus that causes COVID-19,\" Kainov says. These viruses can cause significant illness, making any treatment that potentially increases their ability to spread a serious concern. In a new study published in NAR Molecular Medicine, Kainov and his colleagues investigated how JAK inhibitors influence the body's ability to defend itself against viruses. \"JAK inhibitors are often prescribed for autoimmune diseases and inflammatory conditions such as rheumatoid arthritis,\" says Erlend Ravlo, a PhD research fellow at NTNU and first author of the article. Although these medications can be highly effective at reducing inflammation, their benefits come with an important trade-off. By suppressing certain immune responses, they can also interfere with the mechanisms that normally protect the body from viral infections. \"In particular, the drugs suppress an important immune signalling pathway that helps protect healthy cells from viral attacks,\" Ravlo said. This pathway plays a central role in coordinating the body's response when viruses attempt to infect healthy tissue. Scientists Discover How JAK Inhibitors Disrupt Immune Protection The research team found that JAK inhibitors, including the medication baricitinib, can reduce the activity of genes involved in fighting viral infections. \"These genes play a crucial role in the body's response to viral infections,\" said Aleksandr Ianevski, an NTNU researcher and coauthor of the new paper. When JAK inhibitors interfere with this immune signaling system, they weaken an important layer of antiviral protection. Without the usual defensive response, viruses may find it easier to establish an infection and spread between cells. To investigate these effects, the scientists combined advanced virology methods with gene expression analysis and organoid technology. Their experiments included cells from the lungs, eyes and brain, along with miniature organ models grown in the laboratory. These approaches allowed the team to examine how the drugs affect antiviral defenses across different types of human tissue. \"Although JAK inhibitors are effective in the treatment of inflammation, this shows that they can pose a hidden risk for patients who have latent or active viral infections,\" says Ravlo. The results highlight the importance of carefully considering the risks associated with JAK inhibitors, particularly when patients may already have a viral infection or when outbreaks are occurring. Researchers suggest that healthcare professionals should exercise caution when prescribing these medications during periods of increased viral transmission. However, the same immune-suppressing properties that create potential risks for patients could also offer advantages in certain research settings. Under controlled laboratory conditions, these effects may help scientists develop vaccines or evaluate potential antiviral medications. The researchers hope their findings will encourage greater awareness of how JAK inhibitors influence the immune system and support further investigations into their safest and most effective uses. \"We recommend further studies to better understand how the drugs can be used optimally, especially during virus outbreaks or pandemics,\" says Ianevski. Professor Magnar Bjørås of the Department of Clinical and Molecular Medicine provided significant scientific expertise and secured most of the funding for the research. Additional financial support came from the Central Norway Regional Health Authority, the South-Eastern Norway Regional Health Authority, the Research Council of Norway and the Swedish Research Council. Materials provided by Norwegian University of Science and Technology . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
+   "doi": [
+    "10.1093/narmme/ugaf017"
+   ],
+   "journal_ref": "Journal Reference : Erlend Ravlo, Aleksandr Ianevski, Marius Nårstad Skipperstøen, Hilde Lysvand, Jørn-Ove Schjølberg, Ole Solheim, Wei Wang, Miroslava Kissova, Marthe Vestvik, Olli Vapalahti, Teemu Smura, Hanna Vauhkonen, Valentyn Oksenych, Friedemann Weber, Mårten Strand, Magnus Evander, Janne Fossum Malmring, Jan Egil Afset, Magnar Bjørås, Denis E Kainov. JAK inhibitors remove innate immune bar",
+   "facts": [
+    "\"Among the viruses that more easily affect the body with the help of these drugs are Rift Valley fever virus, influenza A, adenovirus and SARS-CoV-2, the virus that causes COVID-19,\" Kainov says.",
+    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Are GLP-1s practical and safe for adolescents with obesity?",
+   "link": "https://medicalxpress.com/news/2026-10-glp-1s-safe-adolescents-obesity.html",
+   "key": "https://medicalxpress.com/news/2026-10-glp-1s-safe-adolescents-obesity.html",
+   "summary": "GLP-1 medications have become a popular tool for weight loss. But are they appropriate for all age groups? Short for glucagon-like peptide-1, GLP-1s are medications approved by the Food and Drug Administration that treat type 2 diabetes and now obesity. They work by mimicking a natural hormone in the gut that lowers blood sugar, simulates the feeling of fullness and slows digestion.",
+   "date": "2026-10-28",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-glp-1s-safe-adolescents-obesity.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "생활소재: weight loss"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-glp-1s-safe-adolescents-obesity.html"
+  },
+  {
+   "title": "Common nutritional supplement may boost psoriasis treatment, small patient trial suggests",
+   "link": "https://medicalxpress.com/news/2026-10-common-nutritional-supplement-boost-psoriasis.html",
+   "key": "https://medicalxpress.com/news/2026-10-common-nutritional-supplement-boost-psoriasis.html",
+   "summary": "Researchers in China have discovered that the vitamin B5 derivative pantethine limits the activity of immune cells that are key contributors to autoimmune diseases such as psoriasis. The study, published in the Journal of Experimental Medicine, shows that pantethine prevents the development of psoriasis in mice and also helps alleviate the symptoms of psoriasis patients in a small-scale human trial.",
+   "date": "2026-10-27",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-common-nutritional-supplement-boost-psoriasis.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "생활소재: supplement, mice"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-common-nutritional-supplement-boost-psoriasi"
   },
   {
    "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
@@ -537,119 +653,41 @@
    ]
   },
   {
-   "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261018205044.htm",
-   "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.",
-   "date": "2026-10-19",
+   "title": "A hidden bias in human language challenges 70 years of science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261023023738.htm",
+   "summary": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden preference for safety, suggesting that our words may reflect ancient survival instincts.",
+   "date": "2026-10-24",
    "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "Some people carry one of the strongest genetic risk factors for Alzheimer's disease yet never develop it, remaining mentally sharp well into their 80s. For years, scientists have wondered what protects these individuals despite their increased genetic vulnerability. Now, researchers at Columbia University have uncovered a biological mechanism that could help explain this remarkable resistance. Their findings point to a rare genetic mutation that protects the brain's blood vessels from damage, potentially opening a new path toward Alzheimer's treatments. The discovery builds on research the team published two years ago involving APOE ε4, a gene variant strongly associated with Alzheimer's risk. The scientists found that some people carrying APOE ε4 also possess a rare protective mutation in the fibronectin (FN1) gene. Fibronectin is a protein that helps support the structure of tissues. However, in people with APOE ε4, excessive amounts can accumulate around blood vessels in the brain, potentially compromising a critical protective system known as the blood-brain barrier. The rare FN1 mutation appears to limit this buildup and the damage associated with it. That earlier discovery suggested an intriguing possibility: What if scientists could develop a treatment that recreates the protection provided by this rare mutation? A new study published in Nature Aging brings that possibility closer by identifying how excess fibronectin damages the brain's protective barrier and revealing potential ways to interrupt the process. \"This new study takes us from a genetic clue to a disease mechanism,\" says Caghan Kizil, the study's corresponding author and professor of neurological sciences in the Department of Neurology and the Taub Institute for Research on Alzheimer's Disease and the Aging Brain at Columbia University Vagelos College of Physicians and Surgeons. \"We knew that changes in fibronectin could protect against Alzheimer's, but we didn't know why excess fibronectin was harmful in the first place. This study gives us that detailed mechanism -- and with it, ideas for how to reproduce that natural protection.\" The blood-brain barrier serves as a protective boundary between the bloodstream and the brain. Made up of tightly connected cells surrounding the brain's blood vessels, it carefully regulates which substances can enter brain tissue while helping maintain conditions necessary for removing potentially harmful waste. When this barrier becomes damaged or excessively permeable, substances that would normally be kept out can enter the brain more easily. Such disruptions may contribute to inflammation and other processes involved in neurological diseases, including Alzheimer's. To investigate the role of fibronectin, the Columbia team combined several advanced research approaches. They examined human brain tissue and cerebrospinal fluid, the clear liquid surrounding the brain and spinal cord, using genetic and epigenetic analyses to explore changes in DNA and gene activity. Their investigation also included single-cell sequencing, which reveals the activity of individual cells, and spatial imaging to examine where biological changes occur within tissues. Additional experiments involved human stem-cell models, three-dimensional cultures of blood vessels, and studies in zebrafish and mice. Despite the variety of methods, the findings consistently pointed to the same mechanism: APOE ε4 promotes the production and accumulation of fibronectin around the brain's blood vessels. In mice engineered to carry human APOE ε4, researchers measured nearly twice as much fibronectin in the brain as in mice carrying APOE ε3, another common version of the gene. The greater accumulation was accompanied by evidence that the blood-brain barrier had become leaky. One experiment provided especially important evidence that fibronectin does more than simply accumulate in damaged blood vessels. The researchers increased human fibronectin specifically in astrocytes, specialized support cells that help maintain the blood-brain barrier and keep the brain functioning properly. Increasing fibronectin in these cells was enough to disrupt the barrier, allowing it to become more permeable. Conversely, reducing fibronectin improved the barrier's ability to function normally. These results provided experimental evidence that excess fibronectin can directly contribute to blood-brain barrier damage rather than merely appearing alongside it. \"The animal experiments allowed us to move beyond association,\" says co-first author Prabesh Bhattarai, an associate research scientist in the Kizil lab. \"When we increased fibronectin in astroglia, the barrier became permeable. When we reduced fibronectin, barrier function improved.\" The team then investigated the molecular events responsible for the damage. They found that excessive fibronectin interferes with communication between cells by activating abnormal signals through integrins, proteins that help cells sense and respond to their surroundings, and an enzyme known as focal adhesion kinase. These abnormal signals disrupt a network of growth factors called VEGF, HBEGF, and IGF1. Although growth factors are often associated with cell development and repair, these particular signaling molecules also help astrocytes and blood vessel cells coordinate their activities to maintain a healthy blood-brain barrier. When their communication becomes disrupted, the barrier can lose its integrity, potentially leaving brain tissue more vulnerable to damage. \"Single-cell analysis allowed us to examine this pathway in the different cells that maintain the brain's blood vessels,\" says co-first author Elanur Yilmaz, an associate research scientist in the Kizil lab. \"We observed the same biological pattern across experimental models and human Alzheimer's tissue, making the mechanism especially compelling.\" Evidence From Human Brains Strengthens the Alzheimer's Connection Importantly, the researchers found signs of similar biological disturbances in human samples, suggesting that the process identified in laboratory experiments may also contribute to Alzheimer's disease in people carrying APOE ε4. Analyses of brain tissue and cerebrospinal fluid showed that elevated fibronectin levels were associated with inflammation in astrocytes. Genetic and gene-regulation analyses also connected FN1 to blood vessel disease and changes involving VEGFA, a growth factor that plays an important role in maintaining healthy brain blood vessels. Together, these findings provide multiple lines of evidence linking excess fibronectin to the vascular damage associated with APOE ε4. \"The convergence of these independent human datasets strengthens the case that fibronectin is part of the APOE ε4-related vascular disease process,\" says Badri Vardarajan, associate professor of neurological science in the Department of Neurology, Gertrude H. Sergievsky Center, and Taub Institute, who collaborated on this discovery of the FN1 mutation. A Rare Genetic Defense Could Inspire New Alzheimer's Treatments The potential implications are significant because APOE ε4 is the strongest common genetic risk factor for Alzheimer's disease. Approximately one in five people carries at least one copy of this gene variant. Although carrying APOE ε4 does not guarantee that someone will develop Alzheimer's, it increases their likelihood of developing the disease. Understanding why certain carriers remain unaffected could reveal new opportunities for prevention and treatment. One strategy would be to prevent harmful amounts of fibronectin from accumulating around the brain's blood vessels. Another would involve blocking the abnormal cellular signals triggered by excess fibronectin. A third possibility would be to restore the growth factor signaling that allows astrocytes and blood vessel cells to maintain the blood-brain barrier. Researchers are already investigating these possibilities through laboratory experiments. Howev",
-   "facts": [
-    "Some people carry one of the strongest genetic risk factors for Alzheimer's disease yet never develop it, remaining mentally sharp well into their 80s.",
-    "The discovery builds on research the team published two years ago involving APOE ε4, a gene variant strongly associated with Alzheimer's risk.",
-    "The scientists found that some people carrying APOE ε4 also possess a rare protective mutation in the fibronectin (FN1) gene.",
-    "However, in people with APOE ε4, excessive amounts can accumulate around blood vessels in the brain, potentially compromising a critical protective system known as the blood-brain barrier.",
-    "The rare FN1 mutation appears to limit this buildup and the damage associated with it.",
-    "Despite the variety of methods, the findings consistently pointed to the same mechanism: APOE ε4 promotes the production and accumulation of fibronectin around the brain's blood vessels.",
-    "In mice engineered to carry human APOE ε4, researchers measured nearly twice as much fibronectin in the brain as in mice carrying APOE ε3, another common version of the gene.",
-    "These abnormal signals disrupt a network of growth factors called VEGF, HBEGF, and IGF1.",
-    "Genetic and gene-regulation analyses also connected FN1 to blood vessel disease and changes involving VEGFA, a growth factor that plays an important role in maintaining healthy brain blood vessels.",
-    "Together, these findings provide multiple lines of evidence linking excess fibronectin to the vascular damage associated with APOE ε4."
-   ],
-   "doi": [
-    "10.1038/s43587-026-01204-0"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Prabesh Bhattarai, Elanur Yilmaz, Elif Öykü Cakir, Huseyin Tayran, Imdadul Haq, Dylan Murphy, Jonah Nadelmann Keller, Quentin Le Grand, Jacqueline O. Eschbach, Hilal Celikkaya, Mehmet I. Cosacak, Hande Yüceer Korkmaz, Annie J. Lee, Verena Haage, Yiyi Ma, Xue Wang, Nastasia Nelson, Weilin Lin, Yixin Zhang, Bengisu Turgutalp, Sherida M. de Leeuw, Ronak Patel, Dörthe Jülich, Özkan",
-   "catch_extra": [],
+   "first_seen": "2026-10-24",
    "sources": [
     "ScienceDaily 전체"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261018205044.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
    ],
-   "format": "WEIGH",
+   "format": "CUT",
    "catch": [],
    "score": 6,
    "why": [
-    "형식 WEIGH",
-    "생활소재: alzheimer, brain"
-   ]
-  },
-  {
-   "title": "Something strange is happening beneath a volcano near 2 million people",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261018205039.htm",
-   "summary": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve eruption forecasting for the active volcano, which sits near 2 million people and attracts tourists to its spectacular lava lake.",
-   "date": "2026-10-19",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "A volcano famous for its glowing lava lake is hiding a surprisingly complex system of magma deep underground. Scientists at Penn State have uncovered evidence of two previously unrecognized magma sources beneath Nicaragua's active Masaya volcano, raising new questions about how molten rock moves beneath the surface. The discovery is particularly important because approximately 2 million people live within 13 miles of the volcano, which is also a popular tourist destination. Understanding its underground activity could help scientists recognize warning signs of future eruptions and better protect nearby communities. Using six years of satellite observations, researchers tracked subtle changes in the ground around Masaya. They discovered that one part of the volcano initially sank before beginning to rise, possibly indicating that fresh magma was entering a deep reservoir. Meanwhile, the ground around its active Santiago crater and lava lake continued to sink, suggesting that a separate, shallower magma reservoir was behaving differently. The findings, published in Geophysical Research Letters , reveal that the volcano's underground magma system may be considerably more complicated than previously understood. \"These observations help scientists better understand how magma moves beneath Masaya and may improve monitoring and eruption forecasting in the future,\" said lead author Lizzie Johnson, who earned her bachelor's degree in geosciences from Penn State in May. Located near Managua, Nicaragua's capital, Masaya is a geologically complex volcano featuring multiple overlapping craters and calderas. Calderas are large depressions that generally form when the ground collapses after magma is removed from an underground chamber. Although scientists have studied Masaya for years, the movement of magma through its underground reservoirs and passageways remains poorly understood. These systems can change over time, making it difficult to determine exactly what is happening beneath the volcano. \"Having a thorough understanding of Masaya's volcanic activity and its related hazards is critical as around 2 million people live near Masaya and the caldera is a national park and popular tourist destination,\" Johnson said. \"Although Masaya last produced a major lava flow in 1772, its persistent degassing often produces dangerously high concentrations of sulfur dioxide volcanic gas.\" Sulfur dioxide is a potentially harmful volcanic gas released as magma approaches or remains near the surface. Even without a major eruption, elevated concentrations can create dangerous conditions for visitors and surrounding communities. Young Cheol Kim, who completed his doctorate in geosciences at Penn State this summer, explained that monitoring the volcano continuously is essential for distinguishing normal activity from changes that might signal increasing volcanic hazards. \"Doing continuous monitoring allows us to understand the baseline activity and identify see if things are changing,\" he said, explaining that certain shifts in volcanic behavior could indicate a period of heightened activity or a possible eruption. \"And then if there is a need to warn people, we can do that in a timely manner.\" To investigate Masaya's underground activity, the researchers analyzed measurements collected by the Sentinel-1 satellite, which observes the volcano approximately once every 12 days. The team used a technique called interferometric synthetic aperture radar (InSAR), which can detect extremely small changes in the elevation of Earth's surface. By comparing satellite measurements taken at different times, scientists can identify areas where the ground is rising or sinking. The technique combines two important capabilities. Synthetic aperture radar sends microwave signals toward Earth's surface, allowing satellites to collect measurements even when clouds obscure the ground. Interferometry compares the returning radar signals to detect changes in distance between the satellite and the surface. This is especially valuable in tropical regions, where frequent cloud cover can make conventional satellite imagery less reliable. \"Cloud penetration is important for volcanoes because many of them, like Masaya, are in tropical areas where there is often cloud cover,\" Kim explained. \"And when we look at all the different satellite images across multiple years, we can see how the distance between the satellite and the ground changes, where it is uplifting or subsiding.\" By examining these subtle movements over time, researchers can investigate processes happening far below the surface without directly observing the magma itself. The satellite measurements revealed an intriguing pattern between 2018 and 2024. During the first part of the study, the ground within Masaya's caldera gradually subsided, meaning it moved downward. Later, the same general area began to rise. Scientists believe this transition could reflect changes in the amount of magma stored underground. When magma drains away from a reservoir, the overlying ground can sink. When additional magma enters and increases pressure within a reservoir, the surface may rise. The most surprising finding was that the area surrounding Santiago crater did not follow the same pattern. Instead, it continued to sink throughout the six-year study, even as the broader caldera began rising. \"When it's subsiding, that means that there's probably magma draining away from the volcano, but once the ground starts uplifting again, that can mean that there's potentially new magma moving in,\" Johnson said. \"At the same time, the area directly around the active Santiago crater deflated over the entire study period independently of the transition to inflation of the main reservoir. This indicates that the plumbing system is more complex and could be due to decreasing magma in a second, shallower reservoir.\" Together, these observations suggest that Masaya may have at least two distinct parts of its magma storage system undergoing different changes. A deeper source could be supplying additional magma to the main reservoir, while a shallower reservoir near Santiago crater may be losing magma. This would help explain why different sections of the same volcano moved in opposite directions. Understanding these underground movements is important because changes in the ground can provide clues about where magma is accumulating, where it is moving, and how it might eventually reach the surface. The researchers emphasized that their observations did not reveal any immediate danger to communities surrounding Masaya. However, identifying the volcano's normal behavior and understanding its magma supply system could make it easier to recognize unusual changes in the future. Continued satellite observations, combined with more detailed computer models, could also help scientists better understand the connections between underground magma reservoirs and volcanic activity at the surface. \"Further long-term geodetic and modeling studies will provide a more thorough understanding and allow for effective hazard monitoring and mitigation at Masaya and other lava-lake hosting basaltic volcanoes,\" Johnson said. The findings may therefore have implications beyond Nicaragua, particularly for other active volcanoes that contain persistent lava lakes and complex underground magma systems. Johnson became involved in the project after attending a presentation by Christelle Wauthier, a Penn State professor of geosciences and computational sciences hub director at the university's Institute for Computational and Data Sciences. She completed the research as part of her Schreyer's Honors College thesis, working alongside graduate researchers, including Kim, to analyze satellite measurements and develop her scientific skills. \"I appreciated learning how a research group works,\" said Johnson, who has recently started a doctoral program in Earth sciences at the University of Hawaii at Manoa, where she wi",
+    "형식 CUT",
+    "훅: surpris"
+   ],
+   "text": "Researchers at the University of Vermont have discovered a surprising pattern in human language that challenges a scientific theory widely accepted for more than 70 years. Their findings suggest that the meaning of words is shaped by something more fundamental than emotion: our understanding of power, danger, and order. The study, published in Science Advances , introduces a new approach called \"ousiometrics,\" which uses mathematical methods to measure the essential meaning of language. Its most striking finding is that the words people use show a consistent and widespread preference for safety over danger. This hidden safety bias could transform how researchers study language, understand human behavior, and develop artificial intelligence systems that interpret what people say and write. Since the 1950s, much of the scientific understanding of word meaning has relied on a framework developed through pioneering research by psychologist Charles Osgood and others. Known as the VAD model, it describes meaning through three emotional dimensions: valence (positive vs. negative), arousal (excited vs. calm), and dominance (controlling vs. submissive). This approach became influential in psychology, linguistics, and artificial intelligence, particularly in systems designed to identify the emotional tone of written language. However, the University of Vermont researchers found evidence that this long-established model overlooks important aspects of how meaning is organized. Their analysis examined billions of individual uses of more than 20,000 words across a wide range of real-world texts. Using advanced computational techniques, the team identified a different underlying structure. They found that the three dimensions in the traditional VAD model are not independent of one another, as previously assumed. Instead, their results indicate that word meaning can be more effectively described through three separate dimensions: power (weak vs. powerful), danger (safe vs. dangerous), and structure (ordered vs. chaotic). The research, supported by the US National Science Foundation, Google, MassMutual, and other funders, found that this new framework accounted for more than 90% of the variation in measured word meaning. The traditional VAD approach explained approximately 72%. That improvement could be especially important as large language models, automated content moderation, and other AI technologies increasingly depend on understanding human communication. One of the study's most unexpected discoveries emerged when the researchers examined how words actually appear in everyday communication. Across books, news reporting, social media, and spoken language, words associated with safety appeared much more frequently than those associated with danger. This finding offers a new explanation for a familiar phenomenon called the Pollyanna principle, which describes the tendency for human language to lean toward positive rather than negative words. For decades, researchers generally interpreted this pattern as evidence that people favor positive emotional expressions. The new analysis suggests that something more fundamental may be responsible. According to the researchers, the apparent preference for positivity largely reflects an underlying preference for safety. \"The Pollyanna principle's positivity bias,\" the study concludes. \"is, in fact, a one-dimensional projection of an underlying safety bias.\" \"This is a big observation that comes out of this work,\" said Peter Dodds, director of the UVM's Complex Systems Institute and senior author of the study. \"Expressions of safety are crucial to all language.\" The discovery raises an intriguing possibility: the structure of human language may reflect evolutionary pressures associated with staying alive. From this perspective, words do more than communicate feelings. They also help people recognize threats, evaluate uncertainty, establish trust, and coordinate actions with others. Being able to distinguish between safety and danger is essential to survival. The researchers suggest that this basic human priority may also influence how meaning is organized in language. Throughout daily life, people constantly exchange information about whether individuals, places, situations, and behaviors are threatening or safe. The new findings suggest that these distinctions may be more central to communication than previously recognized. They also offer a different interpretation of why positive language is so common. Rather than simply expressing happiness or approval, many positive words may convey a sense of security, stability, or predictability. Julia Zimmerman, a postdoctoral researcher in UVM's Computational Story Lab and a co-author of the study, said the three newly identified dimensions reflect experiences that are fundamental to human life. \"Power, danger, and structure,\" she said, \"are relevant to every person that's ever lived.\" Researchers have also long recognized that people tend to favor language associated with goodness and low aggression. The team argues that these familiar tendencies may arise from the same deeper pattern. \"We now understand,\" the team writes, that these are \"shadows of an underlying linguistic safety bias.\" Although the results are consistent with a possible connection between language and survival, they do not establish that evolutionary pressures directly caused the safety bias. The findings have implications that extend well beyond linguistics. Many artificial intelligence systems use sentiment analysis to determine whether language expresses positive, negative, or neutral feelings. Some approaches also draw on the traditional VAD framework to measure emotional meaning. If that framework does not fully capture the underlying structure of language, systems built around it could overlook important distinctions in what people communicate. The researchers suggest that incorporating power, danger, and structure could eventually help AI models interpret language more accurately and explain their assessments more clearly. This may be particularly useful when analyzing trust, risk, and decision-making. In linguistics, the findings offer a different way to understand the foundations of meaning. Instead of treating emotional tone as the primary organizing principle, the new framework emphasizes distinctions related to strength, safety, and predictability. Psychology could also be affected. Decades of studies have used the VAD model to investigate emotions, perception, and behavior. A different set of fundamental dimensions could encourage researchers to reconsider how some of those findings are interpreted. The discovery may also interest neuroscientists. The human brain is highly sensitive to threats and signals of safety, and the newly identified linguistic bias suggests that these biological priorities may be reflected in language. This potential connection could help researchers explore relationships between brain activity and symbolic communication, although further research would be needed to establish them. To investigate these patterns, the researchers created analytical methods designed to measure meaning across enormous collections of written and spoken language. One of their central innovations is the \"ousiometer,\" a tool that rapidly evaluates the essential meaning of large bodies of text and produces an average meaning score. (The word \"ouisa\" comes from Ancient Greek and is a root for the English word \"essence.\") The ousiometer builds on an earlier tool developed by the research team called the \"hedonometer\" (a happiness meter). While that instrument measures the overall emotional tone of language, the new approach examines broader patterns of meaning. The researchers demonstrated that the ousiometer can analyze material from remarkably different sources, including Jane Austen's novels, Arthur Conan Doyle's Sherlock Holmes stories, the New York Times, Wikipedia, Twitter, and transcripts of tal",
+   "doi": [
+    "10.1126/sciadv.adr4039"
+   ],
+   "journal_ref": "Journal Reference : Peter Sheridan Dodds, Thayer Alshaabi, Mikaela Irene Fudolig, Julia Witte Zimmerman, Juniper Lovato, Shawn Beaulieu, Joshua R. Minot, Michael V. Arnold, Andrew J. Reagan, Christopher M. Danforth. Ousiometrics: The essence of meaning aligns with a power-danger-structure framework instead of valence-arousal-dominance . Science Advances , 2026; 12 (19) DOI: 10.1126/sciadv.adr4039",
    "facts": [
-    "The discovery is particularly important because approximately 2 million people live within 13 miles of the volcano, which is also a popular tourist destination.",
-    "\"Having a thorough understanding of Masaya's volcanic activity and its related hazards is critical as around 2 million people live near Masaya and the caldera is a national park and popular tourist destination,\" Johnson said.",
-    "\"Although Masaya last produced a major lava flow in 1772, its persistent degassing often produces dangerously high concentrations of sulfur dioxide volcanic gas.\" Sulfur dioxide is a potentially harmful volcanic gas released as magma approaches or remains near the surface.",
-    "\"And then if there is a need to warn people, we can do that in a timely manner.\" To investigate Masaya's underground activity, the researchers analyzed measurements collected by the Sentinel-1 satellite, which observes the volcano approximately once every 12 days.",
-    "By comparing satellite measurements taken at different times, scientists can identify areas where the ground is rising or sinking.",
-    "The satellite measurements revealed an intriguing pattern between 2018 and 2024.",
-    "National Science Foundation through awards 1945417 and 2523375, along with computational resources provided by Penn State's Institute for Computational and Data Sciences.",
+    "Researchers at the University of Vermont have discovered a surprising pattern in human language that challenges a scientific theory widely accepted for more than 70 years.",
+    "Since the 1950s, much of the scientific understanding of word meaning has relied on a framework developed through pioneering research by psychologist Charles Osgood and others.",
+    "Their analysis examined billions of individual uses of more than 20,000 words across a wide range of real-world texts.",
+    "The research, supported by the US National Science Foundation, Google, MassMutual, and other funders, found that this new framework accounted for more than 90% of the variation in measured word meaning.",
+    "The traditional VAD approach explained approximately 72%.",
+    "The researchers demonstrated that the ousiometer can analyze material from remarkably different sources, including Jane Austen's novels, Arthur Conan Doyle's Sherlock Holmes stories, the New York Times, Wikipedia, Twitter, and transcripts of talk radio programs.",
     "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
    ],
-   "doi": [
-    "10.1029/2026GL123214"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : E. Johnson, Y. C. Kim, C. Wauthier. Double Trouble: Two Active Magma Reservoirs Identified at Masaya Volcano, Nicaragua, Using Satellite Geodesy . Geophysical Research Letters , 2026; 53 (14) DOI: 10.1029/2026GL123214",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261018205039.htm"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 PRESS",
-    "훅: strange"
-   ]
-  },
-  {
-   "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261018084028.htm",
-   "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new insights into treating mental disorders.",
-   "date": "2026-10-19",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "What if the human brain works in ways that Sigmund Freud began describing more than 130 years ago? A new scientific analysis suggests that some of his ideas about the mind share surprising similarities with one of the most influential theories in modern neuroscience. Published in the scientific journal Entropy , the paper explores connections between Freud's original theories, later developments in psychoanalysis, and a modern approach to brain research known as the prediction paradigm. This approach describes the brain as a prediction machine. Rather than simply responding to information from the outside world, the brain is constantly anticipating what will happen next. It then compares those expectations with incoming information from the senses and works to reduce any differences between what it predicted and what actually occurred. Scientists believe this ongoing process plays a central role in how people perceive their surroundings, make decisions, behave, and regulate emotions. Researchers Erik Stänicke, Bendik Hovet, and Line Indrevoll Stänicke, together with colleagues, argue that this modern understanding of brain function has important parallels with ideas that psychoanalysts have been developing for more than a century. \"For over 130 years, psychoanalysis has developed psychological theories about how predictions take place at a subjective level, which cognitive neuropsychology is now studying at a physiological level.\" Although neuroscience and psychoanalysis approach the mind differently, the researchers suggest that both may be describing related processes. Neuroscience examines the physical mechanisms behind thought and behavior, often using mathematical models to explain how the brain processes information. Psychoanalysis, which grew out of Freud's work, focuses more on unconscious mental processes, emotional experiences, and the ways past relationships influence present behavior. In other words, one field investigates what happens inside the brain, while the other explores how those processes are experienced by the individual. A particularly interesting connection involves the psychoanalytic concept of projection and the neuroscientific concept of prediction. In psychoanalysis, projection involves attributing feelings, intentions, or qualities to someone else. The researchers suggest that this resembles how the brain uses previously learned expectations to interpret new experiences. \"When we attribute qualities, intentions or feelings to other people, our brain shapes our experience of the world in line with established expectations,\" says Stänicke. For instance, someone who has repeatedly experienced rejection may become especially sensitive to signs that other people are rejecting them. Even an ambiguous remark or facial expression might be interpreted negatively because past experiences have shaped what the person expects. Over time, these expectations can influence how someone approaches unfamiliar situations and forms new relationships. \"This corresponds to the neuroscientific distinction between changing one's own predictions, perceptual inference, and the attempt to make the world conform to them, namely active inference.\" Perceptual inference refers to the way the brain interprets sensory information and updates its expectations in response. Active inference, by contrast, involves taking actions that help bring experiences into line with predictions or reduce uncertainty. Together, these concepts help explain why people do not always experience the world as it objectively is. Their expectations can influence what they notice, how they interpret events, and how they respond. The researchers believe the similarities between Freud's ideas and modern neuroscience could offer valuable insights into mental health disorders, particularly those involving deeply established patterns of thinking and behavior. Both approaches portray the mind as constantly seeking stability and predictability. This tendency is related to homeostasis, the process through which a system maintains a relatively stable internal state. In the predictive brain model, reducing uncertainty is an important part of maintaining that stability. The brain relies on familiar expectations to make the world easier to understand, even when those expectations are inaccurate or no longer helpful. \"Psychoanalysts refer to the tendency in the mind to recreate familiar relational patterns, even when these are poorly adapted,\" says Stänicke. This could help explain why people sometimes repeat harmful patterns in relationships or continue interpreting situations negatively despite evidence that challenges their assumptions. \"Rigid and persistent symptoms, such as paranoid ideas or an internalized critical voice, may be stable but not very flexible prediction models,\" says Stänicke. \"For example, there may be people who automatically expect criticism, rejection or hostility from others, and therefore interpret situations through this filter despite the fact that reality does not warrant it.\" Such expectations can become deeply entrenched because they make experiences feel familiar and predictable. Even when the resulting interpretation is distorted, maintaining an established mental model may feel less uncertain than changing it. According to Stänicke, this offers a possible explanation for why some psychological symptoms can persist for years and why changing longstanding patterns of thought and behavior often requires considerable time. The connection is particularly interesting because it suggests that some mental health difficulties may involve more than consciously held beliefs. They may also reflect deeply learned expectations that automatically shape emotional responses and interactions with others. The researchers also highlight an important distinction between what people consciously believe and what they have learned through experience. \"In addition, both models give us insight into how parts of our expectations of the outside world are not only anchored cognitively, but in procedural memory that is expressed in relational ways of being,\" he says. Procedural memory is a type of long-term memory involved in learned habits and skills. It allows people to perform familiar actions without consciously thinking through every step. In the context of relationships, the researchers suggest that a similar form of learning may help explain why certain emotional reactions and patterns of interaction become automatic. Someone might intellectually understand that other people are not necessarily hostile or critical, for example, yet still instinctively respond as though rejection is inevitable. These expectations are not simply thoughts that can be changed through reasoning. They can also be embedded in habitual ways of reacting to people and navigating relationships. This distinction may help explain why psychotherapy sometimes needs to address personal relationships and emotional experiences rather than focusing only on conscious thoughts. \"Therefore, psychotherapy sometimes has to work relationally. For example, new experiences in the relationship between therapist and patient can gradually help to change entrenched relational patterns.\" Through repeated experiences that challenge familiar expectations, patients may gradually develop different ways of interpreting situations and relating to other people. The researchers argue that connecting psychoanalysis with modern predictive brain theory could benefit both fields. Neuroscience may provide a biological framework for understanding processes that psychoanalysts have long described through subjective experience. At the same time, psychoanalytic theories may offer more detailed explanations of how expectations are experienced emotionally, interpreted personally, and expressed through relationships. The proposed similarities do not establish that Freud's broader theories were correct. Instead, they suggest that two very different",
-   "facts": [
-    "What if the human brain works in ways that Sigmund Freud began describing more than 130 years ago?",
-    "\"For over 130 years, psychoanalysis has developed psychological theories about how predictions take place at a subjective level, which cognitive neuropsychology is now studying at a physiological level.\" Although neuroscience and psychoanalysis approach the mind differently, the researchers suggest that both may be describing related processes.",
-    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-   ],
-   "doi": [
-    "10.3390/e28030318"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Erik Stänicke, Bendik Sparre Hovet, Line Indrevoll Stänicke. Freud’s Model of the Mind Within a Predictive Processing Neuroscientific Paradigm . Entropy , 2026; 28 (3): 318 DOI: 10.3390/e28030318",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261018084028.htm"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 PRESS",
-    "훅: surpris",
-    "생활소재: brain"
-   ]
+   "sample": []
   },
   {
    "title": "Wireless neural chip tracks brain changes in real time after Alzheimer's drug administration",
@@ -734,6 +772,8 @@
    "date": "2026-10-27",
    "source": "MedicalXpress",
    "first_seen": "2026-10-27",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-fructose-liver-tumors-mice-key.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -748,8 +788,30 @@
    "why": [
     "형식 CUT",
     "생활소재: diet, mice"
+   ]
+  },
+  {
+   "title": "The degree of obesity may influence the outcomes of acute pancreatitis",
+   "link": "https://medicalxpress.com/news/2026-10-degree-obesity-outcomes-acute-pancreatitis.html",
+   "key": "https://medicalxpress.com/news/2026-10-degree-obesity-outcomes-acute-pancreatitis.html",
+   "summary": "In acute pancreatitis, mild obesity might more than double the odds of vital organ failure, according to an international study by researchers at Semmelweis University analyzing data from more than 2,200 patients. The study, published in the journal Pancreatology, found that patients with obesity may have more than three times the odds of developing severe acute pancreatitis compared with patients of normal weight. Experts therefore emphasize that even gradual or smaller weight loss might reduce the odds of severe complications.",
+   "date": "2026-10-27",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "MedicalXpress"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-fructose-liver-tumors-mice-key.html"
+   "links": [
+    "https://medicalxpress.com/news/2026-10-degree-obesity-outcomes-acute-pancreatitis.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: weight loss"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-degree-obesity-outcomes-acute-pancreatitis.h"
   },
   {
    "title": "Your brain maps out numbers, including integers and fractions",
@@ -925,74 +987,6 @@
    ]
   },
   {
-   "title": "Tegoprubart preserves kidney function better than tacrolimus in first-time transplant patients, trial suggests",
-   "link": "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html",
-   "key": "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html",
-   "summary": "The phase 2 BESTOW clinical trial showed that tegoprubart (a novel anti-CD40L antibody therapy) was better at preserving kidney function than tacrolimus (the current standard of care) in immunosuppressive regimens in adults receiving their first kidney transplant. Kidney graft function stabilized after the first month of treatment and remained higher in tegoprubart-treated patients than in tacrolimus-treated patients at each reported time point, with a statistically significant kidney function benefit at 18 months. A recent analysis of BESTOW data found that tegoprubart also caused greater improvements in patient-reported health-related quality of life compared with tacrolimus in study parti",
-   "date": "2026-10-24",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-24",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-trans",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE"
-   ]
-  },
-  {
-   "title": "Melanoma vaccine reduces death or cancer recurrence by 42%",
-   "link": "https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.html",
-   "key": "https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.html",
-   "summary": "Adding a personalized mRNA-based cancer vaccine to immunotherapy after surgery for high-risk melanoma reduced the risk of recurrence or death by 42%, according to results from the phase 3 INTerpath-001 trial presented at the ESMO Congress 2026. The vaccine, intismeran autogene, was given alongside pembrolizumab and compared with pembrolizumab alone.",
-   "date": "2026-10-24",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-24",
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.htm"
-  },
-  {
-   "title": "ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer",
-   "link": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
-   "key": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
-   "summary": "A new analysis of a phase 3 clinical trial found that the targeted drug daraxonrasib improved survival compared with standard chemotherapy across multiple groups of patients with advanced pancreatic cancer, including those with different RAS mutations and those without an identified RAS mutation.",
-   "date": "2026-10-24",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-24",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE"
-   ]
-  },
-  {
    "title": "Can we really predict the future? Over one million forecasts offer clues, not certainty",
    "link": "https://phys.org/news/2026-10-future-million-clues-certainty.html",
    "key": "https://phys.org/news/2026-10-future-million-clues-certainty.html",
@@ -1023,6 +1017,8 @@
    "date": "2026-10-27",
    "source": "Phys.org",
    "first_seen": "2026-10-27",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1035,8 +1031,7 @@
    "why": [
     "형식 CUT",
     "생활소재: dinosaur"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html"
+   ]
   },
   {
    "title": "Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics",
@@ -1046,6 +1041,8 @@
    "date": "2026-10-27",
    "source": "Phys.org",
    "first_seen": "2026-10-27",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1058,8 +1055,53 @@
    "why": [
     "형식 SCALE",
     "생활소재: cat, diet"
+   ]
+  },
+  {
+   "title": "121-million-year-old fossils suggest Longipteryx had no tail feathers",
+   "link": "https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html",
+   "key": "https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html",
+   "summary": "Around 121 million years ago, somewhere in modern northeastern China, an early bird took to the skies. If you drew its silhouette, you'd notice something was missing. Unlike any bird alive today, it had no tail feathers.",
+   "date": "2026-10-28",
+   "source": "Phys.org",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "Phys.org"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html"
+   "links": [
+    "https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "생활소재: bird"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html"
+  },
+  {
+   "title": "Marine molecule may help combat 'brain-eating' amoeba",
+   "link": "https://phys.org/news/2026-10-marine-molecule-combat-brain-amoeba.html",
+   "key": "https://phys.org/news/2026-10-marine-molecule-combat-brain-amoeba.html",
+   "summary": "Primary amoebic meningoencephalitis (PAM), a parasitic disease that causes the rapid deterioration of brain tissue, is one of the most lethal infections known, with a fatality rate exceeding 97%. Caused by the free-living amoeba Naegleria fowleri (N. fowleri), the disease progresses with devastating speed, often leaving patients with only a few days to respond to treatment.",
+   "date": "2026-10-27",
+   "source": "Phys.org",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-marine-molecule-combat-brain-amoeba.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "생활소재: brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-marine-molecule-combat-brain-amoeba.html"
   },
   {
    "title": "Are 'mega-Earths' real? Stellar activity may explain these oversized rocky worlds",
@@ -1199,28 +1241,31 @@
    ]
   },
   {
-   "title": "NASA’s Mars orbiter fleet is getting old – here’s how that could affect future exploration",
-   "link": "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555",
-   "key": "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555",
-   "summary": "NASA lost contact with its Maven spacecraft – the youngest of its Mars orbiters – at the end of 2025. The others in its fleet are over two decades old.",
-   "date": "2026-10-19",
+   "title": "Why do people still get polio in some countries and not in others?",
+   "link": "https://theconversation.com/why-do-people-still-get-polio-in-some-countries-and-not-in-others-294010",
+   "key": "https://theconversation.com/why-do-people-still-get-polio-in-some-countries-and-not-in-others-294010",
+   "summary": "Polio can survive only where it finds kids who aren’t protected by a vaccine.",
+   "date": "2026-10-26",
    "source": "The Conversation",
-   "first_seen": "2026-10-22",
-   "text": "Currently, about 16,000 satellites are orbiting Earth , providing everything from GPS service and weather reports to phone service in remote locations to people across the globe. In contrast, the highest-ever number of active satellites in orbit around Mars , one of the best-explored other planets in our solar system, is eight. Starting in 2021, there were three from NASA, two from the European Space Agency and one each from the Indian Space Research Organization, the UAE Space Agency and the China National Space Administration. The oldest of these is still 2001 Mars Odyssey, which has now spent 25 years in space, with Mars Express, at 23 years, and the Mars Reconnaissance Orbiter, at 20 years, hot on its heels. But in December 2025, NASA lost contact with its Maven spacecraft , bringing the total number of active satellites down to seven, and NASA’s to two. The cause of the loss of Maven has still not been publicly released, and NASA officially declared the mission over in June 2026. A final report on the cause of the loss is due later this year. NASA is exploring potential commercial solutions to supplement the current fleet of Mars orbiters. In September 2026, NASA selected Jeff Bezos’ Blue Origin to provide a Mars telecommunication satellite no later than Dec. 31, 2028. These satellites are important because future missions will rely on them to communicate with Earth and select safe landing sites on Mars. Planetary scientists like me rely on the data they’ve taken over the past few decades to learn more about our close, red neighbor. The Mars Atmosphere and Volatile EvolutioN, or Maven, spacecraft arrived at Mars in 2014, making it NASA’s youngest orbiter. It was only briefly the youngest in the international Mars family, as the Indian space agency’s Mars Orbiting Mission spacecraft arrived a few days later. The longer any satellite spends in space, the greater the toll of the harsh environment – from extreme temperature swings to solar radiation . Maven, however, appeared generally healthy until it missed a radio check-in – a sign of trouble – after emerging back from behind the planet. Whatever happened to Maven last December was only the second time in the 21st century that NASA had lost contact with an orbiter during otherwise ordinary operations. The other time was in 2006, with Mars Global Surveyor , which NASA ultimately lost, likely due to issues with uploaded software commands. The Mars exploration community, myself among them, is waiting with bated breath to understand why one-third of NASA’s Mars fleet lost contact seemingly overnight. The loss ends a stellar, almost two-decade-long track record of missions ending when expected, not before. Mars science has been in a golden age since 2001 Mars Odyssey arrived at the red planet 25 years ago. NASA has had a Mars rover of some type operating on the surface continuously since 2004 with the Exploration rover landings , so there have been only a handful of years in the 21st century where scientists couldn’t access nearly simultaneous views of Mars from the surface and from orbit. This access gives Mars scientists the ability to study how both the surface and atmosphere change over time. In particular, we can follow changes with Mars’ seasons , which drive about a quarter of its atmosphere onto its surface as seasonal ice . And we have found laundry lists of these changing features, including “spiderlike” araneiform features in the soil that likely develop from carbon dioxide geysers. Learning about rare events like global dust storms , which obscure Mars’ entire surface, also opens up many new questions. We still don’t know what triggers the start of a global dust storm, and they only occur every several Mars years. In Maven’s 11 years at Mars, it was only able to observe one global dust storm, in 2018 . From a practical standpoint, Mars orbiters have their own science missions. However, their powerful radios are also critical for delivering data from landers and rovers , like Perseverance or Curiosity, back to Earth. In the past, NASA has adjusted the Mars Reconnaissance Orbiter and Maven orbits to support landings and surface operations. HiRISE (High-Resolution Imaging Science Experiment) aboard the Reconnaissance orbiter, is the highest-resolution camera in orbit to date. Engineers have used data from HiRISE to ensure they could deliver the Mars rovers Curiosity and Perseverance to the surface, as well as the InSight lander . While Mars orbiters and their instrument suites are selected for their science value, they have come to participate in infrastructure that is essential for getting all the possible data back to Earth. These tasks, which go beyond science data collection, make the orbiter fleet critical to Mars exploration. The Dec. 31, 2028, delivery date for the Blue Origin telecommunications Mars orbiter to NASA represents the earliest a new orbiter could be launched for Mars. Mars launch opportunities happen at an approximately 2-year cadence, when Mars and Earth get closest to each other in their respective orbits. During this window, less fuel is needed for the journey. If a new Mars orbiter for science or telecommunications is not launched by the 2028 window, the next opportunity would be in 2030 or 2031. While the Blue Origin telecommunications orbiter would support future exploration missions, the announcement did not outline plans for any science instrumentation onboard. Mars Odyssey will be around 30 years old by then, and the Mars Reconnaissance Orbiter around 25. NASA hardware tends to be hardy, often greatly exceeding expectations. For example, the Mars Exploration rovers were meant to last for 90 days, with Spirit ending its mission after over six years and Opportunity after over 14 years. However, orbiters may slowly lose capability over time – the Mars Reconnaissance Orbiter’s spectrometer instrument ceased operations in 2023 , while its other instruments are still active. But three or four decades in a space environment is a long tour of duty for any hardware in space, let alone hardware that is pulling double-duty as scientist and radio broadcaster. Much like driving your first car for far longer than you had planned on, the NASA orbiter fleet is waiting to see if the next repair bill means it’s time for an upgrade, or if it’ll have to catch rides from its friends. Until NASA releases its report, scientists and engineers will be waiting to understand what happened to end the Maven spacecraft’s mission early, and how those details can help them keep the current fleet flying until reinforcements finally arrive.",
+   "first_seen": "2026-10-27",
+   "text": "Curious Kids is a series for children of all ages. If you have a question you’d like an expert to answer, send it to CuriousKidsUS@theconversation.com . Why are people still getting polio in some countries and in not others? – Mia, age 9, Centennial, Colorado On a busy street in Karachi, Pakistan, a healthcare worker kneels down so she’s eye to eye with a toddler. She squeezes two drops of liquid onto the child’s tongue. Then she takes out a purple marker and colors the child’s pinkie fingernail so everyone can see that this toddler is now vaccinated against polio. During big vaccination drives, thousands of health workers like her knock on doors across Pakistan. Most kids in the United States will never experience anything like this, because they get the polio vaccine as a shot at the doctor’s office instead of drops in a door-to-door campaign. The two vaccines work a little differently , but both protect kids from the polio virus. The countries that still see polio outbreaks are places where not enough people have gotten the preventive vaccine. I’m an epidemiologist – a scientist who studies how diseases spread. My work focuses on diseases that vaccines can prevent, and on the false information that keeps some families from getting those vaccines. Polio is caused by a virus that lives in the human gut. It spreads when tiny bits of poop from an infected person get onto hands, food or water, and then into someone else’s mouth. That’s why polio spreads fastest in places without clean water or good sewer systems. Polio is sneaky. Most people who catch it never feel sick at all , so they can pass it on without knowing. But in about 1 out of every 200 infections globally, the virus attacks the nerves that control muscles, usually in the legs. This can cause a person to be paralyzed for the rest of their life. There is no cure for polio. But there is a vaccine , and a few doses can protect you for life. In 1988, polio paralyzed about 350,000 children in 125 countries. That same year, countries around the world teamed up with one huge goal: Wipe out polio for good. Though polio has not yet been entirely eliminated, this effort has been a major success. Since then, polio cases have dropped by more than 99% globally . There used to be three types of wild polio virus . Now, only type 1 is left. Wild polio, the original virus, now spreads in just two countries : Afghanistan and Pakistan. In 2025, wild polio paralyzed 52 children there. Both countries have lived through decades of war . In some areas, it’s too dangerous for vaccinators to travel, and some have even been attacked . In Afghanistan, vaccinators haven’t gone house to house since late 2024 . Families must bring children to central spots, such as mosques, instead. But the kids who can’t get there miss their vaccines. Some countries have outbreaks of a different kind, called vaccine-derived polio . The oral polio vaccine, which is no longer used in many countries, including the U.S., contains a weakened polio virus – too weak to make a child sick, but strong enough to teach the body to fight polio. After a child swallows the drops of vaccine, some of the weakened virus leaves their body in their poop. If nearly every kid around is vaccinated, the virus has nowhere to go and fizzles out. But in areas where fewer than 80% of kids are vaccinated, it can pass from child to child. Like a message in a game of telephone, the virus changes a little each time it’s passed. Eventually, it can change back into a form that paralyzes children. That might sound like the vaccine is the problem. But in fact, the problem is that too few kids have received the vaccine. The children who go unvaccinated are usually the hardest to reach: kids in the poorest families, in faraway villages or in war zones. In one study in Pakistan, offering families other free healthcare along with polio drops cuts the share of never-vaccinated kids nearly in half . In October 2025, scientists testing sewage in Hamburg, Germany, found wild polio . Its genes matched virus found in Afghanistan, more than 3,000 miles (4,800 kilometers) away. This means that someone carrying the virus, probably without feeling sick, had traveled to Germany. But not a single child there was paralyzed because most German kids are vaccinated against polio. Other countries in Europe found vaccine-derived polio in their sewage in 2025, with the same happy ending. Polio can travel anywhere, but it can only hurt kids where they aren’t protected by the vaccine. Polio also gets help spreading from rumors and misinformation. In 2003, false stories that the vaccine was harmful led parts of northern Nigeria to stop vaccinating for almost a year . This led to a small outbreak that spread from that area to other countries. Research shows that false news online travels “ farther, faster, deeper and more broadly than the truth.” Unfortunately, misinformation could also contribute to a resurgence of polio in places where it has been eliminated – even the U.S. In Colorado , about 1 in 8 kindergartners haven’t had all their polio shots . And in 2022, vaccine-derived polio paralyzed an unvaccinated young man in New York. Though rumors can travel quickly, trust is built one conversation at a time , by neighbors, religious leaders and doctors who take parents’ questions and concerns seriously. Unfortunately, the budget of the worldwide program to end polio decreased by 30% in 2026, mostly because wealthy countries cut their foreign aid. This cut is largely led by the U.S., which withdrew from the World Health Organization, or WHO, officially in January 2026 . Other wealthy donor governments like Germany and the U.K. have also made cuts. The WHO has warned that these cuts mean that in some places, the fight against polio will not be able to continue . Only one human disease has ever been wiped off the planet for good: smallpox , in 1980. Polio could be the second . The world has never been this close. Somewhere today, a healthcare worker is coloring another tiny pinkie purple. Each one breaks a link in the chain that polio needs to survive. Hello, curious kids! Do you have a question you’d like an expert to answer? Ask an adult to send your question to CuriousKidsUS@theconversation.com . Please tell us your name, age and the city where you live. And since curiosity has no age limit – adults, let us know what you’re wondering, too. We won’t be able to answer every question, but we will do our best.",
    "facts": [
-    "Currently, about 16,000 satellites are orbiting Earth , providing everything from GPS service and weather reports to phone service in remote locations to people across the globe.",
-    "Starting in 2021, there were three from NASA, two from the European Space Agency and one each from the Indian Space Research Organization, the UAE Space Agency and the China National Space Administration.",
-    "The oldest of these is still 2001 Mars Odyssey, which has now spent 25 years in space, with Mars Express, at 23 years, and the Mars Reconnaissance Orbiter, at 20 years, hot on its heels.",
-    "But in December 2025, NASA lost contact with its Maven spacecraft , bringing the total number of active satellites down to seven, and NASA’s to two.",
-    "The cause of the loss of Maven has still not been publicly released, and NASA officially declared the mission over in June 2026.",
-    "In September 2026, NASA selected Jeff Bezos’ Blue Origin to provide a Mars telecommunication satellite no later than Dec. 31, 2028.",
-    "The Mars Atmosphere and Volatile EvolutioN, or Maven, spacecraft arrived at Mars in 2014, making it NASA’s youngest orbiter.",
-    "Whatever happened to Maven last December was only the second time in the 21st century that NASA had lost contact with an orbiter during otherwise ordinary operations.",
-    "The other time was in 2006, with Mars Global Surveyor , which NASA ultimately lost, likely due to issues with uploaded software commands.",
-    "The Mars exploration community, myself among them, is waiting with bated breath to understand why one-third of NASA’s Mars fleet lost contact seemingly overnight."
+    "Why are people still getting polio in some countries and in not others? – Mia, age 9, Centennial, Colorado On a busy street in Karachi, Pakistan, a healthcare worker kneels down so she’s eye to eye with a toddler.",
+    "But in about 1 out of every 200 infections globally, the virus attacks the nerves that control muscles, usually in the legs.",
+    "In 1988, polio paralyzed about 350,000 children in 125 countries.",
+    "Since then, polio cases have dropped by more than 99% globally .",
+    "In 2025, wild polio paralyzed 52 children there.",
+    "In Afghanistan, vaccinators haven’t gone house to house since late 2024 .",
+    "But in areas where fewer than 80% of kids are vaccinated, it can pass from child to child.",
+    "In one study in Pakistan, offering families other free healthcare along with polio drops cuts the share of never-vaccinated kids nearly in half .",
+    "In October 2025, scientists testing sewage in Hamburg, Germany, found wild polio .",
+    "Its genes matched virus found in Afghanistan, more than 3,000 miles (4,800 kilometers) away."
    ],
    "doi": [],
-   "sample": [],
+   "sample": [
+    "350,000 children",
+    "52 children"
+   ],
    "catch_extra": [
     "DOI 못 찾음"
    ],
@@ -1228,62 +1273,16 @@
     "The Conversation"
    ],
    "links": [
-    "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555"
+    "https://theconversation.com/why-do-people-still-get-polio-in-some-countries-and-not-in-others-294010"
    ],
-   "format": "PRESS",
+   "format": "DOSE",
    "catch": [
     "DOI 못 찾음"
    ],
    "score": 4,
    "why": [
-    "형식 PRESS"
-   ]
-  },
-  {
-   "title": "There should be black holes in our neighborhood. Can we find them?",
-   "link": "https://phys.org/news/2026-10-black-holes-neighborhood.html",
-   "key": "https://phys.org/news/2026-10-black-holes-neighborhood.html",
-   "summary": "Scientific estimates show that there should be between about 100 million and 1 billion stellar-mass black holes in the Milky Way. But they aren't easy to locate. They're not like supermassive black holes (SMBH) at the centers of galaxies. Those are usually easy to spot for different reasons.",
-   "date": "2026-10-22",
-   "source": "Phys.org",
-   "first_seen": "2026-10-22",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-black-holes-neighborhood.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-black-holes-neighborhood.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 4,
-   "why": [
-    "형식 WEIGH"
-   ]
-  },
-  {
-   "title": "Canine cancer patients contribute to next-generation minimally invasive cancer therapies for dogs and humans",
-   "link": "https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html",
-   "key": "https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html",
-   "summary": "Natural disasters. Hikes. Long, dark nights alone. For many people, dogs offer a sense of safety and comfort in challenging or uncertain times. Cancer researchers at a new lab at Purdue University are partnering with dogs to make cancer less frightening—and less deadly—to some of humanity's very best friends using a technique called tumor ablation.",
-   "date": "2026-10-23",
-   "source": "Phys.org",
-   "first_seen": "2026-10-23",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-canine-cancer-patients-contribute-generation.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 4,
-   "why": [
-    "형식 CUT",
-    "생활소재: dog"
+    "형식 DOSE",
+    "생활소재: kids"
    ]
   }
  ]
