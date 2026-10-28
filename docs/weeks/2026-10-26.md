@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-26
 
-최근 8일 누적 660건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 720건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 10 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
@@ -131,7 +131,31 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: When Canada legalized recreational cannabis in October 2018, one concern was that more legal stores would make cannabis easier for young people to access and encourage adolescent use. But does having more cannabis retailers near high schools actually mean more students use cannabis?
 
-## 15. Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit
+## 15. Earwax is both slippery and sticky – this weird combo might lead to safer insect repellents
+- 점수 7 · WEIGH · The Conversation / Phys.org · 2026-10-28
+- https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324
+- 주의: DOI 못 찾음
+- 요약: What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects? It's earwax.
+  - "Here’s a bit of a riddle for you: What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects?"
+  - "People have been pondering earwax since ancient times."
+  - "Cerumen impaction – or blocked earwax – affects about a fifth of the American population , leading to 12 million patient visits per year."
+  - "For smooth surfaces, ants unfurl wet suction cups , which can support 60 times their body weight on smooth glass."
+  - "We showed it can absorb twice its weight in water yet still cling to the walls of the ear."
+
+## 16. A simple daily fiber supplement reduced arthritis pain and improved strength
+- 점수 7 · DOSE · ScienceDaily 전체 · 2026-10-28
+- https://www.sciencedaily.com/releases/2026/10/261027230715.htm
+- DOI: 10.3390/nu18050714
+- 대상: 117 adults
+- 주의: 상관관계
+- 요약: A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealin
+  - "Only 3.6% of those assigned to inulin alone dropped out of the study, compared with 21% of those assigned to physical therapy alone."
+  - "They also observed higher levels of glucagon-like peptide-1 (GLP-1), a hormone released by the gut that helps regulate blood sugar and appetite and has also been linked to pain regulation and muscle health."
+  - "GLP-1 has attracted widespread attention because it is the hormone targeted by medications such as Ozempic and Wegovy."
+  - "However, the inulin supplement used in this trial was not a GLP-1 medication."
+  - "One particularly interesting finding was that higher GLP-1 levels were associated with better grip strength."
+
+## 17. Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit
 - 점수 6 · SCALE · ScienceDaily 전체 · 2026-10-22
 - https://www.sciencedaily.com/releases/2026/10/261021231224.htm
 - DOI: 10.1016/j.jand.2026.156908
@@ -143,7 +167,7 @@
   - "By 2018, the leading sources of added coffee calories were non-dairy creamer, sugar or syrup, and dairy milk."
   - ""The more we know about what people are consuming, the better we can understand the link between nutrition and overall health." To investigate how Americans' coffee habits evolved, the research team examined eight consecutive cycles of the National Health and Nutrition Examination Survey (NHANES), covering 2003 through 2018."
 
-## 16. A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami
+## 18. A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami
 - 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261020085727.htm
 - DOI: 10.1038/s41467-025-63985-z
@@ -154,7 +178,7 @@
   - "The crater itself measures roughly three kilometers across and is surrounded by a much larger, 20-kilometer-wide region of circular faults, which are fractures in the rock where movement has occurred."
   - "When scientists first identified the formation in 2002, several features suggested that it had been created by a high-speed collision with an asteroid or comet."
 
-## 17. Too much RNA can starve cells of energy, scientists discover
+## 19. Too much RNA can starve cells of energy, scientists discover
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261020085023.htm
 - DOI: 10.1073/pnas.2605194123
@@ -165,7 +189,7 @@
   - ""Scientists already knew that too much double-stranded RNA can be harmful," Yang said."
   - ""What surprised us was finding out that too much mRNA -- something cells normally need every day -- can also damage mitochondria and interfere with the cell's ability to produce energy." Research reported in this study was supported, in part, by the National Institute of Allergy and Infectious Diseases (R01AI143709 to Z.Y.) and Texas A&M University."
 
-## 18. Scientists find 10 different diets linked to slower aging
+## 20. Scientists find 10 different diets linked to slower aging
 - 점수 6 · SCALE · ScienceDaily 전체 · 2026-10-21
 - https://www.sciencedaily.com/releases/2026/10/261019093439.htm
 - DOI: 10.1038/s41467-026-77064-4
@@ -178,125 +202,112 @@
   - "The initial analysis included 6,470 participants in DZNE's Rhineland Study in Bonn, Germany."
   - "The researchers then tested their findings using data from another 1,034 people enrolled in the EPIC-Potsdam Study, conducted by the German Institute of Human Nutrition Potsdam-Rehbrücke (DIfE)."
 
-## 19. A hidden bias in human language challenges 70 years of science
-- 점수 6 · CUT · ScienceDaily 전체 · 2026-10-24
-- https://www.sciencedaily.com/releases/2026/10/261023023738.htm
-- DOI: 10.1126/sciadv.adr4039
-- 요약: A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden pref
-  - "Researchers at the University of Vermont have discovered a surprising pattern in human language that challenges a scientific theory widely accepted for more than 70 years."
-  - "Since the 1950s, much of the scientific understanding of word meaning has relied on a framework developed through pioneering research by psychologist Charles Osgood and others."
-  - "Their analysis examined billions of individual uses of more than 20,000 words across a wide range of real-world texts."
-  - "The research, supported by the US National Science Foundation, Google, MassMutual, and other funders, found that this new framework accounted for more than 90% of the variation in measured word meaning."
-  - "The traditional VAD approach explained approximately 72%."
-
-## 20. Wireless neural chip tracks brain changes in real time after Alzheimer's drug administration
+## 21. Wireless neural chip tracks brain changes in real time after Alzheimer's drug administration
 - 점수 6 · DOSE · MedicalXpress · 2026-10-27
 - https://medicalxpress.com/news/2026-10-wireless-neural-chip-tracks-brain.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A joint research team led by KAIST has used a small, implantable neural chip to wirelessly monitor real-time changes in a neurotransmitter involved in memory and learning after an Alzheimer's drug has been administered. In miniature pigs (minipigs), the team observed an increase in the neurotransmit
 
-## 21. Heart drug combo reduces kidney damage in septic shock surgery, major trial finds
+## 22. Heart drug combo reduces kidney damage in septic shock surgery, major trial finds
 - 점수 6 · DOSE · MedicalXpress · 2026-10-27
 - https://medicalxpress.com/news/2026-10-heart-drug-combo-kidney-septic.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A simple adjustment to drugs given during operations for septic shock could prevent thousands of patients from suffering kidney damage, according to the results of a major trial now published in JAMA. Scientists from the University of Southampton working with experts from Zhejiang University School 
 
-## 22. Omega-3 EPA linked to longer survival after surgery for colorectal cancer liver metastases
+## 23. Omega-3 EPA linked to longer survival after surgery for colorectal cancer liver metastases
 - 점수 6 · SCALE · MedicalXpress · 2026-10-26
 - https://medicalxpress.com/news/2026-10-omega-epa-linked-longer-survival.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Patients assigned to receive high-dose eicosapentaenoic acid (EPA), an omega-3 fatty acid, before and after surgery for colorectal cancer liver metastases had longer overall survival than those assigned to receive placebo, according to results of the phase 3 EMT2 trial presented at the ESMO Congress
 
-## 23. Fructose slows liver tumors in mice when key sugar-processing gene is missing, may lead to new treatments
+## 24. Fructose slows liver tumors in mice when key sugar-processing gene is missing, may lead to new treatments
 - 점수 6 · CUT · MedicalXpress · 2026-10-27
 - https://medicalxpress.com/news/2026-10-fructose-liver-tumors-mice-key.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Fructose is an important nutrient that, despite having a chemical structure very similar to that of glucose, is metabolized very differently in the body. Research into fructose metabolism and its regulation of metabolism in the human body has in recent years become a frontier topic in the life scien
 
-## 24. The degree of obesity may influence the outcomes of acute pancreatitis
+## 25. The degree of obesity may influence the outcomes of acute pancreatitis
 - 점수 6 · WEIGH · MedicalXpress · 2026-10-27
 - https://medicalxpress.com/news/2026-10-degree-obesity-outcomes-acute-pancreatitis.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In acute pancreatitis, mild obesity might more than double the odds of vital organ failure, according to an international study by researchers at Semmelweis University analyzing data from more than 2,200 patients. The study, published in the journal Pancreatology, found that patients with obesity ma
 
-## 25. Report indicates water, food and power at risk by strong El Niño
+## 26. Report indicates water, food and power at risk by strong El Niño
 - 점수 6 · CUT · Phys.org · 2026-10-28
 - https://phys.org/news/2026-10-food-power-strong-el-nio.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Rainfall reductions of up to 80% and torrential precipitation leading to severe flooding and landslides are the expected consequences across different areas of Latin America and the Caribbean from the impact of the El Niño phenomenon in 2027, according to a report co-authored by the General Secretar
 
-## 26. Your brain maps out numbers, including integers and fractions
+## 27. Exercise can sometimes cause chest pain—and this condition may be to blame
+- 점수 6 · CUT · MedicalXpress · 2026-10-29
+- https://medicalxpress.com/news/2026-10-chest-pain-condition-blame.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: As a general practitioner, I know that chest pain is one symptom that makes people worry. The immediate concern is that it's a sign there's something seriously wrong—such as a problem with their heart or lungs.
+
+## 28. Single dose of fast-acting psychedelic nasal spray shows promise for stubborn depression
+- 점수 6 · DOSE · MedicalXpress · 2026-10-29
+- https://medicalxpress.com/news/2026-10-dose-fast-psychedelic-nasal-spray.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: One in three individuals with major depressive disorder does not get relief from standard daily antidepressant medications. The up-and-coming psychedelic therapeutics like psilocybin or LSD do show promise of quick relief, even for difficult-to-treat depression. The psychedelic effects, however, are
+
+## 29. Your brain maps out numbers, including integers and fractions
 - 점수 5 · CUT · MedicalXpress · 2026-10-23
 - https://medicalxpress.com/news/2026-10-brain-integers-fractions.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: From learning to count to solving complex calculations, math requires an inherent organization of information. A team of researchers led by Stanislas Dehaene, Ph.D., and Daniela Valério, Ph.D., at the INSERM-CEA Cognitive Neuroimaging Unit (Unicog) Lab in France took dynamic brain scans of adults pr
 
-## 27. Mental health support for parents after pediatric intensive care may modestly reduce PTSD and depressive symptoms
-- 점수 5 · SCALE · MedicalXpress · 2026-10-23
-- https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Admission to a pediatric intensive care unit (PICU) can have lasting psychological effects on both children receiving treatment and their parents. To investigate the effects of psychosocial interventions on parents' emotional health, researchers searched five major academic databases for studies pub
-
-## 28. Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation
-- 점수 5 · SCALE · MedicalXpress · 2026-10-23
-- https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html
-- 주의: 상관관계
-- 이미 본 소재: 2026-10-19 보드에 있었음
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A Hiroshima University–led clinical trial found that hydrogen supplementation did not significantly improve sleep quality compared with a placebo; however, exploratory analyses suggest that differences in the abundance of hydrogen-producing gut bacteria may be associated with individual differences 
-
-## 29. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
+## 30. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
 - 점수 5 · WEIGH · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: South Africa endured its worst year of load shedding (scheduled power cuts by the country's utility, Eskom) in 2023. The power went off on 335 of the year's 365 days, often several times a day. Since then, the country has gone more than a year and a half without these planned power cuts.
 
-## 30. Elections are more predictable than they look
+## 31. Elections are more predictable than they look
 - 점수 5 · PRESS · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-elections.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when indiv
 
-## 31. Potatoes could be the secret to better plant-based meat, say food scientists
+## 32. Potatoes could be the secret to better plant-based meat, say food scientists
 - 점수 5 · SCALE · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.
 
-## 32. Can we really predict the future? Over one million forecasts offer clues, not certainty
+## 33. Can we really predict the future? Over one million forecasts offer clues, not certainty
 - 점수 5 · PRESS · Phys.org · 2026-10-26
 - https://phys.org/news/2026-10-future-million-clues-certainty.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Can crowds of people trading on what they believe will happen collectively predict the future? A new Tel Aviv University study of more than 1 million forecasts suggests that they often come remarkably close. But when it comes to certain events, from international conflicts to elections, the odds may
 
-## 33. Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago
+## 34. Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago
 - 점수 5 · CUT · Phys.org · 2026-10-27
 - https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 25 years after it was first discovered, a new species and genus of dinosaur have been named from the fossil collections cared for by the Natural History Museum. Paludohadros proudlovii was discovered at wienerberger's Ewhurst brick and roof tile works (Ewhurst Works) in Surrey in 2001 and 
 
-## 34. Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics
+## 35. Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics
 - 점수 5 · SCALE · Phys.org · 2026-10-27
 - https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In response to a recent article on vegan diets for cats, Phys.org received numerous messages from concerned readers. People raised a lot of concerns, mainly arguing that cats are obligate carnivores and that vegan diets could be very harmful to their health. Now, we have collected all these comments
 
-## 35. 121-million-year-old fossils suggest Longipteryx had no tail feathers
+## 36. 121-million-year-old fossils suggest Longipteryx had no tail feathers
 - 점수 5 · CUT · Phys.org · 2026-10-28
 - https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Around 121 million years ago, somewhere in modern northeastern China, an early bird took to the skies. If you drew its silhouette, you'd notice something was missing. Unlike any bird alive today, it had no tail feathers.
 
-## 36. Marine molecule may help combat 'brain-eating' amoeba
+## 37. Marine molecule may help combat 'brain-eating' amoeba
 - 점수 5 · SCALE · Phys.org · 2026-10-27
 - https://phys.org/news/2026-10-marine-molecule-combat-brain-amoeba.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Primary amoebic meningoencephalitis (PAM), a parasitic disease that causes the rapid deterioration of brain tissue, is one of the most lethal infections known, with a fatality rate exceeding 97%. Caused by the free-living amoeba Naegleria fowleri (N. fowleri), the disease progresses with devastating
 
-## 37. Leave home with a plan: What to pack in your medical kit and when to seek care for symptoms abroad
+## 38. Leave home with a plan: What to pack in your medical kit and when to seek care for symptoms abroad
 - 점수 5 · DOSE · The Conversation / MedicalXpress · 2026-10-27
 - https://theconversation.com/leave-home-with-a-plan-what-to-pack-in-your-medical-kit-and-when-to-seek-care-for-symptoms-abroad-293602
 - 주의: DOI 못 찾음
@@ -307,25 +318,14 @@
   - "And common respiratory viruses, from influenza to COVID-19, continue to circulate all over the world."
   - "Depending on the destination and season, it affects an estimated 10% to 40% of travelers during the first two weeks of a trip."
 
-## 38. Decoding the loopy physics of hula hooping with high-tech earthquake sensors
+## 39. Decoding the loopy physics of hula hooping with high-tech earthquake sensors
 - 점수 5 · WEIGH · Phys.org · 2026-10-28
 - https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity.
 
-## 39. Are 'mega-Earths' real? Stellar activity may explain these oversized rocky worlds
-- 점수 4 · WEIGH · Phys.org · 2026-10-22
-- https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html
+## 40. Amber fossils reveal how ancient Australian landmass helped seed Southeast Asia's tropical forests
+- 점수 5 · CUT · Phys.org · 2026-10-28
+- https://phys.org/news/2026-10-amber-fossils-reveal-ancient-australian.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A new study suggests that some of the heaviest rocky planets ever reported may not be as heavy as they look. These so-called 'mega-Earths,' rocky planets weighing more than about 10 Earths, could be an illusion created by activity on their host stars. The paper was posted to the arXiv preprint serve
-
-## 40. Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty
-- 점수 4 · 형식? · The Conversation / Phys.org · 2026-10-20
-- https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659
-- 주의: DOI 못 찾음
-- 요약: In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction effor
-  - "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild."
-  - "Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment."
-  - "Convention on Biological Diversity conference , being held Oct. 19-30, 2026, in Yerevan, Armenia."
-  - "In 2022, countries worldwide adopted an agreement at that year’s biodiversity conference to halt and reverse biodiversity loss, known as the Kunming-Montreal Global Biodiversity Framework ."
-  - "It includes goals to raise US$200 billion a year from public and private sources around the world by 2030 to conserve and manage at least 30% of the world’s land, coastal areas and oceans, stop human-caused extinctions and help struggling species survive."
+- 요약: A landmass that broke away from northwestern Australia about 150 million years ago and drifted north for the next 100 million years helped lay the foundations for Southeast Asia's extraordinarily diverse tropical forests, new research has revealed.

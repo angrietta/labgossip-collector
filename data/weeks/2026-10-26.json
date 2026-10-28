@@ -1,6 +1,6 @@
 {
  "week": "2026-10-26",
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,7 +14,7 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 36
+   "span_days": 34
   },
   {
    "feed": "ScienceDaily 뇌·마음",
@@ -28,7 +28,7 @@
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 32
+   "span_days": 33
   },
   {
    "feed": "ScienceDaily 건강",
@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 8
+   "span_days": 7
   }
  ],
  "top": [
@@ -495,6 +495,8 @@
    "date": "2026-10-28",
    "source": "Phys.org",
    "first_seen": "2026-10-28",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-cacao-variety-global-chocolate-disease.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -507,8 +509,7 @@
    "why": [
     "형식 SCALE",
     "생활소재: chocolate, love, stress"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-cacao-variety-global-chocolate-disease.html"
+   ]
   },
   {
    "title": "Do more cannabis stores near schools mean more teens use cannabis? Our research suggests the answer is complicated",
@@ -518,6 +519,8 @@
    "date": "2026-10-28",
    "source": "MedicalXpress",
    "first_seen": "2026-10-28",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-cannabis-schools-teens-complicated.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -531,8 +534,89 @@
     "형식 DOSE",
     "훅: actually",
     "생활소재: teen"
+   ]
+  },
+  {
+   "title": "Earwax is both slippery and sticky – this weird combo might lead to safer insect repellents",
+   "link": "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324",
+   "key": "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324",
+   "summary": "What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects? It's earwax.",
+   "date": "2026-10-28",
+   "source": "The Conversation",
+   "first_seen": "2026-10-28",
+   "sources": [
+    "The Conversation",
+    "Phys.org"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-cannabis-schools-teens-complicated.html"
+   "links": [
+    "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324",
+    "https://phys.org/news/2026-10-earwax-slippery-sticky-weird-combo.html"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 7,
+   "why": [
+    "형식 WEIGH",
+    "훅: weird",
+    "2곳 보도"
+   ],
+   "text": "Here’s a bit of a riddle for you: What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects? The medical term for earwax is cerumen, based on keros, the Greek word for beeswax. People have been pondering earwax since ancient times. Ancient hygiene kits including picks and spoons to remove earwax have been found in archaeological sites worldwide . Even today, it remains a perpetual question: to remove or not to remove your earwax? The answer: Don’t do it . The general medical belief is that ears are self-cleaning , and earwax brings benefits such as lubricating the ear canal, fighting infection and acting like a sticky net to trap debris before it reaches the eardrum. By poking in there you can accidentally make matters worse, pushing wax deeper or scratching your delicate ear canal. Cerumen impaction – or blocked earwax – affects about a fifth of the American population , leading to 12 million patient visits per year. Blockages are worsened by daily activities such as wearing earbuds or hearing aids. Another common problem with ears is wedged debris. For children, much of this is self-inflicted, in the form of items such as Legos or erasers. But for many adults who have something stuck in their ear, the debris is insects, such as ants, beetles, flies or cockroaches. While rare for the average person, insects in the ear occurred with such frequency over the years that physicians began to wonder whether earwax evolved as a natural barrier for insects. But how would such a barrier work? To answer this question, my Ph.D. student David Ancalle led experiments with earwax and insects. We teamed up with Yuhang Hu and her student Donjing He , experts in the behavior of soft solids such as hydrogels. As mechanical engineers, we wanted to focus on the physics rather than the chemistry of earwax. Our research , published in the journal Soft Matter, shows that earwax can, in fact, stop insects without the use of dangerous chemicals. Initially we obtained earwax from deceased mammals such as pigs, sheep and rabbits. Eventually we turned to our friends and family. A person has only a grain of rice’s worth of earwax in each ear. Due to a mutation in a single gene , East Asians have dry, flaky earwax, while people of African or European descent have wet, squishy earwax . To simulate an ant climbing into an ear canal, we used a glass beaker with its rim coated in earwax. Ants, like many insects, are climbing specialists, capable of traveling across many kinds of surfaces. To climb rough surfaces, ants have spikes on their feet , like mountain climbers do, that helps them grasp onto ridges and cracks. For smooth surfaces, ants unfurl wet suction cups , which can support 60 times their body weight on smooth glass. Watching ants trying to climb earwax showed us how strange a substance it really is. Rough earwax slowed them down, but with their claws they made progress. But as soon as ants tried to climb smooth earwax, they fell immediately. From these experiments, we concluded that earwax had anti-stick properties when in contact with the insects’ feet. We next conducted experiments with ants crawling through an earwax-coated tunnel, more similar in size to a human ear canal. As the ants attempted to travel through the tunnel, earwax stuck to them. Once coated, they groomed furiously, unwilling to walk until they had removed as much as possible. Even after several minutes of effort, the ants still had earwax sticking to hard-to-reach places. So, earwax is a paradoxical material: It is simultaneously slippery, thanks to the lipids it contains, but also sticky. Similar to many materials – including ketchup, paint and shampoo – it thins out when it is physically deformed, what physicists call shear-thinning. The dual qualities of earwax have to do with its unique composition. Earwax is made up of flakes of skin cells held together with a binder. This blend forms a kind of sponge with microscopic holes. When a body overproduces earwax, it heaps up in boulders that ants can easily climb over. When the substance is smooth, however, ants rely on their wet suction cups. The holes in the earwax absorb the drops produced by the ants, preventing them from attaching. Absorbency makes earwax fundamentally different from commonly used forms of pest control. In your local store, you will find sticky surfaces such as fly paper or chemicals that kill the insects. Some researchers look to nature to find bio-friendly alternatives to using chemicals; for example, plants have properties that prevent insects from climbing . From this study, we learned that the ear is also a model for insect repellency. Earwax is made of natural materials but has a structure that prevents ants from sticking to it. The porosity of earwax also gives it unique properties. We showed it can absorb twice its weight in water yet still cling to the walls of the ear. This water-absorbing ability may help prevent water from accumulating on the delicate eardrum and fend off infections such as swimmer’s ear . Scientists don’t yet understand the complex relationship between earwax, water and bacteria. Some studies show that earwax kills bacteria , but other studies find that earwax harbors bacteria . Our experiments showed that earwax is most challenging to insects when similar to the thin layer of earwax maintained by a healthy human body. Wax would accumulate more in human ears if not for two self-cleaning mechanisms. The skin in the ear canal grows outward like a conveyor belt. Over 8-10 weeks, this process – called epithelial migration – pushes the oldest earwax out of the ear. Simultaneously, earwax dries over time, transforming from a gooey state to a brittle one that readily cracks. Every time you talk or chew , your ear canal deforms , and physicians found that this movement helps to dislodge the drier, older earwax. As a test of our concept, a member of our team, chemical engineer Rafeen Rahaman, designed an artificial earwax based on the physical structure rather than the chemistry of the earwax. Ants struggled when they touched it, just like when they interacted with natural earwax. The cost of harvesting natural earwax and our recipe for artificial earwax are not cheap. We don’t foresee our methods replacing insect repellents produced at large scale. But perhaps the concept might inspire new ways to prevent earwax from coating our earbuds or lead to the manufacture of insect control methods using safe formulations.",
+   "doi": [],
+   "facts": [
+    "Here’s a bit of a riddle for you: What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects?",
+    "People have been pondering earwax since ancient times.",
+    "Cerumen impaction – or blocked earwax – affects about a fifth of the American population , leading to 12 million patient visits per year.",
+    "For smooth surfaces, ants unfurl wet suction cups , which can support 60 times their body weight on smooth glass.",
+    "We showed it can absorb twice its weight in water yet still cling to the walls of the ear.",
+    "Over 8-10 weeks, this process – called epithelial migration – pushes the oldest earwax out of the ear."
+   ],
+   "sample": []
+  },
+  {
+   "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261027230715.htm",
+   "summary": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealing a promising new approach to arthritis relief.",
+   "date": "2026-10-28",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-29",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261027230715.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "생활소재: supplement"
+   ],
+   "text": "A simple daily fiber supplement may offer a surprising new way to relieve knee arthritis pain while improving muscle strength. In a clinical trial led by researchers at the University of Nottingham, people with knee osteoarthritis (OA) who took a prebiotic fiber called inulin experienced significant reductions in pain, improved grip strength, and decreased sensitivity to pain. The supplement also appeared to be considerably easier for participants to stick with than a digital physical therapy program. Only 3.6% of those assigned to inulin alone dropped out of the study, compared with 21% of those assigned to physical therapy alone. Published in the journal Nutrients , the findings suggest that improving gut health could become an additional strategy for managing arthritis. They also reveal an intriguing connection between the bacteria living in our digestive system, the way our bodies process pain, and muscle function. Knee osteoarthritis affects hundreds of millions of people worldwide and is a major cause of chronic pain and disability, especially among older adults. The condition develops as the tissues within the knee joint, including the cartilage that cushions the ends of bones, gradually deteriorate. This can lead to pain, stiffness, swelling, and difficulty with everyday activities such as walking or climbing stairs. Treatment typically focuses on reducing symptoms and maintaining mobility. Pain medications can provide relief but may cause unwanted side effects, while physical therapy and regular exercise can help improve joint function. However, keeping up with an exercise program can be difficult, particularly for people already struggling with persistent pain. The new research raises the possibility that a simple dietary supplement could provide another way to manage symptoms. \"This study raises the exciting possibility that a simple dietary change -- adding a fiber supplement to your breakfast or yogurt -- could meaningfully reduce pain and improve physical function,\" said Dr. Afroditi Kouraki, lead author of the study from the School of Medicine at the University of Nottingham. The supplement tested in the study was inulin, a naturally occurring fiber found in foods such as chicory root, Jerusalem artichokes, and certain other vegetables. Unlike many nutrients, inulin is not broken down by digestive enzymes in the small intestine. Instead, it passes into the large intestine, where beneficial bacteria can use it as food. Researchers are increasingly discovering that the gut microbiome, the vast community of microorganisms living in the digestive tract, influences much more than digestion. These microbes interact with the immune system, produce biologically active compounds, and may even affect how the nervous system responds to pain. Inulin is classified as a prebiotic because it nourishes certain beneficial gut bacteria rather than directly supplying living microorganisms, as probiotics do. When bacteria ferment inulin, they produce substances known as short-chain fatty acids (SCFAs). One of the most important is butyrate, a compound that helps support the intestinal lining and can influence inflammation and biological pathways involved in pain. The researchers found that participants taking inulin had increased levels of butyrate, suggesting that the supplement was influencing activity within the gut microbiome. They also observed higher levels of glucagon-like peptide-1 (GLP-1), a hormone released by the gut that helps regulate blood sugar and appetite and has also been linked to pain regulation and muscle health. GLP-1 has attracted widespread attention because it is the hormone targeted by medications such as Ozempic and Wegovy. However, the inulin supplement used in this trial was not a GLP-1 medication. Instead, researchers examined whether supporting beneficial gut bacteria could influence the body's own production of the hormone. One particularly interesting finding was that higher GLP-1 levels were associated with better grip strength. Although this does not establish that GLP-1 caused the improvement, it suggests that changes originating in the digestive system may be connected to muscle function as well as pain. To investigate these effects, the researchers conducted the INSPIRE trial, a six-week randomized controlled study involving 117 adults with knee osteoarthritis. Participants were assigned to one of four treatment groups: a daily inulin supplement alone, digitally supported physical therapy exercises (PSE) alone, a combination of inulin and physical therapy, or a placebo. This design allowed researchers to examine the effects of the supplement and exercise separately, as well as investigate whether combining them offered additional benefits. Both inulin and physical therapy independently reduced knee pain, indicating that each approach provided meaningful symptom relief. However, the supplement produced additional improvements that were not observed with physical therapy alone. Participants taking inulin demonstrated better grip strength and reduced pain sensitivity. Pain sensitivity reflects how strongly the nervous system responds to potentially painful stimulation. Reducing that sensitivity could be particularly valuable for people with osteoarthritis, because persistent pain is not always explained by the amount of visible damage within a joint. Changes in how the nervous system processes pain can also contribute to discomfort. The improved grip strength was another unexpected result, suggesting that the supplement's effects might extend beyond the knee itself. The researchers also found a substantial difference in how many participants completed their assigned treatments. Only 3.6% of the inulin-only group dropped out, compared with 21% of the physical therapy-only group. This difference suggests that taking a daily fiber supplement may be easier to incorporate into a regular routine than following a structured exercise program. A Surprising Connection Between Gut Health, Muscles, and Pain Dr. Kouraki said: \"Our findings suggest that targeting gut health with a prebiotic supplement is a safe, well-tolerated, and effective way to reduce pain in people with knee osteoarthritis. The very low dropout rate compared to the exercise group is also encouraging from a public health perspective -- people were able to fit this supplement easily into their daily lives.\" Beyond the reduction in arthritis pain, the researchers are particularly interested in what the findings reveal about interactions between the digestive system, muscles, and nervous system. The association between GLP-1 and grip strength raises the possibility of a broader biological relationship connecting gut health with physical performance and resilience as people age. Senior author Professor Ana Valdes from the School of Medicine added: \"The link we observed between GLP-1 and grip strength is particularly intriguing and points to a broader gut-muscle-pain axis that warrants further investigation. This could have implications not just for osteoarthritis, but for understanding how gut health influences aging and physical resilience more broadly.\" The findings are promising, but the trial was relatively small and lasted only six weeks. Larger studies with longer follow-up periods will be needed to establish whether the benefits persist, identify which patients are most likely to respond, and clarify the biological mechanisms responsible. The results also do not suggest that fiber supplements should replace exercise or other established arthritis treatments. Instead, they point toward a potentially useful additional approach that could complement existing care. The potential importance of this research becomes clearer when considering how many people live with persistent arthritis pain. Professor Lucy Donaldson, Director of Research at Arthritis UK, said: \"The pain of arthritis can severely impact quality of life. Our recent lived experience survey showed tha",
+   "doi": [
+    "10.3390/nu18050714"
+   ],
+   "journal_ref": "Journal Reference : Afroditi Kouraki, Susan Franks, Amrita Vijay, Thomas Kurien, Moira A. Taylor, Stephanie L. Smith, Benjamin Smith, Anthony Kelly, Ana M. Valdes. Effect of Prebiotic Supplementation With and Without Physiotherapy on Pain and Pain Sensitivity in People with Knee Osteoarthritis . Nutrients , 2026; 18 (5): 714 DOI: 10.3390/nu18050714",
+   "facts": [
+    "Only 3.6% of those assigned to inulin alone dropped out of the study, compared with 21% of those assigned to physical therapy alone.",
+    "They also observed higher levels of glucagon-like peptide-1 (GLP-1), a hormone released by the gut that helps regulate blood sugar and appetite and has also been linked to pain regulation and muscle health.",
+    "GLP-1 has attracted widespread attention because it is the hormone targeted by medications such as Ozempic and Wegovy.",
+    "However, the inulin supplement used in this trial was not a GLP-1 medication.",
+    "One particularly interesting finding was that higher GLP-1 levels were associated with better grip strength.",
+    "Although this does not establish that GLP-1 caused the improvement, it suggests that changes originating in the digestive system may be connected to muscle function as well as pain.",
+    "To investigate these effects, the researchers conducted the INSPIRE trial, a six-week randomized controlled study involving 117 adults with knee osteoarthritis.",
+    "Only 3.6% of the inulin-only group dropped out, compared with 21% of the physical therapy-only group.",
+    "The association between GLP-1 and grip strength raises the possibility of a broader biological relationship connecting gut health with physical performance and resilience as people age.",
+    "Senior author Professor Ana Valdes from the School of Medicine added: \"The link we observed between GLP-1 and grip strength is particularly intriguing and points to a broader gut-muscle-pain axis that warrants further investigation."
+   ],
+   "sample": [
+    "117 adults"
+   ]
   },
   {
    "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
@@ -705,44 +789,6 @@
    ]
   },
   {
-   "title": "A hidden bias in human language challenges 70 years of science",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261023023738.htm",
-   "summary": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden preference for safety, suggesting that our words may reflect ancient survival instincts.",
-   "date": "2026-10-24",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-24",
-   "text": "Researchers at the University of Vermont have discovered a surprising pattern in human language that challenges a scientific theory widely accepted for more than 70 years. Their findings suggest that the meaning of words is shaped by something more fundamental than emotion: our understanding of power, danger, and order. The study, published in Science Advances , introduces a new approach called \"ousiometrics,\" which uses mathematical methods to measure the essential meaning of language. Its most striking finding is that the words people use show a consistent and widespread preference for safety over danger. This hidden safety bias could transform how researchers study language, understand human behavior, and develop artificial intelligence systems that interpret what people say and write. Since the 1950s, much of the scientific understanding of word meaning has relied on a framework developed through pioneering research by psychologist Charles Osgood and others. Known as the VAD model, it describes meaning through three emotional dimensions: valence (positive vs. negative), arousal (excited vs. calm), and dominance (controlling vs. submissive). This approach became influential in psychology, linguistics, and artificial intelligence, particularly in systems designed to identify the emotional tone of written language. However, the University of Vermont researchers found evidence that this long-established model overlooks important aspects of how meaning is organized. Their analysis examined billions of individual uses of more than 20,000 words across a wide range of real-world texts. Using advanced computational techniques, the team identified a different underlying structure. They found that the three dimensions in the traditional VAD model are not independent of one another, as previously assumed. Instead, their results indicate that word meaning can be more effectively described through three separate dimensions: power (weak vs. powerful), danger (safe vs. dangerous), and structure (ordered vs. chaotic). The research, supported by the US National Science Foundation, Google, MassMutual, and other funders, found that this new framework accounted for more than 90% of the variation in measured word meaning. The traditional VAD approach explained approximately 72%. That improvement could be especially important as large language models, automated content moderation, and other AI technologies increasingly depend on understanding human communication. One of the study's most unexpected discoveries emerged when the researchers examined how words actually appear in everyday communication. Across books, news reporting, social media, and spoken language, words associated with safety appeared much more frequently than those associated with danger. This finding offers a new explanation for a familiar phenomenon called the Pollyanna principle, which describes the tendency for human language to lean toward positive rather than negative words. For decades, researchers generally interpreted this pattern as evidence that people favor positive emotional expressions. The new analysis suggests that something more fundamental may be responsible. According to the researchers, the apparent preference for positivity largely reflects an underlying preference for safety. \"The Pollyanna principle's positivity bias,\" the study concludes. \"is, in fact, a one-dimensional projection of an underlying safety bias.\" \"This is a big observation that comes out of this work,\" said Peter Dodds, director of the UVM's Complex Systems Institute and senior author of the study. \"Expressions of safety are crucial to all language.\" The discovery raises an intriguing possibility: the structure of human language may reflect evolutionary pressures associated with staying alive. From this perspective, words do more than communicate feelings. They also help people recognize threats, evaluate uncertainty, establish trust, and coordinate actions with others. Being able to distinguish between safety and danger is essential to survival. The researchers suggest that this basic human priority may also influence how meaning is organized in language. Throughout daily life, people constantly exchange information about whether individuals, places, situations, and behaviors are threatening or safe. The new findings suggest that these distinctions may be more central to communication than previously recognized. They also offer a different interpretation of why positive language is so common. Rather than simply expressing happiness or approval, many positive words may convey a sense of security, stability, or predictability. Julia Zimmerman, a postdoctoral researcher in UVM's Computational Story Lab and a co-author of the study, said the three newly identified dimensions reflect experiences that are fundamental to human life. \"Power, danger, and structure,\" she said, \"are relevant to every person that's ever lived.\" Researchers have also long recognized that people tend to favor language associated with goodness and low aggression. The team argues that these familiar tendencies may arise from the same deeper pattern. \"We now understand,\" the team writes, that these are \"shadows of an underlying linguistic safety bias.\" Although the results are consistent with a possible connection between language and survival, they do not establish that evolutionary pressures directly caused the safety bias. The findings have implications that extend well beyond linguistics. Many artificial intelligence systems use sentiment analysis to determine whether language expresses positive, negative, or neutral feelings. Some approaches also draw on the traditional VAD framework to measure emotional meaning. If that framework does not fully capture the underlying structure of language, systems built around it could overlook important distinctions in what people communicate. The researchers suggest that incorporating power, danger, and structure could eventually help AI models interpret language more accurately and explain their assessments more clearly. This may be particularly useful when analyzing trust, risk, and decision-making. In linguistics, the findings offer a different way to understand the foundations of meaning. Instead of treating emotional tone as the primary organizing principle, the new framework emphasizes distinctions related to strength, safety, and predictability. Psychology could also be affected. Decades of studies have used the VAD model to investigate emotions, perception, and behavior. A different set of fundamental dimensions could encourage researchers to reconsider how some of those findings are interpreted. The discovery may also interest neuroscientists. The human brain is highly sensitive to threats and signals of safety, and the newly identified linguistic bias suggests that these biological priorities may be reflected in language. This potential connection could help researchers explore relationships between brain activity and symbolic communication, although further research would be needed to establish them. To investigate these patterns, the researchers created analytical methods designed to measure meaning across enormous collections of written and spoken language. One of their central innovations is the \"ousiometer,\" a tool that rapidly evaluates the essential meaning of large bodies of text and produces an average meaning score. (The word \"ouisa\" comes from Ancient Greek and is a root for the English word \"essence.\") The ousiometer builds on an earlier tool developed by the research team called the \"hedonometer\" (a happiness meter). While that instrument measures the overall emotional tone of language, the new approach examines broader patterns of meaning. The researchers demonstrated that the ousiometer can analyze material from remarkably different sources, including Jane Austen's novels, Arthur Conan Doyle's Sherlock Holmes stories, the New York Times, Wikipedia, Twitter, and transcripts of tal",
-   "facts": [
-    "Researchers at the University of Vermont have discovered a surprising pattern in human language that challenges a scientific theory widely accepted for more than 70 years.",
-    "Since the 1950s, much of the scientific understanding of word meaning has relied on a framework developed through pioneering research by psychologist Charles Osgood and others.",
-    "Their analysis examined billions of individual uses of more than 20,000 words across a wide range of real-world texts.",
-    "The research, supported by the US National Science Foundation, Google, MassMutual, and other funders, found that this new framework accounted for more than 90% of the variation in measured word meaning.",
-    "The traditional VAD approach explained approximately 72%.",
-    "The researchers demonstrated that the ousiometer can analyze material from remarkably different sources, including Jane Austen's novels, Arthur Conan Doyle's Sherlock Holmes stories, the New York Times, Wikipedia, Twitter, and transcripts of talk radio programs.",
-    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-   ],
-   "doi": [
-    "10.1126/sciadv.adr4039"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Peter Sheridan Dodds, Thayer Alshaabi, Mikaela Irene Fudolig, Julia Witte Zimmerman, Juniper Lovato, Shawn Beaulieu, Joshua R. Minot, Michael V. Arnold, Andrew J. Reagan, Christopher M. Danforth. Ousiometrics: The essence of meaning aligns with a power-danger-structure framework instead of valence-arousal-dominance . Science Advances , 2026; 12 (19) DOI: 10.1126/sciadv.adr4039",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "훅: surpris"
-   ]
-  },
-  {
    "title": "Wireless neural chip tracks brain changes in real time after Alzheimer's drug administration",
    "link": "https://medicalxpress.com/news/2026-10-wireless-neural-chip-tracks-brain.html",
    "key": "https://medicalxpress.com/news/2026-10-wireless-neural-chip-tracks-brain.html",
@@ -875,6 +921,8 @@
    "date": "2026-10-28",
    "source": "Phys.org",
    "first_seen": "2026-10-28",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-food-power-strong-el-nio.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -887,8 +935,53 @@
    "why": [
     "형식 CUT",
     "훅: secret"
+   ]
+  },
+  {
+   "title": "Exercise can sometimes cause chest pain—and this condition may be to blame",
+   "link": "https://medicalxpress.com/news/2026-10-chest-pain-condition-blame.html",
+   "key": "https://medicalxpress.com/news/2026-10-chest-pain-condition-blame.html",
+   "summary": "As a general practitioner, I know that chest pain is one symptom that makes people worry. The immediate concern is that it's a sign there's something seriously wrong—such as a problem with their heart or lungs.",
+   "date": "2026-10-29",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-29",
+   "sources": [
+    "MedicalXpress"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-food-power-strong-el-nio.html"
+   "links": [
+    "https://medicalxpress.com/news/2026-10-chest-pain-condition-blame.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "훅: wrong",
+    "생활소재: exercise"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-chest-pain-condition-blame.html"
+  },
+  {
+   "title": "Single dose of fast-acting psychedelic nasal spray shows promise for stubborn depression",
+   "link": "https://medicalxpress.com/news/2026-10-dose-fast-psychedelic-nasal-spray.html",
+   "key": "https://medicalxpress.com/news/2026-10-dose-fast-psychedelic-nasal-spray.html",
+   "summary": "One in three individuals with major depressive disorder does not get relief from standard daily antidepressant medications. The up-and-coming psychedelic therapeutics like psilocybin or LSD do show promise of quick relief, even for difficult-to-treat depression. The psychedelic effects, however, are often strong and linger for a long time, requiring patients to remain under medical supervision in a clinic for four to 12 hours.",
+   "date": "2026-10-29",
+   "source": "MedicalXpress",
+   "first_seen": "2026-10-29",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-dose-fast-psychedelic-nasal-spray.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 DOSE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-dose-fast-psychedelic-nasal-spray.html"
   },
   {
    "title": "Your brain maps out numbers, including integers and fractions",
@@ -912,59 +1005,6 @@
    "why": [
     "형식 CUT",
     "생활소재: brain"
-   ]
-  },
-  {
-   "title": "Mental health support for parents after pediatric intensive care may modestly reduce PTSD and depressive symptoms",
-   "link": "https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html",
-   "key": "https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html",
-   "summary": "Admission to a pediatric intensive care unit (PICU) can have lasting psychological effects on both children receiving treatment and their parents. To investigate the effects of psychosocial interventions on parents' emotional health, researchers searched five major academic databases for studies published through January 2026 and analyzed eight randomized controlled trials evaluating psychosocial interventions in parents of children admitted to the PICU. The interventions included visits to follow-up clinics, psychological screening with referral, telephone-based psychoeducation, palliative care consultations and acceptance and commitment therapy delivered via videoconference. The findings a",
-   "date": "2026-10-23",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-23",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.ht",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-mental-health-parents-pediatric-intensive.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "생활소재: children"
-   ]
-  },
-  {
-   "title": "Gut microbiome may help explain why sleep improvement varies after hydrogen supplementation",
-   "link": "https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html",
-   "key": "https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html",
-   "summary": "A Hiroshima University–led clinical trial found that hydrogen supplementation did not significantly improve sleep quality compared with a placebo; however, exploratory analyses suggest that differences in the abundance of hydrogen-producing gut bacteria may be associated with individual differences in sleep-related responses.",
-   "date": "2026-10-23",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-24",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementati",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html"
-   ],
-   "format": "SCALE",
-   "seen": "2026-10-19",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "훅: did not",
-    "생활소재: sleep, supplement",
-    "이미 본 소재(2026-10-19)"
    ]
   },
   {
@@ -1166,6 +1206,19 @@
    "date": "2026-10-27",
    "source": "The Conversation",
    "first_seen": "2026-10-28",
+   "text": "When people prepare to see a doctor before an international trip, vaccines usually dominate the conversation. And while vaccines are important, many of the health problems most likely to derail a trip cannot be prevented with a vaccine: Diarrhea, respiratory infections, motion sickness and flare-ups of existing medical conditions are all common – and none of them can be headed off with a shot. The U.S. Centers for Disease Control and Prevention estimates that between 43% and 79% of travelers to low- and middle-income countries become ill during or after their trip, although most of those illnesses are mild. As an infectious diseases physician who specializes in travel and tropical medicine, I counsel many patients before they leave the country and care for them when they come home sick. A good pretravel visit to the doctor should end with more than a list of shots. You should know which illnesses you could encounter on your itinerary, which symptoms you can reasonably handle yourself, which medicines to carry and how to use them, and which warning signs mean it is time to find a doctor. Infectious disease risks abroad are constantly shifting. A good healthcare provider who specializes in travel and geographic medicine keeps up with these developments so that the advice you get reflects what is happening now, not last year. Since early 2025, South America has seen new yellow fever outbreaks that redrew long-standing risk maps and an unusual hantavirus cluster that spread from person to person aboard a cruise ship . Cases of dengue fever worldwide roughly doubled in a single year , and another tropical disease – chikungunya – also flared in new places, including the largest outbreak ever recorded in China . Fiji declared a fast-growing HIV outbreak . And common respiratory viruses, from influenza to COVID-19, continue to circulate all over the world. In my own clinical research with colleagues, we have seen travelers who returned to the U.S. with serious – and occasionally fatal – infections, such as malaria and hepatitis , often after dangerous delays in recognizing what was wrong. Travel health advice is not one-size-fits-all. A week at a Caribbean resort, a safari in East Africa and a month trekking in Nepal carry very different risks. Even the likely cause of a fever changes with the destination. Dengue is a leading concern after travel in much of Latin America and Asia, while malaria is especially important in parts of sub-Saharan Africa, and typhoid and paratyphoid fever loom largest in South Asia. What you do matters, too – freshwater swimming, visiting caves, animal contact, hiking and staying in remote areas each add their own hazards . So bring your actual itinerary to the appointment. Tell your doctor not just which countries you’ll visit, but whether you’ll be in cities or the countryside, what you plan to do, how high you’ll go, how long you’ll stay and how easily you could reach a reliable hospital. For minor illnesses, you can plan to treat yourself. Travelers’ diarrhea is the best example of such an illness. Depending on the destination and season, it affects an estimated 10% to 40% of travelers during the first two weeks of a trip. Most cases clear up on their own within a few days, but having a plan makes a real difference. Ask your doctor what to do if diarrhea develops. Oral rehydration salts help replace fluids when losses are heavy. Loperamide , an over-the-counter antidiarrheal, can reduce how often and how urgently you need a bathroom, but it should not be used on its own when diarrhea comes with a fever or blood in the stool. Depending on your destination and medical history, your doctor may also give you an antibiotic to carry and use only for moderate or severe diarrhea. When it comes to treatments you’ll be administering yourself, it’s as important to ask your doctor when to use each medicine as it is to have the drugs on hand. Antibiotics have side effects, can leave you carrying drug-resistant bacteria and contribute to antibiotic resistance worldwide – so they are best saved for the episodes that truly need them. The same logic applies to other predictable problems. Someone prone to seasickness on a planned boat trip might discuss meclizine or a scopolamine patch . A traveler flying straight into a high-altitude city such as Cusco, Peru, or La Paz, Bolivia, might discuss acetazolamide, a prescription medicine that helps the body acclimatize and roughly halves the risk of altitude sickness during rapid ascents. A basic travel health kit keeps a small problem from becoming a big one. The contents depend on the traveler and the trip, but useful items include pain and fever medicine, bandages, antiseptic, oral rehydration salts , loperamide , antihistamine and anything prescribed specifically for the trip. People with chronic conditions should pack enough of their regular medications for the entire trip, plus extra in case of delays. Keep medicines in their original labeled containers, carry them in your hand luggage rather than checked bags, and consider bringing a copy of your prescriptions written with the drugs’ generic names. Replacing a medication abroad can be harder than you expect. Drugs may have different names, formulations or availability in other countries, and counterfeit or low-quality medicines remain a real problem in some places. Some medications that are routine in the U.S. are restricted or banned elsewhere. Insulin, injectable drugs, controlled substances and anything that needs refrigeration will require extra planning. Travel medicine is full of remedies with better reputations than evidence. Ginger is often recommended for motion sickness, but studies have produced mixed results . Acupressure wristbands for motion sickness do not outperform placebos . And despite their popularity, probiotics are not recommended for preventing travelers’ diarrhea , as their efficacy is still unknown. Coca leaves and coca tea are widely used for altitude symptoms in the Andes, but there is no strong evidence that they prevent altitude illness – and the same is true of garlic, ginkgo and vitamin E. “ Natural” does not mean effective , or even harmless, particularly when a supplement interacts with a prescription drug . Perhaps the most important part of any plan is recognizing when self-care is no longer appropriate. Seek medical attention for severe dehydration, persistent vomiting, difficulty breathing, confusion, severe abdominal pain or an illness that is rapidly getting worse. Bloody diarrhea or diarrhea with a significant fever calls for medical care rather than simply taking an antidiarrheal and carrying on with your trip. At high altitudes, shortness of breath while resting, confusion, or difficulty walking a straight line are warning signs. Severe altitude illness is treated by descending and getting medical care – another cup of coca tea is not an adequate substitute. Fever after travel to an area where malaria is common deserves special attention. Malaria can turn deadly within hours, so get evaluated promptly and make sure the clinician knows where you have been. Some travel-related infections surface weeks or even months after you get home , which is why your travel history stays relevant long after your suitcase is unpacked. I encourage travelers to make a medical contingency plan. Ask yourself: If my flight home were canceled and I had to stay abroad another week, would I have enough medication? If I developed diarrhea tomorrow, would I know what to take? If I spiked a fever, would I know when and where to seek care? International travel will never be risk-free. But preparing for the problems most likely to happen can keep a manageable illness from becoming a medical emergency.",
+   "facts": [
+    "Centers for Disease Control and Prevention estimates that between 43% and 79% of travelers to low- and middle-income countries become ill during or after their trip, although most of those illnesses are mild.",
+    "Since early 2025, South America has seen new yellow fever outbreaks that redrew long-standing risk maps and an unusual hantavirus cluster that spread from person to person aboard a cruise ship .",
+    "Cases of dengue fever worldwide roughly doubled in a single year , and another tropical disease – chikungunya – also flared in new places, including the largest outbreak ever recorded in China .",
+    "And common respiratory viruses, from influenza to COVID-19, continue to circulate all over the world.",
+    "Depending on the destination and season, it affects an estimated 10% to 40% of travelers during the first two weeks of a trip."
+   ],
+   "doi": [],
+   "sample": [],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
    "sources": [
     "The Conversation",
     "MedicalXpress"
@@ -1182,17 +1235,7 @@
    "why": [
     "형식 DOSE",
     "2곳 보도"
-   ],
-   "text": "When people prepare to see a doctor before an international trip, vaccines usually dominate the conversation. And while vaccines are important, many of the health problems most likely to derail a trip cannot be prevented with a vaccine: Diarrhea, respiratory infections, motion sickness and flare-ups of existing medical conditions are all common – and none of them can be headed off with a shot. The U.S. Centers for Disease Control and Prevention estimates that between 43% and 79% of travelers to low- and middle-income countries become ill during or after their trip, although most of those illnesses are mild. As an infectious diseases physician who specializes in travel and tropical medicine, I counsel many patients before they leave the country and care for them when they come home sick. A good pretravel visit to the doctor should end with more than a list of shots. You should know which illnesses you could encounter on your itinerary, which symptoms you can reasonably handle yourself, which medicines to carry and how to use them, and which warning signs mean it is time to find a doctor. Infectious disease risks abroad are constantly shifting. A good healthcare provider who specializes in travel and geographic medicine keeps up with these developments so that the advice you get reflects what is happening now, not last year. Since early 2025, South America has seen new yellow fever outbreaks that redrew long-standing risk maps and an unusual hantavirus cluster that spread from person to person aboard a cruise ship . Cases of dengue fever worldwide roughly doubled in a single year , and another tropical disease – chikungunya – also flared in new places, including the largest outbreak ever recorded in China . Fiji declared a fast-growing HIV outbreak . And common respiratory viruses, from influenza to COVID-19, continue to circulate all over the world. In my own clinical research with colleagues, we have seen travelers who returned to the U.S. with serious – and occasionally fatal – infections, such as malaria and hepatitis , often after dangerous delays in recognizing what was wrong. Travel health advice is not one-size-fits-all. A week at a Caribbean resort, a safari in East Africa and a month trekking in Nepal carry very different risks. Even the likely cause of a fever changes with the destination. Dengue is a leading concern after travel in much of Latin America and Asia, while malaria is especially important in parts of sub-Saharan Africa, and typhoid and paratyphoid fever loom largest in South Asia. What you do matters, too – freshwater swimming, visiting caves, animal contact, hiking and staying in remote areas each add their own hazards . So bring your actual itinerary to the appointment. Tell your doctor not just which countries you’ll visit, but whether you’ll be in cities or the countryside, what you plan to do, how high you’ll go, how long you’ll stay and how easily you could reach a reliable hospital. For minor illnesses, you can plan to treat yourself. Travelers’ diarrhea is the best example of such an illness. Depending on the destination and season, it affects an estimated 10% to 40% of travelers during the first two weeks of a trip. Most cases clear up on their own within a few days, but having a plan makes a real difference. Ask your doctor what to do if diarrhea develops. Oral rehydration salts help replace fluids when losses are heavy. Loperamide , an over-the-counter antidiarrheal, can reduce how often and how urgently you need a bathroom, but it should not be used on its own when diarrhea comes with a fever or blood in the stool. Depending on your destination and medical history, your doctor may also give you an antibiotic to carry and use only for moderate or severe diarrhea. When it comes to treatments you’ll be administering yourself, it’s as important to ask your doctor when to use each medicine as it is to have the drugs on hand. Antibiotics have side effects, can leave you carrying drug-resistant bacteria and contribute to antibiotic resistance worldwide – so they are best saved for the episodes that truly need them. The same logic applies to other predictable problems. Someone prone to seasickness on a planned boat trip might discuss meclizine or a scopolamine patch . A traveler flying straight into a high-altitude city such as Cusco, Peru, or La Paz, Bolivia, might discuss acetazolamide, a prescription medicine that helps the body acclimatize and roughly halves the risk of altitude sickness during rapid ascents. A basic travel health kit keeps a small problem from becoming a big one. The contents depend on the traveler and the trip, but useful items include pain and fever medicine, bandages, antiseptic, oral rehydration salts , loperamide , antihistamine and anything prescribed specifically for the trip. People with chronic conditions should pack enough of their regular medications for the entire trip, plus extra in case of delays. Keep medicines in their original labeled containers, carry them in your hand luggage rather than checked bags, and consider bringing a copy of your prescriptions written with the drugs’ generic names. Replacing a medication abroad can be harder than you expect. Drugs may have different names, formulations or availability in other countries, and counterfeit or low-quality medicines remain a real problem in some places. Some medications that are routine in the U.S. are restricted or banned elsewhere. Insulin, injectable drugs, controlled substances and anything that needs refrigeration will require extra planning. Travel medicine is full of remedies with better reputations than evidence. Ginger is often recommended for motion sickness, but studies have produced mixed results . Acupressure wristbands for motion sickness do not outperform placebos . And despite their popularity, probiotics are not recommended for preventing travelers’ diarrhea , as their efficacy is still unknown. Coca leaves and coca tea are widely used for altitude symptoms in the Andes, but there is no strong evidence that they prevent altitude illness – and the same is true of garlic, ginkgo and vitamin E. “ Natural” does not mean effective , or even harmless, particularly when a supplement interacts with a prescription drug . Perhaps the most important part of any plan is recognizing when self-care is no longer appropriate. Seek medical attention for severe dehydration, persistent vomiting, difficulty breathing, confusion, severe abdominal pain or an illness that is rapidly getting worse. Bloody diarrhea or diarrhea with a significant fever calls for medical care rather than simply taking an antidiarrheal and carrying on with your trip. At high altitudes, shortness of breath while resting, confusion, or difficulty walking a straight line are warning signs. Severe altitude illness is treated by descending and getting medical care – another cup of coca tea is not an adequate substitute. Fever after travel to an area where malaria is common deserves special attention. Malaria can turn deadly within hours, so get evaluated promptly and make sure the clinician knows where you have been. Some travel-related infections surface weeks or even months after you get home , which is why your travel history stays relevant long after your suitcase is unpacked. I encourage travelers to make a medical contingency plan. Ask yourself: If my flight home were canceled and I had to stay abroad another week, would I have enough medication? If I developed diarrhea tomorrow, would I know what to take? If I spiked a fever, would I know when and where to seek care? International travel will never be risk-free. But preparing for the problems most likely to happen can keep a manageable illness from becoming a medical emergency.",
-   "doi": [],
-   "facts": [
-    "Centers for Disease Control and Prevention estimates that between 43% and 79% of travelers to low- and middle-income countries become ill during or after their trip, although most of those illnesses are mild.",
-    "Since early 2025, South America has seen new yellow fever outbreaks that redrew long-standing risk maps and an unusual hantavirus cluster that spread from person to person aboard a cruise ship .",
-    "Cases of dengue fever worldwide roughly doubled in a single year , and another tropical disease – chikungunya – also flared in new places, including the largest outbreak ever recorded in China .",
-    "And common respiratory viruses, from influenza to COVID-19, continue to circulate all over the world.",
-    "Depending on the destination and season, it affects an estimated 10% to 40% of travelers during the first two weeks of a trip."
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "Decoding the loopy physics of hula hooping with high-tech earthquake sensors",
@@ -1202,6 +1245,8 @@
    "date": "2026-10-28",
    "source": "Phys.org",
    "first_seen": "2026-10-28",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1214,75 +1259,29 @@
    "why": [
     "형식 WEIGH",
     "훅: turns out"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html"
+   ]
   },
   {
-   "title": "Are 'mega-Earths' real? Stellar activity may explain these oversized rocky worlds",
-   "link": "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html",
-   "key": "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html",
-   "summary": "A new study suggests that some of the heaviest rocky planets ever reported may not be as heavy as they look. These so-called 'mega-Earths,' rocky planets weighing more than about 10 Earths, could be an illusion created by activity on their host stars. The paper was posted to the arXiv preprint server on Oct. 8.",
-   "date": "2026-10-22",
+   "title": "Amber fossils reveal how ancient Australian landmass helped seed Southeast Asia's tropical forests",
+   "link": "https://phys.org/news/2026-10-amber-fossils-reveal-ancient-australian.html",
+   "key": "https://phys.org/news/2026-10-amber-fossils-reveal-ancient-australian.html",
+   "summary": "A landmass that broke away from northwestern Australia about 150 million years ago and drifted north for the next 100 million years helped lay the foundations for Southeast Asia's extraordinarily diverse tropical forests, new research has revealed.",
+   "date": "2026-10-28",
    "source": "Phys.org",
-   "first_seen": "2026-10-22",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html",
-   "catch_extra": [],
+   "first_seen": "2026-10-29",
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html"
+    "https://phys.org/news/2026-10-amber-fossils-reveal-ancient-australian.html"
    ],
-   "format": "WEIGH",
+   "format": "CUT",
    "catch": [],
-   "score": 4,
+   "score": 5,
    "why": [
-    "형식 WEIGH"
-   ]
-  },
-  {
-   "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
-   "link": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
-   "key": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
-   "summary": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment.",
-   "date": "2026-10-20",
-   "source": "The Conversation",
-   "first_seen": "2026-10-22",
-   "text": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment. It was a victory for the species’ survival, yet this triumph was contested at nearly every step of the way. Conservationists fought bitterly over whether trapping every bird should be considered rescue or surrender. Critics argued that the cost was better spent on other threatened species. Rural communities in Utah and Arizona raised concerns about federal land-use restrictions . Hunting groups such as the National Rifle Association opposed bans on lead ammunition, a leading cause of condor deaths . The condor’s comeback illustrates several questions that governments and conservation organizations grapple with today, including which species get funded and who bears the costs. These are some of the questions being discussed at the U.N. Convention on Biological Diversity conference , being held Oct. 19-30, 2026, in Yerevan, Armenia. In 2022, countries worldwide adopted an agreement at that year’s biodiversity conference to halt and reverse biodiversity loss, known as the Kunming-Montreal Global Biodiversity Framework . It includes goals to raise US$200 billion a year from public and private sources around the world by 2030 to conserve and manage at least 30% of the world’s land, coastal areas and oceans, stop human-caused extinctions and help struggling species survive. The agreement itself doesn’t choose which species to save, but its rules are designed to shape national conservation priorities and guide the funds that pay for conservation. Saving a species like the condor affects local communities and businesses whose activities have put those species at risk. Without local buy-in, pouring money into recovery efforts can fail, yet local communities are often left out of the discussions. An estimated 1 million species are currently threatened with extinction worldwide, and early assessments suggest the world is falling short on most of the agreement’s global biodiversity targets . Because resources are limited, conservationists must weigh trade-offs in deciding which species to protect and how. Should they fund expensive rescue efforts for a species close to extinction, or interventions likely to help multiple species at once? Or maybe they should protect organisms that are unique to a specific geographic region or a species that sustains local livelihoods. Some species are valued for what they do for humanity, such as pollinating crops or purifying water, known as ecosystem services . Honeybees, for example, pollinate over $15 billion worth of crops in the U.S. alone each year. Others hold cultural and spiritual significance, as the condor does for the Yurok Tribe in California. Many conservationists argue that living species possess an inherent right to exist independent of their usefulness to human beings. Getting support for measures to save charismatic species can be easier than for others, however. Think of Greenpeace’s “save the whales” campaign or the World Wildlife Fund’s panda logo. A panda’s adorable face can help pay for its protection and potentially the protection of its surrounding habitat , helping other species living there. A 2025 study examined more than 14,000 species-focused conservation projects from 1992 to 2016. Five mammal groups – primates, carnivores, whales, elephants and rhinos – received 86% of available funding , despite accounting for only one-third of threatened mammal projects. Plants and invertebrates, which are crucial for pollination, nutrient cycling and sustaining food webs, received only 6.6% of the financial backing. Conservation groups and economists at the Paulson Institute estimate that the world needs to spend an additional $1.3 trillion annually on biodiversity conservation and restoration to stop and reverse biodiversity loss. At the 2026 biodiversity conference, delegates will also take up another question that can make or break species recovery: When conservation affects local people, who pays and who gets a say? While conservationists celebrated efforts to return wolves to Europe over the past two decades, some farmers lost livestock to these predators and faced higher costs to protect their flocks. Current European Union funding programs help support livestock protection , but farmers’ ability to shape wolf recovery is part of the story too. Conservation can go terribly wrong if local communities aren’t consulted during planning. In the Ngorongoro Conservation Area, a protected area in Tanzania, the Maasai have fought for years against government orders that they leave the land they have lived on for generations in the name of lion conservation. In March 2026, two presidential commissions recommended that the evictions continue in order to protect wildlife, in a process that included few Maasai , Indigenous peoples’ advocates at the Oakland Institute reported. Protecting vulnerable species often means also supporting the communities living alongside them. At the last round of biodiversity talks in 2024, countries created a permanent advisory body to bring Indigenous peoples and local communities’ knowledge and decisions into the treaty’s decisions. At this year’s conference, known as COP17, they must agree on how that advisory body will operate, including whether these communities get a formal role in decision-making. They are also expected to adopt guidelines for how the 30% global conservation targets apply in Indigenous territories. The international agreement can’t dictate what happens on the ground, but its rules shape national conservation priorities and guide the funds that pay for conservation. That is why the debate over local consultation is at the heart of the 2026 talks. Conservation that is designed for people, rather than with them, risks losing the trust and local cooperation that makes recovery last. Two key issues at the conference involve guaranteeing that Indigenous peoples and local communities have a say in decisions on their territory, including how conservation programs are designed and how resources are allocated. The global biodiversity framework calls for a “ whole-of-society” approach , recognizing that protecting nature needs more than government action alone. But participation is not the same as decision-making power. Advocates for Indigenous groups say communities are too often consulted after priorities are set, rather than being involved in setting them. Whether the farmer paying for fencing or the Indigenous community with connections to a species helps set priorities or is only asked for input after the project has been approved shows whether consultation is genuine or not. The condor’s return shows that nearly extinct species can recover with help. But sustaining a species’ recovery requires protecting the conditions – and supporting the people – that make their survival possible. Researcher Garrett Ordonez, an environmental studies and international relations student at USC, contributed to this article.",
-   "facts": [
-    "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild.",
-    "Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment.",
-    "Convention on Biological Diversity conference , being held Oct. 19-30, 2026, in Yerevan, Armenia.",
-    "In 2022, countries worldwide adopted an agreement at that year’s biodiversity conference to halt and reverse biodiversity loss, known as the Kunming-Montreal Global Biodiversity Framework .",
-    "It includes goals to raise US$200 billion a year from public and private sources around the world by 2030 to conserve and manage at least 30% of the world’s land, coastal areas and oceans, stop human-caused extinctions and help struggling species survive.",
-    "An estimated 1 million species are currently threatened with extinction worldwide, and early assessments suggest the world is falling short on most of the agreement’s global biodiversity targets .",
-    "Honeybees, for example, pollinate over $15 billion worth of crops in the U.S. alone each year.",
-    "A 2025 study examined more than 14,000 species-focused conservation projects from 1992 to 2016.",
-    "Five mammal groups – primates, carnivores, whales, elephants and rhinos – received 86% of available funding , despite accounting for only one-third of threatened mammal projects.",
-    "Plants and invertebrates, which are crucial for pollination, nutrient cycling and sustaining food webs, received only 6.6% of the financial backing."
+    "형식 CUT"
    ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation",
-    "Phys.org"
-   ],
-   "links": [
-    "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
-    "https://phys.org/news/2026-10-species-california-condor-lessons-global.html"
-   ],
-   "format": "",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 4,
-   "why": [
-    "생활소재: bird",
-    "2곳 보도"
-   ]
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-amber-fossils-reveal-ancient-australian.html"
   }
  ]
 }
