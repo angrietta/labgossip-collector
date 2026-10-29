@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-26
 
-최근 8일 누적 720건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 781건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 10 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
