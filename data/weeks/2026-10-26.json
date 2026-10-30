@@ -1,34 +1,34 @@
 {
  "week": "2026-10-26",
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 7
+   "span_days": 6
   },
   {
    "feed": "ScienceDaily 별난연구",
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 34
+   "span_days": 32
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 30
+   "span_days": 29
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 33
+   "span_days": 32
   },
   {
    "feed": "ScienceDaily 건강",
@@ -56,62 +56,10 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 6
+   "span_days": 5
   }
  ],
  "top": [
-  {
-   "title": "Millions take fish oil for brain health. A two-year study found no benefit",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261020085427.htm",
-   "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.",
-   "date": "2026-10-22",
-   "source": "ScienceDaily 뇌·마음",
-   "first_seen": "2026-10-22",
-   "text": "Millions of Americans take fish oil supplements in hopes of protecting their memory and keeping their brains healthy as they age. These products have become a major business, with Americans spending more than $1 billion each year on supplements containing omega-3 fatty acids. These essential nutrients help build and maintain the connections between brain cells that support memory, learning, and other cognitive functions. But a new study suggests that getting more omega-3s into the brain through supplements may not provide the protection many people expect. Researchers at Keck Medicine of USC found that even when high doses of omega-3s successfully reached the brain, they did not produce measurable improvements in memory, thinking abilities, or protection against brain shrinkage. The findings, published in eBioMedicine , come from a two-year clinical trial involving older adults considered to be at increased risk of developing Alzheimer's disease. Despite taking omega-3 supplements daily, participants showed no significant cognitive advantage over those who received a placebo. \"We all wish there was a silver bullet for preventing Alzheimer's, but our findings showed that fish oil supplements do not appear to protect brain health,\" said Hussein Naji Yassine, MD, director of the USC Center for Personalized Brain Health and lead investigator of the study. \"While omega-3s play an important role in forming brain cell connections needed for cognition, our results do not support fish oil supplements as a preventive measure against Alzheimer's.\" To investigate whether omega-3 supplements could protect the aging brain, researchers enrolled 365 adults between the ages of 55 and 80. All participants rarely ate fish, a major dietary source of omega-3 fatty acids, and were considered at elevated risk for Alzheimer's disease. Nearly half (47%) carried APOE4, a gene variant associated with a substantially higher risk of developing Alzheimer's later in life. Although having this variant does not mean someone will necessarily develop the disease, it is the strongest known genetic risk factor for late-onset Alzheimer's. Participants were randomly assigned to receive either a daily fish oil supplement or a placebo, an inactive treatment used for comparison. The supplements provided 2,000 mg of docosahexaenoic acid (DHA), an omega-3 fatty acid that is especially important for the brain. DHA is a major component of brain cell membranes, helping maintain the structure and function of neurons. It also supports communication between nerve cells, making it an important nutrient for normal brain activity. The study was double-blind, meaning neither participants nor researchers knew who was receiving the active supplement during the trial. This approach helps reduce bias and makes it easier to determine whether any observed benefits are actually caused by the treatment. Before evaluating whether the supplements improved brain health, researchers needed to answer a fundamental question: Were the omega-3 fatty acids actually reaching the brain? To find out, they measured DHA concentrations in cerebrospinal fluid, the clear liquid that surrounds and cushions the brain and spinal cord. Examining this fluid can provide information about substances entering and circulating within the central nervous system. After six months, DHA levels in the cerebrospinal fluid had increased by an average of 17% among participants taking the supplements. This provided evidence that the omega-3 fatty acids were reaching their intended destination. However, getting DHA into the central nervous system was only part of the goal. The more important question was whether those higher levels would translate into better brain health. Researchers assessed participants' memory and other cognitive abilities at the beginning of the trial and again after two years. Despite the increase in DHA, those taking fish oil performed no better on the cognitive tests than participants receiving the placebo. The supplements did not prevent shrinkage of the hippocampus, a region deep within the brain that plays a central role in forming and organizing memories. The hippocampus is particularly vulnerable to changes associated with aging and Alzheimer's disease, making its size an important indicator researchers use when studying brain health. Taken together, the results suggest that simply increasing DHA availability in the brain is not enough to produce measurable cognitive benefits in this group of older adults. The unexpected findings have raised a new question for researchers: If omega-3s can reach the brain, why don't higher levels necessarily improve its function? Yassine and his colleagues are now investigating how the brain absorbs, processes, and uses these nutrients. Their earlier research suggests that omega-3s may be more beneficial when consumed as part of a broader dietary pattern rather than taken in isolation as a supplement. One possibility involves the Mediterranean-style diet, which emphasizes foods such as fish, vegetables, fruits, whole grains, legumes, nuts, and olive oil. This eating pattern naturally supplies omega-3 fatty acids alongside other nutrients and has been associated with a lower risk of Alzheimer's disease. The researchers suspect that the combination of nutrients in a balanced diet, along with an individual's overall health, may influence how effectively omega-3s support the brain. \"We're focused on better understanding how the brain processes omega-3s and whether factors, such as poor health, dietary pattern, genetic risk and age, may change the brain's ability to effectively absorb and use omega-3s,\" said Yassine. \"We are working to develop medications that may help the brain better utilize these nutrients to preserve cognitive function.\" Understanding these differences could eventually help scientists identify why certain people might respond better to omega-3s than others and whether new treatments could improve the brain's ability to benefit from these essential fats. Importantly, the findings do not mean omega-3 fatty acids are unnecessary or that eating fish offers no health benefits. Instead, they indicate that taking high-dose DHA supplements alone did not provide measurable protection against cognitive decline or hippocampal shrinkage in the population studied. Although the trial focused specifically on fish oil supplements, the researchers emphasize that protecting brain health requires a much broader approach. Rather than relying on a single supplement, they recommend maintaining healthy habits throughout life, including regular physical activity, sufficient high-quality sleep, and a nutritious, balanced diet. These behaviors support overall health and may help reduce factors associated with cognitive decline. Physical exercise, for example, promotes cardiovascular health and blood flow, while sleep plays an important role in memory formation and normal brain maintenance. \"Staying healthy throughout life remains the most powerful tool we have for reducing Alzheimer's risk, including regular exercise, quality sleep and a balanced diet,\" said Yassine. \"Living a healthy lifestyle is the brain's equivalent of getting regular car maintenance and high-quality oil changes. The brain is more likely to lose greater function if health issues in other parts of the body go unaddressed, in the same way that car engines stop working if regular maintenance is skipped.\" While these lifestyle factors were not directly tested in the trial, the researchers believe they offer a more promising foundation for long-term brain health than depending on fish oil supplements alone. The results also highlight an important distinction: A nutrient can be essential for healthy brain function without providing additional protection when consumed in large doses as a supplement. Understanding why that happens may open new avenues for research into Alzheimer's prevention and the nutritional needs of the aging ",
-   "facts": [
-    "These products have become a major business, with Americans spending more than $1 billion each year on supplements containing omega-3 fatty acids.",
-    "But a new study suggests that getting more omega-3s into the brain through supplements may not provide the protection many people expect.",
-    "Researchers at Keck Medicine of USC found that even when high doses of omega-3s successfully reached the brain, they did not produce measurable improvements in memory, thinking abilities, or protection against brain shrinkage.",
-    "Despite taking omega-3 supplements daily, participants showed no significant cognitive advantage over those who received a placebo.",
-    "\"While omega-3s play an important role in forming brain cell connections needed for cognition, our results do not support fish oil supplements as a preventive measure against Alzheimer's.\" To investigate whether omega-3 supplements could protect the aging brain, researchers enrolled 365 adults between the ages of 55 and 80.",
-    "All participants rarely ate fish, a major dietary source of omega-3 fatty acids, and were considered at elevated risk for Alzheimer's disease.",
-    "Nearly half (47%) carried APOE4, a gene variant associated with a substantially higher risk of developing Alzheimer's later in life.",
-    "The supplements provided 2,000 mg of docosahexaenoic acid (DHA), an omega-3 fatty acid that is especially important for the brain.",
-    "The study was double-blind, meaning neither participants nor researchers knew who was receiving the active supplement during the trial.",
-    "Before evaluating whether the supplements improved brain health, researchers needed to answer a fundamental question: Were the omega-3 fatty acids actually reaching the brain?"
-   ],
-   "doi": [
-    "10.1016/j.ebiom.2026.106316"
-   ],
-   "sample": [
-    "365 adults"
-   ],
-   "journal_ref": "Journal Reference : Hussein N. Yassine, Sara Ghasem Pour, Marlene Juarez, Isabella C. Arrelanas, Nada Ali, Dante Dikeman, Ashley Sanchez, Jackson Park, Bilal Kerman, Marlon V. Duro, Isaac Asante, Stan Louie, Naoko Kono, Lina M. D\\'Orazio, Helena Chui, Wendy J. Mack, Michael G. Harrington, Meredith N. Braskie, Lon S. Schneider. CNS target engagement of high-dose DHA supplementation in older adults ",
-   "catch_extra": [
-    "세포·시험관",
-    "상관관계"
-   ],
-   "sources": [
-    "ScienceDaily 뇌·마음"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261020085427.htm"
-   ],
-   "format": "SCALE",
-   "seen": "2026-10-19",
-   "catch": [
-    "세포·시험관",
-    "상관관계"
-   ],
-   "score": 10,
-   "why": [
-    "형식 SCALE",
-    "훅: surpris, failed to",
-    "생활소재: diet, supplement, memory",
-    "이미 본 소재(2026-10-19)"
-   ]
-  },
   {
    "title": "Spending in-person time with friends is the biggest predictor of whether college students flourish",
    "link": "https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908",
@@ -358,6 +306,87 @@
    "why": [
     "형식 DOSE",
     "훅: did not"
+   ]
+  },
+  {
+   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261030002922.htm",
+   "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refuges that remained habitable even after the catastrophic impact.",
+   "date": "2026-10-30",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-31",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 CUT",
+    "훅: mystery",
+    "생활소재: cat, dinosaur"
+   ],
+   "text": "Why did crocodiles survive the asteroid impact that wiped out the dinosaurs 66 million years ago? New research suggests that their preference for warm environments may have given them a crucial advantage during one of Earth's greatest mass extinctions. Scientists led by UCL (University College London) found that crocodiles and their ancient relatives spent much of their 250 million years of evolutionary history following warm climates rather than adapting to dramatically different temperatures. When Earth grew hotter, they expanded into new regions, sometimes reaching as far as Antarctica. As temperatures fell, they moved back toward the tropics. Published in Science Advances , the study analyzed more than 7,000 fossils and records from over 400 living and extinct species. Researchers combined this evidence with computer models that reconstructed Earth's climate and geography across 245 million years. The results suggest that tropical and subtropical regions remained suitable for crocodile relatives after the asteroid struck, even as the environments available to many dinosaurs deteriorated. Only the most extreme climate simulations eliminated these potential refuges. The researchers examined how conditions on Earth may have changed following the asteroid impact 66 million years ago. Their simulations indicated that areas near the equator could have remained warm enough to support crocodile relatives, providing places where surviving populations could persist and eventually recover. Previous modeling by members of the same research team found that suitable habitats for non-avian dinosaurs (i.e., the ones that went extinct) contracted much more severely after the impact. Lead author Dr. Alfio Alessandro Chiarenza, based at UCL Earth Sciences, said: \"The asteroid did not make the whole planet equally hostile to every group. \"Crocodiles' long-standing preference for warm environments may have placed survivors exactly where suitable climates held up best, like around the equator. These refuges could have sheltered populations that later recovered and radiated out.\" The discovery offers a possible explanation for how a group of animals that appeared around the same time as dinosaurs managed to endure two of Earth's five major mass extinctions. Modern crocodiles and their close relatives share many recognizable features, but their evolutionary history reveals a much wider variety of body shapes, sizes, and lifestyles. The broader crocodile lineage, known as pseudosuchians, once included heavily armored plant eaters, predators that hunted entirely on land, and enormous animals weighing more than a metric ton. Among the most remarkable was Sarcosuchus , a giant predator nicknamed the \"super croc\" that could reach 12 meters in length. Another prehistoric relative, Postosuchus , was a land dwelling hunter capable of moving on either two legs or all four. Dr. Chiarenza said: \"Crocodiles are often called living fossils, but their ancestors and relatives changed enormously throughout their history, ranging from giants the size of a bus that could have devoured a T. rex , to small, cute animals with the face of a pug. \"Our study shows that, despite all this diversity, what stayed surprisingly consistent was their relationship with climate.\" To investigate that relationship, the scientists reconstructed the temperature and rainfall preferences of 400 crocodile species and their ancient relatives. They used fossil evidence, evolutionary family trees, and detailed maps of where living crocodile species are found today. The team then compared these preferences with reconstructions of ancient geography and climate to identify where suitable habitats existed at different points in Earth's history. A clear pattern emerged. Crocodile relatives generally followed warmer conditions as the planet's climate changed, expanding their ranges during hot periods and retreating when temperatures cooled. About 50 million years ago, during the particularly warm early Eocene, global temperatures were approximately 10°C higher than today, and the polar regions had no permanent ice. Crocodile relatives lived at high latitudes across North America, Europe, and even Antarctica. Over the following millions of years, global cooling gradually reduced the areas where they could thrive. Their geographic range contracted toward warmer tropical regions. Although this preference for warm environments remained remarkably consistent, the researchers identified two important exceptions. During the Cretaceous Thermal Maximum, approximately 94 million years ago, global temperatures climbed as much as 14°C above modern levels. One branch of the crocodile family tree evolved the ability to tolerate hotter conditions than the broader lineage could withstand at other times. A separate adaptation occurred around 34 million years ago in Australia. As a prolonged cooling period reduced rainfall and dried out the continent, an extinct group of crocodiles adapted to increasingly arid, desert-like environments. These exceptions show that some crocodile relatives could evolve to handle different climates, even though most continued to follow their preferred warm conditions. The researchers also used climate simulations to investigate the decades and centuries immediately following the Chicxulub asteroid impact, which triggered the extinction of most dinosaurs. They explored several possible environmental consequences, including sunlight being blocked by dust and ash and rising carbon dioxide levels associated with volcanic eruptions. When the simulations reduced sunlight by 5% or 10%, warm regions near the equator remained suitable for crocodile relatives. These areas could have provided critical refuges during the environmental disruption. However, a more severe scenario involving a 15% reduction in sunlight left those regions unsuitable as well. The researchers noted that this extreme level of reduced sunlight is now considered unlikely. Other simulated changes, including increased atmospheric carbon dioxide, did not alter the availability of suitable climates for crocodiles. Together, the results suggest that crocodiles may have benefited from living in regions where temperatures remained within their preferred range, even as conditions became much less favorable for many dinosaurs. The researchers emphasized that favorable temperatures were probably only one reason crocodiles survived the mass extinction. Other characteristics likely improved their chances, including relatively small body sizes, the ability to live partly in water, flexible diets, and modest energy requirements. As ectothermic (\"cold-blooded\") animals, crocodiles need less food to maintain their bodies than many animals that generate their own body heat. The findings also raise important questions about how crocodiles will respond to modern climate change. For millions of years, moving into regions with suitable temperatures appears to have been one of their main responses to a changing planet. Today, however, expanding cities, agricultural land, and roads increasingly limit where wildlife can move. Professor Philip Mannion, based at UCL Earth Sciences, said: \"These findings have implications for species today. If crocodiles mostly coped with past climate change by moving towards suitable habitats, today's species will need room to move as the planet warms, and the loss of suitable areas to roads, farms and cities is making that harder.\" The research was funded by The Royal Society, the Leverhulme Trust, and the National Environment Research Council (NERC). Materials provided by University College London . Note: Content may be edited for style and length. Did Venus Eat Its Own Moon? Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Poten",
+   "doi": [
+    "10.1126/sciadv.aeg2217"
+   ],
+   "journal_ref": "Journal Reference : Alfio Alessandro Chiarenza, Alexandra F. C. Howard, Grace L. Varnham, Alex Farnsworth, Paul J. Valdes, Philip D. Mannion. Climatic niche conservatism shapes the macroevolution, extinction, and survivorship of crocodile-line archosaurs . Science Advances , 2026; 12 (43) DOI: 10.1126/sciadv.aeg2217",
+   "facts": [
+    "Why did crocodiles survive the asteroid impact that wiped out the dinosaurs 66 million years ago?",
+    "Scientists led by UCL (University College London) found that crocodiles and their ancient relatives spent much of their 250 million years of evolutionary history following warm climates rather than adapting to dramatically different temperatures.",
+    "Published in Science Advances , the study analyzed more than 7,000 fossils and records from over 400 living and extinct species.",
+    "Researchers combined this evidence with computer models that reconstructed Earth's climate and geography across 245 million years.",
+    "The researchers examined how conditions on Earth may have changed following the asteroid impact 66 million years ago.",
+    "Among the most remarkable was Sarcosuchus , a giant predator nicknamed the \"super croc\" that could reach 12 meters in length.",
+    "\"Our study shows that, despite all this diversity, what stayed surprisingly consistent was their relationship with climate.\" To investigate that relationship, the scientists reconstructed the temperature and rainfall preferences of 400 crocodile species and their ancient relatives.",
+    "About 50 million years ago, during the particularly warm early Eocene, global temperatures were approximately 10°C higher than today, and the polar regions had no permanent ice.",
+    "During the Cretaceous Thermal Maximum, approximately 94 million years ago, global temperatures climbed as much as 14°C above modern levels.",
+    "One branch of the crocodile family tree evolved the ability to tolerate hotter conditions than the broader lineage could withstand at other times."
+   ],
+   "sample": []
+  },
+  {
+   "title": "Scientists discover why chronic back pain feels so personal",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261028232706.htm",
+   "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down. This unexpected difference could explain why conventional pain medications often provide limited relief and why fear, anticipation, and past experiences can intensify chronic pain.",
+   "date": "2026-10-30",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-10-31",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261028232706.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 8,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris, unexpected",
+    "생활소재: brain"
+   ],
+   "text": "For people living with chronic back pain, even a simple movement can trigger a sudden surge of pain. Now, scientists have discovered that these painful episodes activate a surprising part of the brain, one closely connected to our sense of identity and how we think about ourselves. Researchers at UC San Diego School of Medicine found that movement-triggered pain in people with chronic low back pain (cLBP) activates a brain network that normally becomes less active during ordinary pain. The discovery suggests that persistent back pain may become deeply intertwined with a person's sense of self, potentially helping explain why conventional pain treatments often provide limited relief. According to the World Health Organization, low back pain is the leading cause of disability worldwide. When pain persists for more than 12 weeks, it is considered chronic. For many patients, everyday movements can provoke sudden flare-ups that make an already difficult condition even harder to manage. Although the brain plays a central role in how pain is experienced, researchers have struggled to identify the precise brain circuits responsible for pain triggered by movement. The new study, published on October 5, 2026, in the British Journal of Anaesthesia , identified an unexpected response involving the brain's Default Mode Network (DMN). Sometimes called the \"self network,\" the DMN consists of interconnected regions in the frontal, parietal, and temporal lobes. These areas are especially active when our attention turns inward, such as when we reflect on personal experiences, think about our identity, or consider our thoughts and emotions. In contrast, the network generally becomes less active when we direct our attention toward something happening around us. The researchers discovered that sudden back pain caused by movement switched this network on rather than off. This unusual response suggests that chronic pain involves more than the processing of physical sensations. It may also engage the brain systems that shape how people experience themselves. The findings could help researchers understand why treatments that focus primarily on suppressing pain symptoms do not always work well for chronic low back pain. They also raise the possibility that targeting the DMN could offer a different approach to treatment. Brain Scans Reveal a Surprising Difference Between Chronic and Acute Pain To investigate what happens in the brain during a pain flare, the researchers recruited 114 patients with chronic low back pain. Each participant completed a \"leg raise test,\" a standard clinical procedure used to provoke back pain. During the test, researchers monitored changes in brain blood flow using a specialized functional MRI method called arterial spin labeling. This technique allows scientists to track patterns of brain activity by measuring blood flow without relying on an injected contrast agent. The team also examined how participants responded to a separate painful stimulus. They applied a harmless but uncomfortable heat sensation to the calf, similar to the brief pain someone might experience when accidentally touching a hot stove. Comparing these two situations revealed a striking difference. When movement triggered a flare of chronic back pain, the DMN became more active. However, when participants experienced the painful heat stimulus, the same network became less active, following the brain's typical response to acute pain. The researchers also identified several other important patterns: Together, these findings provide new evidence that chronic pain flares involve brain processes associated with personal identity, not just the physical experience of pain. During ordinary acute pain, the brain generally reduces activity in the DMN so it can concentrate on the immediate source of danger. This response helps shift attention away from internal thoughts and toward an external threat. But the UC San Diego researchers found that movement triggered chronic back pain produced the opposite effect. \"In every pain study, when you're experiencing pain, the DMN deactivates,\" said corresponding author Fadel Zeidan, PhD, professor in the Department of Anesthesiology, endowed professor at the Sanford Institute for Empathy and Compassion, and director of the Pain Health and Mindfulness Laboratory at UC San Diego School of Medicine. \"What we show for the first time ever is that when you have a pain flare, it turns on instead. You start to identify the experience with who you are.\" The findings suggest that chronic back pain can become closely connected with the brain's internal representation of the self. Rather than processing pain solely as a physical warning signal, the brain may also link it to personal memories, expectations, and emotional experiences. For someone living with chronic pain, this means the experience can extend far beyond the moments when the pain is physically present. Worry about the next flare, memories of previous episodes, and fear of movements that might trigger pain can all become part of everyday life. \"The moment-to-moment experience is contaminated not only by the feeling of pain, but by the anticipation of it and recovery from it. It's contaminated by past experiences like embarrassment about not being able to participate in normal activities and fear of movement when trying to avoid the pain.\" This connection between pain and personal identity may help explain why chronic back pain can be especially difficult to treat. Because movement-triggered chronic back pain engages different brain networks from ordinary acute pain, researchers believe traditional treatments may fail to address some of the processes that sustain the experience of chronic pain. Medications such as opiates primarily target pain signaling, but they may not adequately address the brain networks involved in the emotional and personal dimensions of persistent pain. \"Current pain medicine is fixated on ridding patients of their pain symptoms, but that's not the source of chronic pain. These data suggest that a chronic pain flare also encompasses one's identity.\" The discovery points toward treatments that address not only the sensation of pain but also the brain's relationship with that sensation. Recent work by Zeidan and his colleagues has explored two potential approaches: mindfulness meditation and the psychedelic compound psilocybin . Both approaches are being investigated for their ability to help people experience physical pain without allowing it to become as closely tied to their identity. Early findings suggest that changing this relationship may reduce pain intensity, although additional research is needed to confirm the results and determine how effective these treatments may be. \"These types of mind-body and psychedelic medicine approaches target the whole person,\" Zeidan said. \"Mindfulness is a meditation technique that's about cultivating non-judgmental awareness of the present moment that dramatically reduces pain in a very unique way. Psilocybin seemingly resets the pain system that integrates trauma, past experiences and future worries to facilitate a restart, if you will. They're not a silver bullet -- you're not necessarily getting rid of the pain, but you're changing the relationship you have with that pain so it doesn't contaminate your everyday life.\" Can Mindfulness and Psychedelics Change How the Brain Experiences Pain? Rather than attempting to eliminate every pain signal, these approaches aim to change how the brain interprets and responds to the experience. Mindfulness meditation encourages people to observe their thoughts, emotions, and physical sensations without immediately judging or reacting to them. Psilocybin, meanwhile, is being studied for its potential to alter brain processes that connect pain with earlier experiences, emotional distress, and expectations about the future. The goal is not necessarily to remove pain altogether, but to reduce how much ",
+   "doi": [
+    "10.1016/j.bja.2026.08.010"
+   ],
+   "journal_ref": "Journal Reference : Morgan Gianola, Jon Dean, Conan Chen, Daniel Barrows, Gabriel Riegner, Thomas Liu, Fadel Zeidan. Brain mechanisms supporting movement-evoked chronic low back pain: an observational brain imaging study . British Journal of Anaesthesia , 2026; DOI: 10.1016/j.bja.2026.08.010",
+   "facts": [
+    "When pain persists for more than 12 weeks, it is considered chronic.",
+    "The new study, published on October 5, 2026, in the British Journal of Anaesthesia , identified an unexpected response involving the brain's Default Mode Network (DMN).",
+    "Brain Scans Reveal a Surprising Difference Between Chronic and Acute Pain To investigate what happens in the brain during a pain flare, the researchers recruited 114 patients with chronic low back pain.",
+    "Funding was provided in part by the National Institutes of Health's National Center for Complementary and Integrative Health (Grant #R01AT009693) and the UC San Diego Sanford Institute for Empathy and Compassion.",
+    "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
+   ],
+   "sample": [
+    "114 patients"
    ]
   },
   {
@@ -736,45 +765,6 @@
    ]
   },
   {
-   "title": "Scientists discover that cranberry juice may help fight tooth decay",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261028232701.htm",
-   "summary": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay. Researchers at the University of Illinois Chicago discovered that pure, unsweetened cranberry juice slowed the regrowth of dental plaque bacteria and reduced their production of acids that damage tooth enamel. The secret may lie in naturally occurring compounds called proanthocyanidins, which interfere with harmful bacteria.",
-   "date": "2026-10-29",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-30",
-   "text": "Cranberry juice may offer an unexpected benefit for your teeth. New research suggests that pure, unsweetened cranberry juice can slow the growth of dental plaque and reduce the production of acids that contribute to tooth decay. Cranberries are a familiar part of holiday celebrations. They appear in sauces, salads, and cocktails, and even serve as colorful seasonal decorations. But beyond their tart flavor and festive appeal, these small red berries contain natural compounds that may support oral health. Christine Wu, a researcher at the University of Illinois Chicago College of Dentistry, has been investigating whether cranberry juice could help protect teeth from harmful bacteria. Her findings suggest that the popular beverage may have benefits that go beyond its traditional association with urinary tract health. Cranberry juice has long been used to help prevent urinary tract infections. One reason is that cranberries contain compounds called proanthocyanidins, which have anti-inflammatory properties and can interfere with the ability of certain bacteria, including E. coli, to attach to cells. Wu wanted to determine whether these same compounds might also affect bacteria found in dental plaque. These microorganisms feed on sugars from food and drinks, producing acids that gradually weaken tooth enamel and contribute to cavities. Rather than testing isolated cranberry compounds, Wu chose to investigate pure cranberry juice, a product people can readily purchase and consume. \"Just like sugar damage is linked to diet, I'm interested in how the food and beverages we consume can help combat the harmful bacteria and benefit our oral health,\" Wu said. To investigate the potential effects, researchers conducted a small human study involving 22 participants, including 14 children and eight adults. Participants were randomly assigned to one of three beverages: pure, unsweetened 100% cranberry juice, a cranberry juice cocktail containing 27% juice and added sugar, or plain water. \"It was important to us to conduct these tests with human participants and use products available on the market. Most cranberry juice studies have been conducted using laboratory-prepared cranberry juice extract. Moreover, limited studies have been performed in children,\" said Wu, who is a professor of pediatric dentistry. On the morning of the experiment, participants arrived with dental plaque that had accumulated overnight. Researchers first collected plaque samples using cotton swabs on one side of each participant's mouth. After rinsing with water, participants consumed three small amounts of their assigned beverage. They swished each drink around their mouths several times before swallowing. Thirty minutes later, researchers collected another set of plaque samples, this time from teeth that had not been swabbed earlier. Comparing the samples allowed the team to examine how each beverage affected plaque activity over the short testing period. The results revealed a promising effect of pure cranberry juice. Dental plaque exposed to the unsweetened beverage showed slower regrowth than unexposed plaque samples. Researchers also found that swishing with pure cranberry juice reduced acid production in dental plaque from both children and adults. This is particularly important because acids produced by oral bacteria can gradually erode tooth enamel, increasing the risk of cavities. The findings suggest that cranberry juice may interfere with two important processes involved in tooth decay: the buildup of bacterial plaque and the production of damaging acids. Wu believes these results could eventually support the development of cranberry juice as a \"functional beverage\" that offers benefits for oral health. The findings are especially interesting because other commonly consumed fruit juices, including orange and apple juice, have not shown the same promise in this research context. \"Most people think of cranberry juice as very sour, very acidic and sugary, and therefore may not contribute positively to oral health. This study found the opposite: that cranberry juice affected dental plaque regrowth and acid production, which may counteract some of the damage done by sugar,\" she said. Although the findings are encouraging, the researchers emphasize that further investigation is necessary. With only 22 participants and a testing period lasting just 30 minutes after consumption, the study cannot establish whether drinking cranberry juice regularly prevents cavities or produces lasting improvements in dental health. Larger studies conducted over longer periods will be needed to determine whether the observed changes in dental plaque translate into meaningful protection against tooth decay. Still, Wu sees potential in occasionally using pure cranberry juice as a mouth rinse. One challenge is its intensely tart flavor, which some people may find unpleasant without added sweetness. \"But maybe by adding an appropriate sugar substitute,\" she said, \"to make it a bit more palatable.\" The research was published in the journal Scientific Reports . Materials provided by University of Illinois Chicago . Original written by Jenna Kurtzweil. Note: Content may be edited for style and length. This Alien Planet Should Have Lost Its Atmosphere Billions of Years Ago A Routine Blood Test Could Predict Dementia Risk 15 Years in Advance Drinking Tea May Lower Your Risk of Vascular Disease – but There’s a Catch Beyond Bad Cholesterol: Scientists Uncover a Hidden Driver of Heart Disease",
-   "facts": [
-    "To investigate the potential effects, researchers conducted a small human study involving 22 participants, including 14 children and eight adults.",
-    "Participants were randomly assigned to one of three beverages: pure, unsweetened 100% cranberry juice, a cranberry juice cocktail containing 27% juice and added sugar, or plain water.",
-    "They swished each drink around their mouths several times before swallowing.",
-    "With only 22 participants and a testing period lasting just 30 minutes after consumption, the study cannot establish whether drinking cranberry juice regularly prevents cavities or produces lasting improvements in dental health.",
-    "This Alien Planet Should Have Lost Its Atmosphere Billions of Years Ago A Routine Blood Test Could Predict Dementia Risk 15 Years in Advance Drinking Tea May Lower Your Risk of Vascular Disease – but There’s a Catch Beyond Bad Cholesterol: Scientists Uncover a Hidden Driver of Heart Disease"
-   ],
-   "doi": [
-    "10.1038/s41598-026-56025-3"
-   ],
-   "sample": [
-    "14 children",
-    "22 participants"
-   ],
-   "journal_ref": "Journal Reference : Christine D. Wu, Wei Li, Monique Luu, Evelina Kratunova, Qian Xie. In vivo exposure to cranberry juice suppresses dental plaque regrowth and acid production in adults and children: a PGRM study . Scientific Reports , 2026; 16 (1) DOI: 10.1038/s41598-026-56025-3",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261028232701.htm"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 7,
-   "why": [
-    "형식 CUT",
-    "훅: unexpected, secret"
-   ]
-  },
-  {
    "title": "Ancient Alberta fish fossils reveal evolutionary secrets of modern species",
    "link": "https://phys.org/news/2026-10-ancient-alberta-fish-fossils-reveal.html",
    "key": "https://phys.org/news/2026-10-ancient-alberta-fish-fossils-reveal.html",
@@ -827,49 +817,6 @@
     "형식 SCALE",
     "훅: mystery",
     "생활소재: mice"
-   ]
-  },
-  {
-   "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261021231224.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261021231224.htm",
-   "summary": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason. A study of 30,000 Americans found that non-dairy creamer has overtaken sugar and milk as the leading source of added coffee calories, helping drive a nearly 40% increase between 2003 and 2018.",
-   "date": "2026-10-22",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-22",
-   "text": "Americans are getting more calories from their daily coffee, even though the amount they drink has barely changed. Researchers at the Gerald J. and Dorothy R. Friedman School of Nutrition Science and Policy at Tufts University have identified a surprising reason for the increase: non-dairy creamer, which has overtaken sugar and milk as the largest contributor to added calories in coffee. The study, published online in the Journal of the Academy of Nutrition and Dietetics, examined dietary information from 30,000 American adults aged 20 and older. Between 2003 and 2018, average coffee consumption stayed relatively constant at approximately 13 ounces per day. However, the average number of calories consumed from coffee increased from 43 to 60 per day, a rise of nearly 40%. By 2018, the leading sources of added coffee calories were non-dairy creamer, sugar or syrup, and dairy milk. \"Coffee consumption has been associated with several health benefits. However, coffee is often accompanied by the addition of sugar and cream, which can contribute to an increased consumption of calories from added sugar and saturated fat,\" said Fang Fang Zhang, senior author of the study and Neely Family Professor at the Friedman School. \"The more we know about what people are consuming, the better we can understand the link between nutrition and overall health.\" To investigate how Americans' coffee habits evolved, the research team examined eight consecutive cycles of the National Health and Nutrition Examination Survey (NHANES), covering 2003 through 2018. The nationally representative dataset included 30,000 adults aged 20 and older, each of whom completed two 24-hour dietary recalls. Researchers separated coffee beverages into two broad groups: non-combination beverages and those containing additional ingredients. They then classified the additions into several categories, including dairy milk, half-and-half, dairy cream, non-dairy milk, non-dairy creamer, sugar/syrup, sugar substitutes, and other ingredients such as alcohol and cocoa powder. Some participants reported consuming pre-mixed coffee beverages/powder, making it necessary to estimate the amounts of individual ingredients they contained. To do this, the researchers used the USDA Food and Nutrition Database for Dietary Studies corresponding to each survey cycle, along with linked Standard Reference codes. The analysis showed that Americans' overall coffee intake, including coffee consumed without additions, remained largely unchanged between 2003 and 2018. What changed was the amount and type of ingredients being mixed into those beverages. In 2018, dairy milk was the most commonly added ingredient by weight, averaging 21.4 grams per day. Non-dairy creamer followed at 8.1 grams per day, while sugar accounted for 4.4 grams per day. Consumption of dairy milk, sugar, and sugar substitutes showed no statistically significant changes over the study period. Non-dairy additions, however, followed a very different pattern. Their average consumption rose from 3.65 grams per day in 2003 to 10.5 grams per day in 2018. Much of this growth came from non-dairy creamer, which increased from 3.37 to 8 grams per day. Non-dairy milk consumption also climbed sharply, rising from 0.27 to 2.45 grams per day. Other coffee additions increased slightly as well, with an average gain of 0.5 grams per day. Although dairy milk remained the most common coffee addition by weight, non-dairy creamer had become the leading source of added calories by 2018. On average, non-dairy creamer contributed 18.5 calories per day, compared with 16 calories from sugar and 11 calories from dairy milk. In 2003, non-dairy creamer had contributed just 7.71 calories per day, illustrating how dramatically its role in Americans' coffee consumption had changed. \"We found that non-dairy creamer being added to coffee has now passed both sugar and dairy for its contribution to the total energy consumed from coffee. Non-dairy creamers can be high in saturated fat, which is calorie dense. This could explain the increased calories that non-dairy creamer is contributing,\" said Yongyi Pan, the study's lead author and a Ph.D. candidate at the Friedman School. \"Even though it has been on the market since the 1950s, non-dairy creamer has increased in popularity in recent years as consumers seek plant-based or dairy alternatives.\" The researchers also investigated whether coffee consumption differed across groups of adults based on their daily routines and overall diet quality. They found that people who slept fewer hours generally drank more coffee than those who slept longer. A similar pattern emerged among adults who worked longer hours, who tended to consume more coffee than those with shorter work schedules. However, coffee consumption was comparable among people with higher and lower overall diet quality, suggesting that drinking more or less coffee was not strongly associated with how healthy their broader diets were. The researchers acknowledged that the study relied on participants recalling what they had eaten and drunk, which can introduce measurement errors. Because food and beverage consumption can vary considerably from day to day, self-reported dietary information does not always perfectly reflect people's usual habits. The research team took steps to improve the reliability of its estimates. Co-author Bingjie Zhou contributed to the research while pursuing a Ph.D. at the Friedman School. Materials provided by Tufts University . Note: Content may be edited for style and length. Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints",
-   "facts": [
-    "The study, published online in the Journal of the Academy of Nutrition and Dietetics, examined dietary information from 30,000 American adults aged 20 and older.",
-    "Between 2003 and 2018, average coffee consumption stayed relatively constant at approximately 13 ounces per day.",
-    "However, the average number of calories consumed from coffee increased from 43 to 60 per day, a rise of nearly 40%.",
-    "By 2018, the leading sources of added coffee calories were non-dairy creamer, sugar or syrup, and dairy milk.",
-    "\"The more we know about what people are consuming, the better we can understand the link between nutrition and overall health.\" To investigate how Americans' coffee habits evolved, the research team examined eight consecutive cycles of the National Health and Nutrition Examination Survey (NHANES), covering 2003 through 2018.",
-    "The nationally representative dataset included 30,000 adults aged 20 and older, each of whom completed two 24-hour dietary recalls.",
-    "They then classified the additions into several categories, including dairy milk, half-and-half, dairy cream, non-dairy milk, non-dairy creamer, sugar/syrup, sugar substitutes, and other ingredients such as alcohol and cocoa powder.",
-    "The analysis showed that Americans' overall coffee intake, including coffee consumed without additions, remained largely unchanged between 2003 and 2018.",
-    "In 2018, dairy milk was the most commonly added ingredient by weight, averaging 21.4 grams per day.",
-    "Non-dairy creamer followed at 8.1 grams per day, while sugar accounted for 4.4 grams per day."
-   ],
-   "doi": [
-    "10.1016/j.jand.2026.156908"
-   ],
-   "sample": [
-    "30,000 adults"
-   ],
-   "journal_ref": "Journal Reference : Yongyi Pan, Bingjie Zhou, Fang Fang Zhang. Trends in the Consumption of Coffee and Coffee Additions Among U.S. Adults Aged 20 Years, The National Health and Nutrition Examination Survey 2003–2018 . Journal of the Academy of Nutrition and Dietetics , 2026; 156908 DOI: 10.1016/j.jand.2026.156908",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261021231224.htm"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 SCALE",
-    "생활소재: coffee"
    ]
   },
   {
@@ -1054,6 +1001,8 @@
    "date": "2026-10-30",
    "source": "Phys.org",
    "first_seen": "2026-10-30",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-ancient-insect-diets-sustainable-food.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1066,8 +1015,7 @@
    "why": [
     "형식 SCALE",
     "생활소재: diet"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-ancient-insect-diets-sustainable-food.html"
+   ]
   },
   {
    "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
@@ -1077,6 +1025,8 @@
    "date": "2026-10-30",
    "source": "Phys.org",
    "first_seen": "2026-10-30",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1089,8 +1039,7 @@
    "why": [
     "형식 DOSE",
     "훅: actually"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html"
+   ]
   },
   {
    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades",
@@ -1296,6 +1245,47 @@
    "why": [
     "형식 DOSE",
     "2곳 보도"
+   ]
+  },
+  {
+   "title": "Florida Department of Health considers dropping 4 school vaccine requirements – here’s what that could mean for kids",
+   "link": "https://theconversation.com/florida-department-of-health-considers-dropping-4-school-vaccine-requirements-heres-what-that-could-mean-for-kids-294773",
+   "key": "https://theconversation.com/florida-department-of-health-considers-dropping-4-school-vaccine-requirements-heres-what-that-could-mean-for-kids-294773",
+   "summary": "Most parents of young children today haven’t experienced the devastating childhood diseases that used to be common before vaccines were developed.",
+   "date": "2026-10-30",
+   "source": "The Conversation",
+   "first_seen": "2026-10-31",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/florida-department-of-health-considers-dropping-4-school-vaccine-requirements-heres-what-that-could-mean-for-kids-294773"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 5,
+   "why": [
+    "형식 DOSE",
+    "생활소재: kids, children"
+   ],
+   "text": "The Florida Department of Health held a hearing in October 2026 on a proposal to remove four vaccine requirements for entry into school and childcare: Haemophilus influenzae type b, or Hib , chickenpox , pneumococcal and hepatitis B . These vaccines entered use in the U.S. at different times from the early 1980s through 2000. Prior to that, there were millions of chickenpox cases and thousands of serious bacterial infections and preventable deaths among American children each year. Vaccination has dramatically reduced the toll of these diseases. Many parents today grew up during the transition to widespread vaccination for these diseases and may never have witnessed the severe complications these vaccines help prevent. I’m an epidemiologist who studies vaccine-preventable illnesses and health communication , and I worry that perhaps the luxury of forgetting about these diseases could end up giving rise to a generation of children who aren’t vaccinated against them. School vaccination requirements help communities establish herd immunity , which is when enough people are vaccinated to prevent a disease from easily spreading. When vaccination rates fall, infections can spread among susceptible children throughout the community, placing those who are too young to be fully vaccinated, as well as those who cannot develop adequate protection due to medical conditions, at greater risk. Florida’s proposal would not eliminate these four vaccines, nor would ending a mandate mean that every family would stop using them. However, it would weaken one of the policies designed to maintain high vaccination coverage. If fewer children are vaccinated as a result, the risks will extend beyond the families making that choice. Before Hib vaccines became widely used in the late 1980s, pediatricians sometimes faced a terrifying emergency: an infant with fever, lethargy and a stiff neck. Testing of cerebrospinal fluid would reveal bacterial meningitis caused by Haemophilus influenzae type b, or Hib , an infection that could kill a child or leave lasting neurological damage. Today, many doctors have never even seen a single case. The bacterium has not disappeared, but widespread vaccination has made serious Hib disease in young children far less common. Before the vaccine, Hib was the leading cause of bacterial meningitis . In the early 1980s, there were 20,000 invasive Hib infections among American children under 5 years old, 12,000 of which were meningitis. Between 3% and 6% of those children died , and between 15% and 30% of the survivors were left deaf or with brain damage. Hib infection did not manifest in dramatic outbreaks. Healthy young children carried it silently, and some, unpredictably, became seriously ill. After the introduction of conjugate vaccines for Hib in the late 1980s, cases among young children declined by 99% . In 2023, the United States reported only 13 cases in children under 5 . In 2026, that number is up to 28 . By the early 1990s, there were more than 4 million cases of chickenpox annually in the United States. Of those infected, 10,500 to 13,500 were hospitalized, and 100 to 150 died. More than 90% of cases and about 70% of hospitalizations occurred in children, as did roughly half of the deaths. But even those who had manageable cases of childhood chickenpox are at risk for shingles later in life, which can lead to painful and sometimes permanent health complications . Children are contagious before the rash appears, and each case has an incubation period of up to three weeks . A single infection could spread through a school or daycare in waves for a month or more. Since vaccination began in 1995, deaths from chickenpox in people under 20 years old have been virtually eliminated . Pneumococcal bacteria can live harmlessly in a child’s upper respiratory tract – that is, the nose – but if it moves into the blood or organs, it can cause serious damage. Before the introduction of the childhood vaccine in 2000, pneumococcal disease caused about 17,000 invasive infections annually in American children under 5 years old, including about 700 cases of meningitis and 200 deaths . On top of that, pneumococcal disease caused approximately 5 million ear infections. Hepatitis B can spread from an infected mother to her baby during childbirth and through contact with infected blood. People with chronic hepatitis B may have no symptoms and may not know they are infected, allowing the virus to spread unknowingly within families and communities. Infected infants and young children also are often asymptomatic. Yet the consequences can be serious. Infants who become infected with hepatitis B have about a 90% chance of developing chronic hepatitis B , which over time can cause cirrhosis and liver cancer. The risk of chronic infection falls sharply with age, making prevention of infection early in life particularly important. Before the hepatitis B vaccine became available in the U.S. in 1982, an estimated 20,000 American children were infected each year. In 1991, the U.S. Centers for Disease Control and Prevention recommended universal infant hepatitis B vaccination as part of a comprehensive strategy to prevent transmission. The CDC estimates that perinatal hepatitis B infections in the United States declined by 75% between 1987 and 2000. Florida’s historical records for these diseases are incomplete. For example, chickenpox was not a disease tracked by the Florida Department of Health until late 2006 . That makes it difficult to reconstruct the state’s prevaccine impact of these diseases from surveillance records alone. But Florida doesn’t have to imagine what happens when vaccination is neglected: Measles has resurfaced in the state this year. It had previously been eliminated nationally in 2000 , meaning sustained endemic transmission had been interrupted. The disease has never been eradicated globally, and imported infections can trigger outbreaks when they reach undervaccinated communities. An outbreak at Ave Maria University outside of Naples infected at least 62 people , and the state reported 162 cases as of Oct. 17, 2026. This is the most recent available data at the time of this article’s publication. The proposal to stop requiring vaccines for hepatitis B, chickenpox, Hib and pneumococcal comes as only 88.9% of Florida kindergartners received the measles, mumps, rubella – or MMR – vaccine during the 2025-26 school year. This is below both the U.S. national average of 92.4% and the recommended threshold of 95% to create herd immunity. Unfortunately, it’s been difficult to know current measles rates in Florida. In May 2026, the Florida Department of Health removed county-level disease data from its website. The data has since been replaced, but there is currently no measles dashboard to track cases in the state. The department’s 2026 counts have often been delayed , and public tracking systems disagree on the statewide total. An entire generation of parents has been spared the experience of seeing a child with Hib meningitis, or young adults with liver problems from chronic hepatitis B. Nor have they had to deal with finding alternate childcare for a month because a chickenpox outbreak has shut down their child’s preschool. These are achievements of vaccination – and a reminder of what can be forgotten when prevention works.",
+   "doi": [],
+   "facts": [
+    "The Florida Department of Health held a hearing in October 2026 on a proposal to remove four vaccine requirements for entry into school and childcare: Haemophilus influenzae type b, or Hib , chickenpox , pneumococcal and hepatitis B .",
+    "These vaccines entered use in the U.S. at different times from the early 1980s through 2000.",
+    "Before Hib vaccines became widely used in the late 1980s, pediatricians sometimes faced a terrifying emergency: an infant with fever, lethargy and a stiff neck.",
+    "In the early 1980s, there were 20,000 invasive Hib infections among American children under 5 years old, 12,000 of which were meningitis.",
+    "Between 3% and 6% of those children died , and between 15% and 30% of the survivors were left deaf or with brain damage.",
+    "After the introduction of conjugate vaccines for Hib in the late 1980s, cases among young children declined by 99% .",
+    "In 2023, the United States reported only 13 cases in children under 5 .",
+    "In 2026, that number is up to 28 .",
+    "By the early 1990s, there were more than 4 million cases of chickenpox annually in the United States.",
+    "Of those infected, 10,500 to 13,500 were hospitalized, and 100 to 150 died."
+   ],
+   "sample": [
+    "62 people"
    ]
   }
  ]
