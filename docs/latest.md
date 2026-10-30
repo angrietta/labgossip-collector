@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-26
 
-최근 8일 누적 836건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 895건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Millions take fish oil for brain health. A two-year study found no benefit
 - 점수 10 · SCALE · ScienceDaily 뇌·마음 · 2026-10-22
@@ -270,55 +270,61 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: As a general practitioner, I know that chest pain is one symptom that makes people worry. The immediate concern is that it's a sign there's something seriously wrong—such as a problem with their heart or lungs.
 
-## 31. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
+## 31. How ancient insect-eating diets could inspire more sustainable food systems
+- 점수 6 · SCALE · Phys.org · 2026-10-30
+- https://phys.org/news/2026-10-ancient-insect-diets-sustainable-food.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: New research from Durham University highlights how insects have been part of human diets for thousands of years despite seeming unusual to many people.
+
+## 32. The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases
+- 점수 6 · DOSE · Phys.org · 2026-10-30
+- https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: More than 65% of approved medicines work by binding to proteins on the surface of human cells. Yet scientists developing new treatments face a fundamental problem: Major biological databases disagree about which proteins are actually found on cell surfaces.
+
+## 33. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
 - 점수 5 · WEIGH · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: South Africa endured its worst year of load shedding (scheduled power cuts by the country's utility, Eskom) in 2023. The power went off on 335 of the year's 365 days, often several times a day. Since then, the country has gone more than a year and a half without these planned power cuts.
 
-## 32. Elections are more predictable than they look
+## 34. Elections are more predictable than they look
 - 점수 5 · PRESS · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-elections.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when indiv
 
-## 33. Potatoes could be the secret to better plant-based meat, say food scientists
+## 35. Potatoes could be the secret to better plant-based meat, say food scientists
 - 점수 5 · SCALE · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.
 
-## 34. Can we really predict the future? Over one million forecasts offer clues, not certainty
+## 36. Can we really predict the future? Over one million forecasts offer clues, not certainty
 - 점수 5 · PRESS · Phys.org · 2026-10-26
 - https://phys.org/news/2026-10-future-million-clues-certainty.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Can crowds of people trading on what they believe will happen collectively predict the future? A new Tel Aviv University study of more than 1 million forecasts suggests that they often come remarkably close. But when it comes to certain events, from international conflicts to elections, the odds may
 
-## 35. Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago
+## 37. Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago
 - 점수 5 · CUT · Phys.org · 2026-10-27
 - https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 25 years after it was first discovered, a new species and genus of dinosaur have been named from the fossil collections cared for by the Natural History Museum. Paludohadros proudlovii was discovered at wienerberger's Ewhurst brick and roof tile works (Ewhurst Works) in Surrey in 2001 and 
 
-## 36. Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics
+## 38. Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics
 - 점수 5 · SCALE · Phys.org · 2026-10-27
 - https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In response to a recent article on vegan diets for cats, Phys.org received numerous messages from concerned readers. People raised a lot of concerns, mainly arguing that cats are obligate carnivores and that vegan diets could be very harmful to their health. Now, we have collected all these comments
 
-## 37. 121-million-year-old fossils suggest Longipteryx had no tail feathers
+## 39. 121-million-year-old fossils suggest Longipteryx had no tail feathers
 - 점수 5 · CUT · Phys.org · 2026-10-28
 - https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Around 121 million years ago, somewhere in modern northeastern China, an early bird took to the skies. If you drew its silhouette, you'd notice something was missing. Unlike any bird alive today, it had no tail feathers.
 
-## 38. Marine molecule may help combat 'brain-eating' amoeba
-- 점수 5 · SCALE · Phys.org · 2026-10-27
-- https://phys.org/news/2026-10-marine-molecule-combat-brain-amoeba.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Primary amoebic meningoencephalitis (PAM), a parasitic disease that causes the rapid deterioration of brain tissue, is one of the most lethal infections known, with a fatality rate exceeding 97%. Caused by the free-living amoeba Naegleria fowleri (N. fowleri), the disease progresses with devastating
-
-## 39. Leave home with a plan: What to pack in your medical kit and when to seek care for symptoms abroad
+## 40. Leave home with a plan: What to pack in your medical kit and when to seek care for symptoms abroad
 - 점수 5 · DOSE · The Conversation / MedicalXpress · 2026-10-27
 - https://theconversation.com/leave-home-with-a-plan-what-to-pack-in-your-medical-kit-and-when-to-seek-care-for-symptoms-abroad-293602
 - 주의: DOI 못 찾음
@@ -328,9 +334,3 @@
   - "Cases of dengue fever worldwide roughly doubled in a single year , and another tropical disease – chikungunya – also flared in new places, including the largest outbreak ever recorded in China ."
   - "And common respiratory viruses, from influenza to COVID-19, continue to circulate all over the world."
   - "Depending on the destination and season, it affects an estimated 10% to 40% of travelers during the first two weeks of a trip."
-
-## 40. Decoding the loopy physics of hula hooping with high-tech earthquake sensors
-- 점수 5 · WEIGH · Phys.org · 2026-10-28
-- https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity.
