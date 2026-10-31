@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-26
 
-최근 8일 누적 892건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 939건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Spending in-person time with friends is the biggest predictor of whether college students flourish
 - 점수 9 · PRESS · The Conversation / Phys.org · 2026-10-26
@@ -268,47 +268,48 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 65% of approved medicines work by binding to proteins on the surface of human cells. Yet scientists developing new treatments face a fundamental problem: Major biological databases disagree about which proteins are actually found on cell surfaces.
 
-## 32. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
+## 32. For many, striped bass fishing is a way of life. But the iconic species could face collapse
+- 점수 6 · PRESS · Phys.org · 2026-10-31
+- https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Striped bass fishing has been Bill Jakob's passion for more than 60 years, and he remembers an era when he'd spend all night casting his line into the crashing waves off Montauk and get eight or nine fish ranging up to 40 pounds (18 kilograms), a big catch by anyone's standards.
+
+## 33. Drone-based AI system tracks cattle growth without stressful trips to scales
+- 점수 6 · WEIGH · Phys.org · 2026-10-31
+- https://phys.org/news/2026-10-drone-based-ai-tracks-cattle.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: In beef cattle production, determining the ideal time to sell makes all the difference in a producer's costs. This is because, once an animal reaches its natural growth limit, it stops gaining weight significantly. From that point on, every additional day in a feedlot means spending money on feed wi
+
+## 34. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
 - 점수 5 · WEIGH · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: South Africa endured its worst year of load shedding (scheduled power cuts by the country's utility, Eskom) in 2023. The power went off on 335 of the year's 365 days, often several times a day. Since then, the country has gone more than a year and a half without these planned power cuts.
 
-## 33. Elections are more predictable than they look
+## 35. Elections are more predictable than they look
 - 점수 5 · PRESS · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-elections.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when indiv
 
-## 34. Potatoes could be the secret to better plant-based meat, say food scientists
+## 36. Potatoes could be the secret to better plant-based meat, say food scientists
 - 점수 5 · SCALE · Phys.org · 2026-10-24
 - https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.
 
-## 35. Can we really predict the future? Over one million forecasts offer clues, not certainty
+## 37. Can we really predict the future? Over one million forecasts offer clues, not certainty
 - 점수 5 · PRESS · Phys.org · 2026-10-26
 - https://phys.org/news/2026-10-future-million-clues-certainty.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Can crowds of people trading on what they believe will happen collectively predict the future? A new Tel Aviv University study of more than 1 million forecasts suggests that they often come remarkably close. But when it comes to certain events, from international conflicts to elections, the odds may
 
-## 36. Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago
+## 38. Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago
 - 점수 5 · CUT · Phys.org · 2026-10-27
 - https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 25 years after it was first discovered, a new species and genus of dinosaur have been named from the fossil collections cared for by the Natural History Museum. Paludohadros proudlovii was discovered at wienerberger's Ewhurst brick and roof tile works (Ewhurst Works) in Surrey in 2001 and 
-
-## 37. Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics
-- 점수 5 · SCALE · Phys.org · 2026-10-27
-- https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In response to a recent article on vegan diets for cats, Phys.org received numerous messages from concerned readers. People raised a lot of concerns, mainly arguing that cats are obligate carnivores and that vegan diets could be very harmful to their health. Now, we have collected all these comments
-
-## 38. 121-million-year-old fossils suggest Longipteryx had no tail feathers
-- 점수 5 · CUT · Phys.org · 2026-10-28
-- https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Around 121 million years ago, somewhere in modern northeastern China, an early bird took to the skies. If you drew its silhouette, you'd notice something was missing. Unlike any bird alive today, it had no tail feathers.
 
 ## 39. Leave home with a plan: What to pack in your medical kit and when to seek care for symptoms abroad
 - 점수 5 · DOSE · The Conversation / MedicalXpress · 2026-10-27
