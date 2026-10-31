@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-10-26
 
-최근 8일 누적 939건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 845건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Spending in-person time with friends is the biggest predictor of whether college students flourish
 - 점수 9 · PRESS · The Conversation / Phys.org · 2026-10-26

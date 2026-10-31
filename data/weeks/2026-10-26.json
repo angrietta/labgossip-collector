@@ -1,6 +1,6 @@
 {
  "week": "2026-10-26",
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,14 +14,14 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 32
+   "span_days": 33
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 29
+   "span_days": 30
   },
   {
    "feed": "ScienceDaily 동식물",
@@ -35,7 +35,7 @@
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 11
+   "span_days": 12
   },
   {
    "feed": "Phys.org",
@@ -1051,6 +1051,8 @@
    "date": "2026-10-31",
    "source": "Phys.org",
    "first_seen": "2026-10-31",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1065,8 +1067,7 @@
    "why": [
     "형식 PRESS",
     "생활소재: cat, fish"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html"
+   ]
   },
   {
    "title": "Drone-based AI system tracks cattle growth without stressful trips to scales",
@@ -1076,6 +1077,8 @@
    "date": "2026-10-31",
    "source": "Phys.org",
    "first_seen": "2026-10-31",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-drone-based-ai-tracks-cattle.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1088,8 +1091,7 @@
    "why": [
     "형식 WEIGH",
     "생활소재: cat, money, stress"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-drone-based-ai-tracks-cattle.html"
+   ]
   },
   {
    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades",
