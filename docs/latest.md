@@ -1,12 +1,175 @@
-# LAB GOSSIP 후보 2026-10-26
+# LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 853건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 775건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
-## 1. Spending in-person time with friends is the biggest predictor of whether college students flourish
-- 점수 9 · PRESS · The Conversation / Phys.org · 2026-10-26
+## 1. Scientists discover a surprising brain benefit of eating peanuts every day
+- 점수 9 · SCALE · ScienceDaily 전체 · 2026-11-01
+- https://www.sciencedaily.com/releases/2026/10/261030003001.htm
+- DOI: 10.1016/j.clnu.2025.10.020, 10.1039/D6FO03208G
+- 대상: 31 adults
+- 주의: 상관관계
+- 요약: A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a 
+  - "After participants consumed peanuts daily for 16 weeks, researchers observed improved insulin responsiveness in a group of brain regions in the right hemisphere."
+  - "These findings suggest that enhanced regional brain insulin responsiveness may contribute to the cognitive benefits of unsalted, skin-roasted peanut intake." The study included 31 healthy adults between the ages of 60 and 75."
+  - "During the peanut consumption phase, participants ate 60 grams (approximately two servings) of peanuts each day for 16 weeks."
+  - "The new findings build on earlier research by Joris published in 2025."
+  - "That investigation found that consuming peanuts for 16 weeks increased overall cerebral blood flow (CBF) by 3.6% and improved verbal memory performance by 5.8%."
+
+## 2. The Great Barrier Reef's most notorious coral killer may actually be helping it
+- 점수 8 · PRESS · ScienceDaily 전체 · 2026-11-01
+- https://www.sciencedaily.com/releases/2026/10/261030002957.htm
+- DOI: 10.1002/ece3.74285
+- 요약: Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying Australia's Great Barrier Reef discovered that nearly 75% of observed starfish feed
+  - "Since the 1960s, the reef has experienced four major outbreaks, occurring roughly every 15 years."
+  - "Shawna Foo found that living coral tissue survived nearly 75 percent of the observed feeding events."
+  - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
+
+## 3. Type 2 diabetes breakthrough as 54% achieve remission in just 6 months
+- 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-30
+- https://www.sciencedaily.com/releases/2026/10/261029072129.htm
+- DOI: 10.1016/j.lana.2026.101664
+- 대상: 46 participants, 50 participants, 50 people, 96 participants
+- 주의: 과장 의심 단어
+- 요약: A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis
+  - "A carefully structured combination of diet and exercise may offer a powerful way to put type 2 diabetes into remission in younger adults."
+  - "In a new clinical trial, more than half of participants who followed an intensive lifestyle program achieved remission within just six months, compared with only 4% of those receiving standard care."
+  - "The findings, presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) and published in The Lancet Regional Health Americas , suggest that a low-calorie diet paired with regular exercise could significantly change the course of early-onset type 2 diabetes (EOT2D) (aged under 45 years)."
+  - "Type 2 diabetes diagnosed at a younger age can be particularly aggressive."
+  - "People with early-onset type 2 diabetes (EOT2D) often experience a faster decline in blood sugar control, develop complications earlier in life, and face a shorter life expectancy than those diagnosed at older ages."
+
+## 4. Drinking tea may help protect your heart, but there’s a surprising catch
+- 점수 7 · CUT · ScienceDaily 전체 · 2026-11-01
+- https://www.sciencedaily.com/releases/2026/10/261031221203.htm
+- DOI: 10.1111/joim.70172
+- 대상: 485,934 adults, 500,000 adults
+- 주의: 상관관계
+- 요약: A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea showing more consistent benefits than green tea.
+  - "Drinking tea regularly may offer important benefits for your heart and blood vessels, according to a massive study involving nearly 500,000 adults."
+  - "Nearly 500,000 Adults Reveal a Link Between Tea and Vascular Health The study included 485,934 adults in China who were followed for a median of 9.05 years."
+  - "During that period, researchers recorded 14,863 cases involving several types of vascular disease."
+  - "When the researchers compared tea drinking habits with the incidence of these diseases, they found that regular tea consumption was associated with an 11% lower risk of the combined vascular outcomes."
+  - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
+
+## 5. Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat
+- 점수 7 · SCALE · The Conversation · 2026-11-02
+- https://theconversation.com/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restriction-could-help-reduce-the-urge-to-overeat-294113
+- 주의: DOI 못 찾음
+- 요약: Restricting access to candy is one way parents try to teach their kids moderation. But this can backfire and harm a child’s relationship to food and eating in the long run.
+
+## 6. Mediterranean diet may boost tiny proteins that protect the heart and brain
+- 점수 6 · CUT · ScienceDaily 전체 · 2026-10-25
+- https://www.sciencedaily.com/releases/2026/10/261023003337.htm
+- DOI: 10.3389/fnut.2025.1727012
+- 주의: 상관관계
+- 이미 본 소재: 2026-10-19 보드에 있었음
+- 요약: Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the en
+  - "It has consistently been associated with a lower risk of heart disease, type 2 diabetes, and cognitive decline."
+  - "The findings extend a scientific effort spanning more than 20 years to investigate small proteins produced by mitochondria."
+  - "One of the best understood is humanin, first identified by Cohen and fellow researchers in 2003."
+  - "Maintaining healthy insulin sensitivity is important for metabolic health and reducing the risk of type 2 diabetes."
+  - ""They connect mitochondrial function to diseases like Alzheimer's and heart disease and now, potentially, to nutrition." The scientists also identified a potentially important connection between humanin and an enzyme called Nox2, which helps generate reactive oxygen species."
+
+## 7. Scientists discover a surprising clue to why some brains resist Alzheimer’s
+- 점수 6 · 형식? · ScienceDaily 전체 · 2026-10-27
+- https://www.sciencedaily.com/releases/2026/10/261025222538.htm
+- DOI: 10.1016/j.stem.2026.04.002
+- 요약: Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their
+  - ""Around 30 percent of older adults who develop Alzheimer's disease never experience its symptoms," says Evgenia Salta, senior author of the research."
+  - ""Even at an average age of over 80, we still found these immature neurons in all groups," Salta says."
+  - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
+
+## 8. Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted
+- 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-28
+- https://www.sciencedaily.com/releases/2026/10/261027063701.htm
+- DOI: 10.1038/s41467-026-77976-1
+- 요약: Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its foundations and accelerating its retreat. A new model predicts that the glacier 
+  - "Developed by researchers at the University of California, Irvine, and NASA's Jet Propulsion Laboratory, the model predicts that melting from the massive West Antarctic glacier could raise global sea levels by as much as 30 millimeters by 2100."
+  - "That is double earlier projections, even without any additional warming of the climate."
+  - "With this change, the model reproduced historical changes in Thwaites from the 1990s to the present that were four times more pronounced than those represented by conventional models."
+  - "Satellite observations demonstrate the existence of a 'grounding zone,' sometimes kilometers wide, where warm ocean water is reaching deep underneath the ice sheets and causing vigorous melting." Thwaites Glacier lies in West Antarctica's Amundsen Sea Embayment, a region responsible for approximately one third of the Antarctic Ice Sheet's total mass loss."
+  - ""Once that ridge is unpinned, the glacier will continually retreat across a predominantly retrograde seafloor toward its next topographic high, the South Ridge." The team's simulations suggest that this critical change could happen before 2100."
+
+## 9. Why some “lower-risk” childhood cancers turn deadly
+- 점수 6 · CUT · ScienceDaily 전체 · 2026-10-30
+- https://www.sciencedaily.com/releases/2026/10/261028232717.htm
+- DOI: 10.1002/pbc.24532, 10.1158/0008-5472.CAN-25-4403
+- 대상: 16 children, 55 children
+- 요약: Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help doctors identify dangerous tumors earlier and develop personalized treatments tha
+  - "Their research focused on rhabdomyosarcoma (RMS), an aggressive cancer that develops from muscle tissue and is among the most common soft tissue cancers affecting children younger than 15."
+  - "Approximately 55 children are diagnosed with the disease in the United Kingdom each year. [1] Unlike many adult cancers, which can develop after years of aging or exposure to environmental factors, childhood cancers often result from genetic changes that occur during early development."
+  - "This marker occurs when two genes that are normally separate become fused together, creating an abnormal genetic combination associated with especially aggressive disease. [2] Children whose tumors contain this fusion have substantially lower survival rates than those without it, even when they receive intensive treatment."
+  - "The researchers examined tumor samples from 16 children, including four whose cancers lacked the fusion marker but proved fatal, four with fusion-positive tumors, and eight children with fusion-negative disease who remained alive."
+  - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
+
+## 10. Safer solutions: The urgent connection between smoking and HIV
+- 점수 6 · PRESS · MedicalXpress · 2026-10-31
+- https://medicalxpress.com/news/2026-10-safer-solutions-urgent-hiv.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: People with HIV now lose more years of life to smoking than to HIV itself. About 1.2 million Americans are living with HIV, and while smoking among U.S. adults has fallen below 10% for the first time, people with HIV still smoke at up to four times that rate. Although many people with HIV want to qu
+
+## 11. Music paired with beats may cut stress hormone more than twice as much as pink noise
+- 점수 6 · DOSE · MedicalXpress · 2026-10-30
+- https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A new randomized clinical trial from Toronto Metropolitan University (TMU) found that listening to just 24 minutes of personalized music paired with auditory beat stimulation (ABS) lowered levels of the stress hormone cortisol more than twice as much as pink noise, a popular sound used for relaxatio
+
+## 12. Halloween is typically a massive candy fest for kids—but it doesn't have to be
+- 점수 6 · WEIGH · MedicalXpress · 2026-10-30
+- https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Halloween can be a massive candy fest. Children come home from trick-or-treating ready to dig into a sackful of candy and chocolate bars.
+
+## 13. Scientists finally discover how a common gut bacterium can trigger colon cancer
+- 점수 6 · CUT · ScienceDaily 전체 · 2026-10-31
+- https://www.sciencedaily.com/releases/2026/10/261031012912.htm
+- DOI: 10.1038/s41586-026-10375-0
+- 요약: Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a toxin that damages the colon’s protective lining, triggers ch
+  - "Their findings, published in Nature , identify a protein called claudin-4 as the essential docking point for a bacterial toxin known as BFT."
+  - ""Understanding how bacterial toxins work can open doors to new approaches for detection and therapy for associated diseases, including diarrhea, colorectal cancer and bloodstream infections." The investigation centers on Bacteroides fragilis , a bacterium that can be found in the intestines of up to 20% of healthy people."
+  - "In a landmark 2009 study published in Nature Medicine , Sears and her colleagues demonstrated that the toxin could promote the development of colon tumors."
+  - "It produces claudin-4, a protein that helps neighboring cells form tight junctions, the seals that limit the movement of substances between cells and help maintain the intestinal barrier."
+  - "When the researchers disabled the gene responsible for claudin-4, BFT could no longer bind to the colon cells."
+
+## 14. A mysterious 4,000-year-old wall is rewriting North Africa’s history
+- 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-31
+- https://www.sciencedaily.com/releases/2026/10/261030003022.htm
+- DOI: 10.1017/lis.2026.10037
+- 요약: A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in
+  - "It dates to around 5,400 to 4,900 years ago."
+  - "New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site."
+  - "It’s about 4,000 to 3,500 years old."
+  - "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD."
+  - "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times."
+
+## 15. A simple blood test could reveal Alzheimer’s risk 10 years before symptoms
+- 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-31
+- https://www.sciencedaily.com/releases/2026/10/261029072142.htm
+- DOI: 10.1001/jama.2026.12556
+- 대상: 2,684 adults, 478 participants
+- 요약: A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the 
+  - "In a large international study, researchers found that older adults with very high levels of a particular blood biomarker faced a 38% chance of developing cognitive impairment within five years."
+  - "Over 10 years, the estimated risk rose to 78%, although the longer-term findings were based on substantially less data."
+  - "The study focused on phosphorylated tau 217 (p-tau217), a blood biomarker associated with Alzheimer's disease."
+  - "Together, these studies included 2,684 older adults who showed no signs of cognitive impairment when they entered the research."
+  - "At enrollment, participants provided blood samples that were analyzed for p-tau217."
+
+## 16. 75,000-year-old Neanderthal may have been killed by a spear aimed at the heart
+- 점수 6 · CUT · ScienceDaily 전체 · 2026-10-31
+- https://www.sciencedaily.com/releases/2026/10/261029072126.htm
+- DOI: 10.1038/s41598-026-69193-z
+- 요약: A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon pierced the chest and caused a rapidly fatal injury. Surprisingly, the same indiv
+  - "A small, circular hole in a 75,000-year-old Neanderthal shoulder blade may reveal one of the earliest known cases of deadly violence involving a wooden spear."
+  - "Despite its fragile structure, the Neanderthal's bone survived for approximately 75,000 years beneath seven and a half meters of rock and sediment."
+  - "Almost the entire bone remained intact, except for a remarkably precise circular opening measuring 15 millimeters across."
+  - ""It's extraordinary to have a perfectly preserved scapula from 75,000 years ago."
+  - "One important discovery occurred in the 1990s at Schöningen, Germany, where researchers uncovered wooden spears preserved in waterlogged conditions."
+
+## 17. Spending in-person time with friends is the biggest predictor of whether college students flourish
+- 점수 5 · PRESS · The Conversation / Phys.org · 2026-10-26
 - https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908
 - 대상: 80,000 students
 - 주의: 상관관계, DOI 못 찾음
+- 이미 본 소재: 2026-10-26 보드에 있었음
 - 요약: Exercise, avoiding alcohol or even getting enough sleep aren't the factors most connected to college students' well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted 
   - "Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students."
   - "Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% ."
@@ -14,322 +177,152 @@
   - "Our research team analyzed responses from 79,246 college students across the United States and Canada."
   - "We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges."
 
-## 2. This 150-million-year-old bird had dinosaur teeth and a strange secret
-- 점수 8 · CUT · ScienceDaily 전체 · 2026-10-24
-- https://www.sciencedaily.com/releases/2026/10/261023023710.htm
-- DOI: 10.1038/s41586-026-10972-z
+## 18. Personalized cancer vaccine plus immunotherapy reduces melanoma recurrence after surgery
+- 점수 5 · SCALE · MedicalXpress · 2026-10-27
+- https://medicalxpress.com/news/2026-10-personalized-cancer-vaccine-immunotherapy-melanoma.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Adding a personalized mRNA-based cancer vaccine to immunotherapy after surgery for high-risk melanoma reduced the risk of recurrence or death by 42%, according to results from the phase 3 INTerpath-001 trial presented at the ESMO Congress 2026. The vaccine, intismeran autogene, was given alongside p
+
+## 19. Patients given apalutamide and hormone therapy around surgery may cut their risk of metastasis or death
+- 점수 5 · SCALE · MedicalXpress · 2026-10-27
+- https://medicalxpress.com/news/2026-10-patients-apalutamide-hormone-therapy-surgery.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: An international phase 3 clinical trial that treated patients with high-risk localized and locally advanced prostate cancer with apalutamide—a next-generation neoadjuvant androgen-receptor pathway inhibitor (ARPI)—plus hormone therapy before and after prostate cancer surgery was further validated by
+
+## 20. Targeted drug significantly delays advanced breast cancer progression but increases toxicity, phase III trial reports
+- 점수 5 · CUT · MedicalXpress · 2026-10-28
+- https://medicalxpress.com/news/2026-10-drug-significantly-delays-advanced-breast.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: In a global phase 1 trial, trastuzumab rezetecan showed promising signs of fighting ERBB2-low metastatic breast cancer in patients who had already undergone extensive treatment. Also known as HER2-low breast cancer, this subtype is characterized by low levels of HER2, a growth factor protein that ca
+
+## 21. Amygdala activity predicts which new images may become lasting memories
+- 점수 5 · PRESS · MedicalXpress · 2026-10-27
+- https://medicalxpress.com/news/2026-10-amygdala-images-memories.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A walnut-sized area of the brain known as the amygdala plays a giant role in determining which experiences end up in long-term memory and which are forgotten. The Cedars-Sinai Health Sciences University discovery points to the amygdala as a potential target for treating memory disorders.
+
+## 22. Q&A: Could a new melanoma vaccine change cancer treatment?
+- 점수 5 · SCALE · MedicalXpress · 2026-10-28
+- https://medicalxpress.com/news/2026-10-qa-melanoma-vaccine-cancer-treatment.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A personalized melanoma vaccine, called intismeran, could mark a major advance in cancer treatment. Last week, pharmaceutical companies Merck and Moderna announced clinical trial results showing the vaccine, combined with immunotherapy, reduced the risk of cancer returning or death by 42% compared w
+
+## 23. ADHD medication amplifies brain response to grammatically ambiguous sentences, study finds
+- 점수 5 · DOSE · MedicalXpress · 2026-10-28
+- https://medicalxpress.com/news/2026-10-adhd-medication-amplifies-brain-response.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: In a neuroimaging study published in PNAS, a team of researchers led by the Max Planck Institute for Psycholinguistics in Nijmegen recorded the brain activity of healthy adults during sentence comprehension after raising catecholamine levels with stimulant medication (methylphenidate). Higher catech
+
+## 24. Low-carb diet high in saturated fat shows mixed effects on cholesterol in two-year trial
+- 점수 5 · SCALE · MedicalXpress · 2026-10-28
+- https://medicalxpress.com/news/2026-10-carb-diet-high-saturated-fat.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: New analyses from the Norwegian randomized controlled trial CARBFUNC show that more than doubling saturated fat intake over a two-year period can promote favorable changes in several cardiovascular risk markers, without increasing apoB, the main suspected risk factor. ApoB is a protein found in the 
+
+## 25. Targeting fat-cell enzyme offers potential strategy to reduce obesity and cancer risk
+- 점수 5 · WEIGH · MedicalXpress · 2026-10-28
+- https://medicalxpress.com/news/2026-10-fat-cell-enzyme-potential-strategy.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Obesity touches countless lives across the country and can lead to many other health complications. From August 2021 to 2023, the prevalence of obesity in adults in the U.S. was more than 40%. Research published in Science Advances, led by scientists at VCU Massey Comprehensive Cancer Center, found 
+
+## 26. Ants prioritize brain energy during starvation, echoing pattern seen in humans
+- 점수 5 · WEIGH · Phys.org · 2026-10-28
+- https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: The human brain accounts for roughly 2% of total body weight but uses approximately 20% of our body's energy. Relative to our body size, human brains are much larger than those of other mammals and take a lot of energy to keep humans going. The evolution of our unusually large "social brain" is thou
+
+## 27. Livelihood, education goals affect migration under climate change
+- 점수 5 · PRESS · Phys.org · 2026-10-28
+- https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Climate-driven hazards can push many to leave their homes in search of a livelihood elsewhere, but aspirations for the future may change where they decide to migrate, according to a new study led by researchers at Penn State. At the same time, income losses due to climate shocks, or extreme weather 
+
+## 28. Analysis of 244 million Americans refines the understanding of long COVID
+- 점수 5 · CUT · MedicalXpress · 2026-10-29
+- https://medicalxpress.com/news/2026-10-analysis-million-americans-refines-covid.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Long COVID is a phenomenon in which serious health effects linger well after a patient tests negative for coronavirus infection. Patients describe persistent "brain fog," fatigue, dizziness, rapid heart rate, shortness of breath and chest pain, among symptoms that affect nearly every organ system in
+
+## 29. Sun's outer magnetic field mapped in 3D for the first time
+- 점수 5 · PRESS · Phys.org · 2026-10-29
+- https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are th
+
+## 30. UV scans uncover natural varnish that may have preserved ancient Chauvet Cave drawings
+- 점수 5 · CUT · Phys.org · 2026-10-29
+- https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Tucked away inside a limestone cave in southeastern France lies some of the oldest artwork in existence. Known as Chauvet Cave, the site is so historically important—and fragile—that its location is kept secret and the cave is locked behind a huge steel door. And now, researchers have devised a tech
+
+## 31. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
+- 점수 5 · CUT · Phys.org · 2026-10-30
+- https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A collaborative research team led by Hiroyuki Imachi and Masaru K. Nobu of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) and Satoshi Nakagawa of Kyoto University has for the first time isolated and cultivated two strains of Heimdallarchaeia, a group of archaea that are among the
+
+## 32. Detailed images reveal ribosome assembly inside human cells for the first time
+- 점수 5 · CUT · Phys.org · 2026-10-30
+- https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins. However, putting ribosomes together requires intricate assembly processes. While many underlying mechanisms for building ribo
+
+## 33. Customizable nanoparticles show potential for delivering personalized cancer vaccines
+- 점수 5 · CUT · Phys.org · 2026-10-31
+- https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html
 - 주의: 동물 실험
-- 이미 본 소재: 2026-10-19 보드에 있었음
-- 요약: A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how th
-  - "A remarkably preserved 150-million-year-old bird fossil discovered in China is challenging long-standing ideas about how birds evolved."
-  - "The newly identified species, Yuezhuornis yangyuanensis , lived during the Late Jurassic period (150-148 million years ago)."
-  - "This placement is particularly important because Archaeopteryx, which also lived roughly 150 million years ago, is among the most famous early bird relatives."
-  - "Scientists Uncover a Surprising New Possibility Scientists Discover a Hidden Oxygen Source Deep Inside Earth That Could Rewrite Our Planet’s History Scientists Discover a $10 Flood Protection Trick That Works Better Than Sandbags Cannabis May Be Sabotaging Your Sleep Without You Even Knowing It, Study Finds"
-
-## 3. Exercise doesn't just strengthen your heart. It rewires it
-- 점수 8 · CUT · ScienceDaily 전체 · 2026-10-26
-- https://www.sciencedaily.com/releases/2026/10/261025222848.htm
-- DOI: 10.1016/j.autneu.2025.103338
-- 요약: Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.
-  - "This could help explain why some treatments work better on one side than the other and, in future, help doctors target therapies more precisely and effectively." To investigate how exercise affects these nerve clusters, the researchers examined rats that underwent 10 weeks of moderate aerobic training."
-  - "In the trained rats, the cardiovascular nerve cluster on the right contained roughly four times as many neurons as the cluster on the left, a striking difference from the pattern observed in untrained rats."
-  - "Neurons on the left nearly doubled in size, while those on the right became slightly smaller."
-  - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-
-## 4. Treatment revives old liver cells in lab study, may help prevent Alzheimer's and heart disease
-- 점수 8 · CUT · MedicalXpress · 2026-10-26
-- https://medicalxpress.com/news/2026-10-treatment-revives-liver-cells-lab.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The liver's job of clearing harmful substances from the body is so essential that the organ may have implications for addressing unexpected diseases, including Alzheimer's and heart disease. A promising example comes from new Keck School of Medicine of USC research published in the Journal of Biolog
+- 요약: A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By preci
 
-## 5. Low testosterone may make sugar far more harmful to your liver
-- 점수 8 · CUT · ScienceDaily 전체 · 2026-10-27
-- https://www.sciencedaily.com/releases/2026/10/261026225622.htm
-- DOI: 10.1152/ajpendo.00518.2025
-- 주의: 동물 실험
-- 요약: Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.
-  - "One major concern is metabolic dysfunction-associated steatotic liver disease (MASLD), a condition that affects approximately 40% of adult men worldwide and has become a significant global health issue."
-  - "Several factors are associated with the condition, including obesity, type 2 diabetes, low testosterone levels, and excessive fructose consumption from sugary drinks and processed foods."
-  - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-
-## 6. Less than 42 minutes of bright daylight linked to higher dementia risk
-- 점수 8 · PRESS · ScienceDaily 전체 · 2026-10-29
-- https://www.sciencedaily.com/releases/2026/10/261028232707.htm
-- DOI: 10.1002/gps3.70039
-- 대상: 741 participants, 87,577 adults
-- 주의: 상관관계
-- 요약: Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reducti
-  - "To investigate the connection, researchers analyzed data from 87,577 adults who wore wrist devices equipped with accelerometers."
-  - "Over a median follow-up period of 8.1 years, 741 participants developed dementia."
-  - "People exposed to average daytime light levels exceeding 1,000 lux (a moderately bright light level equivalent to an overcast day outdoors) had a 16% lower risk of developing dementia."
-  - "Spending longer periods in even brighter daytime light (at least 5,000 lux) was associated with further reductions in risk."
-  - "Getting less than 0.7 hours, or 42 minutes, of bright daytime light daily was a stronger predictor of dementia than 6 established dementia risk factors."
-
-## 7. GLP-1 drugs may help patients shed regained weight after bariatric surgery
-- 점수 8 · DOSE · MedicalXpress · 2026-10-29
-- https://medicalxpress.com/news/2026-10-glp-drugs-patients-regained-weight.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: People who regain weight after bariatric surgery may benefit from glucagon-like peptide-1 receptor agonists, commonly called GLP-1 medications, according to a study involving Regenstrief Institute, Indiana University, Purdue University and University of Florida researchers. The study found that pati
-
-## 8. The asteroid killed the dinosaurs. Why did crocodiles survive?
-- 점수 8 · CUT · ScienceDaily 전체 · 2026-10-30
-- https://www.sciencedaily.com/releases/2026/10/261030002922.htm
-- DOI: 10.1126/sciadv.aeg2217
-- 요약: Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refuges that remained habitable even after the
-  - "Why did crocodiles survive the asteroid impact that wiped out the dinosaurs 66 million years ago?"
-  - "Scientists led by UCL (University College London) found that crocodiles and their ancient relatives spent much of their 250 million years of evolutionary history following warm climates rather than adapting to dramatically different temperatures."
-  - "Published in Science Advances , the study analyzed more than 7,000 fossils and records from over 400 living and extinct species."
-  - "Researchers combined this evidence with computer models that reconstructed Earth's climate and geography across 245 million years."
-  - "The researchers examined how conditions on Earth may have changed following the asteroid impact 66 million years ago."
-
-## 9. Scientists discover why chronic back pain feels so personal
-- 점수 8 · DOSE · ScienceDaily 전체 · 2026-10-30
-- https://www.sciencedaily.com/releases/2026/10/261028232706.htm
-- DOI: 10.1016/j.bja.2026.08.010
-- 대상: 114 patients
-- 주의: 상관관계
-- 요약: A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typ
-  - "When pain persists for more than 12 weeks, it is considered chronic."
-  - "The new study, published on October 5, 2026, in the British Journal of Anaesthesia , identified an unexpected response involving the brain's Default Mode Network (DMN)."
-  - "Brain Scans Reveal a Surprising Difference Between Chronic and Acute Pain To investigate what happens in the brain during a pain flare, the researchers recruited 114 patients with chronic low back pain."
-  - "Funding was provided in part by the National Institutes of Health's National Center for Complementary and Integrative Health (Grant #R01AT009693) and the UC San Diego Sanford Institute for Empathy and Compassion."
-  - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
-
-## 10. Could lowering high blood pressure be as simple as stimulating your ear?
-- 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-24
-- https://www.sciencedaily.com/releases/2026/10/261023023732.htm
-- DOI: 10.1161/HYPERTENSIONAHA.126.27847
-- 대상: 63 people
-- 요약: A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a 
-  - "The clinical trial, funded by the National Institute for Health and Care Research (NIHR), enrolled 63 people with uncontrolled hypertension."
-  - "Participants used their assigned devices for 30 minutes daily during the first two weeks."
-  - "For the following 10 weeks, they reduced their sessions to once per week."
-  - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-
-## 11. New evidence suggests spinosaurus spent most of its life underwater
-- 점수 7 · CUT · ScienceDaily 전체 · 2026-10-25
-- https://www.sciencedaily.com/releases/2026/10/261024221956.htm
-- DOI: 10.1016/j.cub.2025.10.068
-- 요약: Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their f
-  - "They collected extensive new data, including measurements (more than 11,000), photographs, and CT scans."
-  - "Spinosaurus lived approximately 113 million to 94 million years ago in what is now northern Africa."
-  - "The researchers reached a different conclusion about mesosaurs, small marine reptiles that lived between 290 million and 274 million years ago in regions now forming parts of South Africa and eastern South America."
-  - "Using this information, their models could predict with more than 90% accuracy whether an animal possessed soft tissue flippers and whether it had highly or fully aquatic habits."
-  - "An especially unusual part of the research involved adapting a statistical method developed during the 1940s."
-
-## 12. The secret to slower aging may be hiding in your gut
-- 점수 7 · CUT · ScienceDaily 전체 · 2026-10-27
-- https://www.sciencedaily.com/releases/2026/10/261026225620.htm
-- DOI: 10.1038/s41598-026-52974-x
-- 대상: 123 adults
-- 주의: 상관관계
-- 요약: The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological aging rates. Some bacterial species were associated with slo
-  - "The study, published in Scientific Reports , found that differences in gut bacterial communities accounted for approximately 15% of the variation in participants' biological aging rates."
-  - "These findings open important new directions for understanding how modifiable biological systems influence long-term health trajectories and longevity." Scientists Identify Gut Bacteria Linked to Faster and Slower Aging To investigate the relationship between gut bacteria and aging, researchers examined stool and blood samples collected from 123 adults across a wide range of ages."
-  - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-
-## 13. Common drugs may help dangerous viruses spread through the body
-- 점수 7 · DOSE · ScienceDaily 전체 · 2026-10-27
-- https://www.sciencedaily.com/releases/2026/10/261026225606.htm
-- DOI: 10.1093/narmme/ugaf017
-- 요약: A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza
-  - ""Among the viruses that more easily affect the body with the help of these drugs are Rift Valley fever virus, influenza A, adenovirus and SARS-CoV-2, the virus that causes COVID-19," Kainov says."
-  - "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-
-## 14. Are GLP-1s practical and safe for adolescents with obesity?
-- 점수 7 · DOSE · MedicalXpress · 2026-10-28
-- https://medicalxpress.com/news/2026-10-glp-1s-safe-adolescents-obesity.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: GLP-1 medications have become a popular tool for weight loss. But are they appropriate for all age groups? Short for glucagon-like peptide-1, GLP-1s are medications approved by the Food and Drug Administration that treat type 2 diabetes and now obesity. They work by mimicking a natural hormone in th
-
-## 15. Common nutritional supplement may boost psoriasis treatment, small patient trial suggests
-- 점수 7 · SCALE · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-common-nutritional-supplement-boost-psoriasis.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Researchers in China have discovered that the vitamin B5 derivative pantethine limits the activity of immune cells that are key contributors to autoimmune diseases such as psoriasis. The study, published in the Journal of Experimental Medicine, shows that pantethine prevents the development of psori
-
-## 16. New cacao variety could help protect global chocolate supply from disease
-- 점수 7 · SCALE · Phys.org · 2026-10-28
-- https://phys.org/news/2026-10-cacao-variety-global-chocolate-disease.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Chocolate lovers may not realize it, but the future of one of the world's most popular foods is increasingly under pressure. Diseases, shifting weather patterns and other environmental stressors are threatening cacao production globally, contributing to supply concerns and economic challenges for th
-
-## 17. Do more cannabis stores near schools mean more teens use cannabis? Our research suggests the answer is complicated
-- 점수 7 · DOSE · MedicalXpress · 2026-10-28
-- https://medicalxpress.com/news/2026-10-cannabis-schools-teens-complicated.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: When Canada legalized recreational cannabis in October 2018, one concern was that more legal stores would make cannabis easier for young people to access and encourage adolescent use. But does having more cannabis retailers near high schools actually mean more students use cannabis?
-
-## 18. Earwax is both slippery and sticky – this weird combo might lead to safer insect repellents
-- 점수 7 · WEIGH · The Conversation / Phys.org · 2026-10-28
-- https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324
+## 34. Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate
+- 점수 5 · WEIGH · The Conversation / Phys.org · 2026-10-30
+- https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408
 - 주의: DOI 못 찾음
-- 요약: What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects? It's earwax.
-  - "Here’s a bit of a riddle for you: What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects?"
-  - "People have been pondering earwax since ancient times."
-  - "Cerumen impaction – or blocked earwax – affects about a fifth of the American population , leading to 12 million patient visits per year."
-  - "For smooth surfaces, ants unfurl wet suction cups , which can support 60 times their body weight on smooth glass."
-  - "We showed it can absorb twice its weight in water yet still cling to the walls of the ear."
+- 요약: Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass throu
+  - "A study that my colleagues and I published in October 2026 suggests that we could potentially use radio telescopes to answer this question."
+  - "Scientists have been able to detect neutrinos from space – called astrophysical neutrinos – since the 1960s."
+  - "IceCube has used this approach to detect astrophysical neutrinos that are hundreds of thousands of times more energetic than those previously seen."
+  - "Quasars – objects where matter is being ripped apart by black holes millions of times more massive than our Sun – seem to be likely candidates."
+  - "In 2017, IceCube detected a neutrino that appeared to come from the direction of a quasar , known as TXS 0506+056, at the same time that a telescope detected an outburst of gamma radiation from that same object."
 
-## 19. A simple daily fiber supplement reduced arthritis pain and improved strength
-- 점수 7 · DOSE · ScienceDaily 전체 · 2026-10-28
-- https://www.sciencedaily.com/releases/2026/10/261027230715.htm
-- DOI: 10.3390/nu18050714
-- 대상: 117 adults
-- 주의: 상관관계
-- 요약: A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealin
-  - "Only 3.6% of those assigned to inulin alone dropped out of the study, compared with 21% of those assigned to physical therapy alone."
-  - "They also observed higher levels of glucagon-like peptide-1 (GLP-1), a hormone released by the gut that helps regulate blood sugar and appetite and has also been linked to pain regulation and muscle health."
-  - "GLP-1 has attracted widespread attention because it is the hormone targeted by medications such as Ozempic and Wegovy."
-  - "However, the inulin supplement used in this trial was not a GLP-1 medication."
-  - "One particularly interesting finding was that higher GLP-1 levels were associated with better grip strength."
-
-## 20. Six popular sugar substitutes linked to faster brain aging
-- 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-29
-- https://www.sciencedaily.com/releases/2026/10/261028234238.htm
-- DOI: 10.1212/WNL.0000000000214023, 10.1212/WNL.0000000000214129
-- 대상: 12,772 adults
-- 주의: 상관관계
-- 요약: A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns
-  - "To investigate whether sugar substitutes might be connected to cognitive health, researchers analyzed data from 12,772 adults across Brazil."
-  - "Participants were 52 years old on average when the study began and were followed for approximately eight years."
-  - "Those in the lowest consumption group averaged 20 milligrams per day (mg/day), while those in the highest group averaged 191 mg/day."
-  - "For comparison, 191 milligrams of aspartame is roughly the amount found in one can of diet soda."
-  - "Of the seven sweeteners examined, sorbitol had the highest average intake, at 64 mg/day."
-
-## 21. Ancient Alberta fish fossils reveal evolutionary secrets of modern species
-- 점수 7 · CUT · Phys.org · 2026-10-29
-- https://phys.org/news/2026-10-ancient-alberta-fish-fossils-reveal.html
-- 주의: 동물 실험
+## 35. Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock—with climate implications
+- 점수 5 · WEIGH · Phys.org · 2026-10-31
+- https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Rare, complete fossils of ancient fish discovered in Alberta are helping fill in the gaps in our knowledge about which freshwater fish were living in North America at the end of the age of the dinosaurs, and how they evolved into their modern descendants.
+- 요약: A University of Massachusetts Amherst-led research team has discovered that weaker rock in mountain landscapes erodes three times faster than harder rock—even on gentler slopes—and is one of the main attributes governing mountain erosion. The finding also challenges our current understanding of the 
 
-## 22. Immune changes linked to diabetes could guide development of new cancer treatments
-- 점수 7 · SCALE · MedicalXpress · 2026-10-29
-- https://medicalxpress.com/news/2026-10-immune-linked-diabetes-cancer-treatments.html
-- 주의: 동물 실험, 상관관계
+## 36. Rare fossil discovery reveals new dinosaur species that specialized in eating fruit
+- 점수 5 · SCALE · Phys.org · 2026-10-31
+- https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: New research in The Journal of Immunology uncovers how high blood sugar (hyperglycemia) and type 1 diabetes (T1D) may protect against certain cancers like melanoma, breast and colon cancer. T1D has been associated with a decreased risk of certain cancers, but the exact reasons why have remained a my
+- 요약: Among the ravenous carnivores and lumbering herbivores that roamed the Cretaceous landscape, another kind of dinosaur was evolving that started to eat something else: the plants that began to flower and produce fruit. The discovery by paleontologists from Stony Brook University, Royal Ontario Museum
 
-## 23. Wireless neural chip tracks brain changes in real time after Alzheimer's drug administration
-- 점수 6 · DOSE · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-wireless-neural-chip-tracks-brain.html
-- 주의: 동물 실험
+## 37. 'One-positron cyclotron' could test a key prediction of the Standard Model
+- 점수 4 · WEIGH · Phys.org · 2026-10-25
+- https://phys.org/news/2026-10-positron-cyclotron-key-standard.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A joint research team led by KAIST has used a small, implantable neural chip to wirelessly monitor real-time changes in a neurotransmitter involved in memory and learning after an Alzheimer's drug has been administered. In miniature pigs (minipigs), the team observed an increase in the neurotransmit
+- 요약: The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exac
 
-## 24. Heart drug combo reduces kidney damage in septic shock surgery, major trial finds
-- 점수 6 · DOSE · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-heart-drug-combo-kidney-septic.html
+## 38. Newly identified protein pathway helps HIV stay hidden despite treatment
+- 점수 4 · CUT · Phys.org · 2026-10-25
+- https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html
+- 주의: 과장 의심 단어
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A simple adjustment to drugs given during operations for septic shock could prevent thousands of patients from suffering kidney damage, according to the results of a major trial now published in JAMA. Scientists from the University of Southampton working with experts from Zhejiang University School 
+- 요약: Current HIV medicines are effective at suppressing the virus in the blood. However, HIV can remain "asleep" or dormant inside certain immune cells and in the brain. These hidden pockets of virus, called HIV reservoirs, are the main reason HIV cannot be cured with today's treatments.
 
-## 25. Omega-3 EPA linked to longer survival after surgery for colorectal cancer liver metastases
-- 점수 6 · SCALE · MedicalXpress · 2026-10-26
-- https://medicalxpress.com/news/2026-10-omega-epa-linked-longer-survival.html
-- 주의: 상관관계
+## 39. Australian coral reefs face risk of collapse within 50 years without drastic action, global assessment finds
+- 점수 4 · PRESS · Phys.org · 2026-10-26
+- https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Patients assigned to receive high-dose eicosapentaenoic acid (EPA), an omega-3 fatty acid, before and after surgery for colorectal cancer liver metastases had longer overall survival than those assigned to receive placebo, according to results of the phase 3 EMT2 trial presented at the ESMO Congress
+- 요약: Every shallow-water coral reef ecosystem in Australia faces an extremely high risk of collapse by 2075, driven largely by projected ocean warming, according to a global assessment.
 
-## 26. Fructose slows liver tumors in mice when key sugar-processing gene is missing, may lead to new treatments
-- 점수 6 · CUT · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-fructose-liver-tumors-mice-key.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Fructose is an important nutrient that, despite having a chemical structure very similar to that of glucose, is metabolized very differently in the body. Research into fructose metabolism and its regulation of metabolism in the human body has in recent years become a frontier topic in the life scien
-
-## 27. The degree of obesity may influence the outcomes of acute pancreatitis
-- 점수 6 · WEIGH · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-degree-obesity-outcomes-acute-pancreatitis.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In acute pancreatitis, mild obesity might more than double the odds of vital organ failure, according to an international study by researchers at Semmelweis University analyzing data from more than 2,200 patients. The study, published in the journal Pancreatology, found that patients with obesity ma
-
-## 28. Report indicates water, food and power at risk by strong El Niño
-- 점수 6 · CUT · Phys.org · 2026-10-28
-- https://phys.org/news/2026-10-food-power-strong-el-nio.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Rainfall reductions of up to 80% and torrential precipitation leading to severe flooding and landslides are the expected consequences across different areas of Latin America and the Caribbean from the impact of the El Niño phenomenon in 2027, according to a report co-authored by the General Secretar
-
-## 29. Exercise can sometimes cause chest pain—and this condition may be to blame
-- 점수 6 · CUT · MedicalXpress · 2026-10-29
-- https://medicalxpress.com/news/2026-10-chest-pain-condition-blame.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: As a general practitioner, I know that chest pain is one symptom that makes people worry. The immediate concern is that it's a sign there's something seriously wrong—such as a problem with their heart or lungs.
-
-## 30. How ancient insect-eating diets could inspire more sustainable food systems
-- 점수 6 · SCALE · Phys.org · 2026-10-30
-- https://phys.org/news/2026-10-ancient-insect-diets-sustainable-food.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: New research from Durham University highlights how insects have been part of human diets for thousands of years despite seeming unusual to many people.
-
-## 31. The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases
-- 점수 6 · DOSE · Phys.org · 2026-10-30
-- https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: More than 65% of approved medicines work by binding to proteins on the surface of human cells. Yet scientists developing new treatments face a fundamental problem: Major biological databases disagree about which proteins are actually found on cell surfaces.
-
-## 32. For many, striped bass fishing is a way of life. But the iconic species could face collapse
-- 점수 6 · PRESS · Phys.org · 2026-10-31
-- https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Striped bass fishing has been Bill Jakob's passion for more than 60 years, and he remembers an era when he'd spend all night casting his line into the crashing waves off Montauk and get eight or nine fish ranging up to 40 pounds (18 kilograms), a big catch by anyone's standards.
-
-## 33. Drone-based AI system tracks cattle growth without stressful trips to scales
-- 점수 6 · WEIGH · Phys.org · 2026-10-31
-- https://phys.org/news/2026-10-drone-based-ai-tracks-cattle.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In beef cattle production, determining the ideal time to sell makes all the difference in a producer's costs. This is because, once an animal reaches its natural growth limit, it stops gaining weight significantly. From that point on, every additional day in a feedlot means spending money on feed wi
-
-## 34. Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades
-- 점수 5 · WEIGH · Phys.org · 2026-10-24
-- https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: South Africa endured its worst year of load shedding (scheduled power cuts by the country's utility, Eskom) in 2023. The power went off on 335 of the year's 365 days, often several times a day. Since then, the country has gone more than a year and a half without these planned power cuts.
-
-## 35. Elections are more predictable than they look
-- 점수 5 · PRESS · Phys.org · 2026-10-24
-- https://phys.org/news/2026-10-elections.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when indiv
-
-## 36. Potatoes could be the secret to better plant-based meat, say food scientists
-- 점수 5 · SCALE · Phys.org · 2026-10-24
-- https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.
-
-## 37. Can we really predict the future? Over one million forecasts offer clues, not certainty
-- 점수 5 · PRESS · Phys.org · 2026-10-26
-- https://phys.org/news/2026-10-future-million-clues-certainty.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Can crowds of people trading on what they believe will happen collectively predict the future? A new Tel Aviv University study of more than 1 million forecasts suggests that they often come remarkably close. But when it comes to certain events, from international conflicts to elections, the odds may
-
-## 38. Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago
-- 점수 5 · CUT · Phys.org · 2026-10-27
-- https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: More than 25 years after it was first discovered, a new species and genus of dinosaur have been named from the fossil collections cared for by the Natural History Museum. Paludohadros proudlovii was discovered at wienerberger's Ewhurst brick and roof tile works (Ewhurst Works) in Surrey in 2001 and 
-
-## 39. Leave home with a plan: What to pack in your medical kit and when to seek care for symptoms abroad
-- 점수 5 · DOSE · The Conversation / MedicalXpress · 2026-10-27
-- https://theconversation.com/leave-home-with-a-plan-what-to-pack-in-your-medical-kit-and-when-to-seek-care-for-symptoms-abroad-293602
+## 40. Punishment alone won’t help gang-involved teens – a former child soldier explains why
+- 점수 4 · 형식? · The Conversation / Phys.org · 2026-10-27
+- https://theconversation.com/punishment-alone-wont-help-gang-involved-teens-a-former-child-soldier-explains-why-282588
 - 주의: DOI 못 찾음
-- 요약: When people prepare to see a doctor before an international trip, vaccines usually dominate the conversation.
-  - "Centers for Disease Control and Prevention estimates that between 43% and 79% of travelers to low- and middle-income countries become ill during or after their trip, although most of those illnesses are mild."
-  - "Since early 2025, South America has seen new yellow fever outbreaks that redrew long-standing risk maps and an unusual hantavirus cluster that spread from person to person aboard a cruise ship ."
-  - "Cases of dengue fever worldwide roughly doubled in a single year , and another tropical disease – chikungunya – also flared in new places, including the largest outbreak ever recorded in China ."
-  - "And common respiratory viruses, from influenza to COVID-19, continue to circulate all over the world."
-  - "Depending on the destination and season, it affects an estimated 10% to 40% of travelers during the first two weeks of a trip."
-
-## 40. Florida Department of Health considers dropping 4 school vaccine requirements – here’s what that could mean for kids
-- 점수 5 · DOSE · The Conversation · 2026-10-30
-- https://theconversation.com/florida-department-of-health-considers-dropping-4-school-vaccine-requirements-heres-what-that-could-mean-for-kids-294773
-- 대상: 62 people
-- 주의: DOI 못 찾음
-- 요약: Most parents of young children today haven’t experienced the devastating childhood diseases that used to be common before vaccines were developed.
-  - "The Florida Department of Health held a hearing in October 2026 on a proposal to remove four vaccine requirements for entry into school and childcare: Haemophilus influenzae type b, or Hib , chickenpox , pneumococcal and hepatitis B ."
-  - "These vaccines entered use in the U.S. at different times from the early 1980s through 2000."
-  - "Before Hib vaccines became widely used in the late 1980s, pediatricians sometimes faced a terrifying emergency: an infant with fever, lethargy and a stiff neck."
-  - "In the early 1980s, there were 20,000 invasive Hib infections among American children under 5 years old, 12,000 of which were meningitis."
-  - "Between 3% and 6% of those children died , and between 15% and 30% of the survivors were left deaf or with brain damage."
+- 요약: When Americans hear of child soldiers, they may imagine tragic images of children wielding rifles on distant battlefields.
+  - "A September 2025 FBI report recorded 69,273 incidents involving gang activity – most often assaults – between 2021 and 2024."
+  - "Young people ages 13 to 16 were the most frequently reported offenders."
+  - "In many American cities, gang involvement follows a similar path: A 2025 study of 1,808 male adolescents in Multnomah County, Oregon, who have been referred to the juvenile justice system, found that exposure to gang-involved peers and relatives was associated with a greater likelihood of gang membership."
+  - "A 16-year study in Mozambique found that long-term reintegration of ex-child soldiers was shaped by livelihoods, sustained support, forgiveness and community acceptance."
+  - "A 2021 study conducted across 12 U.S. states found that people with juvenile records face significant barriers to education, credentialing and meaningful employment."
