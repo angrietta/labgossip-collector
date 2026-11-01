@@ -42,14 +42,14 @@
    "url": "https://phys.org/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 1
+   "span_days": 2
   },
   {
    "feed": "MedicalXpress",
    "url": "https://medicalxpress.com/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 1
+   "span_days": 2
   },
   {
    "feed": "The Conversation",
