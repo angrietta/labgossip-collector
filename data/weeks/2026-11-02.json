@@ -1,6 +1,6 @@
 {
  "week": "2026-11-02",
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -42,24 +42,59 @@
    "url": "https://phys.org/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 3
+   "span_days": 1
   },
   {
    "feed": "MedicalXpress",
    "url": "https://medicalxpress.com/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 3
+   "span_days": 1
   },
   {
    "feed": "The Conversation",
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 6
+   "span_days": 7
   }
  ],
  "top": [
+  {
+   "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261029072132.htm",
+   "summary": "In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to strengthen the immune system's response to cancer.",
+   "date": "2026-11-02",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261029072132.htm"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "동물 실험",
+    "상관관계"
+   ],
+   "score": 10,
+   "why": [
+    "형식 SCALE",
+    "훅: surpris, secret",
+    "생활소재: diet, mice"
+   ],
+   "text": "Scientists have uncovered an unexpected connection between diet and cancer treatment. In a surprising finding, certain diets typically considered \"unhealthy\" or \"fattening\" actually improved responses to a common form of cancer immunotherapy in mice. The discovery suggests that the success of cancer treatment may depend not only on which bacteria live in the gut, but also on the foods that help those bacteria thrive. \"There is a synergistic relationship between the bacteria that reside in our GI tract, and the food we eat,\" said Daniela Quail, Associate Professor in the Department of Physiology and Principal Investigator at the Rosalind & Morris Goodman Cancer Institute. \"Even with the right composition of bacteria in your gut, the foods you eat to nourish those populations can determine whether or not you respond to treatment,\" said Quail. Quail co-led the research, which examined how diet influences the effectiveness of immune checkpoint inhibitors. These widely used immunotherapy drugs help the immune system recognize and attack cancer cells. Other senior researchers involved in the study included McGill scientist Logan Walsh and CR-CHUM collaborators Bertrand Routy and Arielle Elkrief. The findings were published in Nature . One of the most unexpected discoveries was that some diets associated with weight gain appeared to make immunotherapy more effective, challenging assumptions about the relationship between nutrition and cancer treatment. \"Our findings were surprising because they highlighted a benefit of some obesogenic diets,\" she said. \"That tells us the relationship between diet and cancer treatment is more complex than a simple message to eat healthy and exercise.\" However, the researchers emphasize that these results should not encourage cancer patients to consume diets that promote obesity. Excess weight carries established health risks, and the findings do not demonstrate that adopting such diets would improve cancer treatment in humans. Instead, the scientists want to understand how different foods influence the gut microbiome, the enormous community of trillions of bacteria that inhabit the digestive system. Identifying the mechanisms responsible for the improved treatment responses could eventually help researchers develop safer ways to make cancer immunotherapy more effective. The investigation grew out of a longstanding puzzle in cancer research known as the \"obesity paradox.\" Obesity is generally linked to a greater risk of developing cancer and dying from the disease. Yet several studies have found that cancer patients with a higher body mass index (BMI) sometimes respond more favorably to immune checkpoint inhibitors. To investigate this apparent contradiction, the research team tested 12 different diets in mice. Surprisingly, some diets associated with obesity improved the animals' responses to immunotherapy, even when they were consumed for relatively short periods. These results suggest that the apparent treatment advantage associated with obesity may not be primarily caused by excess body weight. Instead, the explanation could involve the combined influence of diet and gut bacteria on the immune system. By uncovering how these interactions affect cancer treatment, researchers hope to identify new approaches that reproduce the beneficial effects without exposing patients to the health risks associated with obesity. The study, \"Diet-microbiome synergy underlies obesity-associated immunotherapy efficacy,\" was published in Nature by McGill PhD graduate Lysanne Desharnais, Daniela Quail, and their collaborators. Funding was provided by the Canadian Institutes of Health Research, the Canadian Cancer Society, the Terry Fox Research Institute, the Canada Foundation for Innovation, and philanthropic supporters including La Vie en Rose and the Bachynski Family Foundation. Materials provided by McGill University . Note: Content may be edited for style and length. “The Closest Thing to Magic” – Researchers Create an Invisible Pipe That Moves Liquids Through Thin Air Scientists Discover How Dead Stars Could Break One of Physics’ Most Famous Limits A Natural Compound Found in Everyday Foods Shows Surprising Power Against Lung Cancer Eating a Handful of Peanuts Could Change Your Blood in a Surprising Way, Study Finds",
+   "doi": [
+    "10.1038/s41586-026-10750-x"
+   ],
+   "journal_ref": "Journal Reference : Lysanne Desharnais, Anikka Swaby, Meriem Messaoudene, Samuel Doré, Miranda W. Yu, Benoit Fiset, Valérie Breton, Mayra Ponce, Yongjia Hu, Liam Wilson, Mark Sorin, Ye Wang, Ken Dewar, Michael Pollak, Arielle Elkrief, Bertrand Routy, Logan A. Walsh, Daniela F. Quail. Diet–microbiome synergy underlies obesity-associated immunotherapy efficacy . Nature , 2026; 657 (8131): 505 DOI: 1",
+   "facts": [
+    "To investigate this apparent contradiction, the research team tested 12 different diets in mice."
+   ],
+   "sample": []
+  },
   {
    "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
    "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
@@ -139,6 +174,43 @@
    ]
   },
   {
+   "title": "Extra weight may be aging your brain faster than you think",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261101010559.htm",
+   "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effects of obesity on brain health.",
+   "date": "2026-11-02",
+   "source": "ScienceDaily 뇌·마음",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "ScienceDaily 뇌·마음"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261101010559.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: aging, memory, brain"
+   ],
+   "text": "Carrying excess weight may affect more than physical health. New research from the University of Georgia suggests that having a higher body mass index may also speed up cognitive decline, potentially causing memory and thinking abilities to deteriorate more quickly with age. Some cognitive changes are a natural part of getting older. Remembering information, thinking clearly, and processing new details can become more difficult over time. For healthy adults, however, these changes are usually relatively mild and develop gradually. The new findings suggest that excess body weight may accelerate this process. Researchers found that people with higher body mass index (BMI) experienced faster declines in memory, overall cognitive performance, and executive functioning. These abilities are essential for everyday activities such as concentrating, planning, organizing tasks, and regulating emotions. To investigate the connection, the research team analyzed data from a nationally representative study that tracked more than 8,200 adults over age 50 for 24 years. The results revealed a consistent relationship between body weight and cognitive health. Each one-point increase in BMI was associated with a faster rate of cognitive decline, suggesting that even relatively small differences in body weight could matter over time. The association was strongest at the eighth year of the study, and adults older than 65 showed the most pronounced effects. Despite the concerning findings, researchers also identified a potentially encouraging opportunity to protect brain health. Managing body weight may help slow cognitive decline, with possible benefits becoming apparent within just two years. \"We found that if people managed their weight, they could significantly lower their rate of cognitive decline in just two years,\" said Suhang Song, the study's lead author and an assistant professor at the University of Georgia's College of Public Health. \"That makes BMI one of the most easily modifiable risk factors when it comes to aging well.\" Obesity, generally defined as a BMI of 30 or higher, has been associated with poorer brain health. However, scientists are still working to understand exactly why carrying excess body weight may interfere with memory and other cognitive abilities. Several biological processes could help explain the connection. Excess weight may promote inflammation, impair blood circulation, and contribute to insulin resistance. Together, these changes could increase the likelihood of cognitive impairment, Alzheimer's disease, and other forms of dementia. The findings are particularly relevant given how widespread obesity has become in the United States. According to the Centers for Disease Control and Prevention, approximately two in five Americans meet the criteria for obesity when BMI is used as the sole measure. Some scientists argue that BMI alone does not provide a complete picture of obesity. They support a broader definition that also considers waist measurements and medical conditions associated with excess weight. Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%. The potential connection between obesity and cognitive decline is especially concerning as dementia becomes increasingly common. More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050. Although the study does not establish that excess weight directly causes cognitive decline, its findings highlight body weight as a potentially important factor in maintaining cognitive health. Because weight can be managed, researchers believe it could offer an opportunity to reduce the risk of worsening memory and thinking abilities as people grow older. \"There are no cures for dementia,\" Song said, \"which is why it is critical to identify and address any modifiable risk factors we can find to prevent it.\" The research was published in the Journal of Neurology . Coauthors from the University of Georgia College of Public Health include Meng Hsuan Sung, Zhuo Chen, Janani Rajbhandari, Grace Bagwell Adams, Mahmud Khan, Ye Shen, and Xiao Song. Qianhui Xu and Xia Song also contributed to the study. Materials provided by University of Georgia . Note: Content may be edited for style and length. “The Closest Thing to Magic” – Researchers Create an Invisible Pipe That Moves Liquids Through Thin Air Scientists Discover How Dead Stars Could Break One of Physics’ Most Famous Limits A Natural Compound Found in Everyday Foods Shows Surprising Power Against Lung Cancer Eating a Handful of Peanuts Could Change Your Blood in a Surprising Way, Study Finds",
+   "doi": [
+    "10.1007/s00415-026-13696-2"
+   ],
+   "journal_ref": "Journal Reference : Qianhui Xu, Meng Hsuan Sung, Zhuo Chen, Janani Rajbhandari-Thapa, Grace Bagwell Adams, M. Mahmud Khan, Ye Shen, Xiao Song, Xia Song, Suhang Song. Association between cumulative average BMI and cognitive decline: a 24-year cohort study . Journal of Neurology , 2026; 273 (2) DOI: 10.1007/s00415-026-13696-2",
+   "facts": [
+    "To investigate the connection, the research team analyzed data from a nationally representative study that tracked more than 8,200 adults over age 50 for 24 years.",
+    "The association was strongest at the eighth year of the study, and adults older than 65 showed the most pronounced effects.",
+    "\"That makes BMI one of the most easily modifiable risk factors when it comes to aging well.\" Obesity, generally defined as a BMI of 30 or higher, has been associated with poorer brain health.",
+    "Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%.",
+    "More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050."
+   ],
+   "sample": [
+    "8,200 adults"
+   ]
+  },
+  {
    "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
    "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
    "key": "https://sciencedaily.com/releases/2026/10/261029072129.htm",
@@ -185,6 +257,37 @@
     "형식 SCALE",
     "생활소재: diet, exercise"
    ]
+  },
+  {
+   "title": "Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom",
+   "link": "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955",
+   "key": "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955",
+   "summary": "Zombies have taken many forms in popular culture. In Michael Jackson's \"Thriller\" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's \"The Last of Us,\" a fungus infects humans, takes over their bodies and turns them into hosts that help spread the infection. Even Plankton has tried his hand at taking control of another organism in \"SpongeBob SquarePants.\"",
+   "date": "2026-10-31",
+   "source": "The Conversation",
+   "first_seen": "2026-10-31",
+   "sources": [
+    "The Conversation",
+    "Phys.org"
+   ],
+   "links": [
+    "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955",
+    "https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html"
+   ],
+   "format": "CUT",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 7,
+   "why": [
+    "형식 CUT",
+    "생활소재: music, brain",
+    "2곳 보도"
+   ],
+   "text": "Zombies have taken many forms in popular culture. In Michael Jackson’s “ Thriller ” music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO’s “ The Last of Us ,” a fungus infects humans, takes over their bodies and turns them into hosts that help spread the infection. Even Plankton has tried his hand at taking control of another organism in “ SpongeBob SquarePants .” These examples are fictional, but they all play with the same unsettling idea: Can one organism take control of another, even after they’re dead? In nature, the answer is not quite as dramatic, but some parasites and fungi come surprisingly close. I spend much of my time as a biomedical engineer and synthetic biologist thinking about how biological systems sense signals, process information and change their behavior. That is part of what makes the idea of one organism taking control of another so fascinating to me. Some parasites and fungi can alter the behavior of a living host in ways that benefit the parasite. They do not bring the dead back to life. Instead, they interfere with biological systems that control movement, motivation and decision-making. The best-known example of a parasite changing its host’s behavior is the “zombie ant” fungus , Ophiocordyceps , which helped inspire “The Last of Us.” The life cycle of the zombie ant fungus begins when fungal spores land on an ant. The spores stick to the ant’s outer surface and eventually break through it, allowing the fungus to enter the body. Once inside, the fungus grows and spreads while the ant is still alive. The infection can develop over several weeks before the most dramatic changes in the ant’s behavior begin. Eventually, the infected ant leaves the colony and begins wandering and climbing vegetation. This behavior moves the ant away from its normal habitat and into a location that favors fungal reproduction and dispersal. Near the end of the infection, the ant bites tightly onto a leaf, twig or other plant surface and remains attached in what researchers call a death grip . After the ant dies, the fungus consumes the remaining tissues and produces a stalk from the ant’s body. This structure releases spores that can fall on other ants below and begin the cycle again. How does the fungus make the ant do this? You might imagine fungal cells invading the ant’s brain and taking control. Surprisingly, researchers examining infected ants before death found extensive fungal growth throughout the body and around muscle fibers , but not inside the brain. Fungal cells can form networks around the ant’s muscles, suggesting that the ability to manipulate behavior may involve communication between the fungus and multiple host tissues rather than direct control of the brain. The death grip provides an especially striking example of how the fungus can manipulate its host’s muscles. The jaw muscles of infected ants are heavily colonized by the fungus , showing signs of extreme contraction. There are also signs that the fungus may be releasing molecules near these tissues. Yet motor neurons and connections between nerves and muscles can remain intact. Together, these findings suggest that the fungus may alter the machinery controlling muscle contraction rather than simply destroying it. Scientists still do not know exactly what causes ants to undergo the entire sequence of wandering, climbing and biting. While researchers have identified fungal genes associated with proteins, toxins and other compounds that could affect chemical signaling in the host, many of these possible mechanisms have not yet been proved. That uncertainty is part of what makes the system so fascinating. The fungus does not appear to flip a single “zombie switch.” Instead, it may change several biological systems at once until the ant behaves in a way that benefits the fungus. Ophiocordyceps is not the only organism capable of changing a host’s behavior. The emerald jewel wasp, Ampulex compressa , uses a very different strategy: It injects venom into a cockroach’s nervous system. The cockroach is not paralyzed, but it becomes much less likely to start moving on its own or to escape. The wasp can then lead it to a burrow and lay an egg on it. Researchers have shown that the venom reduces activity in parts of the nervous system involved in starting movement. In other words, the cockroach can still walk, but its drive to do so has been changed. Hairworms take behavioral manipulation one step further by leading their hosts toward their own demise. Some species infect praying mantises or crickets and grow inside them while the insect is still alive. When the worm is ready to reproduce, the infected host becomes unusually attracted to light, which may draw it toward the shiny surface of water. The host enters the water, where the worm escapes from its body and begins the next stage of its life cycle. For the host that cannot swim, that behavior can be fatal. Researchers are still working out exactly how the parasite causes this change, but studies have found changes in proteins in the host’s brain as the parasite manipulates it. In effect, the parasite appears to hijack the host’s sensory and behavioral machinery to guide it somewhere it would not normally go. Behavioral manipulation also occurs in mammals. Toxoplasma gondii can infect many warm-blooded animals, but it reproduces in cats. While rodents normally avoid cat odors, those infected with the parasite can lose some of that natural aversion and even become attracted to cat odors . This change could increase the chance that an infected rodent is eaten by a cat, allowing the parasite to complete its life cycle. These examples show why “mind control” is an imperfect description of how parasites manipulate their hosts. Parasites do not need to control every action that their host makes. They may only need to change one key behavior: whether to climb, whether to walk away, whether to enter water or whether to avoid a predator. There is no single “zombie switch.” Behavior emerges from communication between the nervous system, muscles and other tissues throughout the body. Different parasites have evolved different ways to interfere with those systems. So biology cannot create the dancing dead of “Thriller” or the infected humans of “The Last of Us.” But if a zombie is a living organism whose normal behavior has been redirected by another organism, nature has already created plenty of them. Studying these real-life zombies may help scientists understand not only how parasites manipulate their hosts, but also how normal behavior is generated and controlled in the first place.",
+   "doi": [],
+   "facts": [],
+   "sample": []
   },
   {
    "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
@@ -258,50 +361,6 @@
     "형식 SCALE",
     "훅: backfire",
     "생활소재: kids"
-   ]
-  },
-  {
-   "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261023003337.htm",
-   "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the energy-producing structures inside cells. These proteins have been linked to protection against heart disease, Alzheimer's disease, and age-related damage.",
-   "date": "2026-10-25",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-25",
-   "text": "A new study suggests that the Mediterranean diet may protect the heart, brain, and aging cells through a surprising biological mechanism involving tiny proteins produced by mitochondria, the structures responsible for generating most of the energy our cells need. Researchers at the USC Leonard Davis School of Gerontology discovered that people who more closely followed the Mediterranean diet had higher levels of two mitochondrial microproteins called humanin and SHMOOSE. Both have previously been linked to protection against cardiovascular disease and neurodegeneration, the gradual deterioration of nerve cells that occurs in conditions such as Alzheimer's disease. The study, led by USC Leonard Davis Instructional Associate Professor of Gerontology Roberto Vicinanza, offers a possible explanation for how everyday food choices influence cellular health and the aging process. \"These microproteins may act as molecular messengers that translate what we eat into how our cells function and age,\" Vicinanza said. \"It's a new biological pathway that helps explain why the Mediterranean diet is so powerful.\" The Mediterranean diet emphasizes foods such as olive oil, fish, beans, lentils, fruits, and vegetables. It has consistently been associated with a lower risk of heart disease, type 2 diabetes, and cognitive decline. However, scientists are still working to understand exactly how this eating pattern produces its wide-ranging health benefits. To investigate, the researchers examined blood samples from older adults who followed the Mediterranean diet to different degrees. Those whose eating habits most closely matched the diet had significantly higher concentrations of humanin and SHMOOSE. They also showed lower indicators of oxidative stress, a process in which harmful molecules called reactive oxygen species overwhelm the body's protective defenses. Over time, oxidative stress can damage proteins, DNA, and other cellular components, contributing to aging and chronic disease. Interestingly, the researchers found that certain foods were associated with different microproteins. Higher consumption of olive oil, fish, and legumes was linked to increased humanin levels. Meanwhile, olive oil consumption and eating fewer refined carbohydrates were associated with higher levels of SHMOOSE. Refined carbohydrates include foods made with heavily processed grains and sugars, such as white bread, pastries, and many sugary snacks. These foods generally contain less fiber and fewer naturally occurring nutrients than their minimally processed counterparts. \"These findings suggest that specific components of the Mediterranean diet may directly influence mitochondrial biology,\" said USC Leonard Davis School Dean and USC Distinguished Professor Pinchas Cohen, the study's senior author. \"Humanin and SHMOOSE could serve as biomarkers for adherence to the Mediterranean diet and have clinical significance.\" Biomarkers are measurable biological indicators that can provide information about a person's health or physiological state. In this case, the researchers suggest that humanin and SHMOOSE could eventually help scientists understand how closely someone's diet aligns with healthy eating patterns and how their cells respond. The findings extend a scientific effort spanning more than 20 years to investigate small proteins produced by mitochondria. Cohen has played a leading role in discovering and studying these molecules, which are increasingly recognized as important participants in cellular health. Mitochondria are often described as the powerhouses of cells because they produce much of the energy required for essential biological activities. But their role extends beyond energy production. They also help regulate metabolism, cellular stress responses, and processes associated with aging. Unlike most proteins, which are produced using instructions stored in the DNA inside the cell's nucleus, mitochondrial microproteins originate from genetic instructions within mitochondria themselves. These instructions are found in small segments of mitochondrial DNA known as open reading frames. Some of these regions were once considered nonfunctional, but researchers have discovered that they can encode biologically active molecules. One of the best understood is humanin, first identified by Cohen and fellow researchers in 2003. Subsequent studies have associated humanin with improved insulin sensitivity, better cardiovascular health, increased longevity, and protection of cognitive abilities. Insulin sensitivity refers to how effectively the body's cells respond to insulin, the hormone that helps regulate blood sugar. Maintaining healthy insulin sensitivity is important for metabolic health and reducing the risk of type 2 diabetes. Another intriguing microprotein is SHMOOSE (Small Human Mitochondrial ORF Over SErine tRNA), which was identified more recently by Cohen's research team. SHMOOSE has attracted particular interest because of its possible role in protecting the brain. Scientists have found that a genetic variant of SHMOOSE is associated with an increased risk of Alzheimer's disease. The normal version, meanwhile, appears to help protect neurons from damage involving amyloid, a protein that can accumulate abnormally in the brains of people with Alzheimer's. \"These peptides are emerging as key regulators of aging biology,\" Cohen said. \"They connect mitochondrial function to diseases like Alzheimer's and heart disease and now, potentially, to nutrition.\" The scientists also identified a potentially important connection between humanin and an enzyme called Nox2, which helps generate reactive oxygen species. Although these molecules have useful roles in normal cell signaling and immune defense, excessive production can contribute to oxidative stress and damage blood vessels and other tissues. The researchers observed that people with higher humanin levels tended to have lower Nox2 activity. This relationship raises the possibility that humanin helps limit damaging oxidative processes, potentially offering an additional layer of cardiovascular protection. Based on these findings, the researchers propose that the Mediterranean diet could support heart health in two complementary ways. The diet may help reduce oxidative stress directly while also supporting the production of mitochondrial microproteins that influence pathways involved in cellular damage. However, the observed associations do not establish that the diet directly increases these proteins or that the proteins themselves prevent cardiovascular disease. \"This could represent a new cardioprotective mechanism of the Mediterranean diet,\" Vicinanza said. Vicinanza's interest in the Mediterranean diet extends beyond investigating its effects inside the body. He has also worked to promote this traditional eating pattern internationally as a way to support human health, cultural heritage, and environmental sustainability. As part of those efforts, he collaborated with the Municipality of Pollica in Italy, which is recognized as a UNESCO Mediterranean Diet emblematic community. That collaboration helped support the establishment of the International Day of the Mediterranean Diet through the United Nations. Observed every year on November 16, the international event is intended to draw attention to the Mediterranean diet's health benefits as well as its cultural traditions and environmental significance. For Vicinanza, the new findings reinforce the relationship between traditional food practices and modern discoveries about how the body functions. \"We're connecting centuries-old dietary traditions with cutting-edge molecular biology,\" Vicinanza said. \"It supports the idea that healthy eating patterns with little to no ultra-processed foods reflect how humans have eaten over long periods and may create conditions to which mitochondria -- ancient cellular organelles -- are likely adapted.\" Although the findings are promising, the resear",
-   "facts": [
-    "It has consistently been associated with a lower risk of heart disease, type 2 diabetes, and cognitive decline.",
-    "The findings extend a scientific effort spanning more than 20 years to investigate small proteins produced by mitochondria.",
-    "One of the best understood is humanin, first identified by Cohen and fellow researchers in 2003.",
-    "Maintaining healthy insulin sensitivity is important for metabolic health and reducing the risk of type 2 diabetes.",
-    "\"They connect mitochondrial function to diseases like Alzheimer's and heart disease and now, potentially, to nutrition.\" The scientists also identified a potentially important connection between humanin and an enzyme called Nox2, which helps generate reactive oxygen species.",
-    "The researchers observed that people with higher humanin levels tended to have lower Nox2 activity.",
-    "Observed every year on November 16, the international event is intended to draw attention to the Mediterranean diet's health benefits as well as its cultural traditions and environmental significance.",
-    "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared Snakebites Are Far Deadlier Than We Thought, New Study Reveals Archaeologists May Have Just Discovered the World’s Oldest Shipwreck Researchers Find That Arthritis May Leave a Hidden Memory in Your Joints"
-   ],
-   "doi": [
-    "10.3389/fnut.2025.1727012"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Roberto Vicinanza, Vittoria Cammisotto, Junxiang Wan, Kelvin Yen, Francesco Violi, Pasquale Pignatelli, Pinchas Cohen. Mediterranean diet adherence is associated with mitochondrial microproteins Humanin and SHMOOSE; potential role of the Humanin–Nox2 interaction in cardioprotection . Frontiers in Nutrition , 2026; 12 DOI: 10.3389/fnut.2025.1727012",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261023003337.htm"
-   ],
-   "format": "CUT",
-   "seen": "2026-10-19",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "훅: surpris",
-    "생활소재: diet, aging, alzheimer",
-    "이미 본 소재(2026-10-19)"
    ]
   },
   {
@@ -656,6 +715,78 @@
    ]
   },
   {
+   "title": "RNA-protein interactions could lead to new coronavirus drug targets",
+   "link": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
+   "key": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
+   "summary": "A study led by researchers at the University of California San Diego School of Medicine and University of California, Riverside (UCR) School of Medicine has identified new targets for antiviral drugs against coronaviruses, including SARS-CoV-2, the virus that causes COVID-19. These new targets could help scientists discover treatments that are less vulnerable to the rapid evolution of these viruses.",
+   "date": "2026-11-03",
+   "source": "Phys.org",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "Phys.org",
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
+    "https://medicalxpress.com/news/2026-11-rna-protein-interactions-reveal-coronavirus.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 DOSE",
+    "2곳 보도"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html"
+  },
+  {
+   "title": "Dinosaur blood—oldest discovery rewrites what fossils can reveal about the past",
+   "link": "https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html",
+   "key": "https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html",
+   "summary": "An international research team led by Curtin University has for the first time uncovered unequivocal evidence of fossilized red blood cells and amino acids of collagen, reshaping our understanding of fossil preservation and molecular longevity in deep time.",
+   "date": "2026-11-03",
+   "source": "Phys.org",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "훅: first time",
+    "생활소재: dinosaur"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html"
+  },
+  {
+   "title": "Enhancing the cell's natural recycling center improves Alzheimer's features in animal models",
+   "link": "https://medicalxpress.com/news/2026-11-cell-natural-recycling-center-alzheimer.html",
+   "key": "https://medicalxpress.com/news/2026-11-cell-natural-recycling-center-alzheimer.html",
+   "summary": "A defining feature of Alzheimer's disease is the abnormal, sustained accumulation of protein aggregates such as tau inside brain cells, which disrupts the cells' normal functions. As time passes, brain cells stop working and die, leading to a gradual decline in memory and thinking skills and other symptoms of this condition.",
+   "date": "2026-11-03",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-cell-natural-recycling-center-alzheimer.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: memory, alzheimer, brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-cell-natural-recycling-center-alzheimer.html"
+  },
+  {
    "title": "Spending in-person time with friends is the biggest predictor of whether college students flourish",
    "link": "https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908",
    "key": "https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908",
@@ -936,30 +1067,6 @@
    ]
   },
   {
-   "title": "Analysis of 244 million Americans refines the understanding of long COVID",
-   "link": "https://medicalxpress.com/news/2026-10-analysis-million-americans-refines-covid.html",
-   "key": "https://medicalxpress.com/news/2026-10-analysis-million-americans-refines-covid.html",
-   "summary": "Long COVID is a phenomenon in which serious health effects linger well after a patient tests negative for coronavirus infection. Patients describe persistent \"brain fog,\" fatigue, dizziness, rapid heart rate, shortness of breath and chest pain, among symptoms that affect nearly every organ system in the body and last a year or more after the infection has passed.",
-   "date": "2026-10-29",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-29",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-analysis-million-americans-refines-covid.htm",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-analysis-million-americans-refines-covid.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "생활소재: brain"
-   ]
-  },
-  {
    "title": "Sun's outer magnetic field mapped in 3D for the first time",
    "link": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
    "key": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
@@ -1171,117 +1278,6 @@
    "why": [
     "형식 SCALE",
     "생활소재: dinosaur"
-   ]
-  },
-  {
-   "title": "'One-positron cyclotron' could test a key prediction of the Standard Model",
-   "link": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
-   "key": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
-   "summary": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exactly equal and opposite to the electron's.",
-   "date": "2026-10-25",
-   "source": "Phys.org",
-   "first_seen": "2026-10-25",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 4,
-   "why": [
-    "형식 WEIGH"
-   ]
-  },
-  {
-   "title": "Newly identified protein pathway helps HIV stay hidden despite treatment",
-   "link": "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html",
-   "key": "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html",
-   "summary": "Current HIV medicines are effective at suppressing the virus in the blood. However, HIV can remain \"asleep\" or dormant inside certain immune cells and in the brain. These hidden pockets of virus, called HIV reservoirs, are the main reason HIV cannot be cured with today's treatments.",
-   "date": "2026-10-25",
-   "source": "Phys.org",
-   "first_seen": "2026-10-25",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html"
-   ],
-   "format": "CUT",
-   "catch": [
-    "과장 의심 단어"
-   ],
-   "score": 4,
-   "why": [
-    "형식 CUT",
-    "생활소재: brain"
-   ]
-  },
-  {
-   "title": "Australian coral reefs face risk of collapse within 50 years without drastic action, global assessment finds",
-   "link": "https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html",
-   "key": "https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html",
-   "summary": "Every shallow-water coral reef ecosystem in Australia faces an extremely high risk of collapse by 2075, driven largely by projected ocean warming, according to a global assessment.",
-   "date": "2026-10-26",
-   "source": "Phys.org",
-   "first_seen": "2026-10-26",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 4,
-   "why": [
-    "형식 PRESS"
-   ]
-  },
-  {
-   "title": "Punishment alone won’t help gang-involved teens – a former child soldier explains why",
-   "link": "https://theconversation.com/punishment-alone-wont-help-gang-involved-teens-a-former-child-soldier-explains-why-282588",
-   "key": "https://theconversation.com/punishment-alone-wont-help-gang-involved-teens-a-former-child-soldier-explains-why-282588",
-   "summary": "When Americans hear of child soldiers, they may imagine tragic images of children wielding rifles on distant battlefields.",
-   "date": "2026-10-27",
-   "source": "The Conversation",
-   "first_seen": "2026-10-28",
-   "text": "When Americans hear of child soldiers , they may imagine tragic images of children wielding rifles on distant battlefields. But the conditions that help warlords recruit children into armed conflict abroad also help gang leaders draw young people into violent organizations in the U.S. In cities across the country, gang violence continues to claim lives and fracture communities. A September 2025 FBI report recorded 69,273 incidents involving gang activity – most often assaults – between 2021 and 2024. Young people ages 13 to 16 were the most frequently reported offenders. Policy responses to this crisis have largely focused on policing, prosecution and tougher penalties. Those responses cost federal, state and local governments billions of dollars annually. Far less attention is paid to why violence offers some young people a sense of purpose, belonging and identity in the first place. Gang-involved youth in the U.S. are not child soldiers in a legal or conventional sense, and American gangs are not rebel or insurgent groups . Nonetheless, the ways some young Americans become embedded in violent organizations – and the difficulty of leaving them – overlap remarkably with the child soldier experience. As a former child soldier who is now a peace and conflict studies researcher , I have lived through organized violence and have since studied how violence shapes young people’s relationships, identities and opportunities. This work has led me to ask how decades of research on child soldier recruitment and reintegration might help young Americans caught in gang violence. Research on child recruitment – and my own peacebuilding work , including negotiating the release of abducted children in Mali, South Sudan and northern Nigeria – shows that children are not always forced into armed groups at gunpoint . Their pathways into such groups cannot be understood as the result of coercion alone . Armed groups may reach children through peers, community networks, relatives or other social connections. In places marked by insecurity and limited opportunities, children may not make a single decision to enter violence. Rather, relationships and constrained choices can draw them closer until entry seems like a viable way to gain a perceived sense of security and control over their own lives . In many American cities, gang involvement follows a similar path: A 2025 study of 1,808 male adolescents in Multnomah County, Oregon, who have been referred to the juvenile justice system, found that exposure to gang-involved peers and relatives was associated with a greater likelihood of gang membership. Through social networks, as well as music and online culture, gangs can project status, power and recognition. For young people who feel excluded by peers or disconnected in school, or who face instability at home, these signals can make gang involvement appear to offer something immediate and tangible : safety, identity and belonging . Researchers have found that some young people also join partly for protection, even though gang members face a higher risk of victimization than their peers. Social media has intensified these dynamics, spreading images of violence, wealth, weapons and notoriety far beyond the neighborhoods and front lines where gangs and armed groups operate. The conflict in Sudan offers a stark example: Young fighters have been publicly celebrated and stylized online , including in videos portraying youngsters in military uniform as heroic “lion cubs” and in AI-generated clips placing them beside senior commanders. Young people in both gangs and armed groups may feel a sense of safety, connection and recognition. But what a young person sees as belonging can become a powerful mechanism of control . Gang leaders in urban communities , like warlords in conflict zones , often position themselves as providers, protectors, mentors and father figures. They impose rules, settle disputes, reward loyalty and regulate access to opportunity and protection. For marginalized youth, they offer recognition where there is isolation, structure where there is instability and identity where there is exclusion . That world gives young people purpose and belonging, but both are conditional on loyalty, obedience and participation, which makes leaving difficult even when the risks of staying become clear. Arrests and incarceration can interrupt violence, but they do not necessarily dismantle the systems that draw young people into gangs. As in conflict settings – where removing children from armed groups does not eliminate commanders, recruiters, networks or incentives – incarcerating young Americans can remove participants from the street without disrupting the structures, relationships or conditions that lured them to gang involvement. When they are released, those same influences may remain, making a return more likely. This does not mean that young offenders should not be held accountable for violent acts they commit. But evidence from juveniles convicted of serious offenses, including felonies, suggests that punishment beyond what is necessary for public safety does not produce greater deterrence . Young people are rarely the architects of the systems that exploit them. When accountability is directed primarily at the young person at the bottom of that structure, the organization itself can remain intact. Global prosecutions for child soldier recruitment have largely focused on commanders who direct and exploit children . Likewise, reducing youth violence requires attention to those who organize it, not only those caught in it. If a gang’s leadership, or the networks that profit from it, remain in place, billions spent deterring young offenders will not protect American streets or the children who walk them. One of the hardest lessons from helping child soldiers return to their communities is that leaving violence does not mean the transition is complete. Children who leave armed groups are often disarmed, demobilized and provided with vocational training, education and material assistance. But training someone to make a living is different from creating the conditions – a functioning market, infrastructure, mentorship and networks – in which that person can succeed. For example, when a young person sells the sewing machine or other equipment that a reintegration program gave them to earn a living, it can look like a personal failure. But if the economic environment is unfavorable, or the infrastructure and support systems needed to sustain that new livelihood are absent, those shortcomings may explain the outcome as much as individual decisions do. A 16-year study in Mozambique found that long-term reintegration of ex-child soldiers was shaped by livelihoods, sustained support, forgiveness and community acceptance. This has a direct lesson for the U.S.: A young person can leave a gang or come home from incarceration and return to a society that primarily sees them as an offender. A 2021 study conducted across 12 U.S. states found that people with juvenile records face significant barriers to education, credentialing and meaningful employment. Another study found that a juvenile record can hurt an applicant’s employment opportunities . If the neighborhood, family and institutions around that young person have not changed, the conditions that made violence attractive remain, and stigma can become a mechanism of re-recruitment. The U.S. does not need to replicate child soldier reintegration programs, but it can learn from their successes and failures. Removing young people from violent organizations is only part of the solution. The real measure of success is whether there are legitimate alternatives to the social world that violence provides and whether society can hold young people accountable while still creating pathways for them to build new lives.",
-   "facts": [
-    "A September 2025 FBI report recorded 69,273 incidents involving gang activity – most often assaults – between 2021 and 2024.",
-    "Young people ages 13 to 16 were the most frequently reported offenders.",
-    "In many American cities, gang involvement follows a similar path: A 2025 study of 1,808 male adolescents in Multnomah County, Oregon, who have been referred to the juvenile justice system, found that exposure to gang-involved peers and relatives was associated with a greater likelihood of gang membership.",
-    "A 16-year study in Mozambique found that long-term reintegration of ex-child soldiers was shaped by livelihoods, sustained support, forgiveness and community acceptance.",
-    "A 2021 study conducted across 12 U.S. states found that people with juvenile records face significant barriers to education, credentialing and meaningful employment."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation",
-    "Phys.org"
-   ],
-   "links": [
-    "https://theconversation.com/punishment-alone-wont-help-gang-involved-teens-a-former-child-soldier-explains-why-282588",
-    "https://phys.org/news/2026-10-wont-ganginvolved-teens-child-soldier.html"
-   ],
-   "format": "",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 4,
-   "why": [
-    "생활소재: children, teen",
-    "2곳 보도"
    ]
   }
  ]
