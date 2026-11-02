@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 775건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 786건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Scientists discover a surprising brain benefit of eating peanuts every day
 - 점수 9 · SCALE · ScienceDaily 전체 · 2026-11-01
