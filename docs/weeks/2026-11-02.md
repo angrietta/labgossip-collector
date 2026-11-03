@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 883건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 898건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
 - 점수 10 · SCALE · ScienceDaily 전체 · 2026-11-02
@@ -23,7 +23,13 @@
   - "The new findings build on earlier research by Joris published in 2025."
   - "That investigation found that consuming peanuts for 16 weeks increased overall cerebral blood flow (CBF) by 3.6% and improved verbal memory performance by 5.8%."
 
-## 3. The Great Barrier Reef's most notorious coral killer may actually be helping it
+## 3. About half of drinkers on GLP-1s say they imbibed less
+- 점수 9 · DOSE · MedicalXpress · 2026-11-04
+- https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Nearly half of drinkers who take GLP-1 medications have reported declines in consumption, with the effect higher among those at risk of unhealthy alcohol use, a new Harvard study shows. The work, published in the journal JAMA Psychiatry, explores an unexpected side effect of GLP-1s used to treat dia
+
+## 4. The Great Barrier Reef's most notorious coral killer may actually be helping it
 - 점수 8 · PRESS · ScienceDaily 전체 · 2026-11-01
 - https://www.sciencedaily.com/releases/2026/10/261030002957.htm
 - DOI: 10.1002/ece3.74285
@@ -32,7 +38,7 @@
   - "Shawna Foo found that living coral tissue survived nearly 75 percent of the observed feeding events."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 4. Extra weight may be aging your brain faster than you think
+## 5. Extra weight may be aging your brain faster than you think
 - 점수 8 · WEIGH · ScienceDaily 뇌·마음 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/11/261101010559.htm
 - DOI: 10.1007/s00415-026-13696-2
@@ -44,14 +50,25 @@
   - "Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%."
   - "More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050."
 
-## 5. Stem cells in deep sleep may point to a secret reserve for lifelong blood renewal
+## 6. Stem cells in deep sleep may point to a secret reserve for lifelong blood renewal
 - 점수 8 · PRESS · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-stem-cells-deep-secret-reserve.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers at the German Cancer Research Center (DKFZ) and the HI-STEM Stem Cell Institute have discovered a group of particularly long-lived blood stem cells in mice. These cells remain in a dormant state for an exceptionally long time while retaining their ability to generate new blood cells. Thi
 
-## 6. Type 2 diabetes breakthrough as 54% achieve remission in just 6 months
+## 7. Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half
+- 점수 8 · CUT · ScienceDaily 전체 · 2026-11-03
+- https://www.sciencedaily.com/releases/2026/10/261031221155.htm
+- DOI: 10.1016/j.jbc.2026.113608
+- 주의: 동물 실험
+- 요약: A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down 
+  - "After just two weeks of treatment, levels of amyloid beta, a protein associated with Alzheimer's disease, dropped by half."
+  - "Amyloid beta concentrations fell by approximately 50%, reaching levels comparable to those in young rats."
+  - "The research received federal funding from the National Institutes of Health [R56AG071480, 5R01DK100580]."
+  - "Scientists Finally Identify Mysterious Creature Nearly 90 Years After It Was First Found Scientists Say This Medication Could Be the Next “Wonder Drug” A Hidden DNA Mechanism Could Explain How 20% of Human Cancers Develop A Nutrient Found in Red Meat Could Make Dangerous Inflammation Even Worse"
+
+## 8. Type 2 diabetes breakthrough as 54% achieve remission in just 6 months
 - 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-30
 - https://www.sciencedaily.com/releases/2026/10/261029072129.htm
 - DOI: 10.1016/j.lana.2026.101664
@@ -64,13 +81,13 @@
   - "Type 2 diabetes diagnosed at a younger age can be particularly aggressive."
   - "People with early-onset type 2 diabetes (EOT2D) often experience a faster decline in blood sugar control, develop complications earlier in life, and face a shorter life expectancy than those diagnosed at older ages."
 
-## 7. Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom
+## 9. Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom
 - 점수 7 · CUT · The Conversation / Phys.org · 2026-10-31
 - https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955
 - 주의: DOI 못 찾음
 - 요약: Zombies have taken many forms in popular culture. In Michael Jackson's "Thriller" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's "The Last of Us," a fungus infects humans, takes over their bodies and turns them into hosts that help spread the i
 
-## 8. Drinking tea may help protect your heart, but there’s a surprising catch
+## 10. Drinking tea may help protect your heart, but there’s a surprising catch
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-01
 - https://www.sciencedaily.com/releases/2026/10/261031221203.htm
 - DOI: 10.1111/joim.70172
@@ -83,19 +100,42 @@
   - "When the researchers compared tea drinking habits with the incidence of these diseases, they found that regular tea consumption was associated with an 11% lower risk of the combined vascular outcomes."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 9. Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat
+## 11. Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat
 - 점수 7 · SCALE · The Conversation · 2026-11-02
 - https://theconversation.com/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restriction-could-help-reduce-the-urge-to-overeat-294113
 - 주의: DOI 못 찾음
 - 요약: Restricting access to candy is one way parents try to teach their kids moderation. But this can backfire and harm a child’s relationship to food and eating in the long run.
 
-## 10. Hereditary lung and liver disease successfully treated for the first time using gene correction
+## 12. Hereditary lung and liver disease successfully treated for the first time using gene correction
 - 점수 7 · CUT · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-hereditary-lung-liver-disease-successfully.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Alpha-1 antitrypsin deficiency (AATM) is a congenital metabolic disorder. It is caused by a genetic defect, which results in the protective protein alpha-1 antitrypsin (AAT) being produced incorrectly. This deficiency primarily damages the lungs and the liver, where it can lead to serious conditions
 
-## 11. Scientists discover a surprising clue to why some brains resist Alzheimer’s
+## 13. Scientists discover surprising heart benefits of eating avocado and mango every day
+- 점수 7 · SCALE · ScienceDaily 전체 · 2026-11-03
+- https://www.sciencedaily.com/releases/2026/10/261031221215.htm
+- DOI: 10.1161/JAHA.124.040933
+- 대상: 82 adults
+- 요약: Eating an avocado and a cup of mango every day may provide surprising benefits for heart health, according to a new study involving adults with prediabetes. After just eight weeks, participants experienced significant improvements in blood vessel function and diastolic blood pressure, particularly a
+  - "The findings could be especially relevant to the one in three (98 million) Americans with prediabetes, a condition in which blood sugar levels are elevated but have not yet reached the threshold for type 2 diabetes."
+  - "Among participants eating avocado and mango, the measurement increased significantly to 6.7%."
+  - "In contrast, it declined to 4.6% in the control group."
+  - "Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points."
+  - "Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease."
+
+## 14. As it gets harder to figure out what to eat, some Americans are turning to religion for answers
+- 점수 7 · SCALE · The Conversation · 2026-11-03
+- https://theconversation.com/as-it-gets-harder-to-figure-out-what-to-eat-some-americans-are-turning-to-religion-for-answers-291119
+- 주의: DOI 못 찾음
+- 요약: A scholar spent time with 4 alternative food movements to explore how religious Americans are choosing a ‘moral’ diet.
+  - "I analyzed four religious alternative food movements in my 2025 book, “ Free-Range Religion .” I argue there that these movements aren’t just changing what they eat; they are working to reshape the American food system from the ground up."
+  - "In “ The Hallelujah Diet ,” first published in 2006, the Rev."
+  - "I attended a Hallelujah Diet health retreat in Lake Lure, North Carolina, in 2015 with nine followers of the Hallelujah Diet."
+  - "In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters."
+  - "The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina."
+
+## 15. Scientists discover a surprising clue to why some brains resist Alzheimer’s
 - 점수 6 · 형식? · ScienceDaily 전체 · 2026-10-27
 - https://www.sciencedaily.com/releases/2026/10/261025222538.htm
 - DOI: 10.1016/j.stem.2026.04.002
@@ -104,7 +144,7 @@
   - ""Even at an average age of over 80, we still found these immature neurons in all groups," Salta says."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 12. Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted
+## 16. Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted
 - 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-28
 - https://www.sciencedaily.com/releases/2026/10/261027063701.htm
 - DOI: 10.1038/s41467-026-77976-1
@@ -115,7 +155,7 @@
   - "Satellite observations demonstrate the existence of a 'grounding zone,' sometimes kilometers wide, where warm ocean water is reaching deep underneath the ice sheets and causing vigorous melting." Thwaites Glacier lies in West Antarctica's Amundsen Sea Embayment, a region responsible for approximately one third of the Antarctic Ice Sheet's total mass loss."
   - ""Once that ridge is unpinned, the glacier will continually retreat across a predominantly retrograde seafloor toward its next topographic high, the South Ridge." The team's simulations suggest that this critical change could happen before 2100."
 
-## 13. Why some “lower-risk” childhood cancers turn deadly
+## 17. Why some “lower-risk” childhood cancers turn deadly
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-30
 - https://www.sciencedaily.com/releases/2026/10/261028232717.htm
 - DOI: 10.1002/pbc.24532, 10.1158/0008-5472.CAN-25-4403
@@ -127,25 +167,25 @@
   - "The researchers examined tumor samples from 16 children, including four whose cancers lacked the fusion marker but proved fatal, four with fusion-positive tumors, and eight children with fusion-negative disease who remained alive."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 14. Safer solutions: The urgent connection between smoking and HIV
+## 18. Safer solutions: The urgent connection between smoking and HIV
 - 점수 6 · PRESS · MedicalXpress · 2026-10-31
 - https://medicalxpress.com/news/2026-10-safer-solutions-urgent-hiv.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People with HIV now lose more years of life to smoking than to HIV itself. About 1.2 million Americans are living with HIV, and while smoking among U.S. adults has fallen below 10% for the first time, people with HIV still smoke at up to four times that rate. Although many people with HIV want to qu
 
-## 15. Music paired with beats may cut stress hormone more than twice as much as pink noise
+## 19. Music paired with beats may cut stress hormone more than twice as much as pink noise
 - 점수 6 · DOSE · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new randomized clinical trial from Toronto Metropolitan University (TMU) found that listening to just 24 minutes of personalized music paired with auditory beat stimulation (ABS) lowered levels of the stress hormone cortisol more than twice as much as pink noise, a popular sound used for relaxatio
 
-## 16. Halloween is typically a massive candy fest for kids—but it doesn't have to be
+## 20. Halloween is typically a massive candy fest for kids—but it doesn't have to be
 - 점수 6 · WEIGH · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Halloween can be a massive candy fest. Children come home from trick-or-treating ready to dig into a sackful of candy and chocolate bars.
 
-## 17. Scientists finally discover how a common gut bacterium can trigger colon cancer
+## 21. Scientists finally discover how a common gut bacterium can trigger colon cancer
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-31
 - https://www.sciencedaily.com/releases/2026/10/261031012912.htm
 - DOI: 10.1038/s41586-026-10375-0
@@ -156,7 +196,7 @@
   - "It produces claudin-4, a protein that helps neighboring cells form tight junctions, the seals that limit the movement of substances between cells and help maintain the intestinal barrier."
   - "When the researchers disabled the gene responsible for claudin-4, BFT could no longer bind to the colon cells."
 
-## 18. A mysterious 4,000-year-old wall is rewriting North Africa’s history
+## 22. A mysterious 4,000-year-old wall is rewriting North Africa’s history
 - 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-31
 - https://www.sciencedaily.com/releases/2026/10/261030003022.htm
 - DOI: 10.1017/lis.2026.10037
@@ -167,108 +207,67 @@
   - "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD."
   - "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times."
 
-## 19. A simple blood test could reveal Alzheimer’s risk 10 years before symptoms
-- 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-31
-- https://www.sciencedaily.com/releases/2026/10/261029072142.htm
-- DOI: 10.1001/jama.2026.12556
-- 대상: 2,684 adults, 478 participants
-- 요약: A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the 
-  - "In a large international study, researchers found that older adults with very high levels of a particular blood biomarker faced a 38% chance of developing cognitive impairment within five years."
-  - "Over 10 years, the estimated risk rose to 78%, although the longer-term findings were based on substantially less data."
-  - "The study focused on phosphorylated tau 217 (p-tau217), a blood biomarker associated with Alzheimer's disease."
-  - "Together, these studies included 2,684 older adults who showed no signs of cognitive impairment when they entered the research."
-  - "At enrollment, participants provided blood samples that were analyzed for p-tau217."
-
-## 20. 75,000-year-old Neanderthal may have been killed by a spear aimed at the heart
-- 점수 6 · CUT · ScienceDaily 전체 · 2026-10-31
-- https://www.sciencedaily.com/releases/2026/10/261029072126.htm
-- DOI: 10.1038/s41598-026-69193-z
-- 요약: A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon pierced the chest and caused a rapidly fatal injury. Surprisingly, the same indiv
-  - "A small, circular hole in a 75,000-year-old Neanderthal shoulder blade may reveal one of the earliest known cases of deadly violence involving a wooden spear."
-  - "Despite its fragile structure, the Neanderthal's bone survived for approximately 75,000 years beneath seven and a half meters of rock and sediment."
-  - "Almost the entire bone remained intact, except for a remarkably precise circular opening measuring 15 millimeters across."
-  - ""It's extraordinary to have a perfectly preserved scapula from 75,000 years ago."
-  - "One important discovery occurred in the 1990s at Schöningen, Germany, where researchers uncovered wooden spears preserved in waterlogged conditions."
-
-## 21. RNA-protein interactions could lead to new coronavirus drug targets
+## 23. RNA-protein interactions could lead to new coronavirus drug targets
 - 점수 6 · DOSE · Phys.org / MedicalXpress · 2026-11-03
 - https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study led by researchers at the University of California San Diego School of Medicine and University of California, Riverside (UCR) School of Medicine has identified new targets for antiviral drugs against coronaviruses, including SARS-CoV-2, the virus that causes COVID-19. These new targets could
 
-## 22. Dinosaur blood—oldest discovery rewrites what fossils can reveal about the past
+## 24. Dinosaur blood—oldest discovery rewrites what fossils can reveal about the past
 - 점수 6 · CUT · Phys.org · 2026-11-03
 - https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An international research team led by Curtin University has for the first time uncovered unequivocal evidence of fossilized red blood cells and amino acids of collagen, reshaping our understanding of fossil preservation and molecular longevity in deep time.
 
-## 23. Enhancing the cell's natural recycling center improves Alzheimer's features in animal models
+## 25. Enhancing the cell's natural recycling center improves Alzheimer's features in animal models
 - 점수 6 · CUT · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-cell-natural-recycling-center-alzheimer.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A defining feature of Alzheimer's disease is the abnormal, sustained accumulation of protein aggregates such as tau inside brain cells, which disrupts the cells' normal functions. As time passes, brain cells stop working and die, leading to a gradual decline in memory and thinking skills and other s
 
-## 24. Queen's University Belfast students find Neptune's elusive Trojan asteroids
+## 26. Queen's University Belfast students find Neptune's elusive Trojan asteroids
 - 점수 6 · PRESS · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An international team led by researchers at Queen's University Belfast has made a discovery that has eluded astronomers for decades. Beginning in 1906, telescope observations revealed a population of asteroids leading and trailing Jupiter, which came to be known as the "Trojan" and "Greek" populatio
 
-## 25. Australian survey reveals 60% eat raw fish or seafood, prompting safety warnings
+## 27. Australian survey reveals 60% eat raw fish or seafood, prompting safety warnings
 - 점수 6 · SCALE · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-australian-survey-reveals-raw-fish.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Ahead of Australian Food Safety Week, Nov. 7 to 14, 2026, with the theme "Raw food know the risk," the Food Safety Information Council has released new research showing 60% of Aussies consume raw fish or seafood, and 17% do so at least once a week.
 
-## 26. How an innate immune protein can control cholesterol, tumor growth and response to cancer therapy
+## 28. How an innate immune protein can control cholesterol, tumor growth and response to cancer therapy
 - 점수 6 · CUT · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-innate-immune-protein-cholesterol-tumor.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Scientists at the University of North Carolina Lineberger Comprehensive Cancer Center have discovered an unexpected role for a key innate immune protein, revealing how it helps regulate cholesterol levels inside cells and influences tumor growth and treatment response. The findings shed new light on
 
-## 27. Spending in-person time with friends is the biggest predictor of whether college students flourish
-- 점수 5 · PRESS · The Conversation / Phys.org · 2026-10-26
-- https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908
-- 대상: 80,000 students
-- 주의: 상관관계, DOI 못 찾음
-- 이미 본 소재: 2026-10-26 보드에 있었음
-- 요약: Exercise, avoiding alcohol or even getting enough sleep aren't the factors most connected to college students' well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted 
-  - "Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students."
-  - "Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% ."
-  - "Suicide remains the second-leading cause of death among Americans ages 15 to 34."
-  - "Our research team analyzed responses from 79,246 college students across the United States and Canada."
-  - "We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges."
-
-## 28. Personalized cancer vaccine plus immunotherapy reduces melanoma recurrence after surgery
-- 점수 5 · SCALE · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-personalized-cancer-vaccine-immunotherapy-melanoma.html
+## 29. Anorexia and bulimia cases projected to reach nearly 22 million by 2050
+- 점수 6 · DOSE · MedicalXpress · 2026-11-04
+- https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html
+- 주의: 과장 의심 단어
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Adding a personalized mRNA-based cancer vaccine to immunotherapy after surgery for high-risk melanoma reduced the risk of recurrence or death by 42%, according to results from the phase 3 INTerpath-001 trial presented at the ESMO Congress 2026. The vaccine, intismeran autogene, was given alongside p
+- 요약: Social media trending hashtags such as skinny girl dinner and thinspiration are promoting restrictive eating and a lifestyle centered on staying thin to millions of people around the world. This hunger for thinness is also finding its way into the misuse of GLP-1 drugs (glucagon-like peptide-1 recep
 
-## 29. Patients given apalutamide and hormone therapy around surgery may cut their risk of metastasis or death
-- 점수 5 · SCALE · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-patients-apalutamide-hormone-therapy-surgery.html
+## 30. Menopause can quietly weaken bones—here's what research reveals about protecting them
+- 점수 6 · CUT · MedicalXpress / The Conversation · 2026-11-03
+- https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: An international phase 3 clinical trial that treated patients with high-risk localized and locally advanced prostate cancer with apalutamide—a next-generation neoadjuvant androgen-receptor pathway inhibitor (ARPI)—plus hormone therapy before and after prostate cancer surgery was further validated by
+- 요약: A skeleton hanging on a door or standing in your neighbor's yard for Halloween looks like a finished structure. But the skeleton inside a living body is constantly changing. Around menopause, those changes can tip toward bone loss, often without pain or another obvious warning.
 
-## 30. Targeted drug significantly delays advanced breast cancer progression but increases toxicity, phase III trial reports
-- 점수 5 · CUT · MedicalXpress · 2026-10-28
-- https://medicalxpress.com/news/2026-10-drug-significantly-delays-advanced-breast.html
+## 31. Why people trust weight‑loss drug advice on social media, even when it may be misleading
+- 점수 6 · DOSE · MedicalXpress · 2026-11-03
+- https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In a global phase 1 trial, trastuzumab rezetecan showed promising signs of fighting ERBB2-low metastatic breast cancer in patients who had already undergone extensive treatment. Also known as HER2-low breast cancer, this subtype is characterized by low levels of HER2, a growth factor protein that ca
+- 요약: Imagine scrolling through social media and seeing dramatic weight-loss results from people taking Mounjaro, Wegovy or Ozempic. They share photographs, discuss side effects and recommend ways to get the best results.
 
-## 31. Amygdala activity predicts which new images may become lasting memories
-- 점수 5 · PRESS · MedicalXpress · 2026-10-27
-- https://medicalxpress.com/news/2026-10-amygdala-images-memories.html
+## 32. Sunscreen myths explained: The truth about beef tallow, cancer and vitamin D
+- 점수 6 · SCALE · MedicalXpress · 2026-11-03
+- https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A walnut-sized area of the brain known as the amygdala plays a giant role in determining which experiences end up in long-term memory and which are forgotten. The Cedars-Sinai Health Sciences University discovery points to the amygdala as a potential target for treating memory disorders.
-
-## 32. Q&A: Could a new melanoma vaccine change cancer treatment?
-- 점수 5 · SCALE · MedicalXpress · 2026-10-28
-- https://medicalxpress.com/news/2026-10-qa-melanoma-vaccine-cancer-treatment.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A personalized melanoma vaccine, called intismeran, could mark a major advance in cancer treatment. Last week, pharmaceutical companies Merck and Moderna announced clinical trial results showing the vaccine, combined with immunotherapy, reduced the risk of cancer returning or death by 42% compared w
+- 요약: Some people are so worried about sunscreen that they're swapping SPF 50 for beef tallow. Yes, the fat traditionally used to make roasted potatoes is now being promoted online as something you can spread on your skin before going into the sun.
 
 ## 33. Ants prioritize brain energy during starvation, echoing pattern seen in humans
 - 점수 5 · WEIGH · Phys.org · 2026-10-28

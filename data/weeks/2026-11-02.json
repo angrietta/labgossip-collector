@@ -1,6 +1,6 @@
 {
  "week": "2026-11-02",
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,21 +14,21 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 34
+   "span_days": 35
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 29
+   "span_days": 26
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 34
+   "span_days": 36
   },
   {
    "feed": "ScienceDaily 건강",
@@ -141,6 +141,30 @@
    ]
   },
   {
+   "title": "About half of drinkers on GLP-1s say they imbibed less",
+   "link": "https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html",
+   "key": "https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html",
+   "summary": "Nearly half of drinkers who take GLP-1 medications have reported declines in consumption, with the effect higher among those at risk of unhealthy alcohol use, a new Harvard study shows. The work, published in the journal JAMA Psychiatry, explores an unexpected side effect of GLP-1s used to treat diabetes and obesity.",
+   "date": "2026-11-04",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 9,
+   "why": [
+    "형식 DOSE",
+    "훅: unexpected",
+    "생활소재: alcohol"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html"
+  },
+  {
    "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
    "link": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
    "key": "https://sciencedaily.com/releases/2026/10/261030002957.htm",
@@ -220,6 +244,8 @@
    "date": "2026-11-03",
    "source": "Phys.org",
    "first_seen": "2026-11-03",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stem-cells-deep-secret-reserve.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -235,8 +261,44 @@
     "형식 PRESS",
     "훅: secret",
     "생활소재: sleep, mouse, mice"
+   ]
+  },
+  {
+   "title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261031221155.htm",
+   "summary": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down to youthful levels. The treatment also revived a previously unknown communication system that helps liver cells remove harmful substances from the bloodstream.",
+   "date": "2026-11-03",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "ScienceDaily 전체"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stem-cells-deep-secret-reserve.html"
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261031221155.htm"
+   ],
+   "format": "CUT",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 8,
+   "why": [
+    "형식 CUT",
+    "훅: surpris",
+    "생활소재: aging, alzheimer"
+   ],
+   "text": "The liver may hold an unexpected key to fighting two of the most serious diseases associated with aging: Alzheimer's disease and heart disease. Scientists have discovered that restoring the function of aging liver cells can dramatically reduce harmful substances in the bloodstream, raising the possibility of treating diseases that affect organs far beyond the liver itself. In a new study involving older rats, researchers at the Keck School of Medicine of USC found that an experimental drug called cinaciguat reversed important signs of aging in specialized liver cells. After just two weeks of treatment, levels of amyloid beta, a protein associated with Alzheimer's disease, dropped by half. Levels of LDL, commonly called bad cholesterol, also returned to those seen in younger animals. The findings, published in the Journal of Biological Chemistry , also revealed a previously unknown way that liver cells communicate with one another. This discovery could help scientists develop treatments that restore the liver's ability to remove potentially harmful substances from the blood, possibly reducing the risk of Alzheimer's disease and atherosclerosis, a condition in which fatty deposits accumulate inside arteries. Although Alzheimer's primarily affects the brain, scientists are increasingly interested in how other organs might influence the disease. The liver plays a central role in filtering the blood and removing unwanted compounds, including substances that may contribute to disease when they accumulate. The USC findings suggest that restoring this natural cleaning process could offer a different approach to preventing certain age-related illnesses. However, the results have so far been demonstrated only in rats, and additional studies are needed to establish whether the same benefits occur in humans. \"We need to do further translational work to see whether our findings might point to new therapies,\" said corresponding author Laurie DeLeve, MD, PhD, professor and vice chair for scientific affairs in the USC Department of Medicine. \"We're hopeful, though, because the findings line up with a lot of epidemiological results showing age as a major risk factor for Alzheimer's and atherosclerosis, and liver damage as a risk factor for Alzheimer's.\" Targeting the liver could be particularly valuable in Alzheimer's research, where efforts to develop treatments acting directly in the brain have faced an estimated 98% failure rate in clinical trials. One major obstacle is the blood-brain barrier, a protective system that limits which substances can enter the brain from the bloodstream. While this barrier helps shield the brain from harmful compounds, it also makes delivering certain medications extremely difficult. \"If we're right that the liver is impactful, what do we do about that?\" said first author Sam de Leve, MA, a USC lab technician and child of Laurie DeLeve. \"Rather than trying to get a drug through the blood-brain barrier, which is obnoxiously difficult, we could direct drugs to the liver, an organ where there might be more therapeutic impact and certainly an easier job of drug delivery.\" To understand how liver aging affects the bloodstream, the researchers focused on a relatively understudied group of cells known as liver sinusoidal endothelial cells (LSECs). These cells form the lining of tiny blood vessels inside the liver. Unlike most blood vessel walls, they contain numerous microscopic openings that function somewhat like the holes in a sieve. These openings allow larger molecules circulating in the blood to reach neighboring cells called hepatocytes, which carry out much of the liver's work processing and removing substances from the body. As the liver ages, the openings in LSECs gradually become smaller or disappear. This makes it harder for certain large molecules to reach the cells responsible for clearing them, allowing more of these substances to remain in circulation. One substance affected by this change is amyloid beta. This protein is especially important in Alzheimer's research because it can accumulate in the brain and form plaques, one of the disease's defining features. Previous observations showed that the liver becomes less effective at removing amyloid beta as it ages. The researchers suspected that the gradual closing of the openings in LSECs might help explain why more of the protein remains in the bloodstream of older animals. To investigate, they administered cinaciguat to aged rats for two weeks. They then compared the treated animals with two untreated groups, one consisting of older rats and the other of younger rats. The results were striking. Cinaciguat restored the structure and function of the aging LSECs, reopening their microscopic pores and improving their ability to help clear substances from the blood. Amyloid beta concentrations fell by approximately 50%, reaching levels comparable to those in young rats. The untreated older animals showed no similar improvement. The researchers also measured low-density lipoproteins (LDL), often referred to as \"bad\" cholesterol because elevated levels contribute to fatty deposits inside arteries. Over time, these deposits can restrict blood flow and increase the risk of heart disease. Initially, LDL was included as a comparison measure rather than a substance expected to respond to treatment. Unlike larger molecules, LDL particles are small enough to leave the bloodstream without passing through the microscopic openings in LSECs. The scientists therefore expected cinaciguat to have little or no effect on LDL levels. Instead, they discovered that LDL concentrations in treated older rats also fell to levels observed in young animals. \"We said, 'Wait, why did that go down? Clearly, there's more to this story,'\" Sam de Leve said. The unexpected finding suggested that the drug was doing more than simply reopening the liver's aging filters. It appeared to be restoring another important aspect of liver function. Because previous research had shown that hepatocytes function better when LSECs are present, the team began examining how these two types of cells communicate. Their investigation uncovered a previously unknown sequence of biochemical signals that helps coordinate the liver's ability to remove substances from the bloodstream. The researchers found that cinaciguat activates an enzyme called soluble guanylate cyclase inside LSECs. This triggers the cells to release a growth factor known as HB-EGF, which sends a signal to nearby hepatocytes. In response, hepatocytes alter their surfaces in ways that allow them to capture more LDL and amyloid beta from the blood. This helps explain why the treatment reduced both substances, even though they do not rely on the same filtering mechanism. Normally, aging interferes with the ability of LSECs to release HB-EGF. Cinaciguat restored this signaling process, allowing the liver cells to communicate more effectively and supporting the removal of substances that otherwise tend to accumulate with age. The discovery identifies a potential new target for future drugs. Rather than focusing exclusively on the physical openings in LSECs, researchers may be able to develop therapies that restore the chemical signals responsible for helping the liver work efficiently. Could Liver Rejuvenation Help Prevent Alzheimer's and Heart Disease? According to the researchers, this is the first study to demonstrate that a drug can fully restore the structure and function of aging LSECs, including their ability to support the clearance of substances from the bloodstream. It is also the first to show that a treatment directed at the liver can bring age-related elevations in circulating amyloid beta and LDL back to youthful levels. These findings raise the possibility that cinaciguat, similar medications, or treatments targeting HB-EGF could eventually be used to counteract certain effects of liver aging. If those changes translate into meaningful protection against ",
+   "doi": [
+    "10.1016/j.jbc.2026.113608"
+   ],
+   "journal_ref": "Journal Reference : Sam J. de Leve, Xiangdong Wang, Helia Alavifard, Lily Dara, Laurie D. DeLeve. Reversing liver sinusoidal endothelial aging restores clearance of amyloid-beta and LDL . Journal of Biological Chemistry , 2026; 302 (11): 113608 DOI: 10.1016/j.jbc.2026.113608",
+   "facts": [
+    "After just two weeks of treatment, levels of amyloid beta, a protein associated with Alzheimer's disease, dropped by half.",
+    "Amyloid beta concentrations fell by approximately 50%, reaching levels comparable to those in young rats.",
+    "The research received federal funding from the National Institutes of Health [R56AG071480, 5R01DK100580].",
+    "Scientists Finally Identify Mysterious Creature Nearly 90 Years After It Was First Found Scientists Say This Medication Could Be the Next “Wonder Drug” A Hidden DNA Mechanism Could Explain How 20% of Human Cancers Develop A Nutrient Found in Red Meat Could Make Dangerous Inflammation Even Worse"
+   ],
+   "sample": []
   },
   {
    "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
@@ -402,6 +464,8 @@
    "date": "2026-11-03",
    "source": "MedicalXpress",
    "first_seen": "2026-11-03",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-hereditary-lung-liver-disease-successfully.h",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -414,8 +478,85 @@
    "why": [
     "형식 CUT",
     "훅: first time"
+   ]
+  },
+  {
+   "title": "Scientists discover surprising heart benefits of eating avocado and mango every day",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261031221215.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261031221215.htm",
+   "summary": "Eating an avocado and a cup of mango every day may provide surprising benefits for heart health, according to a new study involving adults with prediabetes. After just eight weeks, participants experienced significant improvements in blood vessel function and diastolic blood pressure, particularly among men. These benefits occurred without weight gain or changes in calorie intake, suggesting that the nutrient-rich combination could support cardiovascular health through a simple dietary adjustment.",
+   "date": "2026-11-03",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "ScienceDaily 전체"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-hereditary-lung-liver-disease-successfully.h"
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261031221215.htm"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "훅: surpris",
+    "생활소재: diet"
+   ],
+   "text": "Eating mango and avocado every day could offer unexpected benefits for heart health, according to new research. In a study lasting just eight weeks, adults with prediabetes who regularly ate both fruits experienced improvements in blood vessel function and blood pressure, without gaining weight or consuming more calories. The findings could be especially relevant to the one in three (98 million) Americans with prediabetes, a condition in which blood sugar levels are elevated but have not yet reached the threshold for type 2 diabetes. Published in the Journal of the American Heart Association , the research suggests that incorporating these two nutrient-rich fruits into everyday meals may help support cardiovascular health. Researchers at Illinois Institute of Technology (Illinois Tech) investigated the effects of an Avocado-Mango (AM) diet that included one medium Hass avocado and one cup of fresh mango each day. Participants followed this eating plan for eight weeks, while a comparison group consumed a similar diet in which the fruits were replaced with carbohydrate-based foods containing equivalent calories. The results revealed notable differences between the groups, particularly in how well their blood vessels functioned and how their blood pressure changed over time. One of the clearest improvements involved the ability of blood vessels to expand as blood flows through them. This flexibility helps maintain healthy circulation and is an important indicator of cardiovascular health. To evaluate this response, researchers measured flow-mediated dilation (FMD), a commonly used test of endothelial function (blood vessel health). The endothelium is the thin layer of cells lining the inside of blood vessels, where it helps regulate circulation and the widening and narrowing of arteries. Among participants eating avocado and mango, the measurement increased significantly to 6.7%. In contrast, it declined to 4.6% in the control group. The difference suggests that regularly consuming these fruits may help blood vessels function more effectively. Blood pressure measurements also showed encouraging changes, especially among male participants. Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points. Diastolic blood pressure, the lower number in a blood pressure reading, reflects the pressure inside arteries when the heart relaxes between beats. Maintaining healthy levels is important because elevated blood pressure can place additional strain on the cardiovascular system. Researchers noted that the differences observed in the study could be clinically meaningful if they persist over time. Importantly, the cardiovascular improvements occurred without significant changes in participants' body weight or total calorie consumption. This suggests that the nutritional quality of the foods people eat may influence heart health even when their weight remains stable. “This research reinforces the power of food-first strategies to help reduce cardiovascular disease risk, particularly in vulnerable populations like those with prediabetes,” said Britt Burton-Freeman, PhD, Principal Investigator and Professor at Illinois Tech. “It’s an encouraging message: small, nutrient-dense additions—like incorporating avocado and mango into meals and snacks—may support heart health without the need for strict rules or major dietary overhauls.” Beyond the improvements in blood vessel function and blood pressure, participants eating mango and avocado consumed more fiber, vitamin C, and monounsaturated fat. These nutrients are associated with cardiovascular wellness and may help explain some of the observed benefits. Researchers also identified improvements in certain indicators of kidney health, including estimated glomerular filtration rate (eGFR), a measurement used to assess how effectively the kidneys filter waste from the blood. However, the fruits did not produce significant improvements in every health measurement. Cholesterol levels, blood sugar, and markers of inflammation remained largely unchanged compared with the control group. Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease. Although mango and avocado have very different flavors and nutritional profiles, they provide complementary nutrients that support several aspects of cardiovascular and metabolic health. Mango provides dietary fiber (2g/serving, 7% DV, Mango serving size: ¾ cup) and is an excellent source of vitamin C (50% DV). Vitamin C is an antioxidant that helps protect cells from damage, while fiber contributes to healthy digestion and may help with blood sugar regulation, weight management, and cardiovascular wellness. Avocado offers another combination of potentially beneficial nutrients. It contains fiber (3g/serving, 11% DV, Avocado serving size: 50 g (1/3 of a medium avocado)), which plays a role in managing cholesterol, blood sugar, and body weight. It also supplies unsaturated fats (6g unsaturated fats), which can support heart health by helping reduce LDL cholesterol, often called bad cholesterol, when they replace less healthy fats in the diet. Additionally, avocado contains potassium (250mg, 6% DV), a mineral involved in regulating blood pressure. By providing fiber, antioxidants, healthy fats, and potassium, mango and avocado offer a convenient way to increase the nutritional value of everyday meals. However, the study did not establish whether eating the two fruits together provides greater benefits than consuming either fruit separately. Incorporating these fruits into meals does not require a complicated eating plan. Their contrasting flavors and textures make them useful ingredients in salads, smoothies, and grain bowls. For example, fresh mango can add sweetness to a savory dish, while avocado contributes a rich, creamy texture. Both can be used in recipes such as Mango Avocado Tuna Ceviche or an Avocado and Mango Topper . Additional recipes and nutritional information are available at Mango.org and LoveOneToday.com . The investigation included 82 adults between the ages of 25 and 60 who had prediabetes and were classified as having overweight or obesity (BMI 25–35 kg/m2). All participants were generally healthy, did not smoke, were not following specialized diets, and had no major chronic medical conditions. Over eight weeks, participants followed calorie-controlled eating plans modeled on typical American dietary patterns. One group ate a medium Hass avocado and a cup of fresh mango daily, while the control group received carbohydrate-based alternatives with comparable calorie content. To make the comparison as consistent as possible, researchers prepared and supplied meals covering 75% of each participant's estimated daily calorie needs. Participants chose their remaining foods independently, allowing some flexibility while helping the researchers limit differences between the two diets and encourage adherence. The primary measurement was flow-mediated dilation (FMD), a noninvasive method for assessing how effectively blood vessels respond to increased circulation. Researchers also examined blood pressure, blood sugar, and other metabolic indicators, inflammation, kidney function, and dietary nutrient intake. Despite the additional fruits, the avocado and mango group did not experience significant changes in body weight or overall calorie intake. This finding suggests that incorporating nutrient-dense foods into an otherwise balanced diet may improve certain aspects of cardiometabolic health without necessarily contributing to weight gain. The study had several strengths, including its carefully controlled feeding approach, two parallel comparison group",
+   "doi": [
+    "10.1161/JAHA.124.040933"
+   ],
+   "journal_ref": "Journal Reference : Chelsea Preiss, Sameer Tunio, Lasantha Krishan Hirimuthugoda, Rebecca Zoltoski, Rachael L. Ellison, Amandeep K. Sandhu, Indika Edirisinghe, Britt M. Burton‐Freeman. Effects of Increasing Total Fruit Intake With Avocado and Mango on Endothelial Function and Cardiometabolic Risk Factors in Adults With Prediabetes . Journal of the American Heart Association , 2026; 15 (4) DOI: 10.",
+   "facts": [
+    "The findings could be especially relevant to the one in three (98 million) Americans with prediabetes, a condition in which blood sugar levels are elevated but have not yet reached the threshold for type 2 diabetes.",
+    "Among participants eating avocado and mango, the measurement increased significantly to 6.7%.",
+    "In contrast, it declined to 4.6% in the control group.",
+    "Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points.",
+    "Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease.",
+    "Mango provides dietary fiber (2g/serving, 7% DV, Mango serving size: ¾ cup) and is an excellent source of vitamin C (50% DV).",
+    "It contains fiber (3g/serving, 11% DV, Avocado serving size: 50 g (1/3 of a medium avocado)), which plays a role in managing cholesterol, blood sugar, and body weight.",
+    "It also supplies unsaturated fats (6g unsaturated fats), which can support heart health by helping reduce LDL cholesterol, often called bad cholesterol, when they replace less healthy fats in the diet.",
+    "Additionally, avocado contains potassium (250mg, 6% DV), a mineral involved in regulating blood pressure.",
+    "The investigation included 82 adults between the ages of 25 and 60 who had prediabetes and were classified as having overweight or obesity (BMI 25–35 kg/m2)."
+   ],
+   "sample": [
+    "82 adults"
+   ]
+  },
+  {
+   "title": "As it gets harder to figure out what to eat, some Americans are turning to religion for answers",
+   "link": "https://theconversation.com/as-it-gets-harder-to-figure-out-what-to-eat-some-americans-are-turning-to-religion-for-answers-291119",
+   "key": "https://theconversation.com/as-it-gets-harder-to-figure-out-what-to-eat-some-americans-are-turning-to-religion-for-answers-291119",
+   "summary": "A scholar spent time with 4 alternative food movements to explore how religious Americans are choosing a ‘moral’ diet.",
+   "date": "2026-11-03",
+   "source": "The Conversation",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/as-it-gets-harder-to-figure-out-what-to-eat-some-americans-are-turning-to-religion-for-answers-291119"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet"
+   ],
+   "text": "It’s getting harder and harder to figure out what to eat. A scroll through social media raises many questions. Why is food so expensive? Am I getting enough protein? What about fiber? Do I need supplements? Should I be making all my bread at home? What foods were recalled this week? These questions make trips to the grocery store and mealtime decisions more difficult. For centuries, some people have turned to their religious texts and traditions for answers. In “ Born Again Bodies ,” religious studies scholar R. Marie Griffith traces how Protestant Christian ideas on faith and the body shaped the development of American diet and fitness culture. Through my decade of ethnographic research on religious food movements, I have found that many Americans are still turning to religion as they decide what to eat. I analyzed four religious alternative food movements in my 2025 book, “ Free-Range Religion .” I argue there that these movements aren’t just changing what they eat; they are working to reshape the American food system from the ground up. Two of the sites I studied were Jewish farms that were providing experiential education opportunities for the local Jewish community. It was part of their larger mission to reconnect Jews to the land and to the agrarian roots of Judaism. They often point out that the ancient Israelites were an agrarian people and that many Jewish laws, values and holidays were shaped by that context. At the Isabella Freedman Jewish Retreat Center in Falls Village, Connecticut, I worked alongside young Jewish adults participating in a three-month program, the Adamah Farm Fellowship , as they planted, harvested and prepared produce for their weekly community supported agriculture program. The fellows begin their days with a morning prayer session and take time away from their work on the farm to celebrate Shabbat together. The fellows also attend classes where they learn about the biblical laws and ethical concepts related to agriculture, alongside scientific research on sustainable agriculture. I conducted my fieldwork during a “shmita” year, a year of rest for the land . Just as the Hebrew Bible instructed Jews to work for six days and rest on Shabbat, the seventh day, they were also instructed to work their land for six years and then let it rest in the seventh year, the shmita year. Farms took different approaches to the “shmita” year: The Adamah Farm Fellows kept their fields in production and started a community garden to mark their observance of the “shmita” year. At the Pearlstone center in Reisterstown, Maryland, the farmers replaced their usual rows of vegetables with cover crops that would enrich the soil during its year of rest. They also canceled their community supported agriculture program and focused their educational programs on the Jewish texts and traditions of “shmita” and the importance of rest for all beings. Another group I studied were followers of the Hallelujah Diet, a plant-based diet rooted in the biblical story of the Garden of Eden. In “ The Hallelujah Diet ,” first published in 2006, the Rev. George Malkmus determined that the ideal food system was laid out in the first chapter of the Book of Genesis, where God instructs humans to eat plants, fruits and seeds . In the Garden of Eden, Adam and Eve would not have had access to cooked food, so the Hallelujah Diet also prioritizes the consumption of raw, uncooked vegan foods. I attended a Hallelujah Diet health retreat in Lake Lure, North Carolina, in 2015 with nine followers of the Hallelujah Diet. This was a small subset of Hallelujah dieters. In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters. Religion scholar Annie Blazer found that followers of the Hallelujah Diet tend to believe that it will cure their ailments and help them lead long and healthy lives. I found that the reality is a bit more complicated. The retreat guests were adopting the diet in the hope that it would help them address medical issues, but they were not solely relying on the diet to heal them. The retreat guests were also seeing healthcare professionals and taking medications, recovering from or scheduling surgeries, and visiting physical therapists. The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina. The Baldwins are Christian and raise their cows in line with their understanding that, according to the Bible, cows are meant to live on pasture and eat grass. This differs from the more common practice in the United States of moving cattle to feedlots for their final months and feeding them grain . The Baldwins also collaborated with a smaller-scale halal slaughterhouse to ensure that their cows experienced less stress in their final moments. Christians and many other religious Americans have been wrestling with their relationship with animals and the ethics of eating meat since the 19th century. Many contemporary religious and nonreligious movements are reconsidering current animal welfare practices. In some cases, this means advocacy for vegetarianism or veganism and in others it means working to address issues in animal agriculture. I use the term “free-range religion” in my book’s title for a reason: Americans belong to many communities at once, including religious communities, and the boundaries between communities are often porous. For example, on the surface, the Hallelujah Diet book appears to be a Christian diet, written by a reverend. But I found that the reality was more complicated. At the Hallelujah Diet health retreat I attended, all the participants were Christian – except for me, I’m Jewish – but the leaders of the retreat were Messianic Jews , who identify as Jews but believe Jesus was the Messiah. During our time at the retreat, we encountered a number of theological differences within our group, but our hosts encouraged us to remain focused on our shared interest in improving our bodily health. In our educational sessions, medical doctors were cited as sources alongside biblical prophets, reflecting the range of authorities Hallelujah dieters recognize. The retreat participants similarly incorporated an array of practices into their daily lives, including yoga, meditation and the use of essential oils. They saw some of these practices as part of their spiritual practice, while others were curtained off as “new age” and were seen as practices they engaged in outside of their Christianity. As British anthropologist Mary Douglas demonstrated many decades ago in “ Purity and Danger ,” religion plays a central role in food choices as communities make determinations about what is considered clean and unclean. For many religious communities, food rules bring them together through shared values and identities but also separate them from others. That is certainly happening today. Many communities still use food as a way to establish boundaries for membership. Jewish communities, for example, regularly establish rules around what people can bring to events to preserve the kosher status of synagogue kitchens. The kosher laws include restrictions on the types of meat that can be consumed and prohibits mixing meat and dairy in the same meal, so keeping a kitchen kosher requires communal adherence to these rules. But these food decisions are also bringing religious and nonreligious people together in interesting ways and creating new collaborations in their efforts to transform the food system. The Jewish farmers from Adamah and Pearlstone are now part of a large umbrella organization, also called Adamah , that engages in interfaith climate advocacy work at national and international levels. All of the groups I studied identified a concern regarding the food system. For the Jewish farmers, it was that Jews had become disconnected from food production. For the Hallelujah dieters, it was a concern that people were no",
+   "doi": [],
+   "facts": [
+    "I analyzed four religious alternative food movements in my 2025 book, “ Free-Range Religion .” I argue there that these movements aren’t just changing what they eat; they are working to reshape the American food system from the ground up.",
+    "In “ The Hallelujah Diet ,” first published in 2006, the Rev.",
+    "I attended a Hallelujah Diet health retreat in Lake Lure, North Carolina, in 2015 with nine followers of the Hallelujah Diet.",
+    "In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters.",
+    "The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina.",
+    "Christians and many other religious Americans have been wrestling with their relationship with animals and the ethics of eating meat since the 19th century."
+   ],
+   "sample": []
   },
   {
    "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
@@ -684,91 +825,6 @@
    ]
   },
   {
-   "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261029072142.htm",
-   "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
-   "date": "2026-10-31",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-01",
-   "text": "A simple blood test could help identify people at increased risk of Alzheimer's-related cognitive decline years before they experience any noticeable problems with memory or thinking. In a large international study, researchers found that older adults with very high levels of a particular blood biomarker faced a 38% chance of developing cognitive impairment within five years. Over 10 years, the estimated risk rose to 78%, although the longer-term findings were based on substantially less data. The findings offer new insight into the potential of blood tests to predict future cognitive problems in people who currently show no signs of impairment. The research was led by scientists at the Mass General Brigham Neuroscience Institute and involved teams working across three continents. The results were presented at the Alzheimer's Association International Conference and simultaneously published in JAMA . The study focused on phosphorylated tau 217 (p-tau217), a blood biomarker associated with Alzheimer's disease. A test measuring this marker recently received federal clearance, raising hopes that blood testing could make Alzheimer's detection more accessible. However, an important question has remained: Can these tests reliably predict whether someone with normal cognitive function will eventually develop symptoms? To investigate, researchers combined information from six observational studies and clinical trials conducted in North America, Japan, and Australia. Together, these studies included 2,684 older adults who showed no signs of cognitive impairment when they entered the research. At enrollment, participants provided blood samples that were analyzed for p-tau217. They also underwent positron emission tomography (PET) brain scans, allowing researchers to establish baseline measurements of brain health. Annual follow-up assessments were then used to monitor changes in memory, thinking, and other cognitive abilities. The combined data covered an unusually long period. Some participants entered one of the studies as early as 2004, while the most recent follow-up assessments took place in 2025. Across the studies, approximately 478 participants eventually developed cognitive impairment. When researchers compared these outcomes with the original blood test results, they found a strong relationship between higher p-tau217 levels and the likelihood of future cognitive problems. Among people with very high biomarker levels, the estimated probability of developing cognitive impairment reached 38% within five years. By 10 years, that figure increased to 78%. However, the researchers emphasized that substantially fewer observations were available for the 10-year period and beyond, making those longer-term predictions less certain. A Powerful Alzheimer's Predictor Beyond Genetics and Brain Scans One of the most important findings was that p-tau217 provided information about future cognitive decline beyond what could be explained by other established risk factors. The biomarker remained significantly associated with cognitive impairment even after researchers accounted for amyloid-beta plaques, which are abnormal protein deposits in the brain that can be detected with PET imaging. Its predictive value also extended beyond known genetic risk factors (such as APOE4). This suggests that a relatively simple blood test could eventually provide doctors with additional information when estimating an individual's likelihood of developing cognitive difficulties. \"This is a critical step toward better understanding what p-tau217 can tell us about a person's risk for cognitive impairment,\" said lead author Rachel F. Buckley, PhD, a cognitive neuroscientist with the Mass General Brigham Neuroscience Institute. \"What really sets this work apart is that it estimates an individual's level of risk for cognitive impairment. We harmonized data across six cohorts, creating a large and varied data set, and still found consistent results showing how p-tau217 informs risk over time.\" Rather than simply identifying biological changes associated with Alzheimer's, the research helps estimate how those changes translate into the probability of developing symptoms over a specific period. Why Alzheimer's Blood Tests Are Not Yet Recommended for Healthy People Despite the promising results, the researchers caution that blood tests are not currently recommended for routine Alzheimer's risk screening in people without symptoms. One major reason is that preventive treatments capable of changing the course of the disease have not yet been established for otherwise healthy individuals identified as being at elevated risk. \"We do not yet have disease-modifying treatments for people who find out they are at high risk for developing cognitive impairment due to Alzheimer's disease, which is why we don't recommend currently available blood tests for asymptomatic individuals. Today, our medical advice would remain the same regardless of test results: exercise regularly, maintain a healthy diet, and prioritize sleep and overall wellness,\" said senior and corresponding author Reisa Sperling, MD, a neurologist with the Mass General Brigham Neuroscience Institute. \"But the preventive care landscape could change rapidly if ongoing trials of disease-modifying therapies prove beneficial. In the future, these tests could help identify those who might benefit most from these treatments. Our long-term goal is to get us to where cholesterol testing is in predicting your risk of a heart attack.\" There are also important limitations to the research. Although the investigators brought together data from multiple studies and geographic regions, the participants may not fully represent the broader population. This potential selection bias could affect how well the findings apply to other groups. In addition, the analysis focused on predicting cognitive impairment over relatively limited periods rather than estimating a person's lifetime risk. Researchers say larger, more representative studies and longer follow-up periods will be needed to confirm the findings and improve the precision of individual risk predictions. Could Blood Tests Help Prevent Alzheimer's Before Symptoms Begin? The greatest potential benefit of this approach may emerge as scientists develop treatments designed to slow or prevent Alzheimer's-related cognitive decline before noticeable symptoms develop. Several clinical trials are already investigating whether disease-modifying therapies can benefit people who have biological signs of Alzheimer's but have not yet experienced cognitive impairment. If those treatments prove effective, blood biomarkers such as p-tau217 could help identify individuals most likely to benefit from early intervention. Such an approach could eventually make Alzheimer's prevention more similar to cardiovascular prevention, where cholesterol measurements help doctors estimate future heart attack risk and determine who may benefit from treatment. For now, the blood test offers researchers a way to identify higher-risk individuals who may be suitable candidates for prevention studies. \"Today, p-tau217 can help identify people at high risk for future Alzheimer's dementia for participation in prevention trials,\" said Sperling. \"As these trials move forward, individualized estimates, including the biomarker's prognostic value, could guide earlier treatment and monitoring decisions.\" Authorship: In addition to Sperling and Buckley, Mass General Brigham authors include Diana L. Townsend, Colin J. Birkenbihl, Madison Cuppels, Gillian T. Coughlan, Mabel T. Seto, Jane A. Brown, Michael J. Properzi, Merle C. Hönig, Annie Li, Aaron P. Schultz, Jasmeer Chhatwal, Hyun-Sik Yang, Steven Arnold, Pia Kivisäkk, Brian Healy, Jorge Garcia Condado, Wai-Ying Wendy Yau, Michelle Farrell, Rebecca E. Amariglio, Dorene M. Rentz, Kathryn V. Papp, and Keith A. Johnson. Additional authors include Bryan D. James, Sid O'Bryant, Robert A. Rissman, Melissa",
-   "facts": [
-    "In a large international study, researchers found that older adults with very high levels of a particular blood biomarker faced a 38% chance of developing cognitive impairment within five years.",
-    "Over 10 years, the estimated risk rose to 78%, although the longer-term findings were based on substantially less data.",
-    "The study focused on phosphorylated tau 217 (p-tau217), a blood biomarker associated with Alzheimer's disease.",
-    "Together, these studies included 2,684 older adults who showed no signs of cognitive impairment when they entered the research.",
-    "At enrollment, participants provided blood samples that were analyzed for p-tau217.",
-    "Some participants entered one of the studies as early as 2004, while the most recent follow-up assessments took place in 2025.",
-    "Across the studies, approximately 478 participants eventually developed cognitive impairment.",
-    "When researchers compared these outcomes with the original blood test results, they found a strong relationship between higher p-tau217 levels and the likelihood of future cognitive problems.",
-    "Among people with very high biomarker levels, the estimated probability of developing cognitive impairment reached 38% within five years.",
-    "By 10 years, that figure increased to 78%."
-   ],
-   "doi": [
-    "10.1001/jama.2026.12556"
-   ],
-   "sample": [
-    "2,684 adults",
-    "478 participants"
-   ],
-   "journal_ref": "Journal Reference : Rachel F. Buckley, Diana L. Townsend, Colin J. Birkenbihl, Madison Cuppels, Gillian T. Coughlan, Mabel T. Seto, Jane A. Brown, Michael J. Properzi, Merle C. Hönig, Annie Li, Aaron P. Schultz, Jasmeer Chhatwal, Hyun-Sik Yang, Steven Arnold, Pia Kivisäkk, Bryan D. James, Sid O’Bryant, Robert A. Rissman, Melissa Petersen, Jessica Z. K. Caldwell, Tobey Betthauser, Julie Elisabeth O",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261029072142.htm"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 PRESS",
-    "생활소재: memory, alzheimer"
-   ]
-  },
-  {
-   "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261029072126.htm",
-   "summary": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon pierced the chest and caused a rapidly fatal injury. Surprisingly, the same individual had survived an earlier devastating facial injury, suggesting other Neanderthals provided care and support.",
-   "date": "2026-10-31",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-01",
-   "text": "A small, circular hole in a 75,000-year-old Neanderthal shoulder blade may reveal one of the earliest known cases of deadly violence involving a wooden spear. The remarkable discovery, made in a cave in Iraqi Kurdistan, suggests that the individual was struck by a sharpened wooden weapon that passed through the chest, potentially in a deliberate attack aimed at the heart. Researchers believe the wound could represent the oldest evidence in the hominin fossil record of fatal interpersonal violence involving a wooden spear. The shoulder blade (scapula) is an unusually delicate bone, with some areas so thin that light can pass through them. Despite its fragile structure, the Neanderthal's bone survived for approximately 75,000 years beneath seven and a half meters of rock and sediment. Almost the entire bone remained intact, except for a remarkably precise circular opening measuring 15 millimeters across. Archaeologists from the University of Cambridge, who led the excavation, believe the hole was created by a spear with a sharpened wooden point. Its rounded shape is an important clue because weapons tipped with flint or stone generally produce openings with flatter or more angular edges. Their reconstruction suggests that the spear entered the front of the Neanderthal's left chest, passed through a lung and probably major blood vessels, and continued until it pierced the shoulder blade from behind. Such a severe injury would have caused rapid death. The researchers suspect the blow may have been an intentional \"heart shot.\" The physical evidence offers additional clues about how the attack occurred. The opening has beveled edges, a feature commonly associated with an exit wound. Small bone fragments displaced during the impact indicate that the weapon likely entered from above and traveled downward through the body. Using these fragments, the scientists were able to partially reconstruct the damaged area. Subtle ridges left by muscle attachments helped them determine where the pieces originally belonged. \"It's extraordinary to have a perfectly preserved scapula from 75,000 years ago. These bones are so thin that you often don't get complete scapulae from modern burials,\" said Dr. Emma Pomeroy, study lead author from Cambridge's Department of Archaeology. \"We were able to lift it out in one piece from under almost eight meters of rock and sediment.\" The remains have been named Shanidar A after the cave where they were uncovered. The findings were published in the journal Scientific Reports. Although sharpened wooden weapons were used hundreds of thousands of years ago, relatively few examples have survived. Wood usually decays over time, making it exceptionally difficult for archaeologists to recover evidence of ancient woodworking and weapon technology. One important discovery occurred in the 1990s at Schöningen, Germany, where researchers uncovered wooden spears preserved in waterlogged conditions. Dating back roughly 200,000 years, these weapons were made during a period when early Neanderthals inhabited Europe. Some measured more than two meters in length. Their makers carefully selected the wood and shaped the spears to achieve a balance suitable for throwing, much like modern javelins. Archaeologists believe they were probably used to hunt large animals. Even older evidence comes from Clacton-on-Sea in the United Kingdom. In 1911, a pointed wooden fragment was recovered from the shoreline and later identified as part of a spear more than 400,000 years old. Only its tip had survived, making it the earliest known example of a rounded wooden spear. The Cambridge researchers believe comparable weapons could have been responsible for Shanidar A's death. If their interpretation is correct, the injury may provide the first evidence that sharpened wooden spears were used in the prehistoric Middle East. \"Holes left by recreations of spears from this time are an excellent fit for the one we found in the Neanderthal scapula,\" said Pomeroy, a fellow at Newnham College, Cambridge. \"That early technology absolutely works for this wound.\" \"What evidence we have suggests that Neanderthals and their ancestors developed woodworking and weapon-making skills many thousands of years before the death of Shanidar A. This package of capabilities could have spanned the full range of Neanderthal homelands, from Wales to Siberia.\" The discovery raises a difficult question: Was Shanidar A the victim of a deliberate attack, or did a hunting accident cause the fatal injury? Pomeroy acknowledges that accidents involving wooden spears would have been possible, particularly when Neanderthals hunted large, dangerous animals at close range. \"Animals such as mammoths may have been hunted up close with thrusting spears, so it's easy to imagine lethal injuries.\" Nevertheless, certain features of the wound suggest that the blow may have been intentional rather than accidental. \"The position of the wound and the force required to push it right through the Neanderthal's body bear the hallmarks of an intended kill shot directed towards the heart.\" The researchers cannot determine exactly what happened or who wielded the weapon. It is also impossible to establish whether modern humans played any role. However, they consider violence between Neanderthals the simplest explanation consistent with the available evidence. \"All we can ever know about the end of this Neanderthal's life is that it was violent, and came at the end of a wooden spear,\" said Prof Graeme Barker, fellow of St. John's College, Cambridge, who leads the Shanidar Cave excavations. \"Evidence of systematic violence is extremely rare in deep prehistory. The vast majority comes from periods of settled farming communities thousands of years after hunter-gather societies like our Neanderthals.\" Although Shanidar A appears to have died violently, other evidence suggests this individual received considerable care earlier in life. Alongside the shoulder blade, archaeologists recovered a nearly complete right hand, two ribs from the left side, a fragment of a right rib, and seven teeth. Together, these are the surviving remains of an adult Neanderthal believed to have been approximately 45 years old at death. One tooth provides particularly revealing evidence about the individual's life. An incisor from the front of the lower jaw had been split vertically, leaving just half of the tooth intact. Neighboring teeth had also been forced inward. Researchers believe the damage resulted from a powerful blow to the face. The surviving half of the incisor had accumulated substantial tartar (dental calculus) along its exposed root canal, indicating that the damaged tooth remained in the mouth for an extended period after the injury. This buildup suggests that Shanidar A survived the original trauma rather than dying immediately. Such extensive facial damage would likely have made eating and communicating extremely painful and difficult. \"Surviving a blow that splits a tooth in this fashion, then continuing to live and eat for a period of at least a year and maybe more, would have required care and support from other Neanderthals,\" said Pomeroy. The researchers suggest that other members of the group may have helped Shanidar A survive by providing softer foods. Earlier studies of sediments from Shanidar Cave found evidence that Neanderthals were soaking plant foods before cooking them around this period. This method of food preparation could have made meals easier for someone suffering from severe facial injuries. \"There's no doubt that Shanidar A would have had difficulty communicating and been in absolute agony for a long period of time.\" For the scientists, these findings reveal two seemingly opposite aspects of Neanderthal behavior in the life of a single individual. \"The remains of Shanidar A reflect the dual nature of so much of what we recognize as human. On the one hand, we have evidence of a terribly violent end. On the other, this w",
-   "facts": [
-    "A small, circular hole in a 75,000-year-old Neanderthal shoulder blade may reveal one of the earliest known cases of deadly violence involving a wooden spear.",
-    "Despite its fragile structure, the Neanderthal's bone survived for approximately 75,000 years beneath seven and a half meters of rock and sediment.",
-    "Almost the entire bone remained intact, except for a remarkably precise circular opening measuring 15 millimeters across.",
-    "\"It's extraordinary to have a perfectly preserved scapula from 75,000 years ago.",
-    "One important discovery occurred in the 1990s at Schöningen, Germany, where researchers uncovered wooden spears preserved in waterlogged conditions.",
-    "Dating back roughly 200,000 years, these weapons were made during a period when early Neanderthals inhabited Europe.",
-    "In 1911, a pointed wooden fragment was recovered from the shoreline and later identified as part of a spear more than 400,000 years old.",
-    "Together, these are the surviving remains of an adult Neanderthal believed to have been approximately 45 years old at death.",
-    "An incisor from the front of the lower jaw had been split vertically, leaving just half of the tooth intact.",
-    "The surviving half of the incisor had accumulated substantial tartar (dental calculus) along its exposed root canal, indicating that the damaged tooth remained in the mouth for an extended period after the injury."
-   ],
-   "doi": [
-    "10.1038/s41598-026-69193-z"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Emma Pomeroy, Christopher O. Hunt, Lucía López-Polín, Nohemi Sala, Ana Pantoja Pérez, James Holman, Jessica Twyman, Paul Bennett, Tim Reynolds, Ross Lane, Duncan Pirrie, Graeme Barker. Evidence for funerary behaviour and lethal trauma in a new Neanderthal individual from Shanidar Cave . Scientific Reports , 2026; 16 (1) DOI: 10.1038/s41598-026-69193-z",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261029072126.htm"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "훅: surpris"
-   ]
-  },
-  {
    "title": "RNA-protein interactions could lead to new coronavirus drug targets",
    "link": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
    "key": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
@@ -851,6 +907,8 @@
    "date": "2026-11-03",
    "source": "Phys.org",
    "first_seen": "2026-11-03",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -863,8 +921,7 @@
    "why": [
     "형식 PRESS",
     "훅: mystery"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html"
+   ]
   },
   {
    "title": "Australian survey reveals 60% eat raw fish or seafood, prompting safety warnings",
@@ -874,6 +931,8 @@
    "date": "2026-11-03",
    "source": "MedicalXpress",
    "first_seen": "2026-11-03",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-australian-survey-reveals-raw-fish.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -888,8 +947,7 @@
    "why": [
     "형식 SCALE",
     "생활소재: fish"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-australian-survey-reveals-raw-fish.html"
+   ]
   },
   {
    "title": "How an innate immune protein can control cholesterol, tumor growth and response to cancer therapy",
@@ -899,6 +957,8 @@
    "date": "2026-11-03",
    "source": "MedicalXpress",
    "first_seen": "2026-11-03",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-innate-immune-protein-cholesterol-tumor.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -911,169 +971,103 @@
    "why": [
     "형식 CUT",
     "훅: unexpected"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-innate-immune-protein-cholesterol-tumor.html"
+   ]
   },
   {
-   "title": "Spending in-person time with friends is the biggest predictor of whether college students flourish",
-   "link": "https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908",
-   "key": "https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908",
-   "summary": "Exercise, avoiding alcohol or even getting enough sleep aren't the factors most connected to college students' well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students.",
-   "date": "2026-10-26",
-   "source": "The Conversation",
-   "first_seen": "2026-10-27",
-   "text": "Exercise, avoiding alcohol or even getting enough sleep aren’t the factors most connected to college students’ well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students. This finding matters because young people are spending less time together in person and more time communicating through screens. Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% . Against this backdrop, mental health challenges among young people have become an increasing public health concern . Suicide remains the second-leading cause of death among Americans ages 15 to 34. But mental health is about more than the absence of mental illness. My student researchers and I wanted to ask a somewhat different question: What helps young people flourish? To answer that question, we created a broad measure of well-being that captured more than the lack of mental health problems, such as psychological distress. It also included positive aspects of life, such as having supportive relationships, hobbies and a sense of meaning and purpose. Our research team analyzed responses from 79,246 college students across the United States and Canada. We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges. We also examined how students spent their free time, whether that meant exercising, studying, socializing, meditating, playing video games or scrolling on social media. We used statistical methods that allowed us to compare dozens of potential influences on student well-being simultaneously, helping us identify which factors were most strongly associated with flourishing. Among the dozens of factors we examined, six stood out as the most important and influential. The strongest factor connected to student flourishing was remarkably ordinary: spending time with other people. Students who spent more hours socializing with friends, attending student organizations and participating in cultural events tended to report feeling an overall sense of well-being. The second most important factor surprised us. Students who spent more time on obligations, including paid work and unpaid family responsibilities, also tended to report a greater sense of well-being. Our results raise an intriguing possibility: Well-being may come not only from leisure and self-care but also from contributing to something larger than oneself. While problematic substance use, passive screen time and sleep problems tended to compromise well-being, these factors weren’t the biggest detriment. It was difficulty navigating interpersonal relationships, including problems with friends, romantic partners and roommates. Making friends, maintaining healthy relationships and working through conflicts requires practice, and some of that practice time now competes with communication mediated by screens . Notably, the contributors to student flourishing were similar among students diagnosed with anxiety or depression and those without these diagnoses. That suggests these everyday experiences may matter across a broad spectrum of mental health. Supporting students’ mental and emotional health is not simply a matter of reducing screen time. It also means making it easier for young people to spend time together in person, whether through clubs, recreation programs, community events or other welcoming spaces. Counseling and educational programs can likewise help students build friendships, communicate effectively and navigate conflict in healthy ways. None of this means mental illness can be solved by telling a struggling young person to put down their phone, join a club or get more sleep. Mental health conditions are complex, and people experiencing them need access to effective professional care. But our findings suggest that helping young people thrive requires more than treating symptoms. It also requires cultivating supportive relationships, healthy sleep and meaningful engagement in work, school and family life.",
-   "facts": [
-    "Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students.",
-    "Between 2010 and 2022, the percentage of U.S. high school seniors who reported seeing friends face-to-face almost every day declined from 44% to 32% .",
-    "Suicide remains the second-leading cause of death among Americans ages 15 to 34.",
-    "Our research team analyzed responses from 79,246 college students across the United States and Canada.",
-    "We examined 51 aspects of students’ lives, including their substance use, the discrimination they encountered, their financial stress, any sleep problems and different relationship challenges."
-   ],
-   "doi": [],
-   "sample": [
-    "80,000 students"
-   ],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
+   "title": "Anorexia and bulimia cases projected to reach nearly 22 million by 2050",
+   "link": "https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html",
+   "key": "https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html",
+   "summary": "Social media trending hashtags such as skinny girl dinner and thinspiration are promoting restrictive eating and a lifestyle centered on staying thin to millions of people around the world. This hunger for thinness is also finding its way into the misuse of GLP-1 drugs (glucagon-like peptide-1 receptor agonists), a medical breakthrough that has transformed the treatment of type 2 diabetes and obesity but is often being misused by people living with eating disorders.",
+   "date": "2026-11-04",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-04",
    "sources": [
-    "The Conversation",
-    "Phys.org"
+    "MedicalXpress"
    ],
    "links": [
-    "https://theconversation.com/spending-in-person-time-with-friends-is-the-biggest-predictor-of-whether-college-students-flourish-293908",
-    "https://phys.org/news/2026-10-inperson-friends-biggest-predictor-college.html"
+    "https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html"
    ],
-   "format": "PRESS",
-   "seen": "2026-10-26",
+   "format": "DOSE",
    "catch": [
-    "상관관계",
-    "DOI 못 찾음"
+    "과장 의심 단어"
    ],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 PRESS",
-    "생활소재: sleep, alcohol, exercise",
-    "2곳 보도",
-    "이미 본 소재(2026-10-26)"
-   ]
+    "형식 DOSE",
+    "생활소재: social media"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html"
   },
   {
-   "title": "Personalized cancer vaccine plus immunotherapy reduces melanoma recurrence after surgery",
-   "link": "https://medicalxpress.com/news/2026-10-personalized-cancer-vaccine-immunotherapy-melanoma.html",
-   "key": "https://medicalxpress.com/news/2026-10-personalized-cancer-vaccine-immunotherapy-melanoma.html",
-   "summary": "Adding a personalized mRNA-based cancer vaccine to immunotherapy after surgery for high-risk melanoma reduced the risk of recurrence or death by 42%, according to results from the phase 3 INTerpath-001 trial presented at the ESMO Congress 2026. The vaccine, intismeran autogene, was given alongside pembrolizumab and compared with pembrolizumab alone.",
-   "date": "2026-10-27",
+   "title": "Menopause can quietly weaken bones—here's what research reveals about protecting them",
+   "link": "https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
+   "key": "https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
+   "summary": "A skeleton hanging on a door or standing in your neighbor's yard for Halloween looks like a finished structure. But the skeleton inside a living body is constantly changing. Around menopause, those changes can tip toward bone loss, often without pain or another obvious warning.",
+   "date": "2026-11-03",
    "source": "MedicalXpress",
-   "first_seen": "2026-10-27",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-personalized-cancer-vaccine-immunotherapy-me",
-   "catch_extra": [],
+   "first_seen": "2026-11-04",
    "sources": [
-    "MedicalXpress"
+    "MedicalXpress",
+    "The Conversation"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-10-personalized-cancer-vaccine-immunotherapy-melanoma.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE"
-   ]
-  },
-  {
-   "title": "Patients given apalutamide and hormone therapy around surgery may cut their risk of metastasis or death",
-   "link": "https://medicalxpress.com/news/2026-10-patients-apalutamide-hormone-therapy-surgery.html",
-   "key": "https://medicalxpress.com/news/2026-10-patients-apalutamide-hormone-therapy-surgery.html",
-   "summary": "An international phase 3 clinical trial that treated patients with high-risk localized and locally advanced prostate cancer with apalutamide—a next-generation neoadjuvant androgen-receptor pathway inhibitor (ARPI)—plus hormone therapy before and after prostate cancer surgery was further validated by a substudy demonstrating a reduced risk of metastasis or death compared with standard of care.",
-   "date": "2026-10-27",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-27",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-patients-apalutamide-hormone-therapy-surgery",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-patients-apalutamide-hormone-therapy-surgery.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE"
-   ]
-  },
-  {
-   "title": "Targeted drug significantly delays advanced breast cancer progression but increases toxicity, phase III trial reports",
-   "link": "https://medicalxpress.com/news/2026-10-drug-significantly-delays-advanced-breast.html",
-   "key": "https://medicalxpress.com/news/2026-10-drug-significantly-delays-advanced-breast.html",
-   "summary": "In a global phase 1 trial, trastuzumab rezetecan showed promising signs of fighting ERBB2-low metastatic breast cancer in patients who had already undergone extensive treatment. Also known as HER2-low breast cancer, this subtype is characterized by low levels of HER2, a growth factor protein that can still be targeted for treatment. Trastuzumab rezetecan is an antibody-drug conjugate (ADC) that works like a guided missile, seeking out tumor cells expressing low levels of ERBB2 and delivering a toxic chemotherapy payload directly inside them.",
-   "date": "2026-10-28",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-28",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-drug-significantly-delays-advanced-breast.ht",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-drug-significantly-delays-advanced-breast.html"
+    "https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
+    "https://theconversation.com/menopause-can-quietly-weaken-bones-heres-what-research-reveals-about-protecting-them-293648"
    ],
    "format": "CUT",
    "catch": [],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 CUT"
-   ]
+    "형식 CUT",
+    "2곳 보도"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html"
   },
   {
-   "title": "Amygdala activity predicts which new images may become lasting memories",
-   "link": "https://medicalxpress.com/news/2026-10-amygdala-images-memories.html",
-   "key": "https://medicalxpress.com/news/2026-10-amygdala-images-memories.html",
-   "summary": "A walnut-sized area of the brain known as the amygdala plays a giant role in determining which experiences end up in long-term memory and which are forgotten. The Cedars-Sinai Health Sciences University discovery points to the amygdala as a potential target for treating memory disorders.",
-   "date": "2026-10-27",
+   "title": "Why people trust weight‑loss drug advice on social media, even when it may be misleading",
+   "link": "https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html",
+   "key": "https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html",
+   "summary": "Imagine scrolling through social media and seeing dramatic weight-loss results from people taking Mounjaro, Wegovy or Ozempic. They share photographs, discuss side effects and recommend ways to get the best results.",
+   "date": "2026-11-03",
    "source": "MedicalXpress",
-   "first_seen": "2026-10-28",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-amygdala-images-memories.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-04",
    "sources": [
     "MedicalXpress"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-10-amygdala-images-memories.html"
+    "https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html"
    ],
-   "format": "PRESS",
+   "format": "DOSE",
    "catch": [],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 PRESS",
-    "생활소재: memory, brain"
-   ]
+    "형식 DOSE",
+    "생활소재: social media, ozempic"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html"
   },
   {
-   "title": "Q&A: Could a new melanoma vaccine change cancer treatment?",
-   "link": "https://medicalxpress.com/news/2026-10-qa-melanoma-vaccine-cancer-treatment.html",
-   "key": "https://medicalxpress.com/news/2026-10-qa-melanoma-vaccine-cancer-treatment.html",
-   "summary": "A personalized melanoma vaccine, called intismeran, could mark a major advance in cancer treatment. Last week, pharmaceutical companies Merck and Moderna announced clinical trial results showing the vaccine, combined with immunotherapy, reduced the risk of cancer returning or death by 42% compared with immunotherapy alone.",
-   "date": "2026-10-28",
+   "title": "Sunscreen myths explained: The truth about beef tallow, cancer and vitamin D",
+   "link": "https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html",
+   "key": "https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html",
+   "summary": "Some people are so worried about sunscreen that they're swapping SPF 50 for beef tallow. Yes, the fat traditionally used to make roasted potatoes is now being promoted online as something you can spread on your skin before going into the sun.",
+   "date": "2026-11-03",
    "source": "MedicalXpress",
-   "first_seen": "2026-10-28",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-qa-melanoma-vaccine-cancer-treatment.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-04",
    "sources": [
     "MedicalXpress"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-10-qa-melanoma-vaccine-cancer-treatment.html"
+    "https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html"
    ],
    "format": "SCALE",
    "catch": [],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 SCALE"
-   ]
+    "형식 SCALE",
+    "훅: myth"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html"
   },
   {
    "title": "Ants prioritize brain energy during starvation, echoing pattern seen in humans",
