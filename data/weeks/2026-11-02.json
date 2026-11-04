@@ -1,6 +1,6 @@
 {
  "week": "2026-11-02",
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,7 +14,7 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 35
+   "span_days": 34
   },
   {
    "feed": "ScienceDaily 뇌·마음",
@@ -28,7 +28,7 @@
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 36
+   "span_days": 37
   },
   {
    "feed": "ScienceDaily 건강",
@@ -94,6 +94,48 @@
     "형식 SCALE",
     "훅: surpris, secret",
     "생활소재: diet, mice"
+   ]
+  },
+  {
+   "title": "Kids who eat more ultra-processed foods show a troubling brain response",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261101010549.htm",
+   "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.",
+   "date": "2026-11-04",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261101010549.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 10,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: diet, kids, children"
+   ],
+   "text": "Children who consume more ultra-processed foods (UPFs) may have stronger brain responses to tempting foods, potentially helping explain why these products are associated with weight gain. A new study published in JAMA Network Open found that children who ate more of these foods showed heightened activity in the brain's reward system when looking at pictures of appetizing foods. Those stronger responses were also associated with increases in body fat over the following year. Ultra-processed foods include many everyday products, such as breakfast cereals, packaged bread, and instant soups. They are manufactured to be appealing, convenient, and able to remain fresh for extended periods. Many contain artificial sweeteners, coloring agents, and other ingredients rarely used in home cooking. These products make up a substantial portion of children's diets, accounting for approximately 67% of the calories consumed by children in the United States. Previous research has associated ultra-processed food consumption with obesity, type 2 diabetes, and cardiovascular disease. However, scientists are still trying to understand the biological processes that might explain these connections. The new investigation, supported in part by the National Institutes of Health, combined magnetic resonance imaging (MRI), dietary assessments, and measurements of children's body composition to explore whether the brain's response to food could play a role. \"Children's brains are still developing, habits are still forming and food preferences are still being made. It's an important period where the brain is very sensitive to food and the food environment,\" said the study's senior author, Kathleen A. Page, MD, professor of medicine and pediatrics and co-chief of the Division of Endocrinology and Diabetes at the Keck School of Medicine of USC. \"We're particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference.\" To investigate these connections, the research team studied 46 children between the ages of seven and 10 who were enrolled in the ongoing BrainChild study, which examines factors contributing to diabetes and obesity. Every participant had a healthy weight when the research began, giving scientists an opportunity to investigate potential warning signs before excess weight developed. At the start of the study, the children underwent brain scans while looking at pictures of appealing foods (such as cookies or French fries). Researchers also gathered information about their diets and recorded several health measurements, including body mass index (BMI), body fat percentage, and waist circumference. After one year, the team measured these physical characteristics again to identify changes. The brain scans revealed a notable pattern. Children who consumed larger amounts of ultra-processed foods showed greater activity in the dorsal striatum when viewing food pictures. This part of the brain helps regulate reward and motivation, making it particularly relevant to how people respond to desirable foods. Importantly, children with stronger responses in this brain region also tended to experience greater increases in BMI and body fat percentage over the next year. The findings suggest that heightened sensitivity to food cues may be one factor connecting ultra-processed diets with subsequent weight gain. By the end of the study, children who consumed more ultra-processed foods generally had higher BMI, greater body fat percentage, and larger waist circumference. The researchers then examined whether differences in brain activity could help account for these associations. When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker. The corresponding association with body fat percentage decreased by 44%. These reductions suggest that the brain's reward response may help explain part of the relationship between ultra-processed food consumption and changes in body composition. Although the results do not demonstrate that these foods directly alter brain function, they provide a possible biological explanation for an association that has been observed in previous research. \"This study goes beyond just understanding that UPFs affect weight gain,\" Page said. \"It actually gives us insight into the neurobiological underpinnings by which these foods may be linked to body composition over time.\" The researchers caution that improving children's diets cannot depend entirely on individual families. Ultra-processed products are often inexpensive, widely available, and easy to prepare, making them practical choices for households facing financial or time constraints. \"Changing the food environment to help people access healthier, more minimally processed foods is an important part of the solution,\" Page said. There are also important limitations to consider. Because the study was observational, it cannot determine whether eating ultra-processed foods directly causes heightened brain activity or increases in body weight. The findings establish relationships between these factors, but additional research is needed to determine whether one causes another. Page hopes to address that question in a future intervention study. The proposed research would provide children who regularly consume ultra-processed foods with more minimally processed alternatives. Scientists could then examine whether changing their diets affects how their brains respond to food images and whether any differences are associated with reduced weight gain. Meanwhile, the BrainChild study will continue tracking participants as they move through puberty and into early adulthood. By monitoring brain development, body composition, dietary patterns, and general health over time, researchers hope to gain a clearer picture of how childhood nutrition may influence long-term health. The study was led by Page alongside Jasmin M. Alves, Ella Morgan, Brendan Angelo, Kianna Le, and Jared Smith from the Division of Endocrinology and Diabetes, Department of Medicine, and Diabetes and Obesity Research Institute at the Keck School of Medicine of USC, University of Southern California. Additional contributors included Kay Jann of the USC Stevens Neuroimaging and Informatics Institute at the Keck School of Medicine of USC, University of Southern California, and Ting Chow and Anny H. Xiang of the Department of Research and Evaluation at Kaiser Permanente Southern California in Pasadena, California. Funding came from an American Diabetes Association Pathway Accelerator Award [1-14-ACE-36] and the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health (NIH) [R01DK116858, R01DK134079]. Support for the REDCap database used in the research was provided by the Southern California Clinical and Translational Science Institute [NIH UL1TR001855]. Materials provided by Keck School of Medicine of USC . Note: Content may be edited for style and length. Something Remarkable Is Happening to Dogs Living Near Chernobyl’s Nuclear Plant Hubble Uncovers a Mysterious 93-Billion-Mile Structure Hiding in a Nearby Star System A Simple Tongue Exercise Could Hold the Key to Fighting the Devastating Effects of ALS Scientists Discover a New Type of Depression That Common Antidepressants May Miss",
+   "doi": [
+    "10.1001/jamanetworkopen.2026.40252"
+   ],
+   "journal_ref": "Journal Reference : Jasmin M. Alves, Ella Morgan, Brendan Angelo, Kianna Le, Jared Smith, Ting Chow, Kay Jann, Anny H. Xiang, Kathleen A. Page. Ultraprocessed Food Intake, Striatal Response to Food Cues, and Adiposity Gain in Children . JAMA Network Open , 2026; 9 (10): e2640252 DOI: 10.1001/jamanetworkopen.2026.40252",
+   "facts": [
+    "These products make up a substantial portion of children's diets, accounting for approximately 67% of the calories consumed by children in the United States.",
+    "Previous research has associated ultra-processed food consumption with obesity, type 2 diabetes, and cardiovascular disease.",
+    "\"We're particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference.\" To investigate these connections, the research team studied 46 children between the ages of seven and 10 who were enrolled in the ongoing BrainChild study, which examines factors contributing to diabetes and obesity.",
+    "When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker.",
+    "The corresponding association with body fat percentage decreased by 44%.",
+    "Funding came from an American Diabetes Association Pathway Accelerator Award [1-14-ACE-36] and the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health (NIH) [R01DK116858, R01DK134079].",
+    "Support for the REDCap database used in the research was provided by the Southern California Clinical and Translational Science Institute [NIH UL1TR001855].",
+    "Something Remarkable Is Happening to Dogs Living Near Chernobyl’s Nuclear Plant Hubble Uncovers a Mysterious 93-Billion-Mile Structure Hiding in a Nearby Star System A Simple Tongue Exercise Could Hold the Key to Fighting the Devastating Effects of ALS Scientists Discover a New Type of Depression That Common Antidepressants May Miss"
+   ],
+   "sample": [
+    "46 children"
    ]
   },
   {
@@ -164,6 +206,70 @@
     "훅: unexpected",
     "생활소재: alcohol"
    ]
+  },
+  {
+   "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261104004909.htm",
+   "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced food intake by up to 50% and targets a different brain pathway, raising hopes for a more precise obesity treatment if future human trials prove successful.",
+   "date": "2026-11-04",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104004909.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 9,
+   "why": [
+    "형식 WEIGH",
+    "훅: surpris",
+    "생활소재: ozempic, brain"
+   ],
+   "text": "Scientists at Stanford Medicine have identified a naturally occurring molecule that could lead to a new generation of weight loss medications. Early animal experiments suggest that it can suppress appetite and promote fat loss much like semaglutide, the active ingredient in Ozempic, while potentially avoiding some of the drug's troublesome side effects. The molecule, known as BRP, works differently from existing treatments. Rather than affecting several organs throughout the body, it appears to act more selectively on a part of the brain responsible for controlling hunger and metabolism. This more focused approach could eventually help people lose weight without experiencing problems such as nausea, constipation, or substantial muscle loss. Researchers discovered BRP with the help of artificial intelligence, which allowed them to search through thousands of possible biological compounds. The findings were promising enough that the scientists began preparing for the next major step: determining whether the molecule is safe and effective in humans. \"The receptors targeted by semaglutide are found in the brain but also in the gut, pancreas and other tissues,\" said assistant professor of pathology Katrin Svensson, PhD. \"That's why Ozempic has widespread effects including slowing the movement of food through the digestive tract and lowering blood sugar levels. In contrast, BRP appears to act specifically in the hypothalamus, which controls appetite and metabolism.\" The hypothalamus is a small but essential region deep within the brain. Among its many responsibilities, it helps regulate hunger, energy use, body temperature, and other functions needed to maintain the body's internal balance. Because it plays such a central role in appetite, it is an important target for researchers developing obesity treatments. Semaglutide works by imitating a hormone called glucagon-like peptide 1, or GLP-1. This hormone helps regulate blood sugar and signals that influence hunger and feelings of fullness. However, GLP-1 receptors are distributed throughout several parts of the body, which helps explain why medications that activate them can produce effects beyond appetite suppression. BRP appears to take another route. Although it influences some of the same broad metabolic functions as semaglutide, it activates different populations of brain cells. Scientists believe this distinction could make it possible to control hunger more precisely while reducing unwanted effects elsewhere in the body. Svensson, who served as senior author of the study, published in Nature , has also cofounded a company to advance BRP toward human clinical trials. The research was led by senior research scientist Laetitia Coassolo, PhD. Finding BRP required solving a problem that has long complicated the search for new hormones. The human body produces enormous numbers of small protein fragments, but only a fraction have important biological functions. Identifying the ones that influence appetite or metabolism can be extremely difficult. Many hormones begin as larger, inactive proteins known as prohormones. Specialized enzymes cut these proteins into smaller pieces called peptides. Some of those peptides become chemical messengers that help coordinate processes such as energy metabolism, appetite, and organ function. A single prohormone can be cut in several different places, potentially producing numerous peptides with distinct effects. The challenge is determining which fragments are biologically useful and which are simply leftovers from normal protein processing. The important peptide hormones (which are relatively rare) can be difficult to distinguish from the much larger collection of ordinary protein fragments. Traditional approaches often involve extracting proteins from biological tissues and analyzing them with techniques such as mass spectrometry. This method identifies molecules by measuring characteristics related to their mass, but the sheer number of possible peptides makes searching for new hormones a demanding process. The Stanford team decided to approach the problem differently. They concentrated on an enzyme called prohormone convertase 1/3, which cuts prohormones at particular amino acid sequences and has previously been linked to human obesity. Amino acids are the molecular building blocks of proteins, and their arrangement helps determine where enzymes can cut them. One of the hormones produced through this process is GLP-1, the same hormone whose effects semaglutide mimics. The researchers reasoned that other peptides generated through similar processing might also help regulate appetite and energy use. To accelerate the search, the scientists created a computer algorithm called Peptide Predictor. Instead of physically isolating and examining hundreds of thousands of peptides, the program analyzed the roughly 20,000 genes that encode human proteins, looking for sequences where the enzyme was likely to make cuts. The team then refined the results by concentrating on genes associated with proteins released outside cells, a common characteristic of hormones. They also required each candidate protein to contain at least four potential cutting sites. These filters reduced an enormous collection of possibilities to 373 prohormones, making experimental testing much more practical. \"The algorithm was absolutely key to our findings,\" Svensson said. Peptide Predictor estimated that the enzyme could produce 2,683 distinct peptides from those 373 proteins. From this collection, Svensson and Coassolo selected candidates that appeared particularly likely to influence brain activity. The researchers eventually tested 100 peptides, including GLP-1, using nerve cells grown in the laboratory. Their goal was to find substances capable of stimulating neuronal activity, an early indication that a peptide might influence important brain processes. GLP-1 performed strongly in the laboratory tests, increasing neuronal activity to three times the level observed in untreated control cells. One previously unrecognized peptide, however, produced an even more striking response. Consisting of just 12 amino acids, it increased neuronal activity tenfold compared with the controls. The researchers named the molecule BRP after the larger protein from which it originates, BPM/retinoic acid inducible neural specific 2, or BRINP2 (BRINP2-related-peptide). That unusually powerful response made BRP a promising candidate for further investigation. The next question was whether stimulating laboratory-grown brain cells would translate into meaningful changes in appetite and body weight in living animals. The team tested BRP in lean mice and minipigs (which more closely mirror human metabolism and eating patterns than mice do). Before the animals were fed, researchers administered BRP through an injection into the muscle. The results were striking. During the following hour, the treated animals consumed up to 50% less food than expected, suggesting that BRP could strongly influence hunger. The scientists then examined whether repeated treatment could produce sustained changes in body weight. Obese mice received daily BRP injections for 14 days. By the end of the experiment, the treated mice had lost an average of 3 grams, while untreated control mice had gained approximately 3 grams. Importantly, nearly all the weight lost by the BRP-treated mice came from body fat rather than muscle. Preserving muscle is an important goal in obesity treatment because muscle tissue supports strength, mobility, and metabolic health. The treated animals also showed improvements in glucose and insulin tolerance. These measurements reflect how effectively the body handles sugar and responds to insulin, the hormone that helps move glucose from the bloodstream into cells. Together, the findings suggest that BRP may influence both appetite and metabolic health, although it remains unknown whether people would experience comparable benef",
+   "doi": [
+    "10.1038/s41586-025-08683-y"
+   ],
+   "journal_ref": "Journal Reference : Laetitia Coassolo, Niels B. Danneskiold-Samsøe, Quennie Nguyen, Amanda Wiggenhorn, Meng Zhao, David Cheng-Hao Wang, David Toomer, Jameel Lone, Yichao Wei, Aayan Patel, Irene Liparulo, Deniz Kavi, Lianna W. Wat, Saranya Chidambaranathan Reghupaty, Julie Jae Kim, Tina Asemi, Ewa Bielczyk-Maczynska, Veronica L. Li, Maria Dolores Moya-Garzon, Nicole A. J. Krentz, Andreas Stahl, Dan",
+   "facts": [
+    "Semaglutide works by imitating a hormone called glucagon-like peptide 1, or GLP-1.",
+    "However, GLP-1 receptors are distributed throughout several parts of the body, which helps explain why medications that activate them can produce effects beyond appetite suppression.",
+    "They concentrated on an enzyme called prohormone convertase 1/3, which cuts prohormones at particular amino acid sequences and has previously been linked to human obesity.",
+    "One of the hormones produced through this process is GLP-1, the same hormone whose effects semaglutide mimics.",
+    "Instead of physically isolating and examining hundreds of thousands of peptides, the program analyzed the roughly 20,000 genes that encode human proteins, looking for sequences where the enzyme was likely to make cuts.",
+    "These filters reduced an enormous collection of possibilities to 373 prohormones, making experimental testing much more practical.",
+    "Peptide Predictor estimated that the enzyme could produce 2,683 distinct peptides from those 373 proteins.",
+    "The researchers eventually tested 100 peptides, including GLP-1, using nerve cells grown in the laboratory.",
+    "GLP-1 performed strongly in the laboratory tests, increasing neuronal activity to three times the level observed in untreated control cells.",
+    "Consisting of just 12 amino acids, it increased neuronal activity tenfold compared with the controls."
+   ],
+   "sample": []
+  },
+  {
+   "title": "How your brain learned to love coffee, chocolate, fat and sugar",
+   "link": "https://medicalxpress.com/news/2026-11-brain-coffee-chocolate-fat-sugar.html",
+   "key": "https://medicalxpress.com/news/2026-11-brain-coffee-chocolate-fat-sugar.html",
+   "summary": "If you can remember your first sip of coffee, the memory might not be a pleasant one. Coffee's bitter flavor is one we naturally steer clear of. So how do coffee fans learn to love it? The answer may lie in an understudied \"slow\" dopamine pathway connecting the gut and brain. A new study from UC San Francisco shows that this pathway helps the brain connect a flavor with the beneficial effects that follow ingesting it.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-brain-coffee-chocolate-fat-sugar.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 9,
+   "why": [
+    "형식 SCALE",
+    "생활소재: coffee, chocolate, love"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-brain-coffee-chocolate-fat-sugar.html"
   },
   {
    "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
@@ -572,6 +678,8 @@
    "date": "2026-11-04",
    "source": "MedicalXpress",
    "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -586,42 +694,31 @@
    "why": [
     "형식 DOSE",
     "생활소재: alcohol, stress, mice"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html"
+   ]
   },
   {
-   "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261025222538.htm",
-   "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their behavior differs dramatically between those who develop dementia and those who remain cognitively healthy.",
-   "date": "2026-10-27",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-28",
-   "text": "Some people have the brain changes associated with Alzheimer's disease but never develop dementia. While others experience worsening memory and thinking problems, these individuals remain mentally sharp despite signs of the disease in their brains. Scientists have long struggled to explain why. Now, researchers at the Netherlands Institute for Neuroscience have uncovered a promising clue. Their findings suggest that a rare group of brain cells, known as immature neurons, may behave differently in people who resist Alzheimer's symptoms. Rather than simply replacing damaged cells, these neurons could help protect the brain from the harmful effects of the disease. This remarkable ability is known as cognitive resilience. It describes how some people maintain their memory and thinking abilities even when their brains show signs of damage or disease. \"Around 30 percent of older adults who develop Alzheimer's disease never experience its symptoms,\" says Evgenia Salta, senior author of the research. \"We really don't know why. That's a big mystery, and a very important one.\" Understanding this mystery could transform how scientists approach Alzheimer's, shifting attention from what causes brain cells to deteriorate toward what allows certain brains to remain healthy and functional. One possible explanation for cognitive resilience is that some brains have a greater ability to repair or protect themselves as Alzheimer's progresses. \"Perhaps they can add new brain cells to a network that is degenerating,\" Salta says. This possibility involves a biological process called adult neurogenesis, which refers to the production of new nerve cells (neurons) in an adult brain. Neurons are specialized cells that transmit information throughout the nervous system, allowing us to think, learn, remember, and respond to our surroundings. Scientists have established that adult neurogenesis occurs in several animal species. Whether it continues to happen in the adult human brain, however, has been a subject of scientific debate for decades. If the human brain can produce new neurons later in life, those cells might help maintain important connections as aging and disease damage existing networks. However, finding immature neurons does not necessarily prove that they were recently formed. To investigate this possibility, Salta and her colleagues examined donated human brain tissue obtained through the Netherlands Brain Bank, a research resource that collects and preserves brain samples. The researchers compared three groups: people without detectable brain pathology, patients who developed Alzheimer's dementia, and individuals whose brains showed Alzheimer's pathology but who remained cognitively resilient. The team concentrated on a small region within the brain's memory center, an area believed to be among the few locations where new neurons might develop. \"These cells are extremely rare, so we had to develop new ways to find them,\" Salta says. \"We really zoomed in on the exact spot where we expected them to be.\" The researchers also developed new approaches to analyzing their data, allowing them to identify the cells more precisely without relying heavily on assumptions drawn from animal studies. The search revealed something remarkable. Immature neurons were present across all three groups, including in the brains of older adults. These cells resemble neurons that have not yet fully matured, suggesting that the aging brain may retain cellular features associated with development and adaptability. \"Even at an average age of over 80, we still found these immature neurons in all groups,\" Salta says. But the most intriguing discovery came when researchers compared the brains of people who had developed dementia with those who had remained mentally sharp despite Alzheimer's pathology. Initially, the scientists expected resilient individuals to have substantially more immature neurons. If these cells help replace damaged neurons, having greater numbers might explain why some brains withstand the disease. Instead, the difference in cell numbers was much smaller than anticipated. That unexpected result pointed toward another explanation. The important distinction might not be how many immature neurons a brain contains, but how those cells respond when the brain comes under attack. When the team examined the activity of immature neurons more closely, they identified striking differences between the groups. In cognitively resilient individuals, the cells showed signs of activating biological processes associated with survival and protection against damage. \"In resilient individuals, these cells seem to activate programs that help them survive and cope with damage,\" Salta says. \"We also see lower signals related to inflammation and cell death.\" Inflammation is part of the body's normal defense system, but when it becomes persistent in the brain, it can contribute to damage and interfere with communication between neurons. Cell death, meanwhile, gradually disrupts the networks responsible for memory and thinking. The findings suggest that immature neurons in resilient brains may be better equipped to withstand these harmful conditions. More surprisingly, their role might extend beyond protecting themselves. \"It might not be (only) about replacing lost neurons,\" Salta explains. \"It could be that these cells support the surrounding tissue and help the brain stay functional and 'youthful'. They may act as a sort of fertilizer in a garden that has started falling apart.\" In other words, rather than serving only as replacements for dying neurons, immature cells could potentially help maintain the environment surrounding existing brain cells. Such support might allow neural networks to continue functioning even as Alzheimer's related damage accumulates. Although the results offer an intriguing explanation for cognitive resilience, Salta emphasizes that the researchers have not established exactly what these immature neurons do. Their conclusions about the cells' possible protective roles are based on patterns observed in brain tissue, not direct experiments demonstrating those functions. \"We assume the cells' function based on the data, but we cannot confirm it in this type of study,\" she explains. That distinction is particularly important because research on adult neurogenesis has attracted considerable public attention, sometimes leading to claims that go beyond what scientists have demonstrated. The presence of immature neurons does not establish that new neurons are continuously being produced in older humans, nor does it prove that these cells are responsible for preventing dementia. Other biological mechanisms almost certainly contribute to cognitive resilience as well. \"This is one piece of a very large puzzle,\" Salta concludes. \"There will never be just one factor that explains resilience.\" Could Alzheimer's Research Shift Toward Protecting the Brain? The findings raise a broader question about aging: Why do some people's brains remain relatively stable while others experience progressive cognitive decline? \"Somewhere along this trajectory, there's a kind of decision point,\" Salta explains. \"Some people remain stable, others develop dementia. We want to understand what drives that difference.\" To explore this further, the researchers plan to investigate how immature neurons communicate and interact with neighboring brain cells. Understanding those relationships may reveal whether the cells actively contribute to resilience and how their protective responses might work. The research also reflects a growing change in how scientists think about Alzheimer's disease. Traditionally, much of the field has focused on understanding the processes that damage the brain, including the accumulation of abnormal proteins and the loss of neurons. Increasingly, researchers are also asking why some brains remain functional despite those changes. By identifying the mechanisms behind this natural res",
-   "facts": [
-    "\"Around 30 percent of older adults who develop Alzheimer's disease never experience its symptoms,\" says Evgenia Salta, senior author of the research.",
-    "\"Even at an average age of over 80, we still found these immature neurons in all groups,\" Salta says.",
-    "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
-   ],
-   "doi": [
-    "10.1016/j.stem.2026.04.002"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Giorgia Tosoni, Dilara Ayyildiz, Sarah Snoeck, Elena P. Moreno-Jiménez, Amber Penning, Estibaliz Santiago-Mujika, Olmo Ruiz Ormaechea, Hyunah Lee, Suresh Poovathingal, Kristofer Davie, Julien Bryois, Will Macnair, Jasper Anink, Luuk E. De Vries, Sahand Farmand, Erik Nutma, Dick F. Swaab, Eleonora Aronica, Jinte Middeldorp, Sandrine Thuret, Laurent Roybon, Onur Basak, Carlos P. ",
-   "catch_extra": [],
+   "title": "Stair climbers are said to boost fitness, strength and bone health—here's what the evidence actually says",
+   "link": "https://medicalxpress.com/news/2026-11-stair-climbers-boost-strength-bone.html",
+   "key": "https://medicalxpress.com/news/2026-11-stair-climbers-boost-strength-bone.html",
+   "summary": "The stair climber has seen a huge surge in popularity on social media in recent years. Proponents of the exercise machine rave about its benefits—claiming it can boost cardiovascular fitness, strength and bone health.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-05",
    "sources": [
-    "ScienceDaily 전체"
+    "MedicalXpress"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261025222538.htm"
+    "https://medicalxpress.com/news/2026-11-stair-climbers-boost-strength-bone.html"
    ],
-   "format": "",
+   "format": "CUT",
    "catch": [],
-   "score": 6,
+   "score": 7,
    "why": [
-    "훅: surpris",
-    "생활소재: dementia, alzheimer, brain"
-   ]
+    "형식 CUT",
+    "훅: actually",
+    "생활소재: social media, exercise"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-stair-climbers-boost-strength-bone.html"
   },
   {
    "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
@@ -816,46 +913,6 @@
    ]
   },
   {
-   "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261030003022.htm",
-   "summary": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.",
-   "date": "2026-10-31",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-01",
-   "text": "In the hills of north-west Morocco, overlooking the river that gives the site its name, research at Oued Beht is bringing to light a previously unknown chapter of the region’s past. The discovery of a substantial built structure suggests that, during the second millennium BC, communities in north-west Africa were actively shaping their environment. They were also engaging in broader networks of interaction across the Mediterranean world. Previous research by the Oued Beht Archaeological Project had already brought to light what is likely the earliest and largest agricultural complex ever discovered in Africa outside the Nile Valley. It dates to around 5,400 to 4,900 years ago. New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site. Our new study shows how we uncovered the earliest known large-scale construction of a probably defensive nature in north Africa beyond the Nile Valley. It’s about 4,000 to 3,500 years old. It’s not known exactly what threats these wall-like structures were designed to counter. They likely relate to increasing competition over land, resources, and possibly control of movement through the landscape, rather than to “invaders”. Constructions like these suggest communities felt the need to protect themselves or assert power over strategic locations. This discovery pushes back the evidence for organized defensive architecture in the Maghreb and suggests that societies in this region at this time were more complex and structured than previously believed. Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD. The same defensive structure was rebuilt, a hamlet or farm was established on a nearby hilltop, and people were buried in a cemetery between the two areas. Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times. They help us understand how societies developed and maintained themselves in a region too often left out of the history books. For a long time, the later prehistory of north Africa’s Maghreb region (the Mediterranean countries of Morocco, Algeria, and Tunisia) has been poorly understood. Compared with neighboring areas such as Iberia in south-western Europe or Athens in the eastern Mediterranean, archaeological evidence was often fragmentary. In the last few years this has changed completely. Excavations at Oued Beht have revealed a large concentration of human activity spread across at least ten hectares. The earliest major phase dates to the mid-fourth and early third millennia BC, or the Final Neolithic period. Environmental evidence from plant and animal remains in the prehistoric era indicates a farming community cultivating crops such as barley and wheat. They also exploited wild plants and kept livestock. The site was also an important center of craft production. Thousands of polished stone axes and other tools have been discovered, along with finely made pottery, sometimes decorated with painted patterns. It’s still uncertain whether prehistoric Oued Beht functioned as a permanent village, a seasonal center, or something less familiar. But it was clearly a major focus in the landscape of north-west Morocco. The presence of potentially ancient earthworks and walls had been noted since the 1930s. The French archaeologist Armand Ruhlmann first documented a configuration of three walls, with the fourth side protected by the natural scarp of the ridge, describing a defensive éperon barré (barred spur). Their precise nature and date remained uncertain until now. New excavations have clarified the existence of a multi-phase ditch, rampart and wall built across a narrow section of the Oued Beht ridge between the river and a ravine. This cut off and protected the ridge’s southern tip. Radiocarbon dating of deposits associated with these structures gave us the timelines in our study. They place its original construction at a time equivalent to the Bronze Age of the remaining western Mediterranean. This makes it the earliest confirmed defensive construction in north Africa outside Egypt. This structure raises important questions about the society that built it. Building an embankment and ditch system required planning, coordination and the mobilization of labor. This suggests a community capable of organizing complex construction initiatives. During the earlier Neolithic phase, activity at Oued Beht focused on the larger and more open northern area of the site. By the period of our new study, focus had shifted to the narrower, more defensible southern ridge. This may reflect a shift in settlement strategies. The second millennium BC was a dynamic period across the Mediterranean. In southern Iberia, Argaric societies (about 2200-1550 BC) in today’s Europe were developing complex, often hilltop settlements. They were characterized by planned architecture, advanced metallurgy (especially bronze production), and marked social hierarchies visible in burial practices. These communities often constructed fortified sites, and strategically located settlements controlling surrounding territories. Increasing evidence suggests that communities in north-west Africa were connected to wider Mediterranean networks. This includes today’s Spain and Portugal. The discoveries at Oued Beht indicate that the Maghreb was not isolated. It participated in broader processes shaping the western Mediterranean. The defensive system at the site may reflect wider transformations in social organization and regional interaction. There may have been growing competition over resources, control of movement, and more formalized leadership structures. The discoveries at Oued Beht highlight how much remains to be learned about the deep history of north Africa. The defensive wall shows that communities here were able to coordinate large construction projects and points to social transformations that are only very tentatively beginning to be recognized. The medieval remains demonstrate that the ridge was used again many centuries after the prehistoric settlement had been abandoned. Oued Beht was not simply a single-period settlement but a landscape repeatedly selected by different communities across millennia. As research continues, this location may become key to understanding how societies in the Maghreb evolved from early farming communities to the medieval rural world. Materials provided by The Conversation . Original written by Giulio Lucarini, Cyprian Broodbank, and Toby C. Wilkinson. Note: Content may be edited for style and length. Did Venus Eat Its Own Moon? Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential",
-   "facts": [
-    "It dates to around 5,400 to 4,900 years ago.",
-    "New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site.",
-    "It’s about 4,000 to 3,500 years old.",
-    "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD.",
-    "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times.",
-    "The earliest major phase dates to the mid-fourth and early third millennia BC, or the Final Neolithic period.",
-    "The presence of potentially ancient earthworks and walls had been noted since the 1930s.",
-    "In southern Iberia, Argaric societies (about 2200-1550 BC) in today’s Europe were developing complex, often hilltop settlements.",
-    "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
-   ],
-   "doi": [
-    "10.1017/lis.2026.10037"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Giulio Lucarini, Youssef Bokbot, Toby Wilkinson, Hamza Benattia, Aïcha Bigoulimen, Alessia Brucato, Marlena Cygan, Lucy Farr, Hassan Hachami, Evangelia Kiriatzi, Rafael Laoutari, Lorena Lombardi, Adelaide Marsilio, Rafael Martínez Sánchez, Ilaria Mazzini, Jacob Morales, Giulia Muti, Jacques Pelegrin, Moad Radi, Francesco Michele Rega, Cyprian Broodbank. Expanding Oued Beht: Fin",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 WEIGH",
-    "훅: unexpected"
-   ]
-  },
-  {
    "title": "RNA-protein interactions could lead to new coronavirus drug targets",
    "link": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
    "key": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
@@ -1031,56 +1088,6 @@
    ]
   },
   {
-   "title": "Menopause can quietly weaken bones—here's what research reveals about protecting them",
-   "link": "https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
-   "key": "https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
-   "summary": "A skeleton hanging on a door or standing in your neighbor's yard for Halloween looks like a finished structure. But the skeleton inside a living body is constantly changing. Around menopause, those changes can tip toward bone loss, often without pain or another obvious warning.",
-   "date": "2026-11-03",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-04",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress",
-    "The Conversation"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
-    "https://theconversation.com/menopause-can-quietly-weaken-bones-heres-what-research-reveals-about-protecting-them-293648"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "2곳 보도"
-   ]
-  },
-  {
-   "title": "Why people trust weight‑loss drug advice on social media, even when it may be misleading",
-   "link": "https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html",
-   "key": "https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html",
-   "summary": "Imagine scrolling through social media and seeing dramatic weight-loss results from people taking Mounjaro, Wegovy or Ozempic. They share photographs, discuss side effects and recommend ways to get the best results.",
-   "date": "2026-11-03",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-04",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html"
-   ],
-   "format": "DOSE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 DOSE",
-    "생활소재: social media, ozempic"
-   ]
-  },
-  {
    "title": "Lab-grown neurons retain features of embryonic development",
    "link": "https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html",
    "key": "https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html",
@@ -1088,6 +1095,8 @@
    "date": "2026-11-04",
    "source": "Phys.org",
    "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1103,8 +1112,7 @@
    "why": [
     "형식 CUT",
     "생활소재: brain, mouse"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html"
+   ]
   },
   {
    "title": "Stone Age hunters in northern Europe may have used poison arrows to hunt big prey",
@@ -1114,6 +1122,8 @@
    "date": "2026-11-04",
    "source": "Phys.org",
    "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stone-age-hunters-northern-europe.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1127,8 +1137,7 @@
     "형식 CUT",
     "훅: secret",
     "생활소재: love"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stone-age-hunters-northern-europe.html"
+   ]
   },
   {
    "title": "Ants prioritize brain energy during starvation, echoing pattern seen in humans",
