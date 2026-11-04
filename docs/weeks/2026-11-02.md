@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 898건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 949건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
 - 점수 10 · SCALE · ScienceDaily 전체 · 2026-11-02
@@ -135,7 +135,14 @@
   - "In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters."
   - "The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina."
 
-## 15. Scientists discover a surprising clue to why some brains resist Alzheimer’s
+## 15. Single dose of healthy liver vesicles may protect against alcohol damage
+- 점수 7 · DOSE · MedicalXpress · 2026-11-04
+- https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Alcohol-related liver disease (ALD) is characterized by hepatocellular injury, oxidative stress, inflammation and extracellular matrix remodeling, yet effective therapies remain limited. New research in The American Journal of Pathology, found that a single dose of liver matrix-bound nanovesicles (M
+
+## 16. Scientists discover a surprising clue to why some brains resist Alzheimer’s
 - 점수 6 · 형식? · ScienceDaily 전체 · 2026-10-27
 - https://www.sciencedaily.com/releases/2026/10/261025222538.htm
 - DOI: 10.1016/j.stem.2026.04.002
@@ -144,7 +151,7 @@
   - ""Even at an average age of over 80, we still found these immature neurons in all groups," Salta says."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 16. Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted
+## 17. Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted
 - 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-28
 - https://www.sciencedaily.com/releases/2026/10/261027063701.htm
 - DOI: 10.1038/s41467-026-77976-1
@@ -155,7 +162,7 @@
   - "Satellite observations demonstrate the existence of a 'grounding zone,' sometimes kilometers wide, where warm ocean water is reaching deep underneath the ice sheets and causing vigorous melting." Thwaites Glacier lies in West Antarctica's Amundsen Sea Embayment, a region responsible for approximately one third of the Antarctic Ice Sheet's total mass loss."
   - ""Once that ridge is unpinned, the glacier will continually retreat across a predominantly retrograde seafloor toward its next topographic high, the South Ridge." The team's simulations suggest that this critical change could happen before 2100."
 
-## 17. Why some “lower-risk” childhood cancers turn deadly
+## 18. Why some “lower-risk” childhood cancers turn deadly
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-30
 - https://www.sciencedaily.com/releases/2026/10/261028232717.htm
 - DOI: 10.1002/pbc.24532, 10.1158/0008-5472.CAN-25-4403
@@ -167,25 +174,25 @@
   - "The researchers examined tumor samples from 16 children, including four whose cancers lacked the fusion marker but proved fatal, four with fusion-positive tumors, and eight children with fusion-negative disease who remained alive."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 18. Safer solutions: The urgent connection between smoking and HIV
+## 19. Safer solutions: The urgent connection between smoking and HIV
 - 점수 6 · PRESS · MedicalXpress · 2026-10-31
 - https://medicalxpress.com/news/2026-10-safer-solutions-urgent-hiv.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People with HIV now lose more years of life to smoking than to HIV itself. About 1.2 million Americans are living with HIV, and while smoking among U.S. adults has fallen below 10% for the first time, people with HIV still smoke at up to four times that rate. Although many people with HIV want to qu
 
-## 19. Music paired with beats may cut stress hormone more than twice as much as pink noise
+## 20. Music paired with beats may cut stress hormone more than twice as much as pink noise
 - 점수 6 · DOSE · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new randomized clinical trial from Toronto Metropolitan University (TMU) found that listening to just 24 minutes of personalized music paired with auditory beat stimulation (ABS) lowered levels of the stress hormone cortisol more than twice as much as pink noise, a popular sound used for relaxatio
 
-## 20. Halloween is typically a massive candy fest for kids—but it doesn't have to be
+## 21. Halloween is typically a massive candy fest for kids—but it doesn't have to be
 - 점수 6 · WEIGH · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Halloween can be a massive candy fest. Children come home from trick-or-treating ready to dig into a sackful of candy and chocolate bars.
 
-## 21. Scientists finally discover how a common gut bacterium can trigger colon cancer
+## 22. Scientists finally discover how a common gut bacterium can trigger colon cancer
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-31
 - https://www.sciencedaily.com/releases/2026/10/261031012912.htm
 - DOI: 10.1038/s41586-026-10375-0
@@ -196,7 +203,7 @@
   - "It produces claudin-4, a protein that helps neighboring cells form tight junctions, the seals that limit the movement of substances between cells and help maintain the intestinal barrier."
   - "When the researchers disabled the gene responsible for claudin-4, BFT could no longer bind to the colon cells."
 
-## 22. A mysterious 4,000-year-old wall is rewriting North Africa’s history
+## 23. A mysterious 4,000-year-old wall is rewriting North Africa’s history
 - 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-31
 - https://www.sciencedaily.com/releases/2026/10/261030003022.htm
 - DOI: 10.1017/lis.2026.10037
@@ -207,118 +214,107 @@
   - "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD."
   - "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times."
 
-## 23. RNA-protein interactions could lead to new coronavirus drug targets
+## 24. RNA-protein interactions could lead to new coronavirus drug targets
 - 점수 6 · DOSE · Phys.org / MedicalXpress · 2026-11-03
 - https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study led by researchers at the University of California San Diego School of Medicine and University of California, Riverside (UCR) School of Medicine has identified new targets for antiviral drugs against coronaviruses, including SARS-CoV-2, the virus that causes COVID-19. These new targets could
 
-## 24. Dinosaur blood—oldest discovery rewrites what fossils can reveal about the past
+## 25. Dinosaur blood—oldest discovery rewrites what fossils can reveal about the past
 - 점수 6 · CUT · Phys.org · 2026-11-03
 - https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An international research team led by Curtin University has for the first time uncovered unequivocal evidence of fossilized red blood cells and amino acids of collagen, reshaping our understanding of fossil preservation and molecular longevity in deep time.
 
-## 25. Enhancing the cell's natural recycling center improves Alzheimer's features in animal models
+## 26. Enhancing the cell's natural recycling center improves Alzheimer's features in animal models
 - 점수 6 · CUT · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-cell-natural-recycling-center-alzheimer.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A defining feature of Alzheimer's disease is the abnormal, sustained accumulation of protein aggregates such as tau inside brain cells, which disrupts the cells' normal functions. As time passes, brain cells stop working and die, leading to a gradual decline in memory and thinking skills and other s
 
-## 26. Queen's University Belfast students find Neptune's elusive Trojan asteroids
+## 27. Queen's University Belfast students find Neptune's elusive Trojan asteroids
 - 점수 6 · PRESS · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An international team led by researchers at Queen's University Belfast has made a discovery that has eluded astronomers for decades. Beginning in 1906, telescope observations revealed a population of asteroids leading and trailing Jupiter, which came to be known as the "Trojan" and "Greek" populatio
 
-## 27. Australian survey reveals 60% eat raw fish or seafood, prompting safety warnings
+## 28. Australian survey reveals 60% eat raw fish or seafood, prompting safety warnings
 - 점수 6 · SCALE · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-australian-survey-reveals-raw-fish.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Ahead of Australian Food Safety Week, Nov. 7 to 14, 2026, with the theme "Raw food know the risk," the Food Safety Information Council has released new research showing 60% of Aussies consume raw fish or seafood, and 17% do so at least once a week.
 
-## 28. How an innate immune protein can control cholesterol, tumor growth and response to cancer therapy
+## 29. How an innate immune protein can control cholesterol, tumor growth and response to cancer therapy
 - 점수 6 · CUT · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-innate-immune-protein-cholesterol-tumor.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Scientists at the University of North Carolina Lineberger Comprehensive Cancer Center have discovered an unexpected role for a key innate immune protein, revealing how it helps regulate cholesterol levels inside cells and influences tumor growth and treatment response. The findings shed new light on
 
-## 29. Anorexia and bulimia cases projected to reach nearly 22 million by 2050
+## 30. Anorexia and bulimia cases projected to reach nearly 22 million by 2050
 - 점수 6 · DOSE · MedicalXpress · 2026-11-04
 - https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html
 - 주의: 과장 의심 단어
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Social media trending hashtags such as skinny girl dinner and thinspiration are promoting restrictive eating and a lifestyle centered on staying thin to millions of people around the world. This hunger for thinness is also finding its way into the misuse of GLP-1 drugs (glucagon-like peptide-1 recep
 
-## 30. Menopause can quietly weaken bones—here's what research reveals about protecting them
+## 31. Menopause can quietly weaken bones—here's what research reveals about protecting them
 - 점수 6 · CUT · MedicalXpress / The Conversation · 2026-11-03
 - https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A skeleton hanging on a door or standing in your neighbor's yard for Halloween looks like a finished structure. But the skeleton inside a living body is constantly changing. Around menopause, those changes can tip toward bone loss, often without pain or another obvious warning.
 
-## 31. Why people trust weight‑loss drug advice on social media, even when it may be misleading
+## 32. Why people trust weight‑loss drug advice on social media, even when it may be misleading
 - 점수 6 · DOSE · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Imagine scrolling through social media and seeing dramatic weight-loss results from people taking Mounjaro, Wegovy or Ozempic. They share photographs, discuss side effects and recommend ways to get the best results.
 
-## 32. Sunscreen myths explained: The truth about beef tallow, cancer and vitamin D
-- 점수 6 · SCALE · MedicalXpress · 2026-11-03
-- https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html
+## 33. Lab-grown neurons retain features of embryonic development
+- 점수 6 · CUT · Phys.org · 2026-11-04
+- https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html
+- 주의: 동물 실험, 세포·시험관
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Some people are so worried about sunscreen that they're swapping SPF 50 for beef tallow. Yes, the fat traditionally used to make roasted potatoes is now being promoted online as something you can spread on your skin before going into the sun.
+- 요약: Scientists from Skoltech, together with colleagues from the Kharkevich Institute for Information Transmission Problems of the Russian Academy of Sciences, Lomonosov Moscow State University and other organizations, conducted a comparative study of the 3D genome organization in neurons derived from in
 
-## 33. Ants prioritize brain energy during starvation, echoing pattern seen in humans
+## 34. Stone Age hunters in northern Europe may have used poison arrows to hunt big prey
+- 점수 6 · CUT · Phys.org · 2026-11-04
+- https://phys.org/news/2026-11-stone-age-hunters-northern-europe.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Autumn walks in Britain are glorious, as the foliage changes color and cool, crisp air begins to bite. However, some of these European trees hide a much darker secret. For example, the yew tree's lovely red arils—the cup-shaped coverings around the seeds—carry toxins that may have been used to poiso
+
+## 35. Ants prioritize brain energy during starvation, echoing pattern seen in humans
 - 점수 5 · WEIGH · Phys.org · 2026-10-28
 - https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The human brain accounts for roughly 2% of total body weight but uses approximately 20% of our body's energy. Relative to our body size, human brains are much larger than those of other mammals and take a lot of energy to keep humans going. The evolution of our unusually large "social brain" is thou
 
-## 34. Livelihood, education goals affect migration under climate change
+## 36. Livelihood, education goals affect migration under climate change
 - 점수 5 · PRESS · Phys.org · 2026-10-28
 - https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Climate-driven hazards can push many to leave their homes in search of a livelihood elsewhere, but aspirations for the future may change where they decide to migrate, according to a new study led by researchers at Penn State. At the same time, income losses due to climate shocks, or extreme weather 
 
-## 35. Sun's outer magnetic field mapped in 3D for the first time
+## 37. Sun's outer magnetic field mapped in 3D for the first time
 - 점수 5 · PRESS · Phys.org · 2026-10-29
 - https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are th
 
-## 36. UV scans uncover natural varnish that may have preserved ancient Chauvet Cave drawings
+## 38. UV scans uncover natural varnish that may have preserved ancient Chauvet Cave drawings
 - 점수 5 · CUT · Phys.org · 2026-10-29
 - https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Tucked away inside a limestone cave in southeastern France lies some of the oldest artwork in existence. Known as Chauvet Cave, the site is so historically important—and fragile—that its location is kept secret and the cave is locked behind a huge steel door. And now, researchers have devised a tech
 
-## 37. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
+## 39. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
 - 점수 5 · CUT · Phys.org · 2026-10-30
 - https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A collaborative research team led by Hiroyuki Imachi and Masaru K. Nobu of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) and Satoshi Nakagawa of Kyoto University has for the first time isolated and cultivated two strains of Heimdallarchaeia, a group of archaea that are among the
 
-## 38. Detailed images reveal ribosome assembly inside human cells for the first time
+## 40. Detailed images reveal ribosome assembly inside human cells for the first time
 - 점수 5 · CUT · Phys.org · 2026-10-30
 - https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins. However, putting ribosomes together requires intricate assembly processes. While many underlying mechanisms for building ribo
-
-## 39. Customizable nanoparticles show potential for delivering personalized cancer vaccines
-- 점수 5 · CUT · Phys.org · 2026-10-31
-- https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By preci
-
-## 40. Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate
-- 점수 5 · WEIGH · The Conversation / Phys.org · 2026-10-30
-- https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408
-- 주의: DOI 못 찾음
-- 요약: Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass throu
-  - "A study that my colleagues and I published in October 2026 suggests that we could potentially use radio telescopes to answer this question."
-  - "Scientists have been able to detect neutrinos from space – called astrophysical neutrinos – since the 1960s."
-  - "IceCube has used this approach to detect astrophysical neutrinos that are hundreds of thousands of times more energetic than those previously seen."
-  - "Quasars – objects where matter is being ripped apart by black holes millions of times more massive than our Sun – seem to be likely candidates."
-  - "In 2017, IceCube detected a neutrino that appeared to come from the direction of a quasar , known as TXS 0506+056, at the same time that a telescope detected an outburst of gamma radiation from that same object."

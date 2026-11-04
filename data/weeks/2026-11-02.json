@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 7
+   "span_days": 8
   }
  ],
  "top": [
@@ -148,6 +148,8 @@
    "date": "2026-11-04",
    "source": "MedicalXpress",
    "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -161,8 +163,7 @@
     "형식 DOSE",
     "훅: unexpected",
     "생활소재: alcohol"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html"
+   ]
   },
   {
    "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
@@ -271,6 +272,19 @@
    "date": "2026-11-03",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-04",
+   "text": "The liver may hold an unexpected key to fighting two of the most serious diseases associated with aging: Alzheimer's disease and heart disease. Scientists have discovered that restoring the function of aging liver cells can dramatically reduce harmful substances in the bloodstream, raising the possibility of treating diseases that affect organs far beyond the liver itself. In a new study involving older rats, researchers at the Keck School of Medicine of USC found that an experimental drug called cinaciguat reversed important signs of aging in specialized liver cells. After just two weeks of treatment, levels of amyloid beta, a protein associated with Alzheimer's disease, dropped by half. Levels of LDL, commonly called bad cholesterol, also returned to those seen in younger animals. The findings, published in the Journal of Biological Chemistry , also revealed a previously unknown way that liver cells communicate with one another. This discovery could help scientists develop treatments that restore the liver's ability to remove potentially harmful substances from the blood, possibly reducing the risk of Alzheimer's disease and atherosclerosis, a condition in which fatty deposits accumulate inside arteries. Although Alzheimer's primarily affects the brain, scientists are increasingly interested in how other organs might influence the disease. The liver plays a central role in filtering the blood and removing unwanted compounds, including substances that may contribute to disease when they accumulate. The USC findings suggest that restoring this natural cleaning process could offer a different approach to preventing certain age-related illnesses. However, the results have so far been demonstrated only in rats, and additional studies are needed to establish whether the same benefits occur in humans. \"We need to do further translational work to see whether our findings might point to new therapies,\" said corresponding author Laurie DeLeve, MD, PhD, professor and vice chair for scientific affairs in the USC Department of Medicine. \"We're hopeful, though, because the findings line up with a lot of epidemiological results showing age as a major risk factor for Alzheimer's and atherosclerosis, and liver damage as a risk factor for Alzheimer's.\" Targeting the liver could be particularly valuable in Alzheimer's research, where efforts to develop treatments acting directly in the brain have faced an estimated 98% failure rate in clinical trials. One major obstacle is the blood-brain barrier, a protective system that limits which substances can enter the brain from the bloodstream. While this barrier helps shield the brain from harmful compounds, it also makes delivering certain medications extremely difficult. \"If we're right that the liver is impactful, what do we do about that?\" said first author Sam de Leve, MA, a USC lab technician and child of Laurie DeLeve. \"Rather than trying to get a drug through the blood-brain barrier, which is obnoxiously difficult, we could direct drugs to the liver, an organ where there might be more therapeutic impact and certainly an easier job of drug delivery.\" To understand how liver aging affects the bloodstream, the researchers focused on a relatively understudied group of cells known as liver sinusoidal endothelial cells (LSECs). These cells form the lining of tiny blood vessels inside the liver. Unlike most blood vessel walls, they contain numerous microscopic openings that function somewhat like the holes in a sieve. These openings allow larger molecules circulating in the blood to reach neighboring cells called hepatocytes, which carry out much of the liver's work processing and removing substances from the body. As the liver ages, the openings in LSECs gradually become smaller or disappear. This makes it harder for certain large molecules to reach the cells responsible for clearing them, allowing more of these substances to remain in circulation. One substance affected by this change is amyloid beta. This protein is especially important in Alzheimer's research because it can accumulate in the brain and form plaques, one of the disease's defining features. Previous observations showed that the liver becomes less effective at removing amyloid beta as it ages. The researchers suspected that the gradual closing of the openings in LSECs might help explain why more of the protein remains in the bloodstream of older animals. To investigate, they administered cinaciguat to aged rats for two weeks. They then compared the treated animals with two untreated groups, one consisting of older rats and the other of younger rats. The results were striking. Cinaciguat restored the structure and function of the aging LSECs, reopening their microscopic pores and improving their ability to help clear substances from the blood. Amyloid beta concentrations fell by approximately 50%, reaching levels comparable to those in young rats. The untreated older animals showed no similar improvement. The researchers also measured low-density lipoproteins (LDL), often referred to as \"bad\" cholesterol because elevated levels contribute to fatty deposits inside arteries. Over time, these deposits can restrict blood flow and increase the risk of heart disease. Initially, LDL was included as a comparison measure rather than a substance expected to respond to treatment. Unlike larger molecules, LDL particles are small enough to leave the bloodstream without passing through the microscopic openings in LSECs. The scientists therefore expected cinaciguat to have little or no effect on LDL levels. Instead, they discovered that LDL concentrations in treated older rats also fell to levels observed in young animals. \"We said, 'Wait, why did that go down? Clearly, there's more to this story,'\" Sam de Leve said. The unexpected finding suggested that the drug was doing more than simply reopening the liver's aging filters. It appeared to be restoring another important aspect of liver function. Because previous research had shown that hepatocytes function better when LSECs are present, the team began examining how these two types of cells communicate. Their investigation uncovered a previously unknown sequence of biochemical signals that helps coordinate the liver's ability to remove substances from the bloodstream. The researchers found that cinaciguat activates an enzyme called soluble guanylate cyclase inside LSECs. This triggers the cells to release a growth factor known as HB-EGF, which sends a signal to nearby hepatocytes. In response, hepatocytes alter their surfaces in ways that allow them to capture more LDL and amyloid beta from the blood. This helps explain why the treatment reduced both substances, even though they do not rely on the same filtering mechanism. Normally, aging interferes with the ability of LSECs to release HB-EGF. Cinaciguat restored this signaling process, allowing the liver cells to communicate more effectively and supporting the removal of substances that otherwise tend to accumulate with age. The discovery identifies a potential new target for future drugs. Rather than focusing exclusively on the physical openings in LSECs, researchers may be able to develop therapies that restore the chemical signals responsible for helping the liver work efficiently. Could Liver Rejuvenation Help Prevent Alzheimer's and Heart Disease? According to the researchers, this is the first study to demonstrate that a drug can fully restore the structure and function of aging LSECs, including their ability to support the clearance of substances from the bloodstream. It is also the first to show that a treatment directed at the liver can bring age-related elevations in circulating amyloid beta and LDL back to youthful levels. These findings raise the possibility that cinaciguat, similar medications, or treatments targeting HB-EGF could eventually be used to counteract certain effects of liver aging. If those changes translate into meaningful protection against ",
+   "facts": [
+    "After just two weeks of treatment, levels of amyloid beta, a protein associated with Alzheimer's disease, dropped by half.",
+    "Amyloid beta concentrations fell by approximately 50%, reaching levels comparable to those in young rats.",
+    "The research received federal funding from the National Institutes of Health [R56AG071480, 5R01DK100580].",
+    "Scientists Finally Identify Mysterious Creature Nearly 90 Years After It Was First Found Scientists Say This Medication Could Be the Next “Wonder Drug” A Hidden DNA Mechanism Could Explain How 20% of Human Cancers Develop A Nutrient Found in Red Meat Could Make Dangerous Inflammation Even Worse"
+   ],
+   "doi": [
+    "10.1016/j.jbc.2026.113608"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Sam J. de Leve, Xiangdong Wang, Helia Alavifard, Lily Dara, Laurie D. DeLeve. Reversing liver sinusoidal endothelial aging restores clearance of amyloid-beta and LDL . Journal of Biological Chemistry , 2026; 302 (11): 113608 DOI: 10.1016/j.jbc.2026.113608",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -286,19 +300,7 @@
     "형식 CUT",
     "훅: surpris",
     "생활소재: aging, alzheimer"
-   ],
-   "text": "The liver may hold an unexpected key to fighting two of the most serious diseases associated with aging: Alzheimer's disease and heart disease. Scientists have discovered that restoring the function of aging liver cells can dramatically reduce harmful substances in the bloodstream, raising the possibility of treating diseases that affect organs far beyond the liver itself. In a new study involving older rats, researchers at the Keck School of Medicine of USC found that an experimental drug called cinaciguat reversed important signs of aging in specialized liver cells. After just two weeks of treatment, levels of amyloid beta, a protein associated with Alzheimer's disease, dropped by half. Levels of LDL, commonly called bad cholesterol, also returned to those seen in younger animals. The findings, published in the Journal of Biological Chemistry , also revealed a previously unknown way that liver cells communicate with one another. This discovery could help scientists develop treatments that restore the liver's ability to remove potentially harmful substances from the blood, possibly reducing the risk of Alzheimer's disease and atherosclerosis, a condition in which fatty deposits accumulate inside arteries. Although Alzheimer's primarily affects the brain, scientists are increasingly interested in how other organs might influence the disease. The liver plays a central role in filtering the blood and removing unwanted compounds, including substances that may contribute to disease when they accumulate. The USC findings suggest that restoring this natural cleaning process could offer a different approach to preventing certain age-related illnesses. However, the results have so far been demonstrated only in rats, and additional studies are needed to establish whether the same benefits occur in humans. \"We need to do further translational work to see whether our findings might point to new therapies,\" said corresponding author Laurie DeLeve, MD, PhD, professor and vice chair for scientific affairs in the USC Department of Medicine. \"We're hopeful, though, because the findings line up with a lot of epidemiological results showing age as a major risk factor for Alzheimer's and atherosclerosis, and liver damage as a risk factor for Alzheimer's.\" Targeting the liver could be particularly valuable in Alzheimer's research, where efforts to develop treatments acting directly in the brain have faced an estimated 98% failure rate in clinical trials. One major obstacle is the blood-brain barrier, a protective system that limits which substances can enter the brain from the bloodstream. While this barrier helps shield the brain from harmful compounds, it also makes delivering certain medications extremely difficult. \"If we're right that the liver is impactful, what do we do about that?\" said first author Sam de Leve, MA, a USC lab technician and child of Laurie DeLeve. \"Rather than trying to get a drug through the blood-brain barrier, which is obnoxiously difficult, we could direct drugs to the liver, an organ where there might be more therapeutic impact and certainly an easier job of drug delivery.\" To understand how liver aging affects the bloodstream, the researchers focused on a relatively understudied group of cells known as liver sinusoidal endothelial cells (LSECs). These cells form the lining of tiny blood vessels inside the liver. Unlike most blood vessel walls, they contain numerous microscopic openings that function somewhat like the holes in a sieve. These openings allow larger molecules circulating in the blood to reach neighboring cells called hepatocytes, which carry out much of the liver's work processing and removing substances from the body. As the liver ages, the openings in LSECs gradually become smaller or disappear. This makes it harder for certain large molecules to reach the cells responsible for clearing them, allowing more of these substances to remain in circulation. One substance affected by this change is amyloid beta. This protein is especially important in Alzheimer's research because it can accumulate in the brain and form plaques, one of the disease's defining features. Previous observations showed that the liver becomes less effective at removing amyloid beta as it ages. The researchers suspected that the gradual closing of the openings in LSECs might help explain why more of the protein remains in the bloodstream of older animals. To investigate, they administered cinaciguat to aged rats for two weeks. They then compared the treated animals with two untreated groups, one consisting of older rats and the other of younger rats. The results were striking. Cinaciguat restored the structure and function of the aging LSECs, reopening their microscopic pores and improving their ability to help clear substances from the blood. Amyloid beta concentrations fell by approximately 50%, reaching levels comparable to those in young rats. The untreated older animals showed no similar improvement. The researchers also measured low-density lipoproteins (LDL), often referred to as \"bad\" cholesterol because elevated levels contribute to fatty deposits inside arteries. Over time, these deposits can restrict blood flow and increase the risk of heart disease. Initially, LDL was included as a comparison measure rather than a substance expected to respond to treatment. Unlike larger molecules, LDL particles are small enough to leave the bloodstream without passing through the microscopic openings in LSECs. The scientists therefore expected cinaciguat to have little or no effect on LDL levels. Instead, they discovered that LDL concentrations in treated older rats also fell to levels observed in young animals. \"We said, 'Wait, why did that go down? Clearly, there's more to this story,'\" Sam de Leve said. The unexpected finding suggested that the drug was doing more than simply reopening the liver's aging filters. It appeared to be restoring another important aspect of liver function. Because previous research had shown that hepatocytes function better when LSECs are present, the team began examining how these two types of cells communicate. Their investigation uncovered a previously unknown sequence of biochemical signals that helps coordinate the liver's ability to remove substances from the bloodstream. The researchers found that cinaciguat activates an enzyme called soluble guanylate cyclase inside LSECs. This triggers the cells to release a growth factor known as HB-EGF, which sends a signal to nearby hepatocytes. In response, hepatocytes alter their surfaces in ways that allow them to capture more LDL and amyloid beta from the blood. This helps explain why the treatment reduced both substances, even though they do not rely on the same filtering mechanism. Normally, aging interferes with the ability of LSECs to release HB-EGF. Cinaciguat restored this signaling process, allowing the liver cells to communicate more effectively and supporting the removal of substances that otherwise tend to accumulate with age. The discovery identifies a potential new target for future drugs. Rather than focusing exclusively on the physical openings in LSECs, researchers may be able to develop therapies that restore the chemical signals responsible for helping the liver work efficiently. Could Liver Rejuvenation Help Prevent Alzheimer's and Heart Disease? According to the researchers, this is the first study to demonstrate that a drug can fully restore the structure and function of aging LSECs, including their ability to support the clearance of substances from the bloodstream. It is also the first to show that a treatment directed at the liver can bring age-related elevations in circulating amyloid beta and LDL back to youthful levels. These findings raise the possibility that cinaciguat, similar medications, or treatments targeting HB-EGF could eventually be used to counteract certain effects of liver aging. If those changes translate into meaningful protection against ",
-   "doi": [
-    "10.1016/j.jbc.2026.113608"
-   ],
-   "journal_ref": "Journal Reference : Sam J. de Leve, Xiangdong Wang, Helia Alavifard, Lily Dara, Laurie D. DeLeve. Reversing liver sinusoidal endothelial aging restores clearance of amyloid-beta and LDL . Journal of Biological Chemistry , 2026; 302 (11): 113608 DOI: 10.1016/j.jbc.2026.113608",
-   "facts": [
-    "After just two weeks of treatment, levels of amyloid beta, a protein associated with Alzheimer's disease, dropped by half.",
-    "Amyloid beta concentrations fell by approximately 50%, reaching levels comparable to those in young rats.",
-    "The research received federal funding from the National Institutes of Health [R56AG071480, 5R01DK100580].",
-    "Scientists Finally Identify Mysterious Creature Nearly 90 Years After It Was First Found Scientists Say This Medication Could Be the Next “Wonder Drug” A Hidden DNA Mechanism Could Explain How 20% of Human Cancers Develop A Nutrient Found in Red Meat Could Make Dangerous Inflammation Even Worse"
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
@@ -488,6 +490,27 @@
    "date": "2026-11-03",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-04",
+   "text": "Eating mango and avocado every day could offer unexpected benefits for heart health, according to new research. In a study lasting just eight weeks, adults with prediabetes who regularly ate both fruits experienced improvements in blood vessel function and blood pressure, without gaining weight or consuming more calories. The findings could be especially relevant to the one in three (98 million) Americans with prediabetes, a condition in which blood sugar levels are elevated but have not yet reached the threshold for type 2 diabetes. Published in the Journal of the American Heart Association , the research suggests that incorporating these two nutrient-rich fruits into everyday meals may help support cardiovascular health. Researchers at Illinois Institute of Technology (Illinois Tech) investigated the effects of an Avocado-Mango (AM) diet that included one medium Hass avocado and one cup of fresh mango each day. Participants followed this eating plan for eight weeks, while a comparison group consumed a similar diet in which the fruits were replaced with carbohydrate-based foods containing equivalent calories. The results revealed notable differences between the groups, particularly in how well their blood vessels functioned and how their blood pressure changed over time. One of the clearest improvements involved the ability of blood vessels to expand as blood flows through them. This flexibility helps maintain healthy circulation and is an important indicator of cardiovascular health. To evaluate this response, researchers measured flow-mediated dilation (FMD), a commonly used test of endothelial function (blood vessel health). The endothelium is the thin layer of cells lining the inside of blood vessels, where it helps regulate circulation and the widening and narrowing of arteries. Among participants eating avocado and mango, the measurement increased significantly to 6.7%. In contrast, it declined to 4.6% in the control group. The difference suggests that regularly consuming these fruits may help blood vessels function more effectively. Blood pressure measurements also showed encouraging changes, especially among male participants. Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points. Diastolic blood pressure, the lower number in a blood pressure reading, reflects the pressure inside arteries when the heart relaxes between beats. Maintaining healthy levels is important because elevated blood pressure can place additional strain on the cardiovascular system. Researchers noted that the differences observed in the study could be clinically meaningful if they persist over time. Importantly, the cardiovascular improvements occurred without significant changes in participants' body weight or total calorie consumption. This suggests that the nutritional quality of the foods people eat may influence heart health even when their weight remains stable. “This research reinforces the power of food-first strategies to help reduce cardiovascular disease risk, particularly in vulnerable populations like those with prediabetes,” said Britt Burton-Freeman, PhD, Principal Investigator and Professor at Illinois Tech. “It’s an encouraging message: small, nutrient-dense additions—like incorporating avocado and mango into meals and snacks—may support heart health without the need for strict rules or major dietary overhauls.” Beyond the improvements in blood vessel function and blood pressure, participants eating mango and avocado consumed more fiber, vitamin C, and monounsaturated fat. These nutrients are associated with cardiovascular wellness and may help explain some of the observed benefits. Researchers also identified improvements in certain indicators of kidney health, including estimated glomerular filtration rate (eGFR), a measurement used to assess how effectively the kidneys filter waste from the blood. However, the fruits did not produce significant improvements in every health measurement. Cholesterol levels, blood sugar, and markers of inflammation remained largely unchanged compared with the control group. Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease. Although mango and avocado have very different flavors and nutritional profiles, they provide complementary nutrients that support several aspects of cardiovascular and metabolic health. Mango provides dietary fiber (2g/serving, 7% DV, Mango serving size: ¾ cup) and is an excellent source of vitamin C (50% DV). Vitamin C is an antioxidant that helps protect cells from damage, while fiber contributes to healthy digestion and may help with blood sugar regulation, weight management, and cardiovascular wellness. Avocado offers another combination of potentially beneficial nutrients. It contains fiber (3g/serving, 11% DV, Avocado serving size: 50 g (1/3 of a medium avocado)), which plays a role in managing cholesterol, blood sugar, and body weight. It also supplies unsaturated fats (6g unsaturated fats), which can support heart health by helping reduce LDL cholesterol, often called bad cholesterol, when they replace less healthy fats in the diet. Additionally, avocado contains potassium (250mg, 6% DV), a mineral involved in regulating blood pressure. By providing fiber, antioxidants, healthy fats, and potassium, mango and avocado offer a convenient way to increase the nutritional value of everyday meals. However, the study did not establish whether eating the two fruits together provides greater benefits than consuming either fruit separately. Incorporating these fruits into meals does not require a complicated eating plan. Their contrasting flavors and textures make them useful ingredients in salads, smoothies, and grain bowls. For example, fresh mango can add sweetness to a savory dish, while avocado contributes a rich, creamy texture. Both can be used in recipes such as Mango Avocado Tuna Ceviche or an Avocado and Mango Topper . Additional recipes and nutritional information are available at Mango.org and LoveOneToday.com . The investigation included 82 adults between the ages of 25 and 60 who had prediabetes and were classified as having overweight or obesity (BMI 25–35 kg/m2). All participants were generally healthy, did not smoke, were not following specialized diets, and had no major chronic medical conditions. Over eight weeks, participants followed calorie-controlled eating plans modeled on typical American dietary patterns. One group ate a medium Hass avocado and a cup of fresh mango daily, while the control group received carbohydrate-based alternatives with comparable calorie content. To make the comparison as consistent as possible, researchers prepared and supplied meals covering 75% of each participant's estimated daily calorie needs. Participants chose their remaining foods independently, allowing some flexibility while helping the researchers limit differences between the two diets and encourage adherence. The primary measurement was flow-mediated dilation (FMD), a noninvasive method for assessing how effectively blood vessels respond to increased circulation. Researchers also examined blood pressure, blood sugar, and other metabolic indicators, inflammation, kidney function, and dietary nutrient intake. Despite the additional fruits, the avocado and mango group did not experience significant changes in body weight or overall calorie intake. This finding suggests that incorporating nutrient-dense foods into an otherwise balanced diet may improve certain aspects of cardiometabolic health without necessarily contributing to weight gain. The study had several strengths, including its carefully controlled feeding approach, two parallel comparison group",
+   "facts": [
+    "The findings could be especially relevant to the one in three (98 million) Americans with prediabetes, a condition in which blood sugar levels are elevated but have not yet reached the threshold for type 2 diabetes.",
+    "Among participants eating avocado and mango, the measurement increased significantly to 6.7%.",
+    "In contrast, it declined to 4.6% in the control group.",
+    "Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points.",
+    "Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease.",
+    "Mango provides dietary fiber (2g/serving, 7% DV, Mango serving size: ¾ cup) and is an excellent source of vitamin C (50% DV).",
+    "It contains fiber (3g/serving, 11% DV, Avocado serving size: 50 g (1/3 of a medium avocado)), which plays a role in managing cholesterol, blood sugar, and body weight.",
+    "It also supplies unsaturated fats (6g unsaturated fats), which can support heart health by helping reduce LDL cholesterol, often called bad cholesterol, when they replace less healthy fats in the diet.",
+    "Additionally, avocado contains potassium (250mg, 6% DV), a mineral involved in regulating blood pressure.",
+    "The investigation included 82 adults between the ages of 25 and 60 who had prediabetes and were classified as having overweight or obesity (BMI 25–35 kg/m2)."
+   ],
+   "doi": [
+    "10.1161/JAHA.124.040933"
+   ],
+   "sample": [
+    "82 adults"
+   ],
+   "journal_ref": "Journal Reference : Chelsea Preiss, Sameer Tunio, Lasantha Krishan Hirimuthugoda, Rebecca Zoltoski, Rachael L. Ellison, Amandeep K. Sandhu, Indika Edirisinghe, Britt M. Burton‐Freeman. Effects of Increasing Total Fruit Intake With Avocado and Mango on Endothelial Function and Cardiometabolic Risk Factors in Adults With Prediabetes . Journal of the American Heart Association , 2026; 15 (4) DOI: 10.",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -501,26 +524,6 @@
     "형식 SCALE",
     "훅: surpris",
     "생활소재: diet"
-   ],
-   "text": "Eating mango and avocado every day could offer unexpected benefits for heart health, according to new research. In a study lasting just eight weeks, adults with prediabetes who regularly ate both fruits experienced improvements in blood vessel function and blood pressure, without gaining weight or consuming more calories. The findings could be especially relevant to the one in three (98 million) Americans with prediabetes, a condition in which blood sugar levels are elevated but have not yet reached the threshold for type 2 diabetes. Published in the Journal of the American Heart Association , the research suggests that incorporating these two nutrient-rich fruits into everyday meals may help support cardiovascular health. Researchers at Illinois Institute of Technology (Illinois Tech) investigated the effects of an Avocado-Mango (AM) diet that included one medium Hass avocado and one cup of fresh mango each day. Participants followed this eating plan for eight weeks, while a comparison group consumed a similar diet in which the fruits were replaced with carbohydrate-based foods containing equivalent calories. The results revealed notable differences between the groups, particularly in how well their blood vessels functioned and how their blood pressure changed over time. One of the clearest improvements involved the ability of blood vessels to expand as blood flows through them. This flexibility helps maintain healthy circulation and is an important indicator of cardiovascular health. To evaluate this response, researchers measured flow-mediated dilation (FMD), a commonly used test of endothelial function (blood vessel health). The endothelium is the thin layer of cells lining the inside of blood vessels, where it helps regulate circulation and the widening and narrowing of arteries. Among participants eating avocado and mango, the measurement increased significantly to 6.7%. In contrast, it declined to 4.6% in the control group. The difference suggests that regularly consuming these fruits may help blood vessels function more effectively. Blood pressure measurements also showed encouraging changes, especially among male participants. Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points. Diastolic blood pressure, the lower number in a blood pressure reading, reflects the pressure inside arteries when the heart relaxes between beats. Maintaining healthy levels is important because elevated blood pressure can place additional strain on the cardiovascular system. Researchers noted that the differences observed in the study could be clinically meaningful if they persist over time. Importantly, the cardiovascular improvements occurred without significant changes in participants' body weight or total calorie consumption. This suggests that the nutritional quality of the foods people eat may influence heart health even when their weight remains stable. “This research reinforces the power of food-first strategies to help reduce cardiovascular disease risk, particularly in vulnerable populations like those with prediabetes,” said Britt Burton-Freeman, PhD, Principal Investigator and Professor at Illinois Tech. “It’s an encouraging message: small, nutrient-dense additions—like incorporating avocado and mango into meals and snacks—may support heart health without the need for strict rules or major dietary overhauls.” Beyond the improvements in blood vessel function and blood pressure, participants eating mango and avocado consumed more fiber, vitamin C, and monounsaturated fat. These nutrients are associated with cardiovascular wellness and may help explain some of the observed benefits. Researchers also identified improvements in certain indicators of kidney health, including estimated glomerular filtration rate (eGFR), a measurement used to assess how effectively the kidneys filter waste from the blood. However, the fruits did not produce significant improvements in every health measurement. Cholesterol levels, blood sugar, and markers of inflammation remained largely unchanged compared with the control group. Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease. Although mango and avocado have very different flavors and nutritional profiles, they provide complementary nutrients that support several aspects of cardiovascular and metabolic health. Mango provides dietary fiber (2g/serving, 7% DV, Mango serving size: ¾ cup) and is an excellent source of vitamin C (50% DV). Vitamin C is an antioxidant that helps protect cells from damage, while fiber contributes to healthy digestion and may help with blood sugar regulation, weight management, and cardiovascular wellness. Avocado offers another combination of potentially beneficial nutrients. It contains fiber (3g/serving, 11% DV, Avocado serving size: 50 g (1/3 of a medium avocado)), which plays a role in managing cholesterol, blood sugar, and body weight. It also supplies unsaturated fats (6g unsaturated fats), which can support heart health by helping reduce LDL cholesterol, often called bad cholesterol, when they replace less healthy fats in the diet. Additionally, avocado contains potassium (250mg, 6% DV), a mineral involved in regulating blood pressure. By providing fiber, antioxidants, healthy fats, and potassium, mango and avocado offer a convenient way to increase the nutritional value of everyday meals. However, the study did not establish whether eating the two fruits together provides greater benefits than consuming either fruit separately. Incorporating these fruits into meals does not require a complicated eating plan. Their contrasting flavors and textures make them useful ingredients in salads, smoothies, and grain bowls. For example, fresh mango can add sweetness to a savory dish, while avocado contributes a rich, creamy texture. Both can be used in recipes such as Mango Avocado Tuna Ceviche or an Avocado and Mango Topper . Additional recipes and nutritional information are available at Mango.org and LoveOneToday.com . The investigation included 82 adults between the ages of 25 and 60 who had prediabetes and were classified as having overweight or obesity (BMI 25–35 kg/m2). All participants were generally healthy, did not smoke, were not following specialized diets, and had no major chronic medical conditions. Over eight weeks, participants followed calorie-controlled eating plans modeled on typical American dietary patterns. One group ate a medium Hass avocado and a cup of fresh mango daily, while the control group received carbohydrate-based alternatives with comparable calorie content. To make the comparison as consistent as possible, researchers prepared and supplied meals covering 75% of each participant's estimated daily calorie needs. Participants chose their remaining foods independently, allowing some flexibility while helping the researchers limit differences between the two diets and encourage adherence. The primary measurement was flow-mediated dilation (FMD), a noninvasive method for assessing how effectively blood vessels respond to increased circulation. Researchers also examined blood pressure, blood sugar, and other metabolic indicators, inflammation, kidney function, and dietary nutrient intake. Despite the additional fruits, the avocado and mango group did not experience significant changes in body weight or overall calorie intake. This finding suggests that incorporating nutrient-dense foods into an otherwise balanced diet may improve certain aspects of cardiometabolic health without necessarily contributing to weight gain. The study had several strengths, including its carefully controlled feeding approach, two parallel comparison group",
-   "doi": [
-    "10.1161/JAHA.124.040933"
-   ],
-   "journal_ref": "Journal Reference : Chelsea Preiss, Sameer Tunio, Lasantha Krishan Hirimuthugoda, Rebecca Zoltoski, Rachael L. Ellison, Amandeep K. Sandhu, Indika Edirisinghe, Britt M. Burton‐Freeman. Effects of Increasing Total Fruit Intake With Avocado and Mango on Endothelial Function and Cardiometabolic Risk Factors in Adults With Prediabetes . Journal of the American Heart Association , 2026; 15 (4) DOI: 10.",
-   "facts": [
-    "The findings could be especially relevant to the one in three (98 million) Americans with prediabetes, a condition in which blood sugar levels are elevated but have not yet reached the threshold for type 2 diabetes.",
-    "Among participants eating avocado and mango, the measurement increased significantly to 6.7%.",
-    "In contrast, it declined to 4.6% in the control group.",
-    "Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points.",
-    "Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease.",
-    "Mango provides dietary fiber (2g/serving, 7% DV, Mango serving size: ¾ cup) and is an excellent source of vitamin C (50% DV).",
-    "It contains fiber (3g/serving, 11% DV, Avocado serving size: 50 g (1/3 of a medium avocado)), which plays a role in managing cholesterol, blood sugar, and body weight.",
-    "It also supplies unsaturated fats (6g unsaturated fats), which can support heart health by helping reduce LDL cholesterol, often called bad cholesterol, when they replace less healthy fats in the diet.",
-    "Additionally, avocado contains potassium (250mg, 6% DV), a mineral involved in regulating blood pressure.",
-    "The investigation included 82 adults between the ages of 25 and 60 who had prediabetes and were classified as having overweight or obesity (BMI 25–35 kg/m2)."
-   ],
-   "sample": [
-    "82 adults"
    ]
   },
   {
@@ -531,6 +534,20 @@
    "date": "2026-11-03",
    "source": "The Conversation",
    "first_seen": "2026-11-04",
+   "text": "It’s getting harder and harder to figure out what to eat. A scroll through social media raises many questions. Why is food so expensive? Am I getting enough protein? What about fiber? Do I need supplements? Should I be making all my bread at home? What foods were recalled this week? These questions make trips to the grocery store and mealtime decisions more difficult. For centuries, some people have turned to their religious texts and traditions for answers. In “ Born Again Bodies ,” religious studies scholar R. Marie Griffith traces how Protestant Christian ideas on faith and the body shaped the development of American diet and fitness culture. Through my decade of ethnographic research on religious food movements, I have found that many Americans are still turning to religion as they decide what to eat. I analyzed four religious alternative food movements in my 2025 book, “ Free-Range Religion .” I argue there that these movements aren’t just changing what they eat; they are working to reshape the American food system from the ground up. Two of the sites I studied were Jewish farms that were providing experiential education opportunities for the local Jewish community. It was part of their larger mission to reconnect Jews to the land and to the agrarian roots of Judaism. They often point out that the ancient Israelites were an agrarian people and that many Jewish laws, values and holidays were shaped by that context. At the Isabella Freedman Jewish Retreat Center in Falls Village, Connecticut, I worked alongside young Jewish adults participating in a three-month program, the Adamah Farm Fellowship , as they planted, harvested and prepared produce for their weekly community supported agriculture program. The fellows begin their days with a morning prayer session and take time away from their work on the farm to celebrate Shabbat together. The fellows also attend classes where they learn about the biblical laws and ethical concepts related to agriculture, alongside scientific research on sustainable agriculture. I conducted my fieldwork during a “shmita” year, a year of rest for the land . Just as the Hebrew Bible instructed Jews to work for six days and rest on Shabbat, the seventh day, they were also instructed to work their land for six years and then let it rest in the seventh year, the shmita year. Farms took different approaches to the “shmita” year: The Adamah Farm Fellows kept their fields in production and started a community garden to mark their observance of the “shmita” year. At the Pearlstone center in Reisterstown, Maryland, the farmers replaced their usual rows of vegetables with cover crops that would enrich the soil during its year of rest. They also canceled their community supported agriculture program and focused their educational programs on the Jewish texts and traditions of “shmita” and the importance of rest for all beings. Another group I studied were followers of the Hallelujah Diet, a plant-based diet rooted in the biblical story of the Garden of Eden. In “ The Hallelujah Diet ,” first published in 2006, the Rev. George Malkmus determined that the ideal food system was laid out in the first chapter of the Book of Genesis, where God instructs humans to eat plants, fruits and seeds . In the Garden of Eden, Adam and Eve would not have had access to cooked food, so the Hallelujah Diet also prioritizes the consumption of raw, uncooked vegan foods. I attended a Hallelujah Diet health retreat in Lake Lure, North Carolina, in 2015 with nine followers of the Hallelujah Diet. This was a small subset of Hallelujah dieters. In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters. Religion scholar Annie Blazer found that followers of the Hallelujah Diet tend to believe that it will cure their ailments and help them lead long and healthy lives. I found that the reality is a bit more complicated. The retreat guests were adopting the diet in the hope that it would help them address medical issues, but they were not solely relying on the diet to heal them. The retreat guests were also seeing healthcare professionals and taking medications, recovering from or scheduling surgeries, and visiting physical therapists. The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina. The Baldwins are Christian and raise their cows in line with their understanding that, according to the Bible, cows are meant to live on pasture and eat grass. This differs from the more common practice in the United States of moving cattle to feedlots for their final months and feeding them grain . The Baldwins also collaborated with a smaller-scale halal slaughterhouse to ensure that their cows experienced less stress in their final moments. Christians and many other religious Americans have been wrestling with their relationship with animals and the ethics of eating meat since the 19th century. Many contemporary religious and nonreligious movements are reconsidering current animal welfare practices. In some cases, this means advocacy for vegetarianism or veganism and in others it means working to address issues in animal agriculture. I use the term “free-range religion” in my book’s title for a reason: Americans belong to many communities at once, including religious communities, and the boundaries between communities are often porous. For example, on the surface, the Hallelujah Diet book appears to be a Christian diet, written by a reverend. But I found that the reality was more complicated. At the Hallelujah Diet health retreat I attended, all the participants were Christian – except for me, I’m Jewish – but the leaders of the retreat were Messianic Jews , who identify as Jews but believe Jesus was the Messiah. During our time at the retreat, we encountered a number of theological differences within our group, but our hosts encouraged us to remain focused on our shared interest in improving our bodily health. In our educational sessions, medical doctors were cited as sources alongside biblical prophets, reflecting the range of authorities Hallelujah dieters recognize. The retreat participants similarly incorporated an array of practices into their daily lives, including yoga, meditation and the use of essential oils. They saw some of these practices as part of their spiritual practice, while others were curtained off as “new age” and were seen as practices they engaged in outside of their Christianity. As British anthropologist Mary Douglas demonstrated many decades ago in “ Purity and Danger ,” religion plays a central role in food choices as communities make determinations about what is considered clean and unclean. For many religious communities, food rules bring them together through shared values and identities but also separate them from others. That is certainly happening today. Many communities still use food as a way to establish boundaries for membership. Jewish communities, for example, regularly establish rules around what people can bring to events to preserve the kosher status of synagogue kitchens. The kosher laws include restrictions on the types of meat that can be consumed and prohibits mixing meat and dairy in the same meal, so keeping a kitchen kosher requires communal adherence to these rules. But these food decisions are also bringing religious and nonreligious people together in interesting ways and creating new collaborations in their efforts to transform the food system. The Jewish farmers from Adamah and Pearlstone are now part of a large umbrella organization, also called Adamah , that engages in interfaith climate advocacy work at national and international levels. All of the groups I studied identified a concern regarding the food system. For the Jewish farmers, it was that Jews had become disconnected from food production. For the Hallelujah dieters, it was a concern that people were no",
+   "facts": [
+    "I analyzed four religious alternative food movements in my 2025 book, “ Free-Range Religion .” I argue there that these movements aren’t just changing what they eat; they are working to reshape the American food system from the ground up.",
+    "In “ The Hallelujah Diet ,” first published in 2006, the Rev.",
+    "I attended a Hallelujah Diet health retreat in Lake Lure, North Carolina, in 2015 with nine followers of the Hallelujah Diet.",
+    "In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters.",
+    "The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina.",
+    "Christians and many other religious Americans have been wrestling with their relationship with animals and the ethics of eating meat since the 19th century."
+   ],
+   "doi": [],
+   "sample": [],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
    "sources": [
     "The Conversation"
    ],
@@ -545,18 +562,32 @@
    "why": [
     "형식 SCALE",
     "생활소재: diet"
+   ]
+  },
+  {
+   "title": "Single dose of healthy liver vesicles may protect against alcohol damage",
+   "link": "https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html",
+   "key": "https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html",
+   "summary": "Alcohol-related liver disease (ALD) is characterized by hepatocellular injury, oxidative stress, inflammation and extracellular matrix remodeling, yet effective therapies remain limited. New research in The American Journal of Pathology, found that a single dose of liver matrix-bound nanovesicles (MBVs) derived from healthy porcine tissue reduced liver injury, fat accumulation and oxidative stress in alcohol-fed mice, pointing to a possible new therapeutic strategy for ALD.",
+   "date": "2026-11-04",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "MedicalXpress"
    ],
-   "text": "It’s getting harder and harder to figure out what to eat. A scroll through social media raises many questions. Why is food so expensive? Am I getting enough protein? What about fiber? Do I need supplements? Should I be making all my bread at home? What foods were recalled this week? These questions make trips to the grocery store and mealtime decisions more difficult. For centuries, some people have turned to their religious texts and traditions for answers. In “ Born Again Bodies ,” religious studies scholar R. Marie Griffith traces how Protestant Christian ideas on faith and the body shaped the development of American diet and fitness culture. Through my decade of ethnographic research on religious food movements, I have found that many Americans are still turning to religion as they decide what to eat. I analyzed four religious alternative food movements in my 2025 book, “ Free-Range Religion .” I argue there that these movements aren’t just changing what they eat; they are working to reshape the American food system from the ground up. Two of the sites I studied were Jewish farms that were providing experiential education opportunities for the local Jewish community. It was part of their larger mission to reconnect Jews to the land and to the agrarian roots of Judaism. They often point out that the ancient Israelites were an agrarian people and that many Jewish laws, values and holidays were shaped by that context. At the Isabella Freedman Jewish Retreat Center in Falls Village, Connecticut, I worked alongside young Jewish adults participating in a three-month program, the Adamah Farm Fellowship , as they planted, harvested and prepared produce for their weekly community supported agriculture program. The fellows begin their days with a morning prayer session and take time away from their work on the farm to celebrate Shabbat together. The fellows also attend classes where they learn about the biblical laws and ethical concepts related to agriculture, alongside scientific research on sustainable agriculture. I conducted my fieldwork during a “shmita” year, a year of rest for the land . Just as the Hebrew Bible instructed Jews to work for six days and rest on Shabbat, the seventh day, they were also instructed to work their land for six years and then let it rest in the seventh year, the shmita year. Farms took different approaches to the “shmita” year: The Adamah Farm Fellows kept their fields in production and started a community garden to mark their observance of the “shmita” year. At the Pearlstone center in Reisterstown, Maryland, the farmers replaced their usual rows of vegetables with cover crops that would enrich the soil during its year of rest. They also canceled their community supported agriculture program and focused their educational programs on the Jewish texts and traditions of “shmita” and the importance of rest for all beings. Another group I studied were followers of the Hallelujah Diet, a plant-based diet rooted in the biblical story of the Garden of Eden. In “ The Hallelujah Diet ,” first published in 2006, the Rev. George Malkmus determined that the ideal food system was laid out in the first chapter of the Book of Genesis, where God instructs humans to eat plants, fruits and seeds . In the Garden of Eden, Adam and Eve would not have had access to cooked food, so the Hallelujah Diet also prioritizes the consumption of raw, uncooked vegan foods. I attended a Hallelujah Diet health retreat in Lake Lure, North Carolina, in 2015 with nine followers of the Hallelujah Diet. This was a small subset of Hallelujah dieters. In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters. Religion scholar Annie Blazer found that followers of the Hallelujah Diet tend to believe that it will cure their ailments and help them lead long and healthy lives. I found that the reality is a bit more complicated. The retreat guests were adopting the diet in the hope that it would help them address medical issues, but they were not solely relying on the diet to heal them. The retreat guests were also seeing healthcare professionals and taking medications, recovering from or scheduling surgeries, and visiting physical therapists. The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina. The Baldwins are Christian and raise their cows in line with their understanding that, according to the Bible, cows are meant to live on pasture and eat grass. This differs from the more common practice in the United States of moving cattle to feedlots for their final months and feeding them grain . The Baldwins also collaborated with a smaller-scale halal slaughterhouse to ensure that their cows experienced less stress in their final moments. Christians and many other religious Americans have been wrestling with their relationship with animals and the ethics of eating meat since the 19th century. Many contemporary religious and nonreligious movements are reconsidering current animal welfare practices. In some cases, this means advocacy for vegetarianism or veganism and in others it means working to address issues in animal agriculture. I use the term “free-range religion” in my book’s title for a reason: Americans belong to many communities at once, including religious communities, and the boundaries between communities are often porous. For example, on the surface, the Hallelujah Diet book appears to be a Christian diet, written by a reverend. But I found that the reality was more complicated. At the Hallelujah Diet health retreat I attended, all the participants were Christian – except for me, I’m Jewish – but the leaders of the retreat were Messianic Jews , who identify as Jews but believe Jesus was the Messiah. During our time at the retreat, we encountered a number of theological differences within our group, but our hosts encouraged us to remain focused on our shared interest in improving our bodily health. In our educational sessions, medical doctors were cited as sources alongside biblical prophets, reflecting the range of authorities Hallelujah dieters recognize. The retreat participants similarly incorporated an array of practices into their daily lives, including yoga, meditation and the use of essential oils. They saw some of these practices as part of their spiritual practice, while others were curtained off as “new age” and were seen as practices they engaged in outside of their Christianity. As British anthropologist Mary Douglas demonstrated many decades ago in “ Purity and Danger ,” religion plays a central role in food choices as communities make determinations about what is considered clean and unclean. For many religious communities, food rules bring them together through shared values and identities but also separate them from others. That is certainly happening today. Many communities still use food as a way to establish boundaries for membership. Jewish communities, for example, regularly establish rules around what people can bring to events to preserve the kosher status of synagogue kitchens. The kosher laws include restrictions on the types of meat that can be consumed and prohibits mixing meat and dairy in the same meal, so keeping a kitchen kosher requires communal adherence to these rules. But these food decisions are also bringing religious and nonreligious people together in interesting ways and creating new collaborations in their efforts to transform the food system. The Jewish farmers from Adamah and Pearlstone are now part of a large umbrella organization, also called Adamah , that engages in interfaith climate advocacy work at national and international levels. All of the groups I studied identified a concern regarding the food system. For the Jewish farmers, it was that Jews had become disconnected from food production. For the Hallelujah dieters, it was a concern that people were no",
-   "doi": [],
-   "facts": [
-    "I analyzed four religious alternative food movements in my 2025 book, “ Free-Range Religion .” I argue there that these movements aren’t just changing what they eat; they are working to reshape the American food system from the ground up.",
-    "In “ The Hallelujah Diet ,” first published in 2006, the Rev.",
-    "I attended a Hallelujah Diet health retreat in Lake Lure, North Carolina, in 2015 with nine followers of the Hallelujah Diet.",
-    "In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters.",
-    "The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina.",
-    "Christians and many other religious Americans have been wrestling with their relationship with animals and the ethics of eating meat since the 19th century."
+   "links": [
+    "https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html"
    ],
-   "sample": []
+   "format": "DOSE",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "생활소재: alcohol, stress, mice"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html"
   },
   {
    "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
@@ -981,6 +1012,8 @@
    "date": "2026-11-04",
    "source": "MedicalXpress",
    "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -995,8 +1028,7 @@
    "why": [
     "형식 DOSE",
     "생활소재: social media"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html"
+   ]
   },
   {
    "title": "Menopause can quietly weaken bones—here's what research reveals about protecting them",
@@ -1006,6 +1038,8 @@
    "date": "2026-11-03",
    "source": "MedicalXpress",
    "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress",
     "The Conversation"
@@ -1020,8 +1054,7 @@
    "why": [
     "형식 CUT",
     "2곳 보도"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-menopause-quietly-weaken-bones-reveals.html"
+   ]
   },
   {
    "title": "Why people trust weight‑loss drug advice on social media, even when it may be misleading",
@@ -1031,6 +1064,8 @@
    "date": "2026-11-03",
    "source": "MedicalXpress",
    "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -1043,31 +1078,57 @@
    "why": [
     "형식 DOSE",
     "생활소재: social media, ozempic"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-weightloss-drug-advice-social.html"
+   ]
   },
   {
-   "title": "Sunscreen myths explained: The truth about beef tallow, cancer and vitamin D",
-   "link": "https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html",
-   "key": "https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html",
-   "summary": "Some people are so worried about sunscreen that they're swapping SPF 50 for beef tallow. Yes, the fat traditionally used to make roasted potatoes is now being promoted online as something you can spread on your skin before going into the sun.",
-   "date": "2026-11-03",
-   "source": "MedicalXpress",
+   "title": "Lab-grown neurons retain features of embryonic development",
+   "link": "https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html",
+   "key": "https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html",
+   "summary": "Scientists from Skoltech, together with colleagues from the Kharkevich Institute for Information Transmission Problems of the Russian Academy of Sciences, Lomonosov Moscow State University and other organizations, conducted a comparative study of the 3D genome organization in neurons derived from induced pluripotent stem cells and in neurons of the adult human brain. The authors collected and processed more than 300 3D genome maps covering 62 human samples and 34 mouse samples, including data on embryonic stem cells, induced pluripotent stem cells, neural progenitors, fetal and postmortem neurons, as well as neurons differentiated in vitro.",
+   "date": "2026-11-04",
+   "source": "Phys.org",
    "first_seen": "2026-11-04",
    "sources": [
-    "MedicalXpress"
+    "Phys.org"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html"
+    "https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html"
    ],
-   "format": "SCALE",
+   "format": "CUT",
+   "catch": [
+    "동물 실험",
+    "세포·시험관"
+   ],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: brain, mouse"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html"
+  },
+  {
+   "title": "Stone Age hunters in northern Europe may have used poison arrows to hunt big prey",
+   "link": "https://phys.org/news/2026-11-stone-age-hunters-northern-europe.html",
+   "key": "https://phys.org/news/2026-11-stone-age-hunters-northern-europe.html",
+   "summary": "Autumn walks in Britain are glorious, as the foliage changes color and cool, crisp air begins to bite. However, some of these European trees hide a much darker secret. For example, the yew tree's lovely red arils—the cup-shaped coverings around the seeds—carry toxins that may have been used to poison arrow tips in the past.",
+   "date": "2026-11-04",
+   "source": "Phys.org",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-stone-age-hunters-northern-europe.html"
+   ],
+   "format": "CUT",
    "catch": [],
    "score": 6,
    "why": [
-    "형식 SCALE",
-    "훅: myth"
+    "형식 CUT",
+    "훅: secret",
+    "생활소재: love"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-sunscreen-myths-truth-beef-tallow.html"
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stone-age-hunters-northern-europe.html"
   },
   {
    "title": "Ants prioritize brain energy during starvation, echoing pattern seen in humans",
@@ -1211,76 +1272,6 @@
    "why": [
     "형식 CUT",
     "훅: first time"
-   ]
-  },
-  {
-   "title": "Customizable nanoparticles show potential for delivering personalized cancer vaccines",
-   "link": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
-   "key": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
-   "summary": "A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By precisely controlling the density of those cancer proteins, the researchers found that they could create a vaccine that prevents the development of colon tumors in mice.",
-   "date": "2026-10-31",
-   "source": "Phys.org",
-   "first_seen": "2026-10-31",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-can",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html"
-   ],
-   "format": "CUT",
-   "catch": [
-    "동물 실험"
-   ],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "생활소재: mice"
-   ]
-  },
-  {
-   "title": "Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate",
-   "link": "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408",
-   "key": "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408",
-   "summary": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything.",
-   "date": "2026-10-30",
-   "source": "The Conversation",
-   "first_seen": "2026-10-31",
-   "text": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe’s most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas – the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything. An experiment called IceCube, built to detect these “ghost particles” emitted from astrophysical events, just won a Nobel Prize . As a physicist , I’m interested in figuring out where the neutrinos IceCube detects come from. A study that my colleagues and I published in October 2026 suggests that we could potentially use radio telescopes to answer this question. Even though these telescopes can’t see neutrinos, we can use their data to match up IceCube’s detections with their potential sources out in space. Knowing which types of objects produce neutrinos can tell astronomers about the physics occurring within those objects. Most particles interact with the universe through a fundamental force of nature called electromagnetism . It’s the force that powers the phone, tablet or computer that you may be reading this article on. It drives all the chemistry responsible for life, and it’s responsible for the light your eyes can see. What makes neutrinos odd is that they don’t interact with the universe through electromagnetism. Instead, they interact with the universe via a force that physicists call the weak interaction . This force only acts over distances smaller than the inside of an atomic nucleus ; as such, they must pass very, very close to the centers of atoms in order to interact – otherwise they just fly right through. That makes them very difficult to detect – but not impossible. Scientists have been able to detect neutrinos from space – called astrophysical neutrinos – since the 1960s. These typically come from our Sun and, in at least one case, from a supernova . Over the past decade or so, researchers at the appropriately named IceCube Observatory have used the South Pole’s Antarctic ice as a neutrino telescope. The densely packed ice gives neutrinos many opportunities to interact with water molecules, and detectors can see radiation from those interactions when they do occur. Even so, neutrinos really are one of nature’s most introverted particles, and it takes time for any of the ice molecules to get lucky and interact with a neutrino. But, with enough time, it eventually happens. And with more time, it happens again. The more time you give it, the more interactions you see, and the more neutrinos you detect. IceCube has used this approach to detect astrophysical neutrinos that are hundreds of thousands of times more energetic than those previously seen. The discovery of these high-energy astrophysical neutrinos has opened up a new window on our universe. The same property that makes them difficult to detect – namely their reluctance to interact with their surroundings – also makes them an effective way to see high-energy processes in places that light can’t penetrate. The problem is we’re not sure where they all come from. Scientists do have some ideas about their origin, of course. Quasars – objects where matter is being ripped apart by black holes millions of times more massive than our Sun – seem to be likely candidates. In 2017, IceCube detected a neutrino that appeared to come from the direction of a quasar , known as TXS 0506+056, at the same time that a telescope detected an outburst of gamma radiation from that same object. That finding is interesting because the processes that produce neutrinos – namely the decay of subatomic particles – should also produce high-energy electromagnetic radiation – namely gamma rays. So scientists expect neutrino sources to also produce gamma-ray outbursts. However, TXS 0506+056 is just one object. It may not be representative of where most high-energy neutrinos come from. So far, there’s been little evidence of a more general relationship between gamma-ray outbursts and neutrino detections. But gamma rays can be easily obscured. Much like the lead apron that the technician taking your X-ray at the hospital wears to protect themselves from the radiation, dust and gas that gathers near a supermassive black hole can block gamma rays from ever reaching Earth. However, another form of electromagnetic radiation that’s invisible to gamma-ray telescopes – radio waves – are not so easily shielded. Using telescopes that look at radio waves from space may provide scientists an alternate way to see what’s going on. Beginning in 2017, the Very Large Array in New Mexico began tracking how radio emissions from space change in brightness over time, a project known as the Very Large Array Sky Survey , or VLASS for short. My team and I recently showed that most of the objects seen by VLASS with fluctuating radio emissions are quasars , of the same type that IceCube previously saw producing neutrinos. Interestingly, when we compared the times that IceCube detected neutrinos with the times when objects spotted by VLASS experienced flares of radio emission, there appeared to be a correlation. Put another way, when an astrophysical neutrino is detected by IceCube, there is a radio source brightening in the same part of the sky, more often than you’d expect from random chance . These radio flares seem to only be associated with about 13% of the astrophysical neutrinos detected by IceCube, which means we still can’t account for the origin of the majority of astrophysical neutrinos. However, more than 90% of the radio outbursts potentially associated with neutrinos aren’t seen at all by our gamma-ray telescopes. If the neutrino’s source of origin is hidden at gamma-ray wavelengths, but not at radio wavelengths, then radio telescopes could become an essential tool in neutrino astronomy. At the moment, the signal we’re seeing is intriguing, even tantalizing. But there’s about a 1-in-30 chance of getting the results we see even if there’s no correlation between neutrinos and radio flares. Those are roughly the same odds as tossing a coin five times and getting heads every time: unlikely, but not impossible. Scientists are far more comfortable when the odds of a result being due to random chance are closer to one in a million – the same as getting heads 20 times in a row. To confirm if what we’re seeing is real or not, we need more observations. We expect to have those in the next few years. One thing is for sure, though: It’s an exciting time to be studying the origins of astrophysical neutrinos, and it looks like radio astronomers may have a big role to play.",
-   "facts": [
-    "A study that my colleagues and I published in October 2026 suggests that we could potentially use radio telescopes to answer this question.",
-    "Scientists have been able to detect neutrinos from space – called astrophysical neutrinos – since the 1960s.",
-    "IceCube has used this approach to detect astrophysical neutrinos that are hundreds of thousands of times more energetic than those previously seen.",
-    "Quasars – objects where matter is being ripped apart by black holes millions of times more massive than our Sun – seem to be likely candidates.",
-    "In 2017, IceCube detected a neutrino that appeared to come from the direction of a quasar , known as TXS 0506+056, at the same time that a telescope detected an outburst of gamma radiation from that same object.",
-    "However, TXS 0506+056 is just one object.",
-    "Beginning in 2017, the Very Large Array in New Mexico began tracking how radio emissions from space change in brightness over time, a project known as the Very Large Array Sky Survey , or VLASS for short.",
-    "Interestingly, when we compared the times that IceCube detected neutrinos with the times when objects spotted by VLASS experienced flares of radio emission, there appeared to be a correlation.",
-    "These radio flares seem to only be associated with about 13% of the astrophysical neutrinos detected by IceCube, which means we still can’t account for the origin of the majority of astrophysical neutrinos.",
-    "However, more than 90% of the radio outbursts potentially associated with neutrinos aren’t seen at all by our gamma-ray telescopes."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation",
-    "Phys.org"
-   ],
-   "links": [
-    "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408",
-    "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html"
-   ],
-   "format": "WEIGH",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 5,
-   "why": [
-    "형식 WEIGH",
-    "2곳 보도"
    ]
   }
  ]
