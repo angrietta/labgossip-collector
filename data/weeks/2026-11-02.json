@@ -1,27 +1,27 @@
 {
  "week": "2026-11-02",
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 6
+   "span_days": 7
   },
   {
    "feed": "ScienceDaily 별난연구",
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 34
+   "span_days": 32
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 26
+   "span_days": 27
   },
   {
    "feed": "ScienceDaily 동식물",
@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 7
+   "span_days": 8
   }
  ],
  "top": [
@@ -419,6 +419,24 @@
    "date": "2026-11-04",
    "source": "The Conversation",
    "first_seen": "2026-11-05",
+   "text": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshipped Oannes , a human-fish hybrid; sirens populated Greek mythology ; and fairy tales such as “ The Little Mermaid ” have made this figure a pop culture icon. During the 1800s, American showman P.T. Barnum brought the Feejee Mermaid to the American public. Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution. Some people believed it was a missing link in the evolutionary chain between aquatic and terrestrial life. I recently viewed a Feejee Mermaid replica on display at the Denver Museum of Nature and Science as part of the “ Mythic Creatures: Dragons, Unicorns and Mermaids” temporary exhibit . As a folklorist , I’m intrigued by how this mermaid subverted Americans’ expectations that mermaids are alluring and how it sparked an interplay between science and myth. A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago. It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City. In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché. Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half. Feejee Mermaids were often preserved by being coated in clay . Mammalian-fish hybrid creatures have a role in Japanese folklore through the ningyo , which are a mermaidlike yokai, a supernatural being thought to have the power to either curse or grant eternal life. Unlike Western mermaids, ningyo were grotesque. The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century. He claimed to have caught the specimen and said it prophesied a sterility epidemic. The only cure for the townsfolk, the fisherman said, came through owning a picture of the mermaid. Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842. In his autobiography, Barnum details the scheme he devised after Kimball showed him the Feejee Mermaid. Barnum sent letters to newspapers, describing how a “Dr. Griffin,” who was really his hoaxing accomplice Levi Lyman, was in possession of the mermaid skeleton. He further spread the word by distributing thousands of pamphlets throughout New York City that detailed when the mermaid would be on display and highlighted the seductive nature of mermaids. However, when the public arrived at the American Museum, much to their surprise, they found Barnum’s grotesque version. Barnum himself described it as “an ugly dried-up, black-looking diminutive specimen, about three feet long. Its mouth was open, its tail turned over and its arms thrown up, giving it the appearance of having died in great agony.” The Feejee Mermaid on display at the Denver Museum of Nature and Science, and owned by the Peabody Museum of Archaeology and Ethnology, may or may not be the one shown by Barnum. The museum says it is a replica. The original was likely destroyed or disfigured in a fire at Barnum’s museum or the Boston Museum. The object on display looks quite different compared to original descriptions of the Feejee Mermaid. As originally shown, it was said to be much more monkeylike, and artistic renderings of it from the period matched Barnum’s descriptions. Feejee Mermaids, as displayed in America, are characteristic of a “ sideshow gaff ” that interested Victorian audiences due to debates about evolution and science. In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree . The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America.",
+   "facts": [
+    "During the 1800s, American showman P.T.",
+    "Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution.",
+    "A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago.",
+    "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City.",
+    "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché.",
+    "Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half.",
+    "The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century.",
+    "Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842.",
+    "In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree .",
+    "The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America."
+   ],
+   "doi": [],
+   "sample": [],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
    "sources": [
     "The Conversation",
     "Phys.org"
@@ -437,22 +455,7 @@
     "훅: myth, shock",
     "생활소재: baby, fish",
     "2곳 보도"
-   ],
-   "text": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshipped Oannes , a human-fish hybrid; sirens populated Greek mythology ; and fairy tales such as “ The Little Mermaid ” have made this figure a pop culture icon. During the 1800s, American showman P.T. Barnum brought the Feejee Mermaid to the American public. Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution. Some people believed it was a missing link in the evolutionary chain between aquatic and terrestrial life. I recently viewed a Feejee Mermaid replica on display at the Denver Museum of Nature and Science as part of the “ Mythic Creatures: Dragons, Unicorns and Mermaids” temporary exhibit . As a folklorist , I’m intrigued by how this mermaid subverted Americans’ expectations that mermaids are alluring and how it sparked an interplay between science and myth. A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago. It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City. In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché. Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half. Feejee Mermaids were often preserved by being coated in clay . Mammalian-fish hybrid creatures have a role in Japanese folklore through the ningyo , which are a mermaidlike yokai, a supernatural being thought to have the power to either curse or grant eternal life. Unlike Western mermaids, ningyo were grotesque. The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century. He claimed to have caught the specimen and said it prophesied a sterility epidemic. The only cure for the townsfolk, the fisherman said, came through owning a picture of the mermaid. Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842. In his autobiography, Barnum details the scheme he devised after Kimball showed him the Feejee Mermaid. Barnum sent letters to newspapers, describing how a “Dr. Griffin,” who was really his hoaxing accomplice Levi Lyman, was in possession of the mermaid skeleton. He further spread the word by distributing thousands of pamphlets throughout New York City that detailed when the mermaid would be on display and highlighted the seductive nature of mermaids. However, when the public arrived at the American Museum, much to their surprise, they found Barnum’s grotesque version. Barnum himself described it as “an ugly dried-up, black-looking diminutive specimen, about three feet long. Its mouth was open, its tail turned over and its arms thrown up, giving it the appearance of having died in great agony.” The Feejee Mermaid on display at the Denver Museum of Nature and Science, and owned by the Peabody Museum of Archaeology and Ethnology, may or may not be the one shown by Barnum. The museum says it is a replica. The original was likely destroyed or disfigured in a fire at Barnum’s museum or the Boston Museum. The object on display looks quite different compared to original descriptions of the Feejee Mermaid. As originally shown, it was said to be much more monkeylike, and artistic renderings of it from the period matched Barnum’s descriptions. Feejee Mermaids, as displayed in America, are characteristic of a “ sideshow gaff ” that interested Victorian audiences due to debates about evolution and science. In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree . The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America.",
-   "doi": [],
-   "facts": [
-    "During the 1800s, American showman P.T.",
-    "Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution.",
-    "A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago.",
-    "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City.",
-    "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché.",
-    "Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half.",
-    "The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century.",
-    "Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842.",
-    "In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree .",
-    "The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America."
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
@@ -775,6 +778,8 @@
    "date": "2026-11-05",
    "source": "MedicalXpress",
    "first_seen": "2026-11-05",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-brain-patterns-alzheimer-years-memory.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -787,45 +792,6 @@
    "why": [
     "형식 CUT",
     "생활소재: memory, alzheimer, brain"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-brain-patterns-alzheimer-years-memory.html"
-  },
-  {
-   "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261027063701.htm",
-   "summary": "Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its foundations and accelerating its retreat. A new model predicts that the glacier could add up to 30 millimeters to global sea levels by 2100, with a 60% chance of losing a crucial stabilizing ridge.",
-   "date": "2026-10-28",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-29",
-   "text": "A new computer model suggests that Antarctica's Thwaites Glacier, often called the \"Doomsday Glacier,\" could contribute far more to rising sea levels than scientists previously estimated. Developed by researchers at the University of California, Irvine, and NASA's Jet Propulsion Laboratory, the model predicts that melting from the massive West Antarctic glacier could raise global sea levels by as much as 30 millimeters by 2100. That is double earlier projections, even without any additional warming of the climate. The findings, published in Nature Communications , reveal why earlier models may have underestimated the glacier's retreat. Instead of treating the boundary between grounded and floating ice as a narrow line, researchers accounted for a much broader area where ocean water can reach beneath the glacier. With this change, the model reproduced historical changes in Thwaites from the 1990s to the present that were four times more pronounced than those represented by conventional models. \"Glaciologists have long based their assumptions of ice sheet dynamics on the 'grounding line,' a discreet, narrow and mostly stable demarcation where ice leaves the land and begins floating on water,\" said lead author Mattia Poinelli, who was a UC Irvine postdoctoral scholar in Earth system science when the research was conducted. \"We have come to acknowledge a different arrangement beneath Earth's major ocean-terminating glaciers. Satellite observations demonstrate the existence of a 'grounding zone,' sometimes kilometers wide, where warm ocean water is reaching deep underneath the ice sheets and causing vigorous melting.\" Thwaites Glacier lies in West Antarctica's Amundsen Sea Embayment, a region responsible for approximately one third of the Antarctic Ice Sheet's total mass loss. Over recent decades, the glacier has become thinner and retreated rapidly. Scientists have also observed its ice flowing increasingly quickly, but traditional computer models have struggled to reproduce the acceleration detected by satellites. To investigate the discrepancy, the UC Irvine-led research team compared its simulations with more than two decades of observations. The researchers also analyzed synthetic aperture radar measurements collected by Finland's ICEYE satellite constellation, which revealed fluctuations extending across several kilometers of the grounding zone along the glacier's main trunk. The satellite evidence shows that seawater travels several kilometers beneath ice that remains grounded on the seafloor. As tides rise and fall, the water lifts the ice and repeatedly exposes its underside to warm, pressurized seawater. The water reaches Antarctica's coastline through ocean currents that have been altered by climate change, creating conditions that accelerate melting beneath the glacier. The consequences extend beyond the melting itself. According to Poinelli, who is also a NASA JPL research affiliate and now works as a project scientist at UCLA, the movement of water beneath Thwaites is weakening its connection to underwater ridges that help keep the glacier in place. As these natural supports lose their grip, the ice can flow faster, and the glacier can retreat more rapidly. \"The Thwaites main trunk is being temporarily stabilized by the Mouginot Ridge,\" he said. \"Once that ridge is unpinned, the glacier will continually retreat across a predominantly retrograde seafloor toward its next topographic high, the South Ridge.\" The team's simulations suggest that this critical change could happen before 2100. When the model includes a grounding zone measuring 4 to 6 kilometers across, it predicts a 60% probability that Thwaites will become detached from Mouginot Ridge by the end of the century. \"When you factor in key physical processes and calibrate against historical observations, you gain a reliable pathway for narrowing uncertainty in projections,\" Poinelli said. The updated projections suggest that scientists may have underestimated the contribution Thwaites Glacier will make to future sea level rise. By more accurately representing how warm ocean water interacts with the underside of the ice, the new model produces results that better match the glacier's observed changes and indicate substantially greater ice loss ahead. \"We have documented and quantified the impacts of climate change on our planet's sensitive ice sheets for decades, but a mounting realization gained in recent years of what is happening on the undersides of glaciers like Thwaites is leading to an even greater sense of alarm,\" said co-author Eric Rignot, UC Irvine professor of Earth system science. \"Most projections up to the present have struggled to match the rapidity of the mass loss because of missing physics; our new model with more complete physics is able to match the record and then produces projections that are twice as large as before. These results predict greater risk of and exposure for coastal flooding than anticipated in the coming decades.\" Materials provided by University of California - Irvine . Note: Content may be edited for style and length. Did Venus Eat Its Own Moon? Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential",
-   "facts": [
-    "Developed by researchers at the University of California, Irvine, and NASA's Jet Propulsion Laboratory, the model predicts that melting from the massive West Antarctic glacier could raise global sea levels by as much as 30 millimeters by 2100.",
-    "That is double earlier projections, even without any additional warming of the climate.",
-    "With this change, the model reproduced historical changes in Thwaites from the 1990s to the present that were four times more pronounced than those represented by conventional models.",
-    "Satellite observations demonstrate the existence of a 'grounding zone,' sometimes kilometers wide, where warm ocean water is reaching deep underneath the ice sheets and causing vigorous melting.\" Thwaites Glacier lies in West Antarctica's Amundsen Sea Embayment, a region responsible for approximately one third of the Antarctic Ice Sheet's total mass loss.",
-    "\"Once that ridge is unpinned, the glacier will continually retreat across a predominantly retrograde seafloor toward its next topographic high, the South Ridge.\" The team's simulations suggest that this critical change could happen before 2100.",
-    "When the model includes a grounding zone measuring 4 to 6 kilometers across, it predicts a 60% probability that Thwaites will become detached from Mouginot Ridge by the end of the century.",
-    "\"Most projections up to the present have struggled to match the rapidity of the mass loss because of missing physics; our new model with more complete physics is able to match the record and then produces projections that are twice as large as before.",
-    "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
-   ],
-   "doi": [
-    "10.1038/s41467-026-77976-1"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Mattia Poinelli, Eric Rignot, Hélène Seroussi, Joshua Cuzzone, Tyler Pelle, Eric Larour. Sea-level contribution from Thwaites Glacier doubles in an observation-constrained ice-sheet model . Nature Communications , 2026; 17 (1) DOI: 10.1038/s41467-026-77976-1",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261027063701.htm"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 PRESS"
    ]
   },
   {
@@ -980,6 +946,46 @@
    "why": [
     "형식 CUT",
     "훅: mystery"
+   ]
+  },
+  {
+   "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261030003022.htm",
+   "summary": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.",
+   "date": "2026-10-31",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-01",
+   "text": "In the hills of north-west Morocco, overlooking the river that gives the site its name, research at Oued Beht is bringing to light a previously unknown chapter of the region’s past. The discovery of a substantial built structure suggests that, during the second millennium BC, communities in north-west Africa were actively shaping their environment. They were also engaging in broader networks of interaction across the Mediterranean world. Previous research by the Oued Beht Archaeological Project had already brought to light what is likely the earliest and largest agricultural complex ever discovered in Africa outside the Nile Valley. It dates to around 5,400 to 4,900 years ago. New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site. Our new study shows how we uncovered the earliest known large-scale construction of a probably defensive nature in north Africa beyond the Nile Valley. It’s about 4,000 to 3,500 years old. It’s not known exactly what threats these wall-like structures were designed to counter. They likely relate to increasing competition over land, resources, and possibly control of movement through the landscape, rather than to “invaders”. Constructions like these suggest communities felt the need to protect themselves or assert power over strategic locations. This discovery pushes back the evidence for organized defensive architecture in the Maghreb and suggests that societies in this region at this time were more complex and structured than previously believed. Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD. The same defensive structure was rebuilt, a hamlet or farm was established on a nearby hilltop, and people were buried in a cemetery between the two areas. Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times. They help us understand how societies developed and maintained themselves in a region too often left out of the history books. For a long time, the later prehistory of north Africa’s Maghreb region (the Mediterranean countries of Morocco, Algeria, and Tunisia) has been poorly understood. Compared with neighboring areas such as Iberia in south-western Europe or Athens in the eastern Mediterranean, archaeological evidence was often fragmentary. In the last few years this has changed completely. Excavations at Oued Beht have revealed a large concentration of human activity spread across at least ten hectares. The earliest major phase dates to the mid-fourth and early third millennia BC, or the Final Neolithic period. Environmental evidence from plant and animal remains in the prehistoric era indicates a farming community cultivating crops such as barley and wheat. They also exploited wild plants and kept livestock. The site was also an important center of craft production. Thousands of polished stone axes and other tools have been discovered, along with finely made pottery, sometimes decorated with painted patterns. It’s still uncertain whether prehistoric Oued Beht functioned as a permanent village, a seasonal center, or something less familiar. But it was clearly a major focus in the landscape of north-west Morocco. The presence of potentially ancient earthworks and walls had been noted since the 1930s. The French archaeologist Armand Ruhlmann first documented a configuration of three walls, with the fourth side protected by the natural scarp of the ridge, describing a defensive éperon barré (barred spur). Their precise nature and date remained uncertain until now. New excavations have clarified the existence of a multi-phase ditch, rampart and wall built across a narrow section of the Oued Beht ridge between the river and a ravine. This cut off and protected the ridge’s southern tip. Radiocarbon dating of deposits associated with these structures gave us the timelines in our study. They place its original construction at a time equivalent to the Bronze Age of the remaining western Mediterranean. This makes it the earliest confirmed defensive construction in north Africa outside Egypt. This structure raises important questions about the society that built it. Building an embankment and ditch system required planning, coordination and the mobilization of labor. This suggests a community capable of organizing complex construction initiatives. During the earlier Neolithic phase, activity at Oued Beht focused on the larger and more open northern area of the site. By the period of our new study, focus had shifted to the narrower, more defensible southern ridge. This may reflect a shift in settlement strategies. The second millennium BC was a dynamic period across the Mediterranean. In southern Iberia, Argaric societies (about 2200-1550 BC) in today’s Europe were developing complex, often hilltop settlements. They were characterized by planned architecture, advanced metallurgy (especially bronze production), and marked social hierarchies visible in burial practices. These communities often constructed fortified sites, and strategically located settlements controlling surrounding territories. Increasing evidence suggests that communities in north-west Africa were connected to wider Mediterranean networks. This includes today’s Spain and Portugal. The discoveries at Oued Beht indicate that the Maghreb was not isolated. It participated in broader processes shaping the western Mediterranean. The defensive system at the site may reflect wider transformations in social organization and regional interaction. There may have been growing competition over resources, control of movement, and more formalized leadership structures. The discoveries at Oued Beht highlight how much remains to be learned about the deep history of north Africa. The defensive wall shows that communities here were able to coordinate large construction projects and points to social transformations that are only very tentatively beginning to be recognized. The medieval remains demonstrate that the ridge was used again many centuries after the prehistoric settlement had been abandoned. Oued Beht was not simply a single-period settlement but a landscape repeatedly selected by different communities across millennia. As research continues, this location may become key to understanding how societies in the Maghreb evolved from early farming communities to the medieval rural world. Materials provided by The Conversation . Original written by Giulio Lucarini, Cyprian Broodbank, and Toby C. Wilkinson. Note: Content may be edited for style and length. Did Venus Eat Its Own Moon? Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential",
+   "facts": [
+    "It dates to around 5,400 to 4,900 years ago.",
+    "New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site.",
+    "It’s about 4,000 to 3,500 years old.",
+    "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD.",
+    "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times.",
+    "The earliest major phase dates to the mid-fourth and early third millennia BC, or the Final Neolithic period.",
+    "The presence of potentially ancient earthworks and walls had been noted since the 1930s.",
+    "In southern Iberia, Argaric societies (about 2200-1550 BC) in today’s Europe were developing complex, often hilltop settlements.",
+    "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
+   ],
+   "doi": [
+    "10.1017/lis.2026.10037"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Giulio Lucarini, Youssef Bokbot, Toby Wilkinson, Hamza Benattia, Aïcha Bigoulimen, Alessia Brucato, Marlena Cygan, Lucy Farr, Hassan Hachami, Evangelia Kiriatzi, Rafael Laoutari, Lorena Lombardi, Adelaide Marsilio, Rafael Martínez Sánchez, Ilaria Mazzini, Jacob Morales, Giulia Muti, Jacques Pelegrin, Moad Radi, Francesco Michele Rega, Cyprian Broodbank. Expanding Oued Beht: Fin",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "훅: unexpected"
    ]
   },
   {
@@ -1191,6 +1197,8 @@
    "date": "2026-11-05",
    "source": "Phys.org",
    "first_seen": "2026-11-05",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-flat-feet-neanderthals-stay-stable.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1203,55 +1211,6 @@
    "why": [
     "형식 WEIGH",
     "생활소재: stress"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-flat-feet-neanderthals-stay-stable.html"
-  },
-  {
-   "title": "Ants prioritize brain energy during starvation, echoing pattern seen in humans",
-   "link": "https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html",
-   "key": "https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html",
-   "summary": "The human brain accounts for roughly 2% of total body weight but uses approximately 20% of our body's energy. Relative to our body size, human brains are much larger than those of other mammals and take a lot of energy to keep humans going. The evolution of our unusually large \"social brain\" is thought to have given us advanced intelligence and enabled the formation of large, complex societies.",
-   "date": "2026-10-28",
-   "source": "Phys.org",
-   "first_seen": "2026-10-29",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: brain"
-   ]
-  },
-  {
-   "title": "Livelihood, education goals affect migration under climate change",
-   "link": "https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html",
-   "key": "https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html",
-   "summary": "Climate-driven hazards can push many to leave their homes in search of a livelihood elsewhere, but aspirations for the future may change where they decide to migrate, according to a new study led by researchers at Penn State. At the same time, income losses due to climate shocks, or extreme weather events like floods or droughts, may constrain migration options for vulnerable populations.",
-   "date": "2026-10-28",
-   "source": "Phys.org",
-   "first_seen": "2026-10-29",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 PRESS",
-    "훅: shock"
    ]
   },
   {
@@ -1300,6 +1259,54 @@
    "why": [
     "형식 CUT",
     "훅: secret"
+   ]
+  },
+  {
+   "title": "Capturing our closest archaeal relatives offers clues to the origin of eukaryotes",
+   "link": "https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html",
+   "key": "https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html",
+   "summary": "A collaborative research team led by Hiroyuki Imachi and Masaru K. Nobu of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) and Satoshi Nakagawa of Kyoto University has for the first time isolated and cultivated two strains of Heimdallarchaeia, a group of archaea that are among the closest known archaeal relatives of eukaryotes—the organisms that include humans and other animals, as well as plants and fungi.",
+   "date": "2026-10-30",
+   "source": "Phys.org",
+   "first_seen": "2026-10-30",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "훅: first time"
+   ]
+  },
+  {
+   "title": "Detailed images reveal ribosome assembly inside human cells for the first time",
+   "link": "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html",
+   "key": "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html",
+   "summary": "For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins. However, putting ribosomes together requires intricate assembly processes. While many underlying mechanisms for building ribosomes have been discovered ex situ (outside their native cellular context), our understanding of how ribosomes are assembled in situ has so far remained limited.",
+   "date": "2026-10-30",
+   "source": "Phys.org",
+   "first_seen": "2026-10-30",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "훅: first time"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 949건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 885건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
 - 점수 10 · SCALE · ScienceDaily 전체 · 2026-11-02
@@ -195,18 +195,7 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Inside the brains of some cognitively normal adults, firing patterns were able to foretell Alzheimer's disease years before the onset of memory loss or the accumulation of plaques and tangles, according to new Stanford Medicine–led research. For others, different firing patterns indicated the opposi
 
-## 22. Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted
-- 점수 6 · PRESS · ScienceDaily 전체 · 2026-10-28
-- https://www.sciencedaily.com/releases/2026/10/261027063701.htm
-- DOI: 10.1038/s41467-026-77976-1
-- 요약: Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its foundations and accelerating its retreat. A new model predicts that the glacier 
-  - "Developed by researchers at the University of California, Irvine, and NASA's Jet Propulsion Laboratory, the model predicts that melting from the massive West Antarctic glacier could raise global sea levels by as much as 30 millimeters by 2100."
-  - "That is double earlier projections, even without any additional warming of the climate."
-  - "With this change, the model reproduced historical changes in Thwaites from the 1990s to the present that were four times more pronounced than those represented by conventional models."
-  - "Satellite observations demonstrate the existence of a 'grounding zone,' sometimes kilometers wide, where warm ocean water is reaching deep underneath the ice sheets and causing vigorous melting." Thwaites Glacier lies in West Antarctica's Amundsen Sea Embayment, a region responsible for approximately one third of the Antarctic Ice Sheet's total mass loss."
-  - ""Once that ridge is unpinned, the glacier will continually retreat across a predominantly retrograde seafloor toward its next topographic high, the South Ridge." The team's simulations suggest that this critical change could happen before 2100."
-
-## 23. Why some “lower-risk” childhood cancers turn deadly
+## 22. Why some “lower-risk” childhood cancers turn deadly
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-30
 - https://www.sciencedaily.com/releases/2026/10/261028232717.htm
 - DOI: 10.1002/pbc.24532, 10.1158/0008-5472.CAN-25-4403
@@ -218,25 +207,25 @@
   - "The researchers examined tumor samples from 16 children, including four whose cancers lacked the fusion marker but proved fatal, four with fusion-positive tumors, and eight children with fusion-negative disease who remained alive."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 24. Safer solutions: The urgent connection between smoking and HIV
+## 23. Safer solutions: The urgent connection between smoking and HIV
 - 점수 6 · PRESS · MedicalXpress · 2026-10-31
 - https://medicalxpress.com/news/2026-10-safer-solutions-urgent-hiv.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People with HIV now lose more years of life to smoking than to HIV itself. About 1.2 million Americans are living with HIV, and while smoking among U.S. adults has fallen below 10% for the first time, people with HIV still smoke at up to four times that rate. Although many people with HIV want to qu
 
-## 25. Music paired with beats may cut stress hormone more than twice as much as pink noise
+## 24. Music paired with beats may cut stress hormone more than twice as much as pink noise
 - 점수 6 · DOSE · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new randomized clinical trial from Toronto Metropolitan University (TMU) found that listening to just 24 minutes of personalized music paired with auditory beat stimulation (ABS) lowered levels of the stress hormone cortisol more than twice as much as pink noise, a popular sound used for relaxatio
 
-## 26. Halloween is typically a massive candy fest for kids—but it doesn't have to be
+## 25. Halloween is typically a massive candy fest for kids—but it doesn't have to be
 - 점수 6 · WEIGH · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Halloween can be a massive candy fest. Children come home from trick-or-treating ready to dig into a sackful of candy and chocolate bars.
 
-## 27. Scientists finally discover how a common gut bacterium can trigger colon cancer
+## 26. Scientists finally discover how a common gut bacterium can trigger colon cancer
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-31
 - https://www.sciencedaily.com/releases/2026/10/261031012912.htm
 - DOI: 10.1038/s41586-026-10375-0
@@ -246,6 +235,17 @@
   - "In a landmark 2009 study published in Nature Medicine , Sears and her colleagues demonstrated that the toxin could promote the development of colon tumors."
   - "It produces claudin-4, a protein that helps neighboring cells form tight junctions, the seals that limit the movement of substances between cells and help maintain the intestinal barrier."
   - "When the researchers disabled the gene responsible for claudin-4, BFT could no longer bind to the colon cells."
+
+## 27. A mysterious 4,000-year-old wall is rewriting North Africa’s history
+- 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-31
+- https://www.sciencedaily.com/releases/2026/10/261030003022.htm
+- DOI: 10.1017/lis.2026.10037
+- 요약: A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in
+  - "It dates to around 5,400 to 4,900 years ago."
+  - "New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site."
+  - "It’s about 4,000 to 3,500 years old."
+  - "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD."
+  - "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times."
 
 ## 28. RNA-protein interactions could lead to new coronavirus drug targets
 - 점수 6 · DOSE · Phys.org / MedicalXpress · 2026-11-03
@@ -303,26 +303,26 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In all likelihood, the Neanderthals had flat feet. But it was not a defect at all. Instead, it was the consequence of a precise functional strategy to reduce impact stress under heavy loads and maximize stability on mountainous or rough terrain.
 
-## 37. Ants prioritize brain energy during starvation, echoing pattern seen in humans
-- 점수 5 · WEIGH · Phys.org · 2026-10-28
-- https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The human brain accounts for roughly 2% of total body weight but uses approximately 20% of our body's energy. Relative to our body size, human brains are much larger than those of other mammals and take a lot of energy to keep humans going. The evolution of our unusually large "social brain" is thou
-
-## 38. Livelihood, education goals affect migration under climate change
-- 점수 5 · PRESS · Phys.org · 2026-10-28
-- https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Climate-driven hazards can push many to leave their homes in search of a livelihood elsewhere, but aspirations for the future may change where they decide to migrate, according to a new study led by researchers at Penn State. At the same time, income losses due to climate shocks, or extreme weather 
-
-## 39. Sun's outer magnetic field mapped in 3D for the first time
+## 37. Sun's outer magnetic field mapped in 3D for the first time
 - 점수 5 · PRESS · Phys.org · 2026-10-29
 - https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are th
 
-## 40. UV scans uncover natural varnish that may have preserved ancient Chauvet Cave drawings
+## 38. UV scans uncover natural varnish that may have preserved ancient Chauvet Cave drawings
 - 점수 5 · CUT · Phys.org · 2026-10-29
 - https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Tucked away inside a limestone cave in southeastern France lies some of the oldest artwork in existence. Known as Chauvet Cave, the site is so historically important—and fragile—that its location is kept secret and the cave is locked behind a huge steel door. And now, researchers have devised a tech
+
+## 39. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
+- 점수 5 · CUT · Phys.org · 2026-10-30
+- https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A collaborative research team led by Hiroyuki Imachi and Masaru K. Nobu of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) and Satoshi Nakagawa of Kyoto University has for the first time isolated and cultivated two strains of Heimdallarchaeia, a group of archaea that are among the
+
+## 40. Detailed images reveal ribosome assembly inside human cells for the first time
+- 점수 5 · CUT · Phys.org · 2026-10-30
+- https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins. However, putting ribosomes together requires intricate assembly processes. While many underlying mechanisms for building ribo
