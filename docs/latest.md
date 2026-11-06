@@ -1,8 +1,19 @@
 # LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 933건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 867건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
-## 1. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
+## 1. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
+- 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-06
+- https://www.sciencedaily.com/releases/2026/11/261104084017.htm
+- DOI: 10.1177/0271678X261490342
+- 요약: A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women
+  - "A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life."
+  - "People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties."
+  - ""Alzheimer's tends to happen more in older people, especially for those with APOE4," Lin said."
+  - "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4."
+  - "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not."
+
+## 2. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
 - 점수 10 · SCALE · ScienceDaily 전체 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/10/261029072132.htm
 - DOI: 10.1038/s41586-026-10750-x
@@ -10,7 +21,7 @@
 - 요약: In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to st
   - "To investigate this apparent contradiction, the research team tested 12 different diets in mice."
 
-## 2. Kids who eat more ultra-processed foods show a troubling brain response
+## 3. Kids who eat more ultra-processed foods show a troubling brain response
 - 점수 10 · WEIGH · ScienceDaily 전체 · 2026-11-04
 - https://www.sciencedaily.com/releases/2026/11/261101010549.htm
 - DOI: 10.1001/jamanetworkopen.2026.40252
@@ -23,7 +34,7 @@
   - "When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker."
   - "The corresponding association with body fat percentage decreased by 44%."
 
-## 3. Scientists discover a surprising brain benefit of eating peanuts every day
+## 4. Scientists discover a surprising brain benefit of eating peanuts every day
 - 점수 9 · SCALE · ScienceDaily 전체 · 2026-11-01
 - https://www.sciencedaily.com/releases/2026/10/261030003001.htm
 - DOI: 10.1016/j.clnu.2025.10.020, 10.1039/D6FO03208G
@@ -36,13 +47,13 @@
   - "The new findings build on earlier research by Joris published in 2025."
   - "That investigation found that consuming peanuts for 16 weeks increased overall cerebral blood flow (CBF) by 3.6% and improved verbal memory performance by 5.8%."
 
-## 4. About half of drinkers on GLP-1s say they imbibed less
+## 5. About half of drinkers on GLP-1s say they imbibed less
 - 점수 9 · DOSE · MedicalXpress · 2026-11-04
 - https://medicalxpress.com/news/2026-11-drinkers-glp-1s-imbibed.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Nearly half of drinkers who take GLP-1 medications have reported declines in consumption, with the effect higher among those at risk of unhealthy alcohol use, a new Harvard study shows. The work, published in the journal JAMA Psychiatry, explores an unexpected side effect of GLP-1s used to treat dia
 
-## 5. AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage
+## 6. AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage
 - 점수 9 · WEIGH · ScienceDaily 전체 · 2026-11-04
 - https://www.sciencedaily.com/releases/2026/11/261104004909.htm
 - DOI: 10.1038/s41586-025-08683-y
@@ -53,13 +64,13 @@
   - "One of the hormones produced through this process is GLP-1, the same hormone whose effects semaglutide mimics."
   - "Instead of physically isolating and examining hundreds of thousands of peptides, the program analyzed the roughly 20,000 genes that encode human proteins, looking for sequences where the enzyme was likely to make cuts."
 
-## 6. How your brain learned to love coffee, chocolate, fat and sugar
+## 7. How your brain learned to love coffee, chocolate, fat and sugar
 - 점수 9 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-brain-coffee-chocolate-fat-sugar.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: If you can remember your first sip of coffee, the memory might not be a pleasant one. Coffee's bitter flavor is one we naturally steer clear of. So how do coffee fans learn to love it? The answer may lie in an understudied "slow" dopamine pathway connecting the gut and brain. A new study from UC San
 
-## 7. The Great Barrier Reef's most notorious coral killer may actually be helping it
+## 8. The Great Barrier Reef's most notorious coral killer may actually be helping it
 - 점수 8 · PRESS · ScienceDaily 전체 · 2026-11-01
 - https://www.sciencedaily.com/releases/2026/10/261030002957.htm
 - DOI: 10.1002/ece3.74285
@@ -68,7 +79,7 @@
   - "Shawna Foo found that living coral tissue survived nearly 75 percent of the observed feeding events."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 8. Extra weight may be aging your brain faster than you think
+## 9. Extra weight may be aging your brain faster than you think
 - 점수 8 · WEIGH · ScienceDaily 뇌·마음 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/11/261101010559.htm
 - DOI: 10.1007/s00415-026-13696-2
@@ -80,14 +91,14 @@
   - "Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%."
   - "More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050."
 
-## 9. Stem cells in deep sleep may point to a secret reserve for lifelong blood renewal
+## 10. Stem cells in deep sleep may point to a secret reserve for lifelong blood renewal
 - 점수 8 · PRESS · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-stem-cells-deep-secret-reserve.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers at the German Cancer Research Center (DKFZ) and the HI-STEM Stem Cell Institute have discovered a group of particularly long-lived blood stem cells in mice. These cells remain in a dormant state for an exceptionally long time while retaining their ability to generate new blood cells. Thi
 
-## 10. Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half
+## 11. Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-03
 - https://www.sciencedaily.com/releases/2026/10/261031221155.htm
 - DOI: 10.1016/j.jbc.2026.113608
@@ -98,7 +109,7 @@
   - "The research received federal funding from the National Institutes of Health [R56AG071480, 5R01DK100580]."
   - "Scientists Finally Identify Mysterious Creature Nearly 90 Years After It Was First Found Scientists Say This Medication Could Be the Next “Wonder Drug” A Hidden DNA Mechanism Could Explain How 20% of Human Cancers Develop A Nutrient Found in Red Meat Could Make Dangerous Inflammation Even Worse"
 
-## 11. A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree
+## 12. A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree
 - 점수 8 · 형식? · The Conversation / Phys.org · 2026-11-04
 - https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775
 - 주의: 동물 실험, DOI 못 찾음
@@ -109,7 +120,7 @@
   - "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City."
   - "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché."
 
-## 12. Type 2 diabetes breakthrough as 54% achieve remission in just 6 months
+## 13. Type 2 diabetes breakthrough as 54% achieve remission in just 6 months
 - 점수 7 · SCALE · ScienceDaily 전체 · 2026-10-30
 - https://www.sciencedaily.com/releases/2026/10/261029072129.htm
 - DOI: 10.1016/j.lana.2026.101664
@@ -122,13 +133,13 @@
   - "Type 2 diabetes diagnosed at a younger age can be particularly aggressive."
   - "People with early-onset type 2 diabetes (EOT2D) often experience a faster decline in blood sugar control, develop complications earlier in life, and face a shorter life expectancy than those diagnosed at older ages."
 
-## 13. Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom
+## 14. Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom
 - 점수 7 · CUT · The Conversation / Phys.org · 2026-10-31
 - https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955
 - 주의: DOI 못 찾음
 - 요약: Zombies have taken many forms in popular culture. In Michael Jackson's "Thriller" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's "The Last of Us," a fungus infects humans, takes over their bodies and turns them into hosts that help spread the i
 
-## 14. Drinking tea may help protect your heart, but there’s a surprising catch
+## 15. Drinking tea may help protect your heart, but there’s a surprising catch
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-01
 - https://www.sciencedaily.com/releases/2026/10/261031221203.htm
 - DOI: 10.1111/joim.70172
@@ -141,19 +152,19 @@
   - "When the researchers compared tea drinking habits with the incidence of these diseases, they found that regular tea consumption was associated with an 11% lower risk of the combined vascular outcomes."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 15. Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat
+## 16. Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat
 - 점수 7 · SCALE · The Conversation · 2026-11-02
 - https://theconversation.com/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restriction-could-help-reduce-the-urge-to-overeat-294113
 - 주의: DOI 못 찾음
 - 요약: Restricting access to candy is one way parents try to teach their kids moderation. But this can backfire and harm a child’s relationship to food and eating in the long run.
 
-## 16. Hereditary lung and liver disease successfully treated for the first time using gene correction
+## 17. Hereditary lung and liver disease successfully treated for the first time using gene correction
 - 점수 7 · CUT · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-hereditary-lung-liver-disease-successfully.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Alpha-1 antitrypsin deficiency (AATM) is a congenital metabolic disorder. It is caused by a genetic defect, which results in the protective protein alpha-1 antitrypsin (AAT) being produced incorrectly. This deficiency primarily damages the lungs and the liver, where it can lead to serious conditions
 
-## 17. Scientists discover surprising heart benefits of eating avocado and mango every day
+## 18. Scientists discover surprising heart benefits of eating avocado and mango every day
 - 점수 7 · SCALE · ScienceDaily 전체 · 2026-11-03
 - https://www.sciencedaily.com/releases/2026/10/261031221215.htm
 - DOI: 10.1161/JAHA.124.040933
@@ -165,7 +176,7 @@
   - "Men in the control group experienced an average increase of 5 points (mmHg) in central blood pressure, while those consuming avocado and mango saw a reduction of approximately 1.9 points."
   - "Together, the results suggest that regularly including nutrient-rich fruits in the diet could be a practical way to support cardiovascular health, particularly for people with prediabetes who face an increased risk of developing type 2 diabetes and heart disease."
 
-## 18. As it gets harder to figure out what to eat, some Americans are turning to religion for answers
+## 19. As it gets harder to figure out what to eat, some Americans are turning to religion for answers
 - 점수 7 · SCALE · The Conversation · 2026-11-03
 - https://theconversation.com/as-it-gets-harder-to-figure-out-what-to-eat-some-americans-are-turning-to-religion-for-answers-291119
 - 주의: DOI 못 찾음
@@ -176,26 +187,26 @@
   - "In the summer of 2013, I attended a talk by George Malkmus in Charlotte, North Carolina, along with hundreds of Hallelujah dieters."
   - "The fourth site I studied was Baldwin Beef , a family-owned cattle farm that produced 100% grass-fed beef in Yanceyville, North Carolina."
 
-## 19. Single dose of healthy liver vesicles may protect against alcohol damage
+## 20. Single dose of healthy liver vesicles may protect against alcohol damage
 - 점수 7 · DOSE · MedicalXpress · 2026-11-04
 - https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Alcohol-related liver disease (ALD) is characterized by hepatocellular injury, oxidative stress, inflammation and extracellular matrix remodeling, yet effective therapies remain limited. New research in The American Journal of Pathology, found that a single dose of liver matrix-bound nanovesicles (M
 
-## 20. Stair climbers are said to boost fitness, strength and bone health—here's what the evidence actually says
+## 21. Stair climbers are said to boost fitness, strength and bone health—here's what the evidence actually says
 - 점수 7 · CUT · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-stair-climbers-boost-strength-bone.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The stair climber has seen a huge surge in popularity on social media in recent years. Proponents of the exercise machine rave about its benefits—claiming it can boost cardiovascular fitness, strength and bone health.
 
-## 21. Brain activity patterns may predict Alzheimer's years before memory slips
+## 22. Brain activity patterns may predict Alzheimer's years before memory slips
 - 점수 7 · CUT · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-brain-patterns-alzheimer-years-memory.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Inside the brains of some cognitively normal adults, firing patterns were able to foretell Alzheimer's disease years before the onset of memory loss or the accumulation of plaques and tangles, according to new Stanford Medicine–led research. For others, different firing patterns indicated the opposi
 
-## 22. Why some “lower-risk” childhood cancers turn deadly
+## 23. Why some “lower-risk” childhood cancers turn deadly
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-30
 - https://www.sciencedaily.com/releases/2026/10/261028232717.htm
 - DOI: 10.1002/pbc.24532, 10.1158/0008-5472.CAN-25-4403
@@ -207,25 +218,25 @@
   - "The researchers examined tumor samples from 16 children, including four whose cancers lacked the fusion marker but proved fatal, four with fusion-positive tumors, and eight children with fusion-negative disease who remained alive."
   - "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
 
-## 23. Safer solutions: The urgent connection between smoking and HIV
+## 24. Safer solutions: The urgent connection between smoking and HIV
 - 점수 6 · PRESS · MedicalXpress · 2026-10-31
 - https://medicalxpress.com/news/2026-10-safer-solutions-urgent-hiv.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People with HIV now lose more years of life to smoking than to HIV itself. About 1.2 million Americans are living with HIV, and while smoking among U.S. adults has fallen below 10% for the first time, people with HIV still smoke at up to four times that rate. Although many people with HIV want to qu
 
-## 24. Music paired with beats may cut stress hormone more than twice as much as pink noise
+## 25. Music paired with beats may cut stress hormone more than twice as much as pink noise
 - 점수 6 · DOSE · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new randomized clinical trial from Toronto Metropolitan University (TMU) found that listening to just 24 minutes of personalized music paired with auditory beat stimulation (ABS) lowered levels of the stress hormone cortisol more than twice as much as pink noise, a popular sound used for relaxatio
 
-## 25. Halloween is typically a massive candy fest for kids—but it doesn't have to be
+## 26. Halloween is typically a massive candy fest for kids—but it doesn't have to be
 - 점수 6 · WEIGH · MedicalXpress · 2026-10-30
 - https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Halloween can be a massive candy fest. Children come home from trick-or-treating ready to dig into a sackful of candy and chocolate bars.
 
-## 26. Scientists finally discover how a common gut bacterium can trigger colon cancer
+## 27. Scientists finally discover how a common gut bacterium can trigger colon cancer
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-10-31
 - https://www.sciencedaily.com/releases/2026/10/261031012912.htm
 - DOI: 10.1038/s41586-026-10375-0
@@ -235,17 +246,6 @@
   - "In a landmark 2009 study published in Nature Medicine , Sears and her colleagues demonstrated that the toxin could promote the development of colon tumors."
   - "It produces claudin-4, a protein that helps neighboring cells form tight junctions, the seals that limit the movement of substances between cells and help maintain the intestinal barrier."
   - "When the researchers disabled the gene responsible for claudin-4, BFT could no longer bind to the colon cells."
-
-## 27. A mysterious 4,000-year-old wall is rewriting North Africa’s history
-- 점수 6 · WEIGH · ScienceDaily 전체 · 2026-10-31
-- https://www.sciencedaily.com/releases/2026/10/261030003022.htm
-- DOI: 10.1017/lis.2026.10037
-- 요약: A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in
-  - "It dates to around 5,400 to 4,900 years ago."
-  - "New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site."
-  - "It’s about 4,000 to 3,500 years old."
-  - "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD."
-  - "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times."
 
 ## 28. RNA-protein interactions could lead to new coronavirus drug targets
 - 점수 6 · DOSE · Phys.org / MedicalXpress · 2026-11-03
@@ -303,26 +303,27 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In all likelihood, the Neanderthals had flat feet. But it was not a defect at all. Instead, it was the consequence of a precise functional strategy to reduce impact stress under heavy loads and maximize stability on mountainous or rough terrain.
 
-## 37. Sun's outer magnetic field mapped in 3D for the first time
-- 점수 5 · PRESS · Phys.org · 2026-10-29
-- https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html
+## 37. Robot successfully builds space structure in first autonomous construction demo
+- 점수 6 · WEIGH · Phys.org · 2026-11-07
+- https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are th
+- 요약: A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) p
 
-## 38. UV scans uncover natural varnish that may have preserved ancient Chauvet Cave drawings
-- 점수 5 · CUT · Phys.org · 2026-10-29
-- https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Tucked away inside a limestone cave in southeastern France lies some of the oldest artwork in existence. Known as Chauvet Cave, the site is so historically important—and fragile—that its location is kept secret and the cave is locked behind a huge steel door. And now, researchers have devised a tech
-
-## 39. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
+## 38. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
 - 점수 5 · CUT · Phys.org · 2026-10-30
 - https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A collaborative research team led by Hiroyuki Imachi and Masaru K. Nobu of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) and Satoshi Nakagawa of Kyoto University has for the first time isolated and cultivated two strains of Heimdallarchaeia, a group of archaea that are among the
 
-## 40. Detailed images reveal ribosome assembly inside human cells for the first time
+## 39. Detailed images reveal ribosome assembly inside human cells for the first time
 - 점수 5 · CUT · Phys.org · 2026-10-30
 - https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins. However, putting ribosomes together requires intricate assembly processes. While many underlying mechanisms for building ribo
+
+## 40. Customizable nanoparticles show potential for delivering personalized cancer vaccines
+- 점수 5 · CUT · Phys.org · 2026-10-31
+- https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By preci

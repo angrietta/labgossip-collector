@@ -1,13 +1,13 @@
 {
  "week": "2026-11-02",
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 7
+   "span_days": 6
   },
   {
    "feed": "ScienceDaily 별난연구",
@@ -28,7 +28,7 @@
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 37
+   "span_days": 38
   },
   {
    "feed": "ScienceDaily 건강",
@@ -56,10 +56,51 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 7
+   "span_days": 8
   }
  ],
  "top": [
+  {
+   "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261104084017.htm",
+   "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins.",
+   "date": "2026-11-06",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-07",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 11,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris",
+    "생활소재: aging, memory, alzheimer"
+   ],
+   "text": "A drug commonly used to prevent organ transplant rejection may offer an unexpected new approach to protecting people at increased risk of Alzheimer's disease. Researchers at the University of Missouri have discovered that rapamycin, a medication also studied for its effects on aging, can improve blood flow in the brains of middle-aged adults who carry a gene variant linked to Alzheimer's. The findings could help scientists develop strategies to address Alzheimer's risk long before memory problems appear. The research also adds to the University of Missouri's growing contributions to understanding and potentially preventing the most common form of dementia. The study was led by Ai-Ling Lin, a professor in the university's School of Medicine and an investigator at the Roy Blunt NextGen Precision Health building. Her work focuses on identifying changes in the brain that occur before Alzheimer's symptoms develop and finding ways to intervene early. A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life. People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties. Because these circulation changes can occur so early, researchers believe they could provide an important warning sign of increased Alzheimer's risk. Lin's latest findings suggest that improving brain circulation with an existing medication may be one way to address these early changes. \"Alzheimer's tends to happen more in older people, especially for those with APOE4,\" Lin said. \"If we can slow down aging in the brain for those people most at risk, maybe we can reduce the risk of them developing Alzheimer's disease.\" Rapamycin is already used in medicine to prevent the immune system from rejecting transplanted organs and to treat certain rare conditions. However, researchers have also been investigating its potential to slow biological aging and protect the brain. Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4. Her earlier research showed that rapamycin could slow brain aging and increase blood flow in these animals. Those results prompted an important question: Could rapamycin produce similar benefits in people who have a genetic predisposition to Alzheimer's but have not yet developed the disease? To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not. All participants received a low daily dose of rapamycin for four weeks. When researchers examined the results, they found a notable difference between the two groups. Brain blood flow improved among participants carrying APOE4, but the same benefit was not observed in those without the gene variant. This suggests that rapamycin may have particular potential for people whose genetics place them at greater risk of Alzheimer's. Although the study did not establish whether the treatment could prevent Alzheimer's or preserve memory over time, the improved circulation offers a promising direction for future research. Women With the Alzheimer's Risk Gene Saw the Greatest Benefits Another intriguing finding emerged when the researchers examined differences between male and female participants. Women carrying APOE4 experienced the largest improvements in brain blood flow following treatment. That result may be especially important because women account for nearly two-thirds of people living with Alzheimer's disease. \"We also found that females with APOE4 saw the greatest improvement in brain blood flow, which is significant given that nearly two-thirds of people with Alzheimer's are women,\" she said. \"This research is an example of precision medicine, as we work to identify who can benefit from this drug the most.\" The results highlight the potential of precision medicine, an approach that considers individual characteristics, including genetics, when determining which treatments may be most effective. Rather than assuming that a medication will benefit everyone equally, researchers hope to identify the people most likely to respond. Lin, who is also a professor in the university's College of Arts and Science, credits Mizzou's collaborative research environment with helping advance discoveries like these. At the Roy Blunt NextGen Precision Health building, scientists and medical professionals work together in the same facility. This collaboration is designed to help move promising laboratory findings into human clinical studies more quickly. The latest results provide an encouraging starting point for investigating whether rapamycin could eventually help delay or reduce Alzheimer's risk in genetically vulnerable individuals. More research will be needed to determine whether the changes in brain blood flow lead to lasting improvements in brain health or a lower likelihood of developing the disease. The study, \"EXPRESS: Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiome profiles in healthy middle-aged APOE4 carriers: a pilot single-arm trial\" was published in Journal of Cerebral Blood Flow & Metabolism . Materials provided by University of Missouri-Columbia . Note: Content may be edited for style and length. Scientists Sound the Alarm As Colorectal Cancer Reverses a 20-Year Decline A Hidden Cancer-Fighting Switch Could Supercharge the Human Immune System A Devastating Disease Is Threatening the World’s Chocolate Supply – but Scientists May Have Found the Answer Researchers Discover Earth May Have Made Its Own Water 4.5 Billion Years Ago",
+   "doi": [
+    "10.1177/0271678X261490342"
+   ],
+   "journal_ref": "Journal Reference : Chetan Aware, Caitlin Maria Neher, Carter Woods, Oleksandr Khegai, Alok Kumar Dwivedi, Maalavika Govindarajan, Kira Ivanich, Mehmet Kurt, David Beversdorf, Jianlin Cheng, Nathan Bresette, Taixing Cui, Priti Balchandani, Mitzi M Gonzales, Aaron C. Ericsson, Talissa A. Altes, Ai-Ling Lin. Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiom",
+   "facts": [
+    "A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life.",
+    "People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties.",
+    "\"Alzheimer's tends to happen more in older people, especially for those with APOE4,\" Lin said.",
+    "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4.",
+    "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not.",
+    "Brain blood flow improved among participants carrying APOE4, but the same benefit was not observed in those without the gene variant.",
+    "Women carrying APOE4 experienced the largest improvements in brain blood flow following treatment.",
+    "\"We also found that females with APOE4 saw the greatest improvement in brain blood flow, which is significant given that nearly two-thirds of people with Alzheimer's are women,\" she said.",
+    "The study, \"EXPRESS: Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiome profiles in healthy middle-aged APOE4 carriers: a pilot single-arm trial\" was published in Journal of Cerebral Blood Flow & Metabolism .",
+    "Scientists Sound the Alarm As Colorectal Cancer Reverses a 20-Year Decline A Hidden Cancer-Fighting Switch Could Supercharge the Human Immune System A Devastating Disease Is Threatening the World’s Chocolate Supply – but Scientists May Have Found the Answer Researchers Discover Earth May Have Made Its Own Water 4.5 Billion Years Ago"
+   ],
+   "sample": []
+  },
   {
    "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
    "link": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
@@ -949,46 +990,6 @@
    ]
   },
   {
-   "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261030003022.htm",
-   "summary": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.",
-   "date": "2026-10-31",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-01",
-   "text": "In the hills of north-west Morocco, overlooking the river that gives the site its name, research at Oued Beht is bringing to light a previously unknown chapter of the region’s past. The discovery of a substantial built structure suggests that, during the second millennium BC, communities in north-west Africa were actively shaping their environment. They were also engaging in broader networks of interaction across the Mediterranean world. Previous research by the Oued Beht Archaeological Project had already brought to light what is likely the earliest and largest agricultural complex ever discovered in Africa outside the Nile Valley. It dates to around 5,400 to 4,900 years ago. New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site. Our new study shows how we uncovered the earliest known large-scale construction of a probably defensive nature in north Africa beyond the Nile Valley. It’s about 4,000 to 3,500 years old. It’s not known exactly what threats these wall-like structures were designed to counter. They likely relate to increasing competition over land, resources, and possibly control of movement through the landscape, rather than to “invaders”. Constructions like these suggest communities felt the need to protect themselves or assert power over strategic locations. This discovery pushes back the evidence for organized defensive architecture in the Maghreb and suggests that societies in this region at this time were more complex and structured than previously believed. Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD. The same defensive structure was rebuilt, a hamlet or farm was established on a nearby hilltop, and people were buried in a cemetery between the two areas. Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times. They help us understand how societies developed and maintained themselves in a region too often left out of the history books. For a long time, the later prehistory of north Africa’s Maghreb region (the Mediterranean countries of Morocco, Algeria, and Tunisia) has been poorly understood. Compared with neighboring areas such as Iberia in south-western Europe or Athens in the eastern Mediterranean, archaeological evidence was often fragmentary. In the last few years this has changed completely. Excavations at Oued Beht have revealed a large concentration of human activity spread across at least ten hectares. The earliest major phase dates to the mid-fourth and early third millennia BC, or the Final Neolithic period. Environmental evidence from plant and animal remains in the prehistoric era indicates a farming community cultivating crops such as barley and wheat. They also exploited wild plants and kept livestock. The site was also an important center of craft production. Thousands of polished stone axes and other tools have been discovered, along with finely made pottery, sometimes decorated with painted patterns. It’s still uncertain whether prehistoric Oued Beht functioned as a permanent village, a seasonal center, or something less familiar. But it was clearly a major focus in the landscape of north-west Morocco. The presence of potentially ancient earthworks and walls had been noted since the 1930s. The French archaeologist Armand Ruhlmann first documented a configuration of three walls, with the fourth side protected by the natural scarp of the ridge, describing a defensive éperon barré (barred spur). Their precise nature and date remained uncertain until now. New excavations have clarified the existence of a multi-phase ditch, rampart and wall built across a narrow section of the Oued Beht ridge between the river and a ravine. This cut off and protected the ridge’s southern tip. Radiocarbon dating of deposits associated with these structures gave us the timelines in our study. They place its original construction at a time equivalent to the Bronze Age of the remaining western Mediterranean. This makes it the earliest confirmed defensive construction in north Africa outside Egypt. This structure raises important questions about the society that built it. Building an embankment and ditch system required planning, coordination and the mobilization of labor. This suggests a community capable of organizing complex construction initiatives. During the earlier Neolithic phase, activity at Oued Beht focused on the larger and more open northern area of the site. By the period of our new study, focus had shifted to the narrower, more defensible southern ridge. This may reflect a shift in settlement strategies. The second millennium BC was a dynamic period across the Mediterranean. In southern Iberia, Argaric societies (about 2200-1550 BC) in today’s Europe were developing complex, often hilltop settlements. They were characterized by planned architecture, advanced metallurgy (especially bronze production), and marked social hierarchies visible in burial practices. These communities often constructed fortified sites, and strategically located settlements controlling surrounding territories. Increasing evidence suggests that communities in north-west Africa were connected to wider Mediterranean networks. This includes today’s Spain and Portugal. The discoveries at Oued Beht indicate that the Maghreb was not isolated. It participated in broader processes shaping the western Mediterranean. The defensive system at the site may reflect wider transformations in social organization and regional interaction. There may have been growing competition over resources, control of movement, and more formalized leadership structures. The discoveries at Oued Beht highlight how much remains to be learned about the deep history of north Africa. The defensive wall shows that communities here were able to coordinate large construction projects and points to social transformations that are only very tentatively beginning to be recognized. The medieval remains demonstrate that the ridge was used again many centuries after the prehistoric settlement had been abandoned. Oued Beht was not simply a single-period settlement but a landscape repeatedly selected by different communities across millennia. As research continues, this location may become key to understanding how societies in the Maghreb evolved from early farming communities to the medieval rural world. Materials provided by The Conversation . Original written by Giulio Lucarini, Cyprian Broodbank, and Toby C. Wilkinson. Note: Content may be edited for style and length. Did Venus Eat Its Own Moon? Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential",
-   "facts": [
-    "It dates to around 5,400 to 4,900 years ago.",
-    "New excavations carried out in 2023 – in which we took part – have now deepened our understanding of the site.",
-    "It’s about 4,000 to 3,500 years old.",
-    "Our study also reveals how the ridge of Oued Beht would become a focal point again in the medieval period, during the 11th to 13th centuries AD.",
-    "Together these findings provide rare archaeological insights into rural communities during both prehistoric and medieval times.",
-    "The earliest major phase dates to the mid-fourth and early third millennia BC, or the Final Neolithic period.",
-    "The presence of potentially ancient earthworks and walls had been noted since the 1930s.",
-    "In southern Iberia, Argaric societies (about 2200-1550 BC) in today’s Europe were developing complex, often hilltop settlements.",
-    "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
-   ],
-   "doi": [
-    "10.1017/lis.2026.10037"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Giulio Lucarini, Youssef Bokbot, Toby Wilkinson, Hamza Benattia, Aïcha Bigoulimen, Alessia Brucato, Marlena Cygan, Lucy Farr, Hassan Hachami, Evangelia Kiriatzi, Rafael Laoutari, Lorena Lombardi, Adelaide Marsilio, Rafael Martínez Sánchez, Ilaria Mazzini, Jacob Morales, Giulia Muti, Jacques Pelegrin, Moad Radi, Francesco Michele Rega, Cyprian Broodbank. Expanding Oued Beht: Fin",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 WEIGH",
-    "훅: unexpected"
-   ]
-  },
-  {
    "title": "RNA-protein interactions could lead to new coronavirus drug targets",
    "link": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
    "key": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
@@ -1214,52 +1215,27 @@
    ]
   },
   {
-   "title": "Sun's outer magnetic field mapped in 3D for the first time",
-   "link": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
-   "key": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
-   "summary": "A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are the root cause of extreme space weather that can impact critical infrastructure technologies on Earth.",
-   "date": "2026-10-29",
+   "title": "Robot successfully builds space structure in first autonomous construction demo",
+   "link": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
+   "key": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
+   "summary": "A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) program, consists of an autonomous manipulator that picks up struts and joints held in nearby dispensers to repeatedly assemble identical sections, or bays, of a perimeter truss.",
+   "date": "2026-11-07",
    "source": "Phys.org",
-   "first_seen": "2026-10-29",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-07",
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html"
+    "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html"
    ],
-   "format": "PRESS",
+   "format": "WEIGH",
    "catch": [],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 PRESS",
+    "형식 WEIGH",
     "훅: first time"
-   ]
-  },
-  {
-   "title": "UV scans uncover natural varnish that may have preserved ancient Chauvet Cave drawings",
-   "link": "https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html",
-   "key": "https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html",
-   "summary": "Tucked away inside a limestone cave in southeastern France lies some of the oldest artwork in existence. Known as Chauvet Cave, the site is so historically important—and fragile—that its location is kept secret and the cave is locked behind a huge steel door. And now, researchers have devised a technique to safely investigate these artworks and understand the natural varnish that has protected them for centuries. Their findings are published in the journal ACS Omega.",
-   "date": "2026-10-29",
-   "source": "Phys.org",
-   "first_seen": "2026-10-29",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
    ],
-   "links": [
-    "https://phys.org/news/2026-10-uv-scans-uncover-natural-varnish.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "훅: secret"
-   ]
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html"
   },
   {
    "title": "Capturing our closest archaeal relatives offers clues to the origin of eukaryotes",
@@ -1307,6 +1283,32 @@
    "why": [
     "형식 CUT",
     "훅: first time"
+   ]
+  },
+  {
+   "title": "Customizable nanoparticles show potential for delivering personalized cancer vaccines",
+   "link": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
+   "key": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
+   "summary": "A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By precisely controlling the density of those cancer proteins, the researchers found that they could create a vaccine that prevents the development of colon tumors in mice.",
+   "date": "2026-10-31",
+   "source": "Phys.org",
+   "first_seen": "2026-10-31",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-can",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html"
+   ],
+   "format": "CUT",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "생활소재: mice"
    ]
   }
  ]
