@@ -1,20 +1,20 @@
 {
  "week": "2026-11-02",
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 6
+   "span_days": 7
   },
   {
    "feed": "ScienceDaily 별난연구",
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 32
+   "span_days": 30
   },
   {
    "feed": "ScienceDaily 뇌·마음",
@@ -35,7 +35,7 @@
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 12
+   "span_days": 13
   },
   {
    "feed": "Phys.org",
@@ -101,6 +101,50 @@
     "훅: surpris",
     "생활소재: aging, memory, alzheimer"
    ]
+  },
+  {
+   "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261104012308.htm",
+   "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain rewiring without the behavioral response associated with psychedelic effects.",
+   "date": "2026-11-07",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-08",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012308.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "동물 실험",
+    "상관관계"
+   ],
+   "score": 11,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris, didn't",
+    "생활소재: brain, stress, mice"
+   ],
+   "text": "A new study from the University of California, Santa Cruz, has revealed how psilocybin, the psychedelic substance found in \"magic mushrooms,\" changes the brain by reorganizing connections between nerve cells. The findings could eventually help scientists develop treatments for mental health conditions that capture some of psilocybin's potential benefits without producing hallucinations. The research, published October 15 in Nature Neuroscience , found that psilocybin rapidly encourages brain cells to form new connections and helps those connections mature. At the same time, it promotes the removal of certain older connections, suggesting that its effects involve more than simply increasing communication between neurons. Experiments in mice also revealed something especially intriguing. The researchers were able to separate the cellular changes responsible for this rewiring from a behavioral response commonly associated with psychedelic effects. This suggests that some of psilocybin's effects on brain structure may be achievable without the hallucinations typically associated with the drug. The discovery could provide a foundation for developing medications that enhance the brain's ability to adapt and reorganize itself, a property known as neuroplasticity. Such treatments might eventually offer new approaches for depression, post-traumatic stress disorder (PTSD), and other psychiatric conditions. The team also identified a particular group of neurons in the cerebral cortex that plays an essential role in psilocybin's effects on brain connections. Importantly, the researchers discovered that the drug does not affect every brain in the same way. Its influence depends partly on whether the brain has previously experienced chronic stress. \"I consider this work a major advance, particularly in our understanding of how psilocybin reshapes neural circuits and its potential implications for treating mental disorders,\" said senior author Yi Zuo, professor of molecular, cell, and developmental biology at UC Santa Cruz. Scientific interest in psychedelic drugs has changed dramatically over the past century. During the middle of the 20th century, substances such as psilocybin and LSD attracted attention from Western researchers because of their powerful effects on perception, consciousness, and mood. Early studies suggested these compounds might have applications in psychiatric treatment. However, scientific investigations slowed substantially after the United States passed the Controlled Substances Act in 1970, which imposed strict restrictions on these substances. In recent years, researchers have renewed their interest in psychedelics, particularly their ability to produce rapid and potentially lasting changes in brain function. Scientists sometimes describe these compounds as \"psychoplastogens\" because they can stimulate neuroplasticity after a single dose. Neuroplasticity refers to the brain's capacity to change its structure and activity by forming, strengthening, reorganizing, or removing connections between neurons. This property is particularly interesting for mental health treatment because conditions such as depression can involve disruptions in the circuits responsible for regulating mood, emotions, and behavior. The U.S. Food and Drug Administration (FDA) has previously recognized the therapeutic potential of psychedelic research by granting Breakthrough Therapy designations to substances including psilocybin and MDMA. These designations are intended to accelerate the development and review of promising treatments for serious medical conditions. In September 2026, the FDA took another step toward evaluating psychedelic treatments by organizing a public hearing titled \"Considerations for Potential Future Therapeutic Use of Psychedelic Drugs.\" Experts discussed how healthcare professionals administering psychedelic treatments should be qualified, how potential risks could be managed through Risk Evaluation and Mitigation Strategy (REMS) programs, and how future clinical trials should be designed. As regulators examine ways psychedelic treatments might eventually become part of mainstream healthcare, researchers are increasingly focused on understanding exactly what these substances do to the brain. Identifying the cellular mechanisms behind their effects could help scientists develop treatments that are both effective and safer to administer. To investigate how psilocybin changes brain structure, the UC Santa Cruz team used an advanced imaging method called two-photon microscopy. This technology allows scientists to observe extremely small structures inside living tissue with remarkable detail. Using it, the researchers followed individual connections on neurons in living mice over several weeks, allowing them to see how those structures changed after psilocybin treatment. Their attention centered on tiny projections called dendritic spines. These structures extend from neurons and receive messages from neighboring nerve cells. They help form synapses, the specialized junctions through which neurons communicate. Synapses are essential for processing information and supporting functions such as learning, memory, and emotional regulation. Changes in their number, strength, and organization can alter the way information travels through the brain. Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines. But the drug did more than encourage new connections to appear. It also helped them develop into more mature structures at an unusually rapid pace. Normally, newly formed spines often begin as small, immature structures described as \"stubby.\" Many remain unstable and disappear before becoming fully developed connections. After psilocybin treatment, however, a much larger proportion developed into structures with a distinctive \"mushroom\" appearance. These mature spines are generally more stable and contain higher concentrations of receptors that receive chemical signals from neighboring neurons. Because of these features, mature spines can support stronger and more persistent communication between brain cells, potentially contributing to lasting changes in circuits involved in memory and mood. For lead author Jacob Baker, one of the biggest questions is whether these structural changes require the intense psychedelic experience typically produced by psilocybin. \"Psychedelics are fascinating compounds because they have the potential to profoundly transform who we are by reshaping the neural circuits in our brains,\" said Baker, a Ph.D. student in Zuo's lab. \"These newly formed connections can integrate into existing neural circuitry and persist over time, leaving a lasting structural trace of psilocybin's effects on the brain.\" One of the study's most revealing findings was that psilocybin's influence on brain connections changed depending on whether the mice had experienced prolonged stress. In healthy mice, psilocybin initially stimulated the formation of new dendritic spines. Over the following three weeks, however, the number of connections gradually moved back toward its previous level. This happened partly because the brain eliminated some connections that had existed before treatment. Rather than simply accumulating additional synapses, the healthy brain appeared to reorganize its existing circuitry while maintaining an overall balance. The researchers observed a different response in mice exposed to chronic stress. To investigate this, they used an unpredictable mild stress model, which exposes animals to varying low-intensity stressors and produces changes that resemble certain features of human depression. Prolonged stress is known to interfere with neural communication and can cause substantial losses of synaptic connections. Over time, these changes can weaken the circuits involved in important brain functions. When the stressed mice received psilocybin, the researchers",
+   "doi": [
+    "10.1038/s41593-026-02490-y"
+   ],
+   "journal_ref": "Journal Reference : Jacob J. Baker, Emily Kogan, Shaorong Ma, Ju Lu, Yi Zuo. 5-HT2A receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin . Nature Neuroscience , 2026; DOI: 10.1038/s41593-026-02490-y",
+   "facts": [
+    "The research, published October 15 in Nature Neuroscience , found that psilocybin rapidly encourages brain cells to form new connections and helps those connections mature.",
+    "During the middle of the 20th century, substances such as psilocybin and LSD attracted attention from Western researchers because of their powerful effects on perception, consciousness, and mood.",
+    "However, scientific investigations slowed substantially after the United States passed the Controlled Substances Act in 1970, which imposed strict restrictions on these substances.",
+    "Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines.",
+    "To explore this possibility, the scientists examined the role of serotonin 2A receptors (5-HT2ARs), which are proteins on the surfaces of cells that respond to chemical signals.",
+    "The researchers focused on a group of nerve cells called Layer 5 pyramidal neurons.",
+    "Layer 5 pyramidal neurons serve as important communication pathways that send information from the cortex to other brain regions.",
+    "They also contain high levels of serotonin 2A receptors, making them especially relevant to understanding psilocybin's effects.",
+    "When the researchers restored serotonin 2A receptors only in Layer 5 pyramidal neurons, psilocybin was still able to stimulate the development of new synapses and help stabilize them.",
+    "When they removed serotonin 2A receptors specifically from Layer 5 pyramidal neurons, psilocybin lost its ability to stimulate the same structural growth of synapses."
+   ],
+   "sample": []
   },
   {
    "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
@@ -500,51 +544,43 @@
    ]
   },
   {
-   "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261029072129.htm",
-   "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercise program achieved remission, compared with just 4% receiving usual care.",
-   "date": "2026-10-30",
+   "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261105224550.htm",
+   "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association.",
+   "date": "2026-11-07",
    "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-31",
-   "text": "A carefully structured combination of diet and exercise may offer a powerful way to put type 2 diabetes into remission in younger adults. In a new clinical trial, more than half of participants who followed an intensive lifestyle program achieved remission within just six months, compared with only 4% of those receiving standard care. The findings, presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) and published in The Lancet Regional Health Americas , suggest that a low-calorie diet paired with regular exercise could significantly change the course of early-onset type 2 diabetes (EOT2D) (aged under 45 years). The research was conducted by Professor Kaberi Dasgupta, Director of the Division of General Internal Medicine at McGill University in Montreal, Canada, Professor Thomas Yates of the University of Leicester in the UK, and their colleagues. Type 2 diabetes diagnosed at a younger age can be particularly aggressive. People with early-onset type 2 diabetes (EOT2D) often experience a faster decline in blood sugar control, develop complications earlier in life, and face a shorter life expectancy than those diagnosed at older ages. Previous research has shown that very low-calorie diets (LEDs) can lower blood sugar enough for some people to achieve remission without diabetes medication (T2D remission). Remission means blood sugar has fallen below the threshold used to diagnose diabetes and remains there without glucose-lowering drugs. However, it does not necessarily mean the disease has been permanently cured. Researchers wanted to find out whether adding structured exercise could make this approach even more effective. Beyond helping regulate blood sugar, physical activity could improve fitness, protect muscle during weight loss, strengthen heart function, and reduce insulin resistance. To investigate, the team tested whether combining a low-calorie diet with supervised exercise could achieve remission after 24 weeks, compared with standard medical care. The randomized clinical trial took place at three research centers in England and Canada (affiliated with the University of Leicester, UK, McGill University (Montreal), and the University of Alberta, Edmonton). It enrolled adults aged 18 to 45 who had early-onset type 2 diabetes and obesity but were not using insulin. The trial was open-label, meaning participants and researchers knew which treatment each person received, although the assessment of the main outcome was blinded. One group continued receiving usual care. The other followed an intensive program that combined a daily intake of 800 to 900 calories with supervised aerobic and resistance exercise twice per week, plus one independent exercise session each week (weeks 1-12). Participants then transitioned to a diet designed to maintain their weight loss while continuing to exercise independently (weeks 13-24). The researchers measured how many participants achieved diabetes remission after 24 weeks. To qualify, participants needed an HbA1c level below 6.5%, equivalent to 48 mmol/mol, and must have taken no glucose-lowering medication for at least 12 weeks. HbA1c is a blood test that reflects average blood sugar levels over approximately three months. The analysis included everyone assigned to either group. When remission data were missing, researchers conservatively counted those participants as not having achieved remission. They also examined changes in cardiovascular fitness, body composition, and heart structure. At the beginning of the intensive program, participants discontinued medications used to lower blood sugar and blood pressure (in the absence of albuminuria), under the study's medical supervision. Albuminuria refers to the presence of a protein called albumin in urine and can indicate kidney damage. Their restricted diet provided 800 to 900 calories daily (30% protein, 50% carbohydrate, 20% fat). Participants were encouraged to drink at least two liters of calorie-free fluids each day and were given access to a fiber-based laxative when needed. During the first two weeks, all meals were replaced with specially formulated nutritional products ( Optifast ). From weeks three through 12, participants maintained the same calorie limit but gained more flexibility in their food choices ( Optifast in UK and ProtiDiet in Canada). This second phase allowed one conventional meal per day, with daily intake targets that included protein, fruit, and vegetables (60 to 90 g protein from all sources combined, one portion of fruit, two portions of non-starchy vegetables). After the first 12 weeks, participants shifted toward maintaining their weight loss rather than continuing rapid weight reduction. Between September 24, 2021, and June 6, 2025, the researchers enrolled and randomly assigned 96 participants (40 UK, 56 Canada). The group included 50 people assigned to the intensive intervention and 46 receiving standard care (24 female, 26 male intervention group; 21 female, 25 male control group; mean age 38 years, BMI 35·2 kg/m2). The results revealed a striking difference between the groups. After 24 weeks, 27 of the 50 participants following the diet and exercise program had achieved remission, representing 54% of the intervention group. In comparison, just two of the 46 participants receiving standard care reached remission, or approximately 4%. After accounting for relevant statistical factors, the researchers calculated that participants in the intensive lifestyle program were 21 times more likely to achieve remission than those receiving usual care. Weight loss was also substantially greater among participants following the combined program. Among the 47 intervention participants with available weight data, average body weight fell from 100.7 kg to 92.3 kg, a reduction of 8.4 kg over 24 weeks. The 43 control participants with available weight data started at an average of 103.2 kg and lost just 1.2 kg, reaching 102.0 kg. After statistical adjustment, the intervention group lost an average of 7.5 kg more weight than the control group. Importantly, this included an additional 6.6 kg of fat loss, indicating that much of the difference came from reduced body fat. No severe adverse events were reported during the trial. However, side effects were more common among participants following the intensive diet. At least one adverse event occurred in 43 of the 50 intervention participants, compared with six of the 46 participants receiving standard care. Most problems appeared during the early stages of the restrictive diet and included symptoms such as constipation, headaches, dizziness, and fatigue (e.g., constipation, headache, dizziness, fatigue). These effects generally resolved. The researchers believe the findings demonstrate that a combined diet and exercise intervention can produce meaningful improvements beyond blood sugar control alone. The authors say: \"Our findings demonstrate the feasibility and efficacy of combining structured aerobic and resistance exercise with a low energy diet in early-onset type 2 diabetes, supporting its potential to deliver substantial and holistic health and well-being benefits alongside diabetes remission. \"Our remission rates are at the upper end of those previously reported in the literature for trials of similar duration, reinforcing the potential of structured lifestyle interventions to support clinically meaningful remission, while demonstrating for the first time that such effects can be achieved in a multi-ethnic population with early-onset type 2 diabetes through a combined low-energy diet and structured exercise intervention.\" One particularly important aspect of the study was its emphasis on protecting muscle mass during rapid weight loss. The researchers explain that most people who complete weight loss programs eventually regain some or all of the weight they lost. This is especially relevant when using very low-calorie diets to achieve diabetes remissio",
-   "facts": [
-    "A carefully structured combination of diet and exercise may offer a powerful way to put type 2 diabetes into remission in younger adults.",
-    "In a new clinical trial, more than half of participants who followed an intensive lifestyle program achieved remission within just six months, compared with only 4% of those receiving standard care.",
-    "The findings, presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) and published in The Lancet Regional Health Americas , suggest that a low-calorie diet paired with regular exercise could significantly change the course of early-onset type 2 diabetes (EOT2D) (aged under 45 years).",
-    "Type 2 diabetes diagnosed at a younger age can be particularly aggressive.",
-    "People with early-onset type 2 diabetes (EOT2D) often experience a faster decline in blood sugar control, develop complications earlier in life, and face a shorter life expectancy than those diagnosed at older ages.",
-    "Previous research has shown that very low-calorie diets (LEDs) can lower blood sugar enough for some people to achieve remission without diabetes medication (T2D remission).",
-    "To investigate, the team tested whether combining a low-calorie diet with supervised exercise could achieve remission after 24 weeks, compared with standard medical care.",
-    "It enrolled adults aged 18 to 45 who had early-onset type 2 diabetes and obesity but were not using insulin.",
-    "The other followed an intensive program that combined a daily intake of 800 to 900 calories with supervised aerobic and resistance exercise twice per week, plus one independent exercise session each week (weeks 1-12).",
-    "Participants then transitioned to a diet designed to maintain their weight loss while continuing to exercise independently (weeks 13-24)."
-   ],
-   "doi": [
-    "10.1016/j.lana.2026.101664"
-   ],
-   "sample": [
-    "46 participants",
-    "50 participants",
-    "50 people",
-    "96 participants"
-   ],
-   "journal_ref": "Journal Reference : Kaberi Dasgupta, Normand G. Boulé, Joseph Henson, Emma Redman, Deborah Chan, Matthew McCarthy, Debora Rosa, Francisko Arsenyadis, Stéphanie Chevalier, Jordan L. Rees, Jihoon Lim, Alex Rowlands, Michelle Hadjiconstantinou, Deborah Da Costa, Edward W. Gregg, Alice Cowley, Matthias G. Friedrich, Carla M. Prado, Mark Sherman, Melanie J. Davies, Elham Rahme, Kamlesh Khunti, Roseanne",
-   "catch_extra": [],
+   "first_seen": "2026-11-08",
    "sources": [
     "ScienceDaily 전체"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261029072129.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261105224550.htm"
    ],
    "format": "SCALE",
    "catch": [
-    "과장 의심 단어"
+    "상관관계"
    ],
-   "score": 7,
+   "score": 8,
    "why": [
     "형식 SCALE",
-    "생활소재: diet, exercise"
+    "훅: did not",
+    "생활소재: coffee, dementia"
+   ],
+   "text": "Your daily cup of coffee may be doing more than helping you wake up in the morning. A long-running study of U.S. adults suggests that drinking caffeinated coffee regularly is associated with a substantially lower risk of dementia and better cognitive health as people age. Researchers found that adults who consumed higher amounts of caffeinated coffee developed dementia at considerably lower rates than those who rarely or never drank it. The findings were based on follow-up periods extending as long as 43 years, offering a valuable look at how everyday drinking habits relate to brain health over time. The strongest associations appeared among people who drank two to three cups of caffeinated coffee each day. Tea consumption was also linked to better cognitive outcomes, although the amount associated with the greatest benefit was somewhat lower. Interestingly, decaffeinated coffee did not show the same benefits, raising questions about whether caffeine itself might help explain the connection. One of the most striking findings involved the difference in dementia rates between regular coffee drinkers and people who consumed little or no coffee. Among U.S. adults who drank higher amounts of caffeinated coffee, researchers recorded 141 dementia cases annually for every 100,000 people. In comparison, the rate was 330 cases per 100,000 people each year among those who rarely or never drank caffeinated coffee. Dementia is a general term for conditions that progressively interfere with memory, thinking, reasoning, and the ability to perform everyday activities. Alzheimer's disease is its most common cause, although several other brain disorders can also lead to dementia. While occasional forgetfulness can be a normal part of aging, dementia involves cognitive difficulties severe enough to disrupt daily life. Identifying lifestyle habits associated with lower dementia risk is therefore an important area of research, particularly as populations grow older. The findings suggest that regular caffeinated coffee consumption may be one such habit. However, the results show an association rather than proving that coffee directly prevents dementia. Other differences between coffee drinkers and people who avoid coffee could also contribute to the observed results. The potential benefits were not limited to diagnosed dementia. Participants who drank more caffeinated coffee were also less likely to report that their memory or thinking abilities had declined. Researchers found that 7.8% of adults who consumed higher amounts of caffeinated coffee reported subjective cognitive decline, compared with 9.5% of those who rarely or never drank it. Subjective cognitive decline refers to changes in memory or thinking that people notice themselves, even when those difficulties have not necessarily been confirmed by formal cognitive testing. Someone experiencing it might feel that remembering information, concentrating, or finding the right words has become more difficult. Such complaints do not automatically indicate dementia. Nevertheless, they can provide useful information about how people perceive changes in their cognitive abilities as they grow older. The lower percentage among caffeinated coffee drinkers adds to the evidence linking coffee consumption with healthier cognitive aging. The researchers also examined whether the amount of coffee consumed was related to the strength of the observed benefits. Drinking two to three cups of caffeinated coffee per day was associated with the most favorable outcomes for dementia risk and cognitive functioning. Notably, this association remained apparent regardless of participants' genetic risk of developing dementia. In other words, the relationship between coffee consumption and brain health was observed even among people whose inherited characteristics might make them more vulnerable to the disease. Genetic risk refers to the influence of inherited variations in DNA that can increase or decrease a person's likelihood of developing certain conditions. Although genetics can play an important role in dementia, they are only one part of a much larger picture that includes age, general health, and lifestyle. The results also suggest that drinking larger amounts of coffee is not necessarily better. Consumption beyond the range associated with the strongest benefits did not appear to provide additional protection. Coffee was not the only beverage associated with better brain health. Researchers found that drinking tea was also linked to lower dementia risk and better cognitive functioning. For tea, the strongest associations appeared among participants who consumed one to two cups per day. As with coffee, drinking more than this amount did not appear to produce further benefits. However, the study did not distinguish between caffeinated and noncaffeinated tea. As a result, the findings cannot establish whether caffeine was responsible for the association observed among tea drinkers. The results for coffee offered an additional clue. While regular caffeinated coffee was associated with lower dementia risk and better cognitive outcomes, decaffeinated coffee did not demonstrate the same benefits. Caffeine is a naturally occurring stimulant found in coffee, tea, and several other plants. It acts on the central nervous system and is best known for temporarily increasing alertness and reducing feelings of tiredness. Whether caffeine also contributes to better brain health over many years is a separate question. The difference between regular and decaffeinated coffee makes this possibility worth investigating, but it does not establish caffeine as the cause of the observed benefits. Taken together, the findings suggest that moderate consumption of caffeinated coffee and tea may be associated with healthier brain aging. For coffee drinkers, two to three cups daily appeared to offer the strongest association, while one to two cups of tea showed the most favorable results among tea drinkers. Although additional research is needed to determine whether these beverages directly influence dementia risk, the long-term findings offer encouraging news for people who already enjoy coffee or tea as part of their daily routine. Materials provided by American Physiological Society . Original written by Tori DeAngelis. Note: Content may be edited for style and length. The Hidden Brain Mechanism That Makes You Love Coffee, Chocolate, Fat, and Sugar A New Era of Bionic Vision? AI Helps Scientists Unlock the Brain’s Visual Cortex Scientists Discover Crows Make Decisions Twice As Fast as Humans Less Sugar in Early Life Could Protect Your Mental Health Decades Later",
+   "doi": [
+    "10.1001/jama.2025.27259"
+   ],
+   "journal_ref": "Journal Reference : Yu Zhang, Yuxi Liu, Yanping Li, Yuhan Li, Xiao Gu, Jae H. Kang, A. Heather Eliassen, Molin Wang, Eric B. Rimm, Walter C. Willett, Frank B. Hu, Meir J. Stampfer, Dong D. Wang. Coffee and Tea Intake, Dementia Risk, and Cognitive Function . JAMA , 2026; 335 (11): 961 DOI: 10.1001/jama.2025.27259",
+   "facts": [
+    "The findings were based on follow-up periods extending as long as 43 years, offering a valuable look at how everyday drinking habits relate to brain health over time.",
+    "Among U.S. adults who drank higher amounts of caffeinated coffee, researchers recorded 141 dementia cases annually for every 100,000 people.",
+    "In comparison, the rate was 330 cases per 100,000 people each year among those who rarely or never drank caffeinated coffee.",
+    "Researchers found that 7.8% of adults who consumed higher amounts of caffeinated coffee reported subjective cognitive decline, compared with 9.5% of those who rarely or never drank it.",
+    "AI Helps Scientists Unlock the Brain’s Visual Cortex Scientists Discover Crows Make Decisions Twice As Fast as Humans Less Sugar in Early Life Could Protect Your Mental Health Decades Later"
+   ],
+   "sample": [
+    "100,000 people"
    ]
   },
   {
@@ -837,45 +873,66 @@
    ]
   },
   {
-   "title": "Why some “lower-risk” childhood cancers turn deadly",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261028232717.htm",
-   "summary": "Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help doctors identify dangerous tumors earlier and develop personalized treatments that improve survival while reducing unnecessary chemotherapy.",
-   "date": "2026-10-30",
+   "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261103003205.htm",
+   "summary": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture. The surprising breakthrough, achieved using relatively simple chemical reactions, could pave the way for an entirely new class of exotic compounds.",
+   "date": "2026-11-07",
    "source": "ScienceDaily 전체",
-   "first_seen": "2026-10-31",
-   "text": "Some childhood cancers may be far more dangerous than their initial risk classification suggests. Scientists have discovered that certain tumors considered less threatening can contain hidden populations of highly aggressive cancer cells, potentially explaining why some children experience devastating outcomes despite lacking the usual genetic warning signs. The discovery could change how doctors identify children at risk of life-threatening cancer, allowing treatment to be better matched to the true aggressiveness of their disease. The findings, published in Cancer Research , come from scientists at the Wellcome Sanger Institute, the University of Cambridge, Great Ormond Street Hospital (GOSH), University College London, and collaborating institutions. Their research focused on rhabdomyosarcoma (RMS), an aggressive cancer that develops from muscle tissue and is among the most common soft tissue cancers affecting children younger than 15. Approximately 55 children are diagnosed with the disease in the United Kingdom each year. [1] Unlike many adult cancers, which can develop after years of aging or exposure to environmental factors, childhood cancers often result from genetic changes that occur during early development. Doctors generally divide rhabdomyosarcoma into two main categories based on whether a tumor carries a particular genetic warning sign. This marker occurs when two genes that are normally separate become fused together, creating an abnormal genetic combination associated with especially aggressive disease. [2] Children whose tumors contain this fusion have substantially lower survival rates than those without it, even when they receive intensive treatment. But this classification has a troubling limitation. Some children whose tumors lack the high-risk genetic marker still develop aggressive cancers that can prove fatal. Until now, scientists have struggled to explain why these supposedly less dangerous tumors sometimes behave so aggressively. To investigate this mystery, the research team compared tumors from children with different forms of rhabdomyosarcoma, looking beyond the genetic markers traditionally used to estimate risk. The researchers examined tumor samples from 16 children, including four whose cancers lacked the fusion marker but proved fatal, four with fusion-positive tumors, and eight children with fusion-negative disease who remained alive. Using advanced genetic analysis, scientists studied the tumors at a level of detail that conventional techniques cannot easily achieve. One of their main tools was single-cell RNA sequencing, a technology that measures gene activity in individual cells. Rather than examining a tumor as a single mass, this approach allows researchers to investigate the behavior of its different cell populations and identify potentially dangerous cells that might otherwise go unnoticed. The scientists also used spatial transcriptomics, a technique that maps gene activity to specific locations within a tumor. This provided a clearer picture of where aggressive cancer cells were concentrated and how they were distributed throughout the tissue. The results revealed a striking similarity between tumors that had previously been placed in different risk categories. Some cancers classified as non-high-risk contained cells with gene activity patterns closely resembling those found in high-risk tumors. Even more surprisingly, these aggressive tumors did not need the same genetic mutations to produce similar behavior. Researchers identified rare genetic changes that affected many of the same cellular pathways involved in the most dangerous forms of the disease. This suggests that different genetic abnormalities can ultimately push cancer cells toward a shared aggressive state. In other words, tumors can reach a similarly dangerous biological condition through multiple genetic routes, even when they lack the warning sign typically used to identify high-risk disease. Dr. Karin Straathof, co-senior author at UCL Cancer Institute and GOSH, said: \"By studying tumors one cell at a time, we uncovered hidden populations of aggressive cancer cells that conventional methods miss. Although these tumors carry different genetic changes, many converge on the same aggressive pathways. This helps explain why some children who appear to have lower-risk disease can still have a devastating outcome.\" The findings could have important implications for how childhood cancer is diagnosed and treated. If doctors can identify the distinctive biological signatures of aggressive cancer cells at diagnosis, they may be able to recognize children who face a greater risk of relapse or death, even when standard genetic tests suggest otherwise. Such an approach could also help prevent unnecessary treatment. Children with genuinely lower-risk tumors might avoid some of the harmful side effects associated with intensive chemotherapy, while those with hidden aggressive disease could receive stronger or more targeted treatment earlier. The researchers are particularly interested in identifying markers that could be used to develop therapies aimed specifically at the most dangerous cancer cells. One possible direction involves immunotherapy, including CAR-T cell therapy. This treatment uses specially modified immune cells to recognize and attack cancer cells. Although such treatments would require further development and testing for rhabdomyosarcoma, they could eventually offer a more precise alternative to conventional chemotherapy, potentially reducing damage to healthy tissues. Scientists are now expanding their research to include hundreds of additional tumor samples. By studying a much larger group of patients, they hope to uncover more of the rare genetic changes capable of producing aggressive cancer and accelerate the development of personalized treatments. Sara Wakeling, Chief Executive Officer and co-founder of Alice's Arc, said: \"Every child with cancer deserves the best possible chance of survival. We're proud to support research into rhabdomyosarcoma, showing how cutting-edge technologies can uncover the biology driving aggressive childhood cancers. These discoveries bring us closer to more personalized treatments and better outcomes for children.\" Dr. Laura Danielson, Children's and Young Person's Lead at Cancer Research UK, said: \"Discovery research like this is essential to understand the unique biology of these cancers. This important study demonstrates that aggressive tumors may share similar features, even if they carry different genetic changes. By helping researchers understand what these high-risk cancers have in common, this work adds a vital piece to the puzzle and could help guide future efforts to improve treatment for children and young people with rhabdomyosarcoma.\" Beyond its potential treatment applications, the discovery challenges a fundamental assumption about how rhabdomyosarcoma should be classified. Instead of viewing aggressive disease primarily through the presence or absence of one genetic abnormality, the researchers suggest that doctors may need to consider the broader biological state of the cancer cells themselves. This distinction is important because tumors with different mutations can behave in remarkably similar ways. Identifying the shared features of aggressive disease could provide a more reliable way to recognize children who need intensive treatment, regardless of the particular genetic changes driving their tumors. Professor Sam Behjati, co-senior author formerly at the Wellcome Sanger Institute and Head of the Department of Paediatrics at the University of Cambridge, said: \"This work changes how we think about rhabdomyosarcoma. Rather than a single, abnormal gene, we've shown that there is an overarching cell state of aggressive disease that defies conventional classification systems. Understanding this shared biology could help identify children who need more intense treatment to improve thei",
-   "facts": [
-    "Their research focused on rhabdomyosarcoma (RMS), an aggressive cancer that develops from muscle tissue and is among the most common soft tissue cancers affecting children younger than 15.",
-    "Approximately 55 children are diagnosed with the disease in the United Kingdom each year. [1] Unlike many adult cancers, which can develop after years of aging or exposure to environmental factors, childhood cancers often result from genetic changes that occur during early development.",
-    "This marker occurs when two genes that are normally separate become fused together, creating an abnormal genetic combination associated with especially aggressive disease. [2] Children whose tumors contain this fusion have substantially lower survival rates than those without it, even when they receive intensive treatment.",
-    "The researchers examined tumor samples from 16 children, including four whose cancers lacked the fusion marker but proved fatal, four with fusion-positive tumors, and eight children with fusion-negative disease who remained alive.",
-    "Scientists Uncover a Shocking Possibility 237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed The Brain Is More Capable of Healing Itself Than Scientists Thought Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential"
-   ],
-   "doi": [
-    "10.1002/pbc.24532",
-    "10.1158/0008-5472.CAN-25-4403"
-   ],
-   "sample": [
-    "16 children",
-    "55 children"
-   ],
-   "journal_ref": "Journal Reference : Holly J. Whitfield, Nathaniel D. Anderson, Christina Burke, Marian J. Groot Koerkamp, Conor Parks, Toochi Ogbonnah, Yvette Wood, Alice Piapi, Emilia Robertson, Eleanor Watt, Abigail White, Solange De Noon, Jonathan Kennedy, Rajvi Nagrecha, Michael T. Meister, Ewa Aladowicz, Yang Kee Stella Man, Virginia Laspidea, Mi K. Trinh, Angus Hodder, Tarryn Porter, John E. Lawrence, Eliza",
-   "catch_extra": [],
+   "first_seen": "2026-11-08",
    "sources": [
     "ScienceDaily 전체"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261028232717.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261103003205.htm"
    ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
+   "format": "",
+   "catch": [
+    "과장 의심 단어"
+   ],
+   "score": 7,
    "why": [
-    "형식 CUT",
-    "훅: unexpected",
-    "생활소재: children"
-   ]
+    "훅: surpris, accidental, mystery"
+   ],
+   "text": "A chemistry challenge that had frustrated researchers for more than 60 years has finally been overcome. Scientists at the University of Würzburg in Germany have discovered a way to produce and isolate oxoboranes, a group of unusual molecules that were long considered too unstable to study under ordinary laboratory conditions. The breakthrough, published in Nature Chemistry , was led by Professor Holger Braunschweig and his team, with computational support from researchers led by Professor Ashwini K. Phukan at Tezpur University in India. Their findings reveal a surprisingly straightforward way to create these elusive compounds, potentially opening new possibilities for molecular chemistry. Boron is an element that rarely forms triple bonds, a type of chemical connection in which two atoms share three pairs of electrons. For more than 15 years, Braunschweig has focused on overcoming this limitation and creating molecules containing unusual bonds involving boron. His laboratory has already achieved several important milestones. In 2012, the team reported the first molecule containing a triple bond between two boron atoms. Another breakthrough followed in 2025, when the researchers produced the first neutral molecule featuring a triple bond between boron and carbon. One major challenge remained among the elements in the first row of the periodic table's p-block. Researchers had yet to isolate stable organic oxoboranes, molecules characterized by a triple bond between boron and oxygen. Chemists around the world had been pursuing these compounds since at least the early 1960s. Over the decades, scientists working in both organic and inorganic chemistry had managed to detect and trap oxoboranes under extreme conditions. Other experiments provided indirect evidence of their existence, and researchers succeeded in creating several related derivatives. However, obtaining stable examples that could be isolated and examined remained an unsolved problem. The long-awaited breakthrough emerged from experiments that initially appeared to be heading in a different direction. Two doctoral students at the University of Würzburg, Lukas Lubczyk and Christian Markl, were independently investigating reactions between a compound known as a diboracumulene and various ketones, which are commonly used chemicals in organic synthesis. Both researchers noticed something unusual. Instead of producing only the outcomes they might have expected, the reactions generated distinctive orange or yellow solids. \"The discovery was a pleasant surprise. I never thought the diboracumulene would react the way it did, let alone with multiple different, simple substrates. And when Christian came to me with his compound, I knew we were onto something,\" says Lukas Lubczyk. What made the results particularly remarkable was that oxoboranes emerged as the main products of these reactions, even though several other chemical outcomes had appeared more likely. After decades of unsuccessful efforts to isolate such molecules, the researchers had found that they could form unexpectedly from reactions involving relatively simple starting materials. Braunschweig described just how surprising the discovery was to scientists familiar with the long-standing challenge. \"Nearly everybody in the field had given up on oxoboranes, as they were thought to be just too unstable to be isolated. So we were stunned to see them spontaneously form in these reactions and stick around long enough that we could study them,\" says Holger Braunschweig. Using their newly discovered method, the scientists successfully prepared three different oxoboranes. The fact that the approach worked with multiple compounds suggests that it could provide access to a much wider range of these previously difficult to isolate molecules. The team is now investigating how broadly the technique can be applied. Beyond producing additional oxoboranes, the researchers hope to determine whether similar strategies could help them create other elusive compounds involving elements throughout the periodic table. The discovery not only resolves a problem that challenged chemists for more than six decades but also demonstrates how unexpected chemical reactions can reveal possibilities that researchers once considered beyond reach. The findings were published through a collaboration between the Würzburg research team and the group led by Professor Ashwini K. Phukan at Tezpur University (India), whose computational research helped support the work. Funding was provided by the German Research Foundation (DFG), the German Academic Exchange Service (DAAD), and the Department of Science & Technology (DST) of India. Materials provided by University of Würzburg . Note: Content may be edited for style and length. The Hidden Brain Mechanism That Makes You Love Coffee, Chocolate, Fat, and Sugar A New Era of Bionic Vision? AI Helps Scientists Unlock the Brain’s Visual Cortex Scientists Discover Crows Make Decisions Twice As Fast as Humans Less Sugar in Early Life Could Protect Your Mental Health Decades Later",
+   "doi": [
+    "10.1038/s41557-026-02272-w"
+   ],
+   "journal_ref": "Journal Reference : Lukas Lubczyk, Christian Markl, Mudit Jain, Sourav Kar, Thomas Kupfer, Rian D. Dewhurst, Ashwini K. Phukan, Holger Braunschweig. Synthesis and isolation of stable oxoboranes . Nature Chemistry , 2026; DOI: 10.1038/s41557-026-02272-w",
+   "facts": [
+    "A chemistry challenge that had frustrated researchers for more than 60 years has finally been overcome.",
+    "Boron is an element that rarely forms triple bonds, a type of chemical connection in which two atoms share three pairs of electrons.",
+    "For more than 15 years, Braunschweig has focused on overcoming this limitation and creating molecules containing unusual bonds involving boron.",
+    "In 2012, the team reported the first molecule containing a triple bond between two boron atoms.",
+    "Another breakthrough followed in 2025, when the researchers produced the first neutral molecule featuring a triple bond between boron and carbon.",
+    "Researchers had yet to isolate stable organic oxoboranes, molecules characterized by a triple bond between boron and oxygen.",
+    "Chemists around the world had been pursuing these compounds since at least the early 1960s.",
+    "AI Helps Scientists Unlock the Brain’s Visual Cortex Scientists Discover Crows Make Decisions Twice As Fast as Humans Less Sugar in Early Life Could Protect Your Mental Health Decades Later"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
+   "link": "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html",
+   "key": "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html",
+   "summary": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M.D., tested a drug that targets interleukin-6 (IL-6), a downstream inflammatory molecule. IL-6 inhibitors are commonly used to treat autoimmune disorders. However, while the new drug known as ziltivekimab lowered IL-6 levels, it did not reduce cardiovascular event rates compared to placebo.",
+   "date": "2026-11-07",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-08",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "훅: did not"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html"
   },
   {
    "title": "Safer solutions: The urgent connection between smoking and HIV",
@@ -899,95 +956,6 @@
    "why": [
     "형식 PRESS",
     "훅: first time"
-   ]
-  },
-  {
-   "title": "Music paired with beats may cut stress hormone more than twice as much as pink noise",
-   "link": "https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html",
-   "key": "https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html",
-   "summary": "A new randomized clinical trial from Toronto Metropolitan University (TMU) found that listening to just 24 minutes of personalized music paired with auditory beat stimulation (ABS) lowered levels of the stress hormone cortisol more than twice as much as pink noise, a popular sound used for relaxation. Yet participants reported feeling equally calm after both.",
-   "date": "2026-10-30",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-31",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-music-paired-stress-hormone-pink.html"
-   ],
-   "format": "DOSE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 DOSE",
-    "생활소재: music, stress"
-   ]
-  },
-  {
-   "title": "Halloween is typically a massive candy fest for kids—but it doesn't have to be",
-   "link": "https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html",
-   "key": "https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html",
-   "summary": "Halloween can be a massive candy fest. Children come home from trick-or-treating ready to dig into a sackful of candy and chocolate bars.",
-   "date": "2026-10-30",
-   "source": "MedicalXpress",
-   "first_seen": "2026-10-31",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-10-halloween-typically-massive-candy-fest.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: chocolate, kids, children"
-   ]
-  },
-  {
-   "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261031012912.htm",
-   "summary": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a toxin that damages the colon’s protective lining, triggers chronic inflammation, and promotes tumor formation.",
-   "date": "2026-10-31",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-01",
-   "text": "For nearly two decades, scientists have known that a common gut bacterium can produce a toxin that damages the colon and helps drive the formation of tumors. What they could not explain was how the toxin first attaches to intestinal cells and begins its attack. Now, researchers have uncovered that missing step, revealing a surprising vulnerability that could lead to new ways of protecting the colon. The breakthrough comes from a team led by scientists at the Johns Hopkins Kimmel Cancer Center, its Bloomberg~Kimmel Institute for Cancer Immunotherapy, and the Johns Hopkins University School of Medicine. Their findings, published in Nature , identify a protein called claudin-4 as the essential docking point for a bacterial toxin known as BFT. Even more promising, the researchers have already used this discovery to develop a molecular decoy that intercepts the toxin before it can damage colon cells. The strategy successfully protected mice from the toxin's harmful effects, suggesting a possible new approach to preventing bacterial damage associated with colorectal cancer. The research received partial support from the National Institutes of Health. \"We've made several attempts over time to identify the receptor, so this is an exciting moment,\" says senior author Cynthia Sears, M.D., Bloomberg~Kimmel Professor of Cancer Immunotherapy and professor of medicine at Johns Hopkins. \"Understanding how bacterial toxins work can open doors to new approaches for detection and therapy for associated diseases, including diarrhea, colorectal cancer and bloodstream infections.\" The investigation centers on Bacteroides fragilis , a bacterium that can be found in the intestines of up to 20% of healthy people. Although the presence of this bacterium does not automatically mean someone will develop cancer, certain strains produce a powerful toxin capable of disrupting the colon's protective lining, causing inflammation, and encouraging tumor growth. The toxin, known as B. fragilis toxin or BFT, has been under investigation for years. In a landmark 2009 study published in Nature Medicine , Sears and her colleagues demonstrated that the toxin could promote the development of colon tumors. Their work helped establish an important connection between toxin-producing gut bacteria, chronic inflammation, and colorectal cancer. Earlier experiments also revealed that BFT damages a protein called E-cadherin, which helps hold neighboring cells together and maintain the colon's protective barrier. When this protein is broken apart, the barrier becomes compromised, potentially allowing harmful substances and bacteria to interfere with the surrounding tissue. However, one critical question remained unanswered. Although BFT could break down E-cadherin, the toxin did not appear to attach directly to that protein. Researchers suspected that another molecule was helping the toxin reach its target, but repeated attempts to identify it had failed. To solve the mystery, the researchers turned to CRISPR, a powerful gene-editing technology that allows scientists to selectively disable genes and investigate what they do. Maxwell White, an M.D./Ph.D. candidate working in Sears' laboratory, led a genome-wide CRISPR screening effort in collaboration with Matthew Waldor's laboratory at Harvard Medical School. The team systematically switched off genes in colon epithelial cells, the cells that form the inner lining of the colon, to determine which ones were necessary for the toxin to attach and cause damage. One gene stood out dramatically. It produces claudin-4, a protein that helps neighboring cells form tight junctions, the seals that limit the movement of substances between cells and help maintain the intestinal barrier. When the researchers disabled the gene responsible for claudin-4, BFT could no longer bind to the colon cells. Without that initial attachment, the toxin was unable to attack E-cadherin. The finding revealed that claudin-4 acts as a receptor for the bacterial toxin. In effect, the toxin must first latch onto this protein before it can carry out its damaging activity. \"It took a while to get the assay working and validate the approach, but once we were able to do the screen, claudin-4 was a clear, resounding top hit,\" says White. \"That was an exciting moment.\" An Unexpected Discovery Reveals a New Bacterial Attack Strategy Sears and other researchers had expected BFT to interact with a protein involved in cellular signaling, such as a G protein-coupled receptor. These receptors act somewhat like communication switches, allowing cells to respond to signals from their surroundings. Claudin-4, however, serves a very different purpose. Rather than functioning primarily as a signaling receptor, it helps maintain the physical connections between neighboring cells. The discovery also revealed an unusual way for a bacterial toxin to operate. BFT belongs to a class of enzymes called proteases, which cut other proteins. Most proteases act directly on their targets, but BFT appears to require a separate receptor before it can reach and damage E-cadherin. When the team reviewed previous scientific research, they could not identify another toxin known to use the same mechanism. To establish that BFT and claudin-4 truly bind to each other, the Johns Hopkins researchers collaborated with structural biologists F. Xavier Gomis-Rüth and Ulrich Eckhard at the Molecular Biology Institute of Barcelona. Using techniques that measure how molecules interact, White and the Barcelona team showed that BFT and claudin-4 form a tightly bound complex in laboratory experiments. Each toxin molecule paired with one receptor molecule, providing direct physical evidence of the connection. Identifying the receptor did more than explain how the toxin works. It also gave the scientists an idea for stopping it. If BFT needs claudin-4 to attach to colon cells, perhaps a substitute could lure the toxin away from its intended target. To test that possibility, the team developed a molecular decoy. This was a soluble protein carrying sequences from claudin-4, designed to attract BFT without allowing it to attack the colon's protective lining. The researchers then worked with Min Dong's laboratory at Harvard Medical School, including Kang Wang and colleagues, to investigate the approach in mice. These experiments allowed the scientists to examine how the toxin behaves in the more complicated environment of a living intestine. The results were encouraging. Instead of binding to claudin-4 receptors on colon cells, BFT attached to the decoy proteins. By intercepting the toxin, the decoys successfully protected the mice from BFT-induced damage. The finding suggests that it may be possible to interfere with the toxin's first step rather than trying to repair the damage after it occurs. \"This approach could be iterated upon with small molecules or other biologics that have better pharmacological properties,\" says White. The team is now exploring which molecular approaches might be most successful to block the toxin. Small molecules are compounds that can sometimes be developed into medicines, while biologics are treatments made from or involving biological materials, such as proteins. Future versions of the decoy strategy could potentially be designed to work more effectively in the body or be easier to administer. Although the findings identify a promising new target, important questions remain. Scientists have established that BFT attaches to claudin-4 and that blocking this interaction can protect mice from toxin-induced damage. However, they have not yet captured the exact experimental three-dimensional structure showing how the two molecules fit together. Even advanced artificial intelligence tools, including AlphaFold, have been unable to fully resolve the interaction. Understanding its precise structure could help researchers design more effective compounds that prevent the toxin from binding. Further experiments will also",
-   "facts": [
-    "Their findings, published in Nature , identify a protein called claudin-4 as the essential docking point for a bacterial toxin known as BFT.",
-    "\"Understanding how bacterial toxins work can open doors to new approaches for detection and therapy for associated diseases, including diarrhea, colorectal cancer and bloodstream infections.\" The investigation centers on Bacteroides fragilis , a bacterium that can be found in the intestines of up to 20% of healthy people.",
-    "In a landmark 2009 study published in Nature Medicine , Sears and her colleagues demonstrated that the toxin could promote the development of colon tumors.",
-    "It produces claudin-4, a protein that helps neighboring cells form tight junctions, the seals that limit the movement of substances between cells and help maintain the intestinal barrier.",
-    "When the researchers disabled the gene responsible for claudin-4, BFT could no longer bind to the colon cells.",
-    "The finding revealed that claudin-4 acts as a receptor for the bacterial toxin.",
-    "\"It took a while to get the assay working and validate the approach, but once we were able to do the screen, claudin-4 was a clear, resounding top hit,\" says White.",
-    "Claudin-4, however, serves a very different purpose.",
-    "To establish that BFT and claudin-4 truly bind to each other, the Johns Hopkins researchers collaborated with structural biologists F.",
-    "Using techniques that measure how molecules interact, White and the Barcelona team showed that BFT and claudin-4 form a tightly bound complex in laboratory experiments."
-   ],
-   "doi": [
-    "10.1038/s41586-026-10375-0"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Maxwell T. White, Kang Wang, Hailong Zhang, Ulrich Eckhard, Karthik Hullahalli, Jason Chen, Shaoguang Wu, Abby L. Geis, Jie Zhang, Jessica Queen, F. Xavier Gomis-Ruth, Matthew K. Waldor, Min Dong, Cynthia L. Sears. A pro-carcinogenic bacterial toxin binds claudin-4 to cleave E-cadherin . Nature , 2026; 654 (8118): 504 DOI: 10.1038/s41586-026-10375-0",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261031012912.htm"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "훅: mystery"
    ]
   },
   {
@@ -1140,6 +1108,32 @@
    ]
   },
   {
+   "title": "Anorexia and bulimia cases projected to reach nearly 22 million by 2050",
+   "link": "https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html",
+   "key": "https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html",
+   "summary": "Social media trending hashtags such as skinny girl dinner and thinspiration are promoting restrictive eating and a lifestyle centered on staying thin to millions of people around the world. This hunger for thinness is also finding its way into the misuse of GLP-1 drugs (glucagon-like peptide-1 receptor agonists), a medical breakthrough that has transformed the treatment of type 2 diabetes and obesity but is often being misused by people living with eating disorders.",
+   "date": "2026-11-04",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-04",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html",
+   "catch_extra": [],
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-anorexia-bulimia-cases-million.html"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "과장 의심 단어"
+   ],
+   "score": 6,
+   "why": [
+    "형식 DOSE",
+    "생활소재: social media"
+   ]
+  },
+  {
    "title": "Lab-grown neurons retain features of embryonic development",
    "link": "https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html",
    "key": "https://phys.org/news/2026-11-lab-grown-neurons-retain-features.html",
@@ -1247,6 +1241,8 @@
    "date": "2026-11-07",
    "source": "Phys.org",
    "first_seen": "2026-11-07",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1259,55 +1255,56 @@
    "why": [
     "형식 CUT",
     "생활소재: cat, spider"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html"
-  },
-  {
-   "title": "Capturing our closest archaeal relatives offers clues to the origin of eukaryotes",
-   "link": "https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html",
-   "key": "https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html",
-   "summary": "A collaborative research team led by Hiroyuki Imachi and Masaru K. Nobu of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) and Satoshi Nakagawa of Kyoto University has for the first time isolated and cultivated two strains of Heimdallarchaeia, a group of archaea that are among the closest known archaeal relatives of eukaryotes—the organisms that include humans and other animals, as well as plants and fungi.",
-   "date": "2026-10-30",
-   "source": "Phys.org",
-   "first_seen": "2026-10-30",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "훅: first time"
    ]
   },
   {
-   "title": "Detailed images reveal ribosome assembly inside human cells for the first time",
-   "link": "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html",
-   "key": "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html",
-   "summary": "For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins. However, putting ribosomes together requires intricate assembly processes. While many underlying mechanisms for building ribosomes have been discovered ex situ (outside their native cellular context), our understanding of how ribosomes are assembled in situ has so far remained limited.",
-   "date": "2026-10-30",
+   "title": "Customizable nanoparticles show potential for delivering personalized cancer vaccines",
+   "link": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
+   "key": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
+   "summary": "A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By precisely controlling the density of those cancer proteins, the researchers found that they could create a vaccine that prevents the development of colon tumors in mice.",
+   "date": "2026-10-31",
    "source": "Phys.org",
-   "first_seen": "2026-10-30",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html",
+   "first_seen": "2026-10-31",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-can",
    "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html"
+    "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html"
    ],
    "format": "CUT",
-   "catch": [],
+   "catch": [
+    "동물 실험"
+   ],
    "score": 5,
    "why": [
     "형식 CUT",
-    "훅: first time"
+    "생활소재: mice"
+   ]
+  },
+  {
+   "title": "Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock—with climate implications",
+   "link": "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html",
+   "key": "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html",
+   "summary": "A University of Massachusetts Amherst-led research team has discovered that weaker rock in mountain landscapes erodes three times faster than harder rock—even on gentler slopes—and is one of the main attributes governing mountain erosion. The finding also challenges our current understanding of the relationship between erosion and the release of carbon dioxide, and suggests that geologists and atmospheric scientists may be underestimating the CO₂ contributions coming from the Earth's rocky places.",
+   "date": "2026-10-31",
+   "source": "Phys.org",
+   "first_seen": "2026-10-31",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 WEIGH",
+    "훅: underestimat"
    ]
   }
  ]
