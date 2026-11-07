@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 867건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 900건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-06
@@ -309,21 +309,20 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) p
 
-## 38. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
+## 38. The wasps that horrified Darwin reveal evolution's one-way streets
+- 점수 6 · CUT · Phys.org · 2026-11-07
+- https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Few insects have a more gruesome lifestyle than Darwin wasps. Rather than simply hunting other animals, these parasitic wasps lay their eggs on or inside living hosts, including caterpillars, beetles and spiders. Their larvae then feed on their hosts, gradually consuming them and eventually killing 
+
+## 39. Capturing our closest archaeal relatives offers clues to the origin of eukaryotes
 - 점수 5 · CUT · Phys.org · 2026-10-30
 - https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A collaborative research team led by Hiroyuki Imachi and Masaru K. Nobu of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) and Satoshi Nakagawa of Kyoto University has for the first time isolated and cultivated two strains of Heimdallarchaeia, a group of archaea that are among the
 
-## 39. Detailed images reveal ribosome assembly inside human cells for the first time
+## 40. Detailed images reveal ribosome assembly inside human cells for the first time
 - 점수 5 · CUT · Phys.org · 2026-10-30
 - https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins. However, putting ribosomes together requires intricate assembly processes. While many underlying mechanisms for building ribo
-
-## 40. Customizable nanoparticles show potential for delivering personalized cancer vaccines
-- 점수 5 · CUT · Phys.org · 2026-10-31
-- https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By preci
