@@ -1,0 +1,1265 @@
+{
+ "week": "2026-11-09",
+ "updated": "2026-11-09",
+ "status": [
+  {
+   "feed": "ScienceDaily 전체",
+   "url": "https://www.sciencedaily.com/rss/all.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 7
+  },
+  {
+   "feed": "ScienceDaily 별난연구",
+   "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 28
+  },
+  {
+   "feed": "ScienceDaily 뇌·마음",
+   "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 27
+  },
+  {
+   "feed": "ScienceDaily 동식물",
+   "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 38
+  },
+  {
+   "feed": "ScienceDaily 건강",
+   "url": "https://www.sciencedaily.com/rss/top/health.xml",
+   "ok": true,
+   "items": 60,
+   "span_days": 12
+  },
+  {
+   "feed": "Phys.org",
+   "url": "https://phys.org/rss-feed/",
+   "ok": true,
+   "items": 30,
+   "span_days": 2
+  },
+  {
+   "feed": "MedicalXpress",
+   "url": "https://medicalxpress.com/rss-feed/",
+   "ok": true,
+   "items": 30,
+   "span_days": 3
+  },
+  {
+   "feed": "The Conversation",
+   "url": "https://theconversation.com/us/articles.atom",
+   "ok": true,
+   "items": 50,
+   "span_days": 8
+  }
+ ],
+ "top": [
+  {
+   "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261106174528.htm",
+   "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
+   "date": "2026-11-08",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-09",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 CUT",
+    "훅: surpris, secret"
+   ],
+   "text": "A remarkable discovery in a nearly 2,800-year-old Siberian tomb has provided the oldest directly dated archaeological evidence that people used cannabis for its intoxicating effects. By examining ancient cannabis seeds and chemical traces preserved in human hair, researchers have uncovered new clues about the role of the plant in prehistoric burial rituals. Cannabis is among the most widely used psychoactive plants in the modern world, but tracing its use thousands of years into the past presents a major archaeological challenge. Flowers, leaves, and resins tend to decompose over time, leaving little physical evidence behind. Ancient communities also relied on cannabis for practical purposes, including producing fiber and oil, making it difficult to distinguish these uses from medicinal or recreational consumption. An international team led by Dr. Gino Caspari, affiliated with the Institute of Archaeological Sciences at the University of Bern and the Max Planck Institute of Geoanthropology, investigated an elaborate tomb in the Republic of Tyva in southern Siberia. The burial site belonged to prominent members of the Scythians, a culture known for its skilled horseback riders who inhabited the vast Eurasian steppe. During the investigation, researchers recovered approximately 1,000 cannabis seeds from the tomb. They used radiocarbon dating to determine the age of six individual seeds. Combined with other dating evidence, the results indicate that the seeds were deposited in the burial site during the early eighth century B.C. \"The seeds show that cannabis played an important role in the rituals surrounding the burial,\" says Caspari, an archaeologist and the study's lead author. The researchers also analyzed human hair preserved in the tomb's central burial chamber. Chemical evidence in several samples pointed to cannabis consumption, providing a crucial connection between the plant remains and the people buried at the site. \"This study is particularly insightful because it combines the analysis of plant remains with molecular traces in the human body,\" says Caspari. Although the cannabis seeds were remarkably well preserved, their presence alone could not establish whether the plant was used for its mind-altering effects. The seeds probably came from wild cannabis plants, and researchers could not determine whether people had deliberately cultivated them for their psychoactive properties. The strongest evidence came from the preserved human hair. Using high-resolution mass spectrometry and other analytical techniques, the team identified clear chemical signals consistent with cannabinol (CBN) in several samples. CBN can form when tetrahydrocannabinol (THC), the primary compound responsible for cannabis intoxication, undergoes oxidation. The researchers also detected weaker signals that matched the mass of THC, further supporting the possibility that the individuals had consumed cannabis. While these chemical findings indicate cannabis use, they cannot reveal how much was consumed or exactly how the compounds entered the body. The individuals may have inhaled cannabis smoke or consumed the plant in another way, but the available evidence cannot establish a particular method. Other archaeological discoveries from later periods in Central Asia provide clearer evidence of cannabis inhalation. At those sites, researchers have identified cannabinoid residues on heated stones and inside vessels, pointing to the use of heat to release compounds that could be inhaled. \"The molecular traces in the hair and the cannabis seeds come from the same grave and suggest that cannabis was used for its intoxicating properties,\" says Caspari, who conducts research at the Institute of Archaeological Sciences at the University of Bern and the Max Planck Institute for Geoanthropology in Jena (Germany). The cannabis evidence was discovered within an elaborate ceremonial burial site, suggesting that the plant may have been connected to important Scythian funerary traditions. \"In this princely tomb, the burials were accompanied by extensive horse sacrifices and, most likely, human sacrifices as well,\" says Gino Caspari. Earlier research at the site identified the remains of 18 horses that had been deliberately positioned on the burial mound. Continued excavations have since uncovered evidence of several dozen more sacrificed horses, along with scattered human bones. These discoveries reveal the extraordinary scale of the burial ceremonies and provide important context for understanding why cannabis may have been included among the materials deposited in the tomb. Taken together, the seeds and chemical traces in human hair represent the oldest directly dated archaeological evidence currently known for cannabis use associated with intoxication. However, several questions remain unanswered. The researchers cannot determine how much THC the ancient cannabis contained, whether the plants were particularly potent, or whether Scythian communities had begun deliberately selecting or cultivating cannabis varieties with higher concentrations of psychoactive compounds. To investigate these questions, the team is now studying genetic material recovered from the ancient plant remains. The unusually good preservation of the cannabis DNA could provide valuable insights into how humans domesticated the plant and how it spread across different regions over thousands of years. \"We have already begun sequencing some of the plant samples,\" says Gino Caspari. \"DNA preservation is excellent in this case. This will help us learn more about the history of the domestication and spread of this crop soon.\" Materials provided by University of Bern . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.1126/science.aeg3800"
+   ],
+   "journal_ref": "Journal Reference : Gino Caspari, Timur Sadykov, Daria Fomicheva, Jegor Blochin, Dominic Armbruster, Oliver Happel, Natalia Ryabogina, Kseniia Boxleitner, Robert Spengler. Direct evidence for psychoactive cannabis use 2800 years ago . Science , 2026; 394 (6824): 649 DOI: 10.1126/science.aeg3800",
+   "facts": [
+    "A remarkable discovery in a nearly 2,800-year-old Siberian tomb has provided the oldest directly dated archaeological evidence that people used cannabis for its intoxicating effects.",
+    "During the investigation, researchers recovered approximately 1,000 cannabis seeds from the tomb.",
+    "Earlier research at the site identified the remains of 18 horses that had been deliberately positioned on the burial mound.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261105224609.htm",
+   "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who received a high-dose influenza vaccine had a nearly 55% lower risk of developing Alzheimer's, compared with a 40% reduction previously associated with the standard-dose vaccine.",
+   "date": "2026-11-08",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-09",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 8,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris",
+    "생활소재: alzheimer"
+   ],
+   "text": "A higher dose of the annual flu vaccine may offer older adults an unexpected benefit: a significantly lower risk of developing Alzheimer's disease. In a large study led by researchers at UTHealth Houston, adults ages 65 and older who received a high-dose influenza vaccine were less likely to develop Alzheimer's than those given the standard-dose version. The findings, published in the medical journal Neurology , suggest that the strength of a flu vaccine could matter for more than just protection against influenza. The discovery grew out of an unexpected conversation between a UTHealth Houston physician and local public health officials. What began as a visit to discuss earlier vaccine research eventually led scientists to investigate whether different flu vaccine doses might be associated with different levels of Alzheimer's risk. Alzheimer's disease is the leading cause of dementia and an increasingly serious public health concern. In 2025, more than 7 million Americans ages 65 and older were living with the disease, representing approximately 1 in 9 people in that age group. That figure is projected to more than double by 2050. Researchers have been exploring whether common vaccines might influence the likelihood of developing Alzheimer's. In a 2022 study , a team led by Paul Schulz, MD, found that flu vaccination was associated with a reduced risk of Alzheimer's among adults 65 and older. Schulz is a professor of neurology at McGovern Medical School at UTHealth Houston and director of the Neurocognitive Disorders Center at UTHealth Houston Neurosciences. Three years after that earlier investigation, Schulz and his colleagues published new research examining a more specific question: Could receiving a stronger flu vaccine be associated with an even greater reduction in Alzheimer's risk? The idea came from public health officials who had learned about the team's previous findings and invited Schulz to discuss them. \"The public health department had seen our vaccine research and asked if I could come down to talk to them about it,\" said Schulz, who is the senior author of the study and the Rick McCord Professor in Neurology and Umphrey Family Professor in Neurodegenerative Diseases at McGovern Medical School. \"We went through the findings, and they asked if there was a difference with different dosages; I was confused.\" As people grow older, their immune systems gradually become less effective at recognizing and fighting infections. This age-related decline can make influenza particularly dangerous for seniors. To help address that vulnerability, the Centers for Disease Control and Prevention (CDC) recommends high-dose influenza vaccines as a preferred option for adults ages 65 and older. These vaccines contain four times as much influenza antigen as standard-dose shots. Antigens are the components of a vaccine that stimulate the immune system to recognize and defend against a virus. The higher dose is designed to produce a stronger immune response in older adults, whose immune systems may respond less effectively to conventional vaccines. Schulz had not previously realized that this stronger formulation was available. \"I was stunned that, as a physician, I didn't know a higher dose was offered,\" Schulz said. Annual flu vaccination is recommended broadly, but preventing influenza is especially important for people with Alzheimer's disease. Flu infections and their complications can pose serious health risks for individuals already coping with cognitive impairment. Before 2022, the CDC did not express a preference for one type of injectable influenza vaccine over another for people ages 65 and older. Instead, the guidance emphasized receiving a flu shot every year, regardless of the specific formulation. Previous research from UTHealth Houston had already linked inactivated influenza vaccines, which use viruses that cannot cause influenza infection, to a 40% lower risk of developing Alzheimer's disease. However, researchers had not yet determined whether a higher vaccine dose might be associated with additional benefits. Another practical issue made the question particularly relevant. As the population of older Americans continues to grow, demand for high-dose flu vaccines sometimes exceeds the available supply. Consequently, some seniors receive standard-dose vaccines instead. This variation gave researchers an opportunity to compare Alzheimer's outcomes among older adults who had received different formulations. \"So we started looking, and sure enough, we were able to put together thousands and thousands of people over the age of 65 who got the high- or low-dose vaccine. They're more at risk for Alzheimer's than anybody else, of course, because it's age-related and we could look at high-dose versus low-dose and see if there was a difference,\" Schulz said. To investigate the potential connection, the research team analyzed data from nearly 200,000 men and women ages 65 and older. The results showed that people who received high-dose influenza vaccines had a significantly lower risk of developing Alzheimer's disease than those who received the standard-dose formulation. The researchers reported that standard-dose influenza vaccination was associated with a 40% reduction in Alzheimer's risk, while high-dose vaccination was linked to a reduction of nearly 55%. The association was particularly pronounced among women, who appeared to experience a greater reduction in Alzheimer's risk with the stronger vaccine. These findings add to growing evidence of a possible relationship between influenza vaccination and brain health. They also raise important questions about whether the immune response triggered by vaccination might influence biological processes involved in Alzheimer's disease. However, the findings demonstrate an association rather than establishing cause and effect. Additional research is needed to determine whether high-dose flu vaccination directly reduces the likelihood of developing Alzheimer's and to understand the mechanisms that might explain the connection. With Alzheimer's affecting millions of Americans and the number of cases expected to rise sharply in the coming decades, researchers are searching for practical ways to reduce risk. The possibility that an existing vaccine could have benefits extending beyond influenza prevention is particularly intriguing. Unlike an entirely new treatment, flu vaccination is already widely used, and higher-dose formulations are specifically designed for older adults. The new findings suggest that vaccine dosage could be an important consideration in future studies exploring the relationship between the immune system and Alzheimer's disease. For now, the research provides another reason to investigate the potential benefits of influenza vaccination while emphasizing the need for further studies before drawing conclusions about Alzheimer's prevention. Avram Samuel Bukhbinder, MD, a graduate of McGovern Medical School who is currently a clinical fellow in neurology at Massachusetts General Hospital and Harvard University, served as a corresponding author of the study. Schulz is also a faculty member of The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences. Other contributors from McGovern Medical School included Elizabeth He, visiting scholar in the Department of Neurology; Kristofer Harris, MPH, research coordinator in the Department of Neurology; Mya Rodriguez, graduate research assistant in the Department of Neurology; Kamal Phelps, MD, an alumnus of the Department of Neurology; Jenna Thomas; Gabriela Cruz, MD, resident in the Department of Neurology; and Lauren Jhin. Researchers from the McWilliams School of Biomedical Informatics at UTHealth Houston also participated. They included Xiaoqian Jiang, PhD, associate vice president for medical AI, chair of the Department of Health Data Science and Artificial Intelligence, and Christopher Sarofim Famil",
+   "doi": [
+    "10.1212/WNL.0000000000214782"
+   ],
+   "journal_ref": "Journal Reference : Avram Samuel Bukhbinder, Yaobin Ling, Lauren Jhin, Elizabeth He, Kristofer Harris, Mya Rodriguez, Jenna Thomas, Gabriela Cruz, Kamal Phelps, Yejin Kim, Luyao Chen, Xiaoqian Jiang, Paul E. Schulz. Risk of Alzheimer Dementia After High-Dose vs Standard-Dose Influenza Vaccination . Neurology , 2026; 106 (8) DOI: 10.1212/WNL.0000000000214782",
+   "facts": [
+    "In a large study led by researchers at UTHealth Houston, adults ages 65 and older who received a high-dose influenza vaccine were less likely to develop Alzheimer's than those given the standard-dose version.",
+    "In 2025, more than 7 million Americans ages 65 and older were living with the disease, representing approximately 1 in 9 people in that age group.",
+    "That figure is projected to more than double by 2050.",
+    "In a 2022 study , a team led by Paul Schulz, MD, found that flu vaccination was associated with a reduced risk of Alzheimer's among adults 65 and older.",
+    "To help address that vulnerability, the Centers for Disease Control and Prevention (CDC) recommends high-dose influenza vaccines as a preferred option for adults ages 65 and older.",
+    "These vaccines contain four times as much influenza antigen as standard-dose shots.",
+    "Before 2022, the CDC did not express a preference for one type of injectable influenza vaccine over another for people ages 65 and older.",
+    "Previous research from UTHealth Houston had already linked inactivated influenza vaccines, which use viruses that cannot cause influenza infection, to a 40% lower risk of developing Alzheimer's disease.",
+    "\"So we started looking, and sure enough, we were able to put together thousands and thousands of people over the age of 65 who got the high- or low-dose vaccine.",
+    "To investigate the potential connection, the research team analyzed data from nearly 200,000 men and women ages 65 and older."
+   ],
+   "sample": [
+    "200,000 men",
+    "9 people"
+   ]
+  },
+  {
+   "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261104084017.htm",
+   "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins.",
+   "date": "2026-11-06",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-07",
+   "text": "A drug commonly used to prevent organ transplant rejection may offer an unexpected new approach to protecting people at increased risk of Alzheimer's disease. Researchers at the University of Missouri have discovered that rapamycin, a medication also studied for its effects on aging, can improve blood flow in the brains of middle-aged adults who carry a gene variant linked to Alzheimer's. The findings could help scientists develop strategies to address Alzheimer's risk long before memory problems appear. The research also adds to the University of Missouri's growing contributions to understanding and potentially preventing the most common form of dementia. The study was led by Ai-Ling Lin, a professor in the university's School of Medicine and an investigator at the Roy Blunt NextGen Precision Health building. Her work focuses on identifying changes in the brain that occur before Alzheimer's symptoms develop and finding ways to intervene early. A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life. People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties. Because these circulation changes can occur so early, researchers believe they could provide an important warning sign of increased Alzheimer's risk. Lin's latest findings suggest that improving brain circulation with an existing medication may be one way to address these early changes. \"Alzheimer's tends to happen more in older people, especially for those with APOE4,\" Lin said. \"If we can slow down aging in the brain for those people most at risk, maybe we can reduce the risk of them developing Alzheimer's disease.\" Rapamycin is already used in medicine to prevent the immune system from rejecting transplanted organs and to treat certain rare conditions. However, researchers have also been investigating its potential to slow biological aging and protect the brain. Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4. Her earlier research showed that rapamycin could slow brain aging and increase blood flow in these animals. Those results prompted an important question: Could rapamycin produce similar benefits in people who have a genetic predisposition to Alzheimer's but have not yet developed the disease? To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not. All participants received a low daily dose of rapamycin for four weeks. When researchers examined the results, they found a notable difference between the two groups. Brain blood flow improved among participants carrying APOE4, but the same benefit was not observed in those without the gene variant. This suggests that rapamycin may have particular potential for people whose genetics place them at greater risk of Alzheimer's. Although the study did not establish whether the treatment could prevent Alzheimer's or preserve memory over time, the improved circulation offers a promising direction for future research. Women With the Alzheimer's Risk Gene Saw the Greatest Benefits Another intriguing finding emerged when the researchers examined differences between male and female participants. Women carrying APOE4 experienced the largest improvements in brain blood flow following treatment. That result may be especially important because women account for nearly two-thirds of people living with Alzheimer's disease. \"We also found that females with APOE4 saw the greatest improvement in brain blood flow, which is significant given that nearly two-thirds of people with Alzheimer's are women,\" she said. \"This research is an example of precision medicine, as we work to identify who can benefit from this drug the most.\" The results highlight the potential of precision medicine, an approach that considers individual characteristics, including genetics, when determining which treatments may be most effective. Rather than assuming that a medication will benefit everyone equally, researchers hope to identify the people most likely to respond. Lin, who is also a professor in the university's College of Arts and Science, credits Mizzou's collaborative research environment with helping advance discoveries like these. At the Roy Blunt NextGen Precision Health building, scientists and medical professionals work together in the same facility. This collaboration is designed to help move promising laboratory findings into human clinical studies more quickly. The latest results provide an encouraging starting point for investigating whether rapamycin could eventually help delay or reduce Alzheimer's risk in genetically vulnerable individuals. More research will be needed to determine whether the changes in brain blood flow lead to lasting improvements in brain health or a lower likelihood of developing the disease. The study, \"EXPRESS: Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiome profiles in healthy middle-aged APOE4 carriers: a pilot single-arm trial\" was published in Journal of Cerebral Blood Flow & Metabolism . Materials provided by University of Missouri-Columbia . Note: Content may be edited for style and length. Scientists Sound the Alarm As Colorectal Cancer Reverses a 20-Year Decline A Hidden Cancer-Fighting Switch Could Supercharge the Human Immune System A Devastating Disease Is Threatening the World’s Chocolate Supply – but Scientists May Have Found the Answer Researchers Discover Earth May Have Made Its Own Water 4.5 Billion Years Ago",
+   "facts": [
+    "A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life.",
+    "People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties.",
+    "\"Alzheimer's tends to happen more in older people, especially for those with APOE4,\" Lin said.",
+    "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4.",
+    "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not.",
+    "Brain blood flow improved among participants carrying APOE4, but the same benefit was not observed in those without the gene variant.",
+    "Women carrying APOE4 experienced the largest improvements in brain blood flow following treatment.",
+    "\"We also found that females with APOE4 saw the greatest improvement in brain blood flow, which is significant given that nearly two-thirds of people with Alzheimer's are women,\" she said.",
+    "The study, \"EXPRESS: Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiome profiles in healthy middle-aged APOE4 carriers: a pilot single-arm trial\" was published in Journal of Cerebral Blood Flow & Metabolism .",
+    "Scientists Sound the Alarm As Colorectal Cancer Reverses a 20-Year Decline A Hidden Cancer-Fighting Switch Could Supercharge the Human Immune System A Devastating Disease Is Threatening the World’s Chocolate Supply – but Scientists May Have Found the Answer Researchers Discover Earth May Have Made Its Own Water 4.5 Billion Years Ago"
+   ],
+   "doi": [
+    "10.1177/0271678X261490342"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Chetan Aware, Caitlin Maria Neher, Carter Woods, Oleksandr Khegai, Alok Kumar Dwivedi, Maalavika Govindarajan, Kira Ivanich, Mehmet Kurt, David Beversdorf, Jianlin Cheng, Nathan Bresette, Taixing Cui, Priti Balchandani, Mitzi M Gonzales, Aaron C. Ericsson, Talissa A. Altes, Ai-Ling Lin. Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiom",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
+   ],
+   "format": "DOSE",
+   "seen": "2026-11-02",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris",
+    "생활소재: aging, memory, alzheimer",
+    "이미 본 소재(2026-11-02)"
+   ]
+  },
+  {
+   "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261104012308.htm",
+   "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain rewiring without the behavioral response associated with psychedelic effects.",
+   "date": "2026-11-07",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-08",
+   "text": "A new study from the University of California, Santa Cruz, has revealed how psilocybin, the psychedelic substance found in \"magic mushrooms,\" changes the brain by reorganizing connections between nerve cells. The findings could eventually help scientists develop treatments for mental health conditions that capture some of psilocybin's potential benefits without producing hallucinations. The research, published October 15 in Nature Neuroscience , found that psilocybin rapidly encourages brain cells to form new connections and helps those connections mature. At the same time, it promotes the removal of certain older connections, suggesting that its effects involve more than simply increasing communication between neurons. Experiments in mice also revealed something especially intriguing. The researchers were able to separate the cellular changes responsible for this rewiring from a behavioral response commonly associated with psychedelic effects. This suggests that some of psilocybin's effects on brain structure may be achievable without the hallucinations typically associated with the drug. The discovery could provide a foundation for developing medications that enhance the brain's ability to adapt and reorganize itself, a property known as neuroplasticity. Such treatments might eventually offer new approaches for depression, post-traumatic stress disorder (PTSD), and other psychiatric conditions. The team also identified a particular group of neurons in the cerebral cortex that plays an essential role in psilocybin's effects on brain connections. Importantly, the researchers discovered that the drug does not affect every brain in the same way. Its influence depends partly on whether the brain has previously experienced chronic stress. \"I consider this work a major advance, particularly in our understanding of how psilocybin reshapes neural circuits and its potential implications for treating mental disorders,\" said senior author Yi Zuo, professor of molecular, cell, and developmental biology at UC Santa Cruz. Scientific interest in psychedelic drugs has changed dramatically over the past century. During the middle of the 20th century, substances such as psilocybin and LSD attracted attention from Western researchers because of their powerful effects on perception, consciousness, and mood. Early studies suggested these compounds might have applications in psychiatric treatment. However, scientific investigations slowed substantially after the United States passed the Controlled Substances Act in 1970, which imposed strict restrictions on these substances. In recent years, researchers have renewed their interest in psychedelics, particularly their ability to produce rapid and potentially lasting changes in brain function. Scientists sometimes describe these compounds as \"psychoplastogens\" because they can stimulate neuroplasticity after a single dose. Neuroplasticity refers to the brain's capacity to change its structure and activity by forming, strengthening, reorganizing, or removing connections between neurons. This property is particularly interesting for mental health treatment because conditions such as depression can involve disruptions in the circuits responsible for regulating mood, emotions, and behavior. The U.S. Food and Drug Administration (FDA) has previously recognized the therapeutic potential of psychedelic research by granting Breakthrough Therapy designations to substances including psilocybin and MDMA. These designations are intended to accelerate the development and review of promising treatments for serious medical conditions. In September 2026, the FDA took another step toward evaluating psychedelic treatments by organizing a public hearing titled \"Considerations for Potential Future Therapeutic Use of Psychedelic Drugs.\" Experts discussed how healthcare professionals administering psychedelic treatments should be qualified, how potential risks could be managed through Risk Evaluation and Mitigation Strategy (REMS) programs, and how future clinical trials should be designed. As regulators examine ways psychedelic treatments might eventually become part of mainstream healthcare, researchers are increasingly focused on understanding exactly what these substances do to the brain. Identifying the cellular mechanisms behind their effects could help scientists develop treatments that are both effective and safer to administer. To investigate how psilocybin changes brain structure, the UC Santa Cruz team used an advanced imaging method called two-photon microscopy. This technology allows scientists to observe extremely small structures inside living tissue with remarkable detail. Using it, the researchers followed individual connections on neurons in living mice over several weeks, allowing them to see how those structures changed after psilocybin treatment. Their attention centered on tiny projections called dendritic spines. These structures extend from neurons and receive messages from neighboring nerve cells. They help form synapses, the specialized junctions through which neurons communicate. Synapses are essential for processing information and supporting functions such as learning, memory, and emotional regulation. Changes in their number, strength, and organization can alter the way information travels through the brain. Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines. But the drug did more than encourage new connections to appear. It also helped them develop into more mature structures at an unusually rapid pace. Normally, newly formed spines often begin as small, immature structures described as \"stubby.\" Many remain unstable and disappear before becoming fully developed connections. After psilocybin treatment, however, a much larger proportion developed into structures with a distinctive \"mushroom\" appearance. These mature spines are generally more stable and contain higher concentrations of receptors that receive chemical signals from neighboring neurons. Because of these features, mature spines can support stronger and more persistent communication between brain cells, potentially contributing to lasting changes in circuits involved in memory and mood. For lead author Jacob Baker, one of the biggest questions is whether these structural changes require the intense psychedelic experience typically produced by psilocybin. \"Psychedelics are fascinating compounds because they have the potential to profoundly transform who we are by reshaping the neural circuits in our brains,\" said Baker, a Ph.D. student in Zuo's lab. \"These newly formed connections can integrate into existing neural circuitry and persist over time, leaving a lasting structural trace of psilocybin's effects on the brain.\" One of the study's most revealing findings was that psilocybin's influence on brain connections changed depending on whether the mice had experienced prolonged stress. In healthy mice, psilocybin initially stimulated the formation of new dendritic spines. Over the following three weeks, however, the number of connections gradually moved back toward its previous level. This happened partly because the brain eliminated some connections that had existed before treatment. Rather than simply accumulating additional synapses, the healthy brain appeared to reorganize its existing circuitry while maintaining an overall balance. The researchers observed a different response in mice exposed to chronic stress. To investigate this, they used an unpredictable mild stress model, which exposes animals to varying low-intensity stressors and produces changes that resemble certain features of human depression. Prolonged stress is known to interfere with neural communication and can cause substantial losses of synaptic connections. Over time, these changes can weaken the circuits involved in important brain functions. When the stressed mice received psilocybin, the researchers",
+   "facts": [
+    "The research, published October 15 in Nature Neuroscience , found that psilocybin rapidly encourages brain cells to form new connections and helps those connections mature.",
+    "During the middle of the 20th century, substances such as psilocybin and LSD attracted attention from Western researchers because of their powerful effects on perception, consciousness, and mood.",
+    "However, scientific investigations slowed substantially after the United States passed the Controlled Substances Act in 1970, which imposed strict restrictions on these substances.",
+    "Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines.",
+    "To explore this possibility, the scientists examined the role of serotonin 2A receptors (5-HT2ARs), which are proteins on the surfaces of cells that respond to chemical signals.",
+    "The researchers focused on a group of nerve cells called Layer 5 pyramidal neurons.",
+    "Layer 5 pyramidal neurons serve as important communication pathways that send information from the cortex to other brain regions.",
+    "They also contain high levels of serotonin 2A receptors, making them especially relevant to understanding psilocybin's effects.",
+    "When the researchers restored serotonin 2A receptors only in Layer 5 pyramidal neurons, psilocybin was still able to stimulate the development of new synapses and help stabilize them.",
+    "When they removed serotonin 2A receptors specifically from Layer 5 pyramidal neurons, psilocybin lost its ability to stimulate the same structural growth of synapses."
+   ],
+   "doi": [
+    "10.1038/s41593-026-02490-y"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Jacob J. Baker, Emily Kogan, Shaorong Ma, Ju Lu, Yi Zuo. 5-HT2A receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin . Nature Neuroscience , 2026; DOI: 10.1038/s41593-026-02490-y",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012308.htm"
+   ],
+   "format": "DOSE",
+   "seen": "2026-11-02",
+   "catch": [
+    "동물 실험",
+    "상관관계"
+   ],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris, didn't",
+    "생활소재: brain, stress, mice",
+    "이미 본 소재(2026-11-02)"
+   ]
+  },
+  {
+   "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261030003003.htm",
+   "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early human safety trial, potentially speeding the development of a new treatment for high cholesterol.",
+   "date": "2026-11-01",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-02",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261030003003.htm"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet, mice"
+   ],
+   "text": "Heart disease linked to high cholesterol continues to be the leading cause of death worldwide. Although doctors have more treatment options than ever, many people still struggle to lower their cholesterol to safe levels. Others experience side effects that make existing medications difficult to take. Researchers at the University of California San Diego School of Medicine have now identified a previously unknown biological pathway that helps explain why diets high in cholesterol can gradually weaken the body's ability to remove harmful low-density lipoprotein (LDL) cholesterol from the bloodstream. Even more promising, they have identified an experimental drug that has already undergone safety testing in humans and could potentially interfere with this process. The findings, published in Nature , could open the door to a new approach to treating high cholesterol. \"We've known for a long time that a high-cholesterol diet reduces the liver's ability to clear cholesterol from the blood, but we didn't fully understand why,\" said senior author Alan Saltiel, PhD, professor of medicine at UC San Diego School of Medicine and director of the UC San Diego/UCLA Diabetes Research Center. \"This new discovery explains a critical piece of that puzzle.\" The liver plays a central role in controlling cholesterol levels. It removes cholesterol from the bloodstream so it can be processed, broken down, and used by other parts of the body. To accomplish this, liver cells rely on structures called LDL receptors. Located on the surface of these cells, the receptors work much like docking stations, capturing LDL cholesterol circulating in the blood and bringing it inside for processing. The number of available receptors matters. When liver cells have more LDL receptors, they can remove more cholesterol from circulation. This is one reason widely used cholesterol medications, including statins and PCSK9 inhibitors, are effective. They help maintain or increase the number of receptors available to clear LDL cholesterol. Using experiments involving mice and human cells, the researchers discovered a previously unrecognized process that interferes with the liver's ability to clear cholesterol. Over time, this mechanism reduces the number of LDL receptors, making it harder for the body to keep blood cholesterol under control. The process begins with a protein known as Ral, which Saltiel had previously investigated in fat cells. The team discovered that consuming high amounts of dietary cholesterol activates Ral, setting off a chain of events that leads to the loss of LDL receptors. As Ral activity increases, fewer receptors remain available to remove harmful cholesterol from the bloodstream. The researchers then identified another critical piece of the mechanism: an enzyme called cathepsin A (CTSA). This enzyme helps drive the process responsible for depleting LDL receptors. When scientists used a small molecule inhibitor to block CTSA, the results were striking. LDL receptors became more stable, and levels of circulating LDL cholesterol dropped dramatically in mice. The discovery is especially significant because the newly identified pathway is different from those targeted by current cholesterol medications. That distinction could make it possible to develop treatments for patients who do not respond adequately to existing drugs. \"There's still a real need for new cholesterol-lowering options, since some people can't get to safe levels even with the drugs we have now,\" said Saltiel. \"This new pathway we discovered is completely separate from anything that existing drugs target, so it gives us a new opportunity to fill that gap.\" Discovering a new biological target is usually only the beginning of a lengthy drug development process. Researchers often need years of additional work to identify a suitable compound and determine whether it can be used safely in people. In this case, however, the scientists may already have a promising candidate. A drug designed to inhibit CTSA had previously been developed as a potential treatment for heart failure. Although the program was eventually discontinued for strategic reasons, the experimental medication had already progressed through a Phase 1 clinical trial, where it was successfully evaluated for safety in humans. That earlier work could provide an important advantage. Rather than beginning drug development from scratch, researchers believe the existing CTSA inhibitor may be ready to advance into a Phase 2 clinical trial to investigate its effectiveness against high cholesterol. The findings are still at an early stage, and the drug has not yet been shown to lower cholesterol in humans. Nevertheless, its previous clinical testing could shorten the path toward determining whether this new treatment strategy works in patients. \"Luckily, there's an experimental drug sitting on the shelf that's already been shown to be safe in humans,\" said Saltiel. \"We hope to test whether this might be effective by conducting a clinical trial -- which could potentially bring a new treatment option to patients much sooner than would have been expected.\" Co-authors of the study include Xue Feng, Shuo Zhang, Yuqi Wang, Twisha Kurlagunda, Allyssa Sit, Sadatsugu Sakane, Se Yong Park, Churaibhon Wisessaowapak, Kaylee Nguyen, Jamie Yan, Himani Pothulu, Catherine Dinh, Felicia Chu, Yuyao Ren, Bichen Zhang, Patrick Secrest, Chao-Wei Hung, Preethi Veeragandham, Yuliya Skorobogatko, Tatiana Kisseleva, and Amit R. Majithia at UC San Diego; Priya Jaishankar, Pusu Yang, and Adam Renslo at the University of California, San Francisco; Linmeng Han and Peng Zhao at the University of Texas Health Science Center at San Antonio; and Philip L.S.M. Gordts at the University of Utah. The research received partial funding from the National Institutes of Health (Grants P30DK063491, R01DK117551, R01DK128796, and R01DK135289) and an American Diabetes Association postdoctoral fellowship (1-25-PDF-76). Materials provided by University of California - San Diego . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.1038/s41586-026-10697-z"
+   ],
+   "journal_ref": "Journal Reference : Xue Feng, Shuo Zhang, Yuqi Wang, Twisha Kurlagunda, Allyssa Sit, Priyadarshini Jaishankar, Pusu Yang, Sadatsugu Sakane, Se Yong Park, Churaibhon Wisessaowapak, Kaylee Nguyen, Jamie Yan, Himani Pothulu, Catherine Dinh, Felicia Chu, Yuyao Ren, Bichen Zhang, Patrick Secrest, Linmeng Han, Chao-Wei Hung, Preethi Veeragandham, Yuliya Skorobogatko, Tatiana Kisseleva, Philip L.S.M. Gor",
+   "facts": [
+    "This is one reason widely used cholesterol medications, including statins and PCSK9 inhibitors, are effective.",
+    "Although the program was eventually discontinued for strategic reasons, the experimental medication had already progressed through a Phase 1 clinical trial, where it was successfully evaluated for safety in humans.",
+    "Rather than beginning drug development from scratch, researchers believe the existing CTSA inhibitor may be ready to advance into a Phase 2 clinical trial to investigate its effectiveness against high cholesterol.",
+    "The research received partial funding from the National Institutes of Health (Grants P30DK063491, R01DK117551, R01DK128796, and R01DK135289) and an American Diabetes Association postdoctoral fellowship (1-25-PDF-76).",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Scientists find surprisingly little evidence that medical cannabis helps you sleep",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261031221157.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261031221157.htm",
+   "summary": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn't mean cannabis is ineffective, only that existing studies are too weak to establish whether it works.",
+   "date": "2026-11-02",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261031221157.htm"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris",
+    "생활소재: sleep"
+   ],
+   "text": "A major new scientific review is raising questions about whether medical cannabis actually helps people with insomnia. Despite growing interest in cannabis as a sleep treatment, researchers found that the available evidence is too weak to reliably determine whether it improves sleep quality, sleep duration, or how well people function during the day. Insomnia affects millions of people and can make it difficult to fall asleep, remain asleep throughout the night, or wake up feeling rested. Beyond the frustration of sleepless nights, the condition can seriously disrupt daily life and increase the likelihood of developing anxiety or depression. Treatments for insomnia include cognitive behavioral therapy, which helps people change thoughts and habits that interfere with sleep, as well as medications such as antidepressants and antipsychotics. However, these approaches do not work equally well for everyone, fueling interest in alternative options. Medical cannabis has attracted particular attention because of its potential to improve sleep. Unlike recreational cannabis, regulated medical products typically contain carefully measured amounts of THC and CBD, two compounds found in cannabis, and are administered as tablets, sprays, or oils. Despite its growing popularity, scientists have continued to debate whether cannabis offers meaningful benefits for people with insomnia. To investigate, researchers from The Cochrane Associate Centre at the Universidad Hospital Italiano de Buenos Aires and the University of Manitoba examined nine clinical studies involving 537 adults between the ages of 18 and 76 who were receiving treatment for insomnia. Most of the studies involved people with primary insomnia, meaning their sleep problems were not attributed to another medical condition. Eight trials compared regulated medical cannabis with a placebo, an inactive treatment used to measure whether a therapy produces genuine benefits. The remaining trial compared cannabis with amitriptyline, an antidepressant that is sometimes used to treat sleep problems. Across the placebo comparisons, medical cannabis produced little or no clinically meaningful improvement in sleep quality, satisfaction with sleep, total hours slept, or daytime functioning. The researchers also identified potential drawbacks. Participants who received medical cannabis were substantially more likely to experience mild side effects, including dizziness and dry mouth, than those given a placebo. However, this finding came from a relatively small number of studies, limiting confidence in the result. There was some indication that medical cannabis might improve overall quality of life. Yet the evidence supporting this possibility was highly uncertain. When the findings were combined, the results were consistent with outcomes ranging from a slight decline in quality of life to a substantial improvement. \"The main message is that the research currently available is not sufficient to reliably answer whether medical cannabis helps people with insomnia,\" says Dr. Lucia Varela, lead author of the study from the University of Manitoba, Canada. \"This does not mean that medical cannabis is ineffective. It means that, based on the evidence we have, we cannot draw reliable conclusions about its effectiveness for insomnia in the general population.\" One of the biggest problems was the quality of the research itself. The reviewers rated their confidence in the available evidence as low or very low, citing small study populations, conflicting findings, and potential bias in how the trials were conducted. Another challenge was the lack of consistency between studies. Researchers tested different medical cannabis products, making it difficult to directly compare their results or determine whether particular formulations might work better than others. The studies were also relatively short. The longest followed participants for just 12 weeks, leaving major unanswered questions about whether medical cannabis could provide lasting sleep benefits or produce additional effects with prolonged use. The researchers also cautioned that the study participants did not adequately represent the broader population of people living with insomnia. Women accounted for nearly three-quarters (72.66% of participants), and the research was heavily weighted toward younger adults. As a result, it remains unclear whether the findings would apply equally to men, older individuals, or people whose insomnia occurs alongside other medical conditions. Taken together, these limitations mean that the existing research cannot establish whether medical cannabis is an effective insomnia treatment. The authors emphasize that larger, more rigorous clinical trials are needed before it can be confidently recommended for improving sleep. Importantly, the findings do not establish that medical cannabis is ineffective. Instead, they highlight how much remains unknown about a treatment that has gained considerable attention despite limited high-quality evidence. \"The evidence is too weak and uncertain to draw firm conclusions about the use of medical cannabis for insomnia,\" says Dr. Luis Garegnani, senior author from Universidad Hospital Italiano de Buenos Aires, Argentina. \"Rather than viewing the findings as either an endorsement or a rejection of medical cannabis, clinicians and patients should recognize the uncertainty and consider individual circumstances while better evidence is generated.\" Materials provided by Cochrane . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.1002/14651858.CD016216.pub2"
+   ],
+   "journal_ref": "Journal Reference : Lucia B Varela, Joselyn Elizabeth Miño Zambrano, Brenda Maura Goncalves Costa, Guilherme Santos Marques da Silva, Camila Micaela Escobar Liquitay, Samanta Díaz Menai, Nicolás Meza, Luis I Garegnani. Medical cannabis for the treatment of insomnia . Cochrane Database of Systematic Reviews , 2026; 2026 (10) DOI: 10.1002/14651858.CD016216.pub2",
+   "facts": [
+    "To investigate, researchers from The Cochrane Associate Centre at the Universidad Hospital Italiano de Buenos Aires and the University of Manitoba examined nine clinical studies involving 537 adults between the ages of 18 and 76 who were receiving treatment for insomnia.",
+    "The longest followed participants for just 12 weeks, leaving major unanswered questions about whether medical cannabis could provide lasting sleep benefits or produce additional effects with prolonged use.",
+    "Women accounted for nearly three-quarters (72.66% of participants), and the research was heavily weighted toward younger adults.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": [
+    "537 adults"
+   ]
+  },
+  {
+   "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261031221153.htm",
+   "summary": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic clues from human remains and cave sediments reveal prehistoric migration, long-lasting communities, and survival through the harshest conditions of the Ice Age.",
+   "date": "2026-11-02",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 PRESS",
+    "훅: surpris"
+   ],
+   "text": "More than 30,000 years ago, people living across Ice Age Europe were far more connected than scientists previously believed. New genetic evidence reveals unexpected links between populations separated by enormous distances, challenging the long-held idea that eastern and western European groups remained largely isolated from one another. An international research team led by the University of Vienna made the discovery by analyzing ancient DNA from rare human remains and traces of human genetic material preserved in cave sediments. Published in Science Advances , the findings provide a new picture of how prehistoric Europeans interacted, exchanged genes, and maintained populations through thousands of years of dramatic environmental change. The research focuses on people associated with one of Europe's major Paleolithic cultures (the Gravettian), which flourished across the continent roughly 34,000 to 25,000 years ago. Archaeological discoveries have long suggested that these ancient populations maintained connections over considerable distances. However, previous genetic evidence pointed to relatively distinct eastern and western ancestry groups. By combining new genetic findings with previously collected DNA, researchers uncovered evidence that these groups were more interconnected than expected. They also found signs that certain populations in southwestern Europe maintained their genetic ancestry for thousands of years. A Woman From 30,000 Years Ago Reveals Hidden Genetic Connections One of the most revealing discoveries came from the remains of a woman who lived approximately 30,000 years ago in what is now southwestern France. Found at Isturitz Cave, her remains provided the oldest genome-wide genetic dataset yet obtained from a modern human in southwestern Europe. Her DNA contained a surprising combination of ancestry. Although most of her genetic background was associated with western European populations, she also carried ancestry linked to people from central and eastern Europe. Using genetic modeling, researchers estimated that this mixing between populations occurred approximately 32,500 to 31,500 years ago. The finding suggests that genetic connections extended across large portions of Europe much earlier than scientists had previously established. \"Our results show that eastern and western European populations were not as genetically isolated as previously assumed,\" says first author Pere Gelabert, Department of Evolutionary Anthropology at the University of Vienna. \"Gene flow across such large distances adds a new dimension to our understanding of how Gravettian populations were connected.\" The researchers identified a similar genetic signature in another ancient individual whose remains had previously been studied at Ormesson, France. Combined with archaeological discoveries, the evidence strengthens the possibility that Isturitz Cave served as a gathering place where different groups of prehistoric people encountered one another. Ancient DNA Hidden in Cave Sediments Reveals Ice Age Survival While some ancient Europeans exchanged genes across considerable distances, other populations appear to have maintained a continuous genetic presence in particular regions for thousands of years. Evidence from Chufín Cave in northern Spain suggests that ancestry associated with western European populations persisted in southwestern Europe over an extended period. The researchers also used an increasingly valuable technique that allows scientists to recover human DNA directly from cave sediments, even when no identifiable human remains are present. Tiny traces of genetic material left behind by ancient inhabitants can survive in soil and other deposits for thousands of years, providing information about people whose bones have never been found. At El Mirón Cave in Cantabria, Spain, the team recovered human nuclear DNA from a sediment layer dating back approximately 22,000 years. Despite finding no human bones or teeth in the layer, they obtained enough genetic information to determine the ancestry of the people who had occupied the site. \"Sedimentary DNA allows us to recover genetic information from periods where human remains are missing,\" says senior author Ron Pinhasi, Department of Evolutionary Anthropology at the University of Vienna, whose team led this study. \"This gives us a way to connect archaeological layers with the genetic ancestry of the people who occupied a site.\" The results indicate that western European ancestry persisted in the region through the Last Glacial Maximum, a period when enormous ice sheets reached their greatest extent during the last Ice Age. This supports the idea that the Iberian Peninsula, which includes present-day Spain and Portugal, served as an important refuge for prehistoric humans during some of the coldest conditions of the Ice Age. Another revealing discovery came from southern Italy, where researchers examined the genetic remains of Ostuni1b, a male fetus believed to be the son of a previously studied woman known as Ostuni1. Genetic analysis suggests that the child's father likely belonged to the same ancestral population as his mother. However, the parents were not closely related, offering evidence that mating patterns within these ancient communities may have helped limit inbreeding. This finding adds another dimension to the emerging picture of prehistoric European societies. Even as some populations maintained relatively stable genetic ancestry within their home regions, they could also participate in broader networks of genetic exchange spanning considerable distances. Together, the discoveries show that long-term regional continuity and widespread genetic connections were not mutually exclusive. Both helped shape the population history of Ice Age Europe. Building on these results, Gelabert and his colleagues are now combining DNA recovered from ancient sediments with advanced proteomic techniques, which examine proteins for clues about past life. Their goal is to investigate the earliest expansions of modern humans across Europe, including how these populations interacted with carnivores in places where bones and other organic remains are scarce. Materials provided by University of Vienna . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.1126/sciadv.aeh6128"
+   ],
+   "journal_ref": "Journal Reference : Pere Gelabert, Susanna Sawyer, Vanessa Villalba-Mouco, Olivia Cheronet, Victoria Oberreiter, Diego Gárate, Christian Normand, Lawrence G. Straus, Manuel R. González Morales, Igor Gutiérrez-Zugasti, David Cuenca-Solana, Joëlle Darricau, Henry de Lumley, José-Miguel Tejero, Mareike Stahlschmidt, Thomas Higham, Maddalena Giannì, Laura G. van der Sluis, Carla Gómez-Montes, Miriam I",
+   "facts": [
+    "More than 30,000 years ago, people living across Ice Age Europe were far more connected than scientists previously believed.",
+    "The research focuses on people associated with one of Europe's major Paleolithic cultures (the Gravettian), which flourished across the continent roughly 34,000 to 25,000 years ago.",
+    "A Woman From 30,000 Years Ago Reveals Hidden Genetic Connections One of the most revealing discoveries came from the remains of a woman who lived approximately 30,000 years ago in what is now southwestern France.",
+    "Using genetic modeling, researchers estimated that this mixing between populations occurred approximately 32,500 to 31,500 years ago.",
+    "At El Mirón Cave in Cantabria, Spain, the team recovered human nuclear DNA from a sediment layer dating back approximately 22,000 years.",
+    "Another revealing discovery came from southern Italy, where researchers examined the genetic remains of Ostuni1b, a male fetus believed to be the son of a previously studied woman known as Ostuni1.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
+   "key": "https://sciencedaily.com/releases/2026/10/261029072132.htm",
+   "summary": "In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to strengthen the immune system's response to cancer.",
+   "date": "2026-11-02",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-03",
+   "text": "Scientists have uncovered an unexpected connection between diet and cancer treatment. In a surprising finding, certain diets typically considered \"unhealthy\" or \"fattening\" actually improved responses to a common form of cancer immunotherapy in mice. The discovery suggests that the success of cancer treatment may depend not only on which bacteria live in the gut, but also on the foods that help those bacteria thrive. \"There is a synergistic relationship between the bacteria that reside in our GI tract, and the food we eat,\" said Daniela Quail, Associate Professor in the Department of Physiology and Principal Investigator at the Rosalind & Morris Goodman Cancer Institute. \"Even with the right composition of bacteria in your gut, the foods you eat to nourish those populations can determine whether or not you respond to treatment,\" said Quail. Quail co-led the research, which examined how diet influences the effectiveness of immune checkpoint inhibitors. These widely used immunotherapy drugs help the immune system recognize and attack cancer cells. Other senior researchers involved in the study included McGill scientist Logan Walsh and CR-CHUM collaborators Bertrand Routy and Arielle Elkrief. The findings were published in Nature . One of the most unexpected discoveries was that some diets associated with weight gain appeared to make immunotherapy more effective, challenging assumptions about the relationship between nutrition and cancer treatment. \"Our findings were surprising because they highlighted a benefit of some obesogenic diets,\" she said. \"That tells us the relationship between diet and cancer treatment is more complex than a simple message to eat healthy and exercise.\" However, the researchers emphasize that these results should not encourage cancer patients to consume diets that promote obesity. Excess weight carries established health risks, and the findings do not demonstrate that adopting such diets would improve cancer treatment in humans. Instead, the scientists want to understand how different foods influence the gut microbiome, the enormous community of trillions of bacteria that inhabit the digestive system. Identifying the mechanisms responsible for the improved treatment responses could eventually help researchers develop safer ways to make cancer immunotherapy more effective. The investigation grew out of a longstanding puzzle in cancer research known as the \"obesity paradox.\" Obesity is generally linked to a greater risk of developing cancer and dying from the disease. Yet several studies have found that cancer patients with a higher body mass index (BMI) sometimes respond more favorably to immune checkpoint inhibitors. To investigate this apparent contradiction, the research team tested 12 different diets in mice. Surprisingly, some diets associated with obesity improved the animals' responses to immunotherapy, even when they were consumed for relatively short periods. These results suggest that the apparent treatment advantage associated with obesity may not be primarily caused by excess body weight. Instead, the explanation could involve the combined influence of diet and gut bacteria on the immune system. By uncovering how these interactions affect cancer treatment, researchers hope to identify new approaches that reproduce the beneficial effects without exposing patients to the health risks associated with obesity. The study, \"Diet-microbiome synergy underlies obesity-associated immunotherapy efficacy,\" was published in Nature by McGill PhD graduate Lysanne Desharnais, Daniela Quail, and their collaborators. Funding was provided by the Canadian Institutes of Health Research, the Canadian Cancer Society, the Terry Fox Research Institute, the Canada Foundation for Innovation, and philanthropic supporters including La Vie en Rose and the Bachynski Family Foundation. Materials provided by McGill University . Note: Content may be edited for style and length. “The Closest Thing to Magic” – Researchers Create an Invisible Pipe That Moves Liquids Through Thin Air Scientists Discover How Dead Stars Could Break One of Physics’ Most Famous Limits A Natural Compound Found in Everyday Foods Shows Surprising Power Against Lung Cancer Eating a Handful of Peanuts Could Change Your Blood in a Surprising Way, Study Finds",
+   "facts": [
+    "To investigate this apparent contradiction, the research team tested 12 different diets in mice."
+   ],
+   "doi": [
+    "10.1038/s41586-026-10750-x"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Lysanne Desharnais, Anikka Swaby, Meriem Messaoudene, Samuel Doré, Miranda W. Yu, Benoit Fiset, Valérie Breton, Mayra Ponce, Yongjia Hu, Liam Wilson, Mark Sorin, Ye Wang, Ken Dewar, Michael Pollak, Arielle Elkrief, Bertrand Routy, Logan A. Walsh, Daniela F. Quail. Diet–microbiome synergy underlies obesity-associated immunotherapy efficacy . Nature , 2026; 657 (8131): 505 DOI: 1",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261029072132.htm"
+   ],
+   "format": "SCALE",
+   "seen": "2026-11-02",
+   "catch": [
+    "동물 실험",
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "훅: surpris, secret",
+    "생활소재: diet, mice",
+    "이미 본 소재(2026-11-02)"
+   ]
+  },
+  {
+   "title": "Scientists identify two overlooked skills that predict reading success",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261102202845.htm",
+   "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how to help struggling readers.",
+   "date": "2026-11-03",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 PRESS",
+    "훅: surpris",
+    "생활소재: children"
+   ],
+   "text": "For decades, explanations for why some children struggle with reading have often focused on two factors: intelligence and the ability to process visual information. Children who read easily have frequently been assumed to be more intelligent, while those who struggle have sometimes been viewed as less capable. Another common belief is that reading difficulties arise primarily from problems interpreting the words and letters on a page. However, a major new study challenges these assumptions, suggesting that the abilities most important for reading success may be very different from what many people expect. Dr. Daniel Hajovsky, an associate professor in Texas A&M University's Department of Educational Psychology, led one of the most extensive investigations to date into how cognitive abilities relate to reading performance. The research brought together scientists from the University of Kansas, St. John's University, Montclair State University and Temple University to examine which mental skills best predict reading development and why some children encounter difficulties. To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model. This large-scale approach allowed them to assess the contribution of individual mental abilities to reading performance while also helping clarify why previous studies had sometimes produced conflicting conclusions. The findings revealed several surprises. Visual processing showed no meaningful relationship with reading ability across the analysis. General intelligence was associated with reading performance, but its influence was considerably smaller than some earlier research had suggested. Instead, two less frequently discussed abilities emerged as particularly important predictors of reading success: auditory processing and comprehension-knowledge. \"One notable finding was that general intelligence was less dominant than in some earlier meta-analyses,\" Hajovsky said. \"Broad abilities such as comprehension-knowledge and auditory processing played strong, specific roles in reading beyond general intelligence, especially for decoding and comprehension.\" Auditory processing involves recognizing and distinguishing the individual sounds that make up spoken words. For example, a child needs to identify the separate sounds within a word to understand how those sounds correspond to written letters. This skill helps support decoding, the process of working out how written words are pronounced. Comprehension-knowledge refers to the vocabulary, concepts and background information a child has accumulated through learning and everyday experiences. Having this foundation makes it easier to understand the meaning of words, sentences and longer passages. Together, these two abilities were more reliable predictors of reading performance than any other skills examined in the study. Other cognitive functions, including memory, reasoning and mental processing speed, also contributed to reading development, although they played more supporting roles. The results suggest that reading is not simply a reflection of overall intelligence or how effectively a child processes visual information. Instead, it depends on several interconnected abilities, with language-related skills playing especially important roles. The research could help educators better understand why individual students experience reading difficulties. Rather than treating all reading problems as the same, teachers may be able to identify particular weaknesses and provide instruction that addresses those needs. For families, the findings also offer an encouraging message. A child who has trouble reading is not necessarily less intelligent or incapable of becoming a strong reader. Difficulties may instead reflect specific abilities that need additional development and support. \"Strengthening foundational skills at home, even the ones that seem simple, can have meaningful effects on more advanced reading abilities,\" Hajovsky said. \"Struggles in reading are not a sign of low ability but often reflect one specific skill that needs strengthening within a larger system that works together.\" The findings highlight the value of helping children build essential reading skills through consistent support, both in the classroom and at home. According to Hajovsky, the most effective approach involves cooperation among schools, parents, and communities. Reading develops through a network of connected skills, and strengthening those foundations one step at a time can help children become more confident and capable readers. Materials provided by Texas A&M University . Original written by Ryan McCullar. Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.3390/jintelligence13080104"
+   ],
+   "journal_ref": "Journal Reference : Daniel B. Hajovsky, Christopher R. Niileksela, Dawn P. Flanagan, Vincent C. Alfonso, William Joel Schneider, Jacob Robbins. Toward a Consensus Model of Cognitive–Reading Achievement Relations Using Meta-Structural Equation Modeling . Journal of Intelligence , 2025; 13 (8): 104 DOI: 10.3390/jintelligence13080104",
+   "facts": [
+    "To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": []
+  },
+  {
+   "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261102202838.htm",
+   "summary": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease that once threatened their survival.",
+   "date": "2026-11-03",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 PRESS",
+    "훅: mystery"
+   ],
+   "text": "For nearly 50 years, scientists have struggled to explain why frogs began disappearing from Brazil's Atlantic Forest, one of the world's richest regions for amphibian diversity. Beginning in the 1970s, researchers documented dramatic population declines, but the cause of these losses remained uncertain. Now, scientists have uncovered compelling evidence pointing to a deadly fungal disease as the likely explanation. The findings, published in Molecular Ecology , come from researchers at the Center for Conservation Genomics at the Smithsonian's National Zoo and Conservation Biology Institute (NZCBI) and Pennsylvania State University (PSU). The suspected culprit is chytridiomycosis, often called chytrid, a disease caused by the microscopic fungus Batrachochytrium dendrobatidis . Scientists believe the pathogen originated in Asia before spreading around the world during the 1970s and 1980s. However, the fungus was not formally identified and described until 1999, long after devastating amphibian declines had begun. By then, hundreds of amphibian species worldwide had been driven toward extinction, and some had already disappeared. Because so many populations collapsed before scientists knew the fungus existed, determining whether it was responsible has been particularly difficult. \"After almost 50 years, we still aren't confident what caused many historical amphibian die-offs, making these declines some of the most enduring cold cases in wildlife epidemiology,\" said Jack Boyette, an NZCBI graduate fellow and doctoral candidate at PSU who led the research. One of these longstanding mysteries centers on the Boracéia Biological Station in Brazil's Atlantic Forest, where amphibian populations experienced severe declines between 1979 and 1982. Some researchers previously suggested that climate change or unusually extreme weather might have triggered the disappearances. The new findings, however, provide evidence that an emerging fungal disease was spreading through the area at precisely the same time. \"While environmental factors could have played a role, our findings most directly implicate the chytrid fungus, revealing that regional invasion of the pathogen coincided with these unexplained amphibian disappearances,\" Boyette said. To investigate what happened, the researchers turned to an unexpected source of evidence: frogs preserved in museum collections decades earlier. The Smithsonian's National Museum of Natural History houses specimens collected by William Ronald Heyer, a former curator of amphibians and reptiles. Heyer conducted five collecting expeditions at Boracéia, including two during the 1970s before the major population declines and three during the 1980s after the die-offs had occurred. These preserved animals offered scientists a rare opportunity to examine the period before and after the mysterious disappearances. By testing specimens collected at different times, researchers could investigate when the pathogen arrived and how rapidly it spread. The team analyzed samples from more than 370 preserved amphibians representing 17 species, searching for evidence of chytrid infection and tracking how frequently the fungus appeared over time. The results revealed a striking change. None of the specimens collected before 1979 showed evidence of chytrid infection. Among those collected during the 1980s, however, more than half tested positive for the fungus. This sharp increase suggests that the pathogen arrived and spread through the local amphibian community around the same time that frog populations were collapsing. Species that suffered the most severe declines showed no detectable signs of infection in the preserved specimens. Meanwhile, species whose populations remained relatively stable frequently carried the fungus. At first glance, these findings might seem to contradict the idea that chytrid caused the disappearances. The researchers believe the explanation may lie in differences in how individual species respond to the disease. Some frogs may have been naturally capable of tolerating the infection, allowing them to survive even when the fungus was present. More vulnerable species, on the other hand, may have died so quickly after becoming infected that few or no infected individuals were ever collected. \"It's important to keep in mind that not all species suffered catastrophic losses at Boracéia,\" Boyette said. \"The species that didn't decline may have naturally tolerated the fungus, allowing them to become infected without suffering mass mortality. By contrast, the species that declined most dramatically may have been so susceptible that infected frogs died before Heyer could collect them.\" Together, the results suggest that chytrid spread rapidly among frogs with little previous exposure to the disease, with potentially devastating consequences for species unable to withstand infection. For Michael Campana, a genomicist at NZCBI who contributed to the research, the findings demonstrate the extraordinary scientific value of natural history museums. Specimens preserved many decades ago can contain biological evidence that researchers at the time had no way of recognizing. Modern testing methods now make it possible to revisit these collections and investigate outbreaks that occurred long before the responsible pathogens were discovered. \"Museum collectors could not have anticipated how important their collections would be to our modern conservation challenges, but without them, we would never be able to detect pathogens that went unnoticed for decades and reconstruct disease outbreaks that would otherwise remain a mystery,\" Campana said. Understanding these past outbreaks could also help scientists anticipate future threats. One growing concern involves another fungal pathogen, B. salamandrivorans , which is threatening salamander populations in Europe and could pose a serious danger to salamanders in North America. By reconstructing how earlier fungal diseases emerged, spread, and affected different species, researchers hope to improve their ability to recognize and respond to similar threats before they cause widespread damage. Despite the devastating losses recorded decades ago, the latest findings also offer encouraging evidence of recovery. Working with researchers from the University of São Paulo, the team made six visits to Boracéia between 2022 and 2024 to investigate the amphibians living there today. Of the 17 species represented in Heyer's historical museum collection, researchers located 12 during their modern surveys. The remaining five were not found, leaving their current status uncertain and raising concerns that some may have disappeared from the site entirely. Nevertheless, the surveys indicate that most amphibian species at Boracéia have recovered since the severe declines of the early 1980s. The fungus has not disappeared. Chytrid infections are still present among local frogs, but the pattern of infection suggests that species once heavily affected by the disease may have developed greater tolerance over successive generations. That increased tolerance could help explain why many populations have survived and rebounded despite continuing exposure to the pathogen. The findings highlight an important distinction between infection and mortality. A species can carry a dangerous pathogen without necessarily suffering catastrophic losses, particularly if its members can tolerate the infection. Although the evidence strongly implicates chytrid in the historic declines at Boracéia, the researchers caution that their findings apply to this particular location. The results cannot automatically explain amphibian disappearances elsewhere in the Atlantic Forest. Still, the study provides a compelling explanation for a longstanding local mystery and demonstrates how scientists can use historical specimens to reconstruct outbreaks that would otherwise remain poorly understood. Researchers are now examining DNA recovered from museu",
+   "doi": [
+    "10.1111/mec.70573"
+   ],
+   "journal_ref": "Journal Reference : Jack L. Boyette, Tamilie Carvalho, David Rodriguez, Wesley J. Neely, Daniel Medina, Renato A. Martins, Robert J. Ossiboff, Zaira Gomez, William C. Vuyk, Shannon M. Buttimer, Karen A. Paniagua Torres, Ananda Brito de Assis, Carlos A. Navas, Carly R. Muletz‐Wolz, Michael G. Campana, Corinne L. Richards‐Zawacki, C. Guilherme Becker. Overcoming Detection Lag in a Cryptic Panzootic:",
+   "facts": [
+    "For nearly 50 years, scientists have struggled to explain why frogs began disappearing from Brazil's Atlantic Forest, one of the world's richest regions for amphibian diversity.",
+    "Beginning in the 1970s, researchers documented dramatic population declines, but the cause of these losses remained uncertain.",
+    "Scientists believe the pathogen originated in Asia before spreading around the world during the 1970s and 1980s.",
+    "However, the fungus was not formally identified and described until 1999, long after devastating amphibian declines had begun.",
+    "\"After almost 50 years, we still aren't confident what caused many historical amphibian die-offs, making these declines some of the most enduring cold cases in wildlife epidemiology,\" said Jack Boyette, an NZCBI graduate fellow and doctoral candidate at PSU who led the research.",
+    "One of these longstanding mysteries centers on the Boracéia Biological Station in Brazil's Atlantic Forest, where amphibian populations experienced severe declines between 1979 and 1982.",
+    "Heyer conducted five collecting expeditions at Boracéia, including two during the 1970s before the major population declines and three during the 1980s after the die-offs had occurred.",
+    "By testing specimens collected at different times, researchers could investigate when the pathogen arrived and how rapidly it spread.",
+    "The team analyzed samples from more than 370 preserved amphibians representing 17 species, searching for evidence of chytrid infection and tracking how frequently the fungus appeared over time.",
+    "None of the specimens collected before 1979 showed evidence of chytrid infection."
+   ],
+   "sample": []
+  },
+  {
+   "title": "Nearly 1 in 5 people in the US think about food even when they are not hungry",
+   "link": "https://medicalxpress.com/news/2026-11-people-food-hungry.html",
+   "key": "https://medicalxpress.com/news/2026-11-people-food-hungry.html",
+   "summary": "\"Food noise\" refers to intrusive thoughts about and cravings for food, whether or not a person is hungry. The phenomenon has become widely discussed on social media, in traditional media and in commercials for GLP-1 receptor agonist weight-loss medications. Because the term has only emerged in recent years, not much is known about who experiences food noise, and there is not even a universally accepted scientific definition.",
+   "date": "2026-11-03",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-people-food-hungry.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 DOSE",
+    "생활소재: social media"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-food-hungry.html"
+  },
+  {
+   "title": "Kids who eat more ultra-processed foods show a troubling brain response",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261101010549.htm",
+   "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.",
+   "date": "2026-11-04",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-05",
+   "text": "Children who consume more ultra-processed foods (UPFs) may have stronger brain responses to tempting foods, potentially helping explain why these products are associated with weight gain. A new study published in JAMA Network Open found that children who ate more of these foods showed heightened activity in the brain's reward system when looking at pictures of appetizing foods. Those stronger responses were also associated with increases in body fat over the following year. Ultra-processed foods include many everyday products, such as breakfast cereals, packaged bread, and instant soups. They are manufactured to be appealing, convenient, and able to remain fresh for extended periods. Many contain artificial sweeteners, coloring agents, and other ingredients rarely used in home cooking. These products make up a substantial portion of children's diets, accounting for approximately 67% of the calories consumed by children in the United States. Previous research has associated ultra-processed food consumption with obesity, type 2 diabetes, and cardiovascular disease. However, scientists are still trying to understand the biological processes that might explain these connections. The new investigation, supported in part by the National Institutes of Health, combined magnetic resonance imaging (MRI), dietary assessments, and measurements of children's body composition to explore whether the brain's response to food could play a role. \"Children's brains are still developing, habits are still forming and food preferences are still being made. It's an important period where the brain is very sensitive to food and the food environment,\" said the study's senior author, Kathleen A. Page, MD, professor of medicine and pediatrics and co-chief of the Division of Endocrinology and Diabetes at the Keck School of Medicine of USC. \"We're particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference.\" To investigate these connections, the research team studied 46 children between the ages of seven and 10 who were enrolled in the ongoing BrainChild study, which examines factors contributing to diabetes and obesity. Every participant had a healthy weight when the research began, giving scientists an opportunity to investigate potential warning signs before excess weight developed. At the start of the study, the children underwent brain scans while looking at pictures of appealing foods (such as cookies or French fries). Researchers also gathered information about their diets and recorded several health measurements, including body mass index (BMI), body fat percentage, and waist circumference. After one year, the team measured these physical characteristics again to identify changes. The brain scans revealed a notable pattern. Children who consumed larger amounts of ultra-processed foods showed greater activity in the dorsal striatum when viewing food pictures. This part of the brain helps regulate reward and motivation, making it particularly relevant to how people respond to desirable foods. Importantly, children with stronger responses in this brain region also tended to experience greater increases in BMI and body fat percentage over the next year. The findings suggest that heightened sensitivity to food cues may be one factor connecting ultra-processed diets with subsequent weight gain. By the end of the study, children who consumed more ultra-processed foods generally had higher BMI, greater body fat percentage, and larger waist circumference. The researchers then examined whether differences in brain activity could help account for these associations. When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker. The corresponding association with body fat percentage decreased by 44%. These reductions suggest that the brain's reward response may help explain part of the relationship between ultra-processed food consumption and changes in body composition. Although the results do not demonstrate that these foods directly alter brain function, they provide a possible biological explanation for an association that has been observed in previous research. \"This study goes beyond just understanding that UPFs affect weight gain,\" Page said. \"It actually gives us insight into the neurobiological underpinnings by which these foods may be linked to body composition over time.\" The researchers caution that improving children's diets cannot depend entirely on individual families. Ultra-processed products are often inexpensive, widely available, and easy to prepare, making them practical choices for households facing financial or time constraints. \"Changing the food environment to help people access healthier, more minimally processed foods is an important part of the solution,\" Page said. There are also important limitations to consider. Because the study was observational, it cannot determine whether eating ultra-processed foods directly causes heightened brain activity or increases in body weight. The findings establish relationships between these factors, but additional research is needed to determine whether one causes another. Page hopes to address that question in a future intervention study. The proposed research would provide children who regularly consume ultra-processed foods with more minimally processed alternatives. Scientists could then examine whether changing their diets affects how their brains respond to food images and whether any differences are associated with reduced weight gain. Meanwhile, the BrainChild study will continue tracking participants as they move through puberty and into early adulthood. By monitoring brain development, body composition, dietary patterns, and general health over time, researchers hope to gain a clearer picture of how childhood nutrition may influence long-term health. The study was led by Page alongside Jasmin M. Alves, Ella Morgan, Brendan Angelo, Kianna Le, and Jared Smith from the Division of Endocrinology and Diabetes, Department of Medicine, and Diabetes and Obesity Research Institute at the Keck School of Medicine of USC, University of Southern California. Additional contributors included Kay Jann of the USC Stevens Neuroimaging and Informatics Institute at the Keck School of Medicine of USC, University of Southern California, and Ting Chow and Anny H. Xiang of the Department of Research and Evaluation at Kaiser Permanente Southern California in Pasadena, California. Funding came from an American Diabetes Association Pathway Accelerator Award [1-14-ACE-36] and the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health (NIH) [R01DK116858, R01DK134079]. Support for the REDCap database used in the research was provided by the Southern California Clinical and Translational Science Institute [NIH UL1TR001855]. Materials provided by Keck School of Medicine of USC . Note: Content may be edited for style and length. Something Remarkable Is Happening to Dogs Living Near Chernobyl’s Nuclear Plant Hubble Uncovers a Mysterious 93-Billion-Mile Structure Hiding in a Nearby Star System A Simple Tongue Exercise Could Hold the Key to Fighting the Devastating Effects of ALS Scientists Discover a New Type of Depression That Common Antidepressants May Miss",
+   "facts": [
+    "These products make up a substantial portion of children's diets, accounting for approximately 67% of the calories consumed by children in the United States.",
+    "Previous research has associated ultra-processed food consumption with obesity, type 2 diabetes, and cardiovascular disease.",
+    "\"We're particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference.\" To investigate these connections, the research team studied 46 children between the ages of seven and 10 who were enrolled in the ongoing BrainChild study, which examines factors contributing to diabetes and obesity.",
+    "When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker.",
+    "The corresponding association with body fat percentage decreased by 44%.",
+    "Funding came from an American Diabetes Association Pathway Accelerator Award [1-14-ACE-36] and the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health (NIH) [R01DK116858, R01DK134079].",
+    "Support for the REDCap database used in the research was provided by the Southern California Clinical and Translational Science Institute [NIH UL1TR001855].",
+    "Something Remarkable Is Happening to Dogs Living Near Chernobyl’s Nuclear Plant Hubble Uncovers a Mysterious 93-Billion-Mile Structure Hiding in a Nearby Star System A Simple Tongue Exercise Could Hold the Key to Fighting the Devastating Effects of ALS Scientists Discover a New Type of Depression That Common Antidepressants May Miss"
+   ],
+   "doi": [
+    "10.1001/jamanetworkopen.2026.40252"
+   ],
+   "sample": [
+    "46 children"
+   ],
+   "journal_ref": "Journal Reference : Jasmin M. Alves, Ella Morgan, Brendan Angelo, Kianna Le, Jared Smith, Ting Chow, Kay Jann, Anny H. Xiang, Kathleen A. Page. Ultraprocessed Food Intake, Striatal Response to Food Cues, and Adiposity Gain in Children . JAMA Network Open , 2026; 9 (10): e2640252 DOI: 10.1001/jamanetworkopen.2026.40252",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261101010549.htm"
+   ],
+   "format": "WEIGH",
+   "seen": "2026-11-02",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: diet, kids, children",
+    "이미 본 소재(2026-11-02)"
+   ]
+  },
+  {
+   "title": "Consuming colorful produce may help reduce COPD-related inflammation, flare-ups",
+   "link": "https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html",
+   "key": "https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html",
+   "summary": "Eating a diet rich in red, yellow and orange fruits and vegetables may help reduce inflammation and exacerbations associated with chronic obstructive pulmonary disease (COPD), according to a new study in the September 2026 issue of Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundation.",
+   "date": "2026-11-04",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html"
+  },
+  {
+   "title": "Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain",
+   "link": "https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html",
+   "key": "https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html",
+   "summary": "Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial evidence published by The BMJ.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "훅: shock"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html"
+  },
+  {
+   "title": "Combining HIV prevention and addiction treatment in mobile clinics could save lives",
+   "link": "https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html",
+   "key": "https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html",
+   "summary": "Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to community-based services alone. While scientists found no difference in the use of daily, oral preexposure prophylaxis (PrEP) and medication for opioid use disorder (MOUD) between the groups, the secondary outcome of reduced mortality was significant. The study is published in JAMA Psychiatry.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 SCALE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.htm"
+  },
+  {
+   "title": "Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly",
+   "link": "https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html",
+   "key": "https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html",
+   "summary": "Patients with early-onset Alzheimer's disease, whose symptoms start before age 65, have more extensive deposits of tau, a hallmark protein of the condition, compared with patients whose symptoms start at 65-plus, a new study found. What's more, tau accumulates at more than twice the rate in younger compared to older patients and spreads widely throughout the brain.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: alzheimer, brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html"
+  },
+  {
+   "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261101010556.htm",
+   "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear.",
+   "date": "2026-11-05",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-06",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261101010556.htm"
+   ],
+   "format": "",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "훅: surpris",
+    "생활소재: sleep, memory, alzheimer"
+   ],
+   "text": "You walk out of the grocery store, ready to head home and make dinner. But as you scan the crowded parking lot, a frustrating question comes to mind. Where did you leave your car? You try to picture the spot, but the memory refuses to surface. Remembering personal experiences like these depends on episodic memory, which allows us to recall events from our lives. These memories help form the foundation of long-term memory, whether they involve a childhood milestone, such as the first day of elementary school, or something that happened just minutes earlier, like parking your car. This ability tends to weaken as we grow older. The sights, sounds, and other details associated with past experiences can become increasingly difficult to retrieve. Scientists still do not fully understand why this happens. Although some memory decline is a common part of aging, the changes can become far more severe in people developing Alzheimer's disease. A new study from researchers at the University of California, Berkeley, offers important clues about what may be happening inside the aging brain. Neuroscientist Omer Sharon and his colleagues, working under the direction of former Berkeley sleep researcher Matthew Walker, discovered a connection between disrupted brain waves during deep sleep, declining memory performance, and the accumulation of tau, a protein associated with Alzheimer's disease. The findings suggest that tau buildup in the brain's frontal cortex is linked to changes in the coordinated electrical activity that helps preserve memories overnight. \"This is the first time we've shown this relationship between tau and how it messes with memory consolidation by attenuating traveling slow waves that originate in the frontal cortex,\" said Sharon, a postdoctoral researcher at UC Berkeley's Center for Human Sleep Science. Sleep involves several distinct stages, each associated with different patterns of brain activity. Rapid eye movement sleep is particularly recognizable because the eyes move beneath closed eyelids and most dreaming takes place during this stage. However, another stage, known as non-REM sleep, is especially important for maintaining healthy brain function. During this deeper stage of sleep, when dreaming is limited or absent, large groups of neurons briefly become inactive and then active again in a coordinated sequence. These synchronized changes produce slow electrical waves that spread across the brain, typically beginning in the frontal cortex. \"Each slow wave reflects an enormous population of neurons switching off and back on together,\" Sharon said. \"Our study shows that for memory, it's critical that these events cascade in sequence across large parts of the brain. This coordinated shutdown has been observed only during deep sleep, and may be one reason why we sleep.\" The researchers found that this carefully organized activity becomes less coordinated as tau accumulates in the aging brain. Instead of traveling together across broad regions, the waves become more scattered and cover shorter distances. These changes are associated with weaker memory consolidation, declining cognitive abilities, and Alzheimer's disease. To investigate the relationship, the scientists monitored sleeping brain activity using electroencephalograms (EEGs). They compared cognitively healthy young adults in their early 20s with older participants ranging from their mid-60s to mid-70s. The differences were striking. In younger participants, groups of slow waves moved together across distances roughly equivalent to the width of a hand on the scalp. Among older adults, the waves typically traveled less far and appeared more independently, rather than moving in coordinated groups. The team also examined whether these changes were associated with tau accumulation. Working with Dr. William Jagust, a UC Berkeley professor emeritus of public health and neuroscience, the researchers used positron emission tomography (PET) scans to examine the brains of older participants. This imaging technique uses radioactive tracers introduced into the bloodstream to reveal biological activity and the distribution of specific substances. The scans showed that greater tau buildup in the frontal cortex was associated with a breakdown in the longer traveling waves normally seen during deep sleep. Importantly, these changes were present in people who had not developed Alzheimer's disease. \"These people did not have Alzheimer's,\" Sharon said. \"They had tau in their brains, but with subclinical impacts. Their memory decline was within the normal range for their age.\" Sharon explained that early Alzheimer's related changes can vary considerably in severity. The amount of tau present in the brain is associated with cognitive performance, even when a person's memory abilities remain within the expected range for their age. The researchers wanted to determine whether the altered sleep patterns were associated with actual differences in how well people remembered information. To test this, participants learned pairs of associated words in the evening. The following day, they were asked to recall what they had learned, allowing the scientists to evaluate how effectively the memories had been retained overnight. Participants whose slow brain waves traveled shorter distances and appeared more isolated generally remembered fewer word associations. The researchers called these disconnected patterns \"lonely waves.\" The team also tracked a subset of participants over several years to see how their brains changed with time. Among those whose frontal cortex tau levels increased, the slow waves became less coordinated, and their ability to retain newly learned information overnight declined. These observations provide evidence of a relationship between tau accumulation, changes in deep sleep brain activity, and worsening episodic memory. However, they do not establish that tau buildup directly causes memory loss or that disrupted waves are the mechanism responsible. Because PET scans are costly and require specialized facilities, the scientists sought another way to investigate the relationship between Alzheimer's related proteins and sleep activity. They collaborated with neurologist Yo-El Ju at Washington University in St. Louis to analyze spinal fluid from a separate group of older adults. The goal was to determine whether measurements of Alzheimer's associated proteins would reveal patterns similar to those seen with brain imaging. Unlike PET scans, the spinal fluid measurements could not identify tau accumulation specifically within the frontal cortex. Nevertheless, the results pointed in the same direction. People whose sleeping brains produced more isolated slow waves had higher ratios of tau to amyloid, another protein closely associated with Alzheimer's disease, in their spinal fluid. The consistency between these independent groups and testing methods strengthened the researchers' confidence in the findings. \"It's collected in a totally different place and in a different cohort, so I think that adds to the strength of the evidence,\" Sharon said. Together, the sleep recordings, brain scans, spinal fluid analyses, and memory assessments suggest that tau accumulation is associated with a particular disruption of brain activity during deep sleep. \"This longitudinal correlation suggests that Alzheimer's disease pathology is associated with a disruption of this main sleep feature,\" Sharon said. Although memory often declines with age, the new research indicates that the process may involve more than simply growing older. Changes associated with Alzheimer's disease, particularly tau accumulation in regions responsible for generating widespread slow waves, may help explain why some people experience greater difficulty retaining memories. \"It's not just about age,\" Sharon said. \"It's how much pathology you have in frontal areas where global waves originate.\" Sleep quality also appears to be part of the ",
+   "doi": [
+    "10.1038/s41593-026-02415-9"
+   ],
+   "journal_ref": "Journal Reference : Omer Sharon, Xi Chen, Jason Dude, James Westphal, Chelsea Brown, Vyoma D. Shah, Yo-El S. Ju, William J. Jagust, Matthew P. Walker. Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment . Nature Neuroscience , 2026; DOI: 10.1038/s41593-026-02415-9",
+   "facts": [
+    "They compared cognitively healthy young adults in their early 20s with older participants ranging from their mid-60s to mid-70s.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Why do blind people and musicians hear pitch better? New research suggests they have less internal noise",
+   "link": "https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html",
+   "key": "https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html",
+   "summary": "People who have lived most of their lives blind often have extraordinary hearing abilities. In new research published in the Journal of Neuroscience, my colleagues and I discovered that this ability arises from how their auditory systems are able to more consistently and reliably process sounds compared with people who aren't blind. And interestingly, sighted musicians seem to enhance their hearing through a similar mechanism.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-06",
+   "sources": [
+    "MedicalXpress",
+    "The Conversation"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html",
+    "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: music",
+    "2곳 보도"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html"
+  },
+  {
+   "title": "Mammograms can do more than detect breast cancer—they also offer important clues on heart health",
+   "link": "https://medicalxpress.com/news/2026-11-mammograms-breast-cancer-important-clues.html",
+   "key": "https://medicalxpress.com/news/2026-11-mammograms-breast-cancer-important-clues.html",
+   "summary": "If you're a woman over 40, you have no doubt heard your doctor tell you to get a mammogram as part of routine screening for breast cancer. But there's another reason, too.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-06",
+   "sources": [
+    "MedicalXpress",
+    "The Conversation"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-mammograms-breast-cancer-important-clues.html",
+    "https://theconversation.com/mammograms-can-do-more-than-detect-breast-cancer-they-also-offer-important-clues-on-heart-health-294073"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "2곳 보도"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-mammograms-breast-cancer-important-clues.htm"
+  },
+  {
+   "title": "Maternal vitamin A deficiency may increase risk of larger babies",
+   "link": "https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.html",
+   "key": "https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.html",
+   "summary": "A study in Norway has identified a link between a mother's vitamin A levels and her baby's birth weight. The study shows that over 43% of the women had low vitamin A levels during the latter part of their pregnancy. While almost no one had levels classified as a severe vitamin A deficiency, two out of five had insufficient levels. The study examined 723 women who experienced entirely normal pregnancies.",
+   "date": "2026-11-05",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-06",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: baby, babies"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.ht"
+  },
+  {
+   "title": "Virtual reality tied to lower presurgery anxiety in kids",
+   "link": "https://medicalxpress.com/news/2026-11-virtual-reality-presurgery-anxiety-kids.html",
+   "key": "https://medicalxpress.com/news/2026-11-virtual-reality-presurgery-anxiety-kids.html",
+   "summary": "Children who used a virtual reality (VR) headset before surgery showed reduced self-reported distress and fear, along with lower heart rate and blood pressure, according to a new study published Nov. 5 in the journal PLOS Digital Health by Dayanjan Wijesinghe of Virginia Commonwealth University, U.S., and colleagues.",
+   "date": "2026-11-06",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-06",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-virtual-reality-presurgery-anxiety-kids.html"
+   ],
+   "format": "CUT",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: kids, children"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-virtual-reality-presurgery-anxiety-kids.html"
+  },
+  {
+   "title": "Updated guidance refines how doctors assess cardiogenic shock and track treatment response",
+   "link": "https://medicalxpress.com/news/2026-11-guidance-refines-doctors-cardiogenic-track.html",
+   "key": "https://medicalxpress.com/news/2026-11-guidance-refines-doctors-cardiogenic-track.html",
+   "summary": "The Society for Cardiovascular Angiography & Interventions (SCAI) has released the 2026 SCAI SHOCK Classification Expert Consensus Update, providing refined guidance to help clinicians from diverse settings prioritize and recognize inadequate organ perfusion across a broad range of shock presentations, assess shock severity over time, and determine whether treatment is restoring adequate circulation.",
+   "date": "2026-11-07",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-07",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-guidance-refines-doctors-cardiogenic-track.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "훅: shock"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-guidance-refines-doctors-cardiogenic-track.h"
+  },
+  {
+   "title": "Two compounds target drug-resistant brain cancer cells in laboratory tests",
+   "link": "https://medicalxpress.com/news/2026-11-compounds-drug-resistant-brain-cancer.html",
+   "key": "https://medicalxpress.com/news/2026-11-compounds-drug-resistant-brain-cancer.html",
+   "summary": "Cancer remains among the most deadly diseases worldwide. Globally, more than 300,000 new cases of brain cancer are reported each year, with glioblastoma, an aggressive form of brain cancer, accounting for over 250,000 deaths. The current standard of care involves the use of temozolomide (TMZ), a chemotherapy medication. However, the tumor can be difficult to control because cancer cells evolve to evade the effects of such treatments. Thus, finding new ways to target these cells is an important area in cancer research.",
+   "date": "2026-11-07",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-07",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-compounds-drug-resistant-brain-cancer.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 DOSE",
+    "생활소재: brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-compounds-drug-resistant-brain-cancer.html"
+  },
+  {
+   "title": "New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis",
+   "link": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html",
+   "key": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html",
+   "summary": "In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was overlooked and left to collect dust.",
+   "date": "2026-11-09",
+   "source": "Phys.org",
+   "first_seen": "2026-11-09",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: bird"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-species-ground-bird-largest-kind.html"
+  },
+  {
+   "title": "Reversing radiation-activated immune suppression in cancer",
+   "link": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
+   "key": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
+   "summary": "Researchers at the University of Chicago have identified a mechanism to make immune cells reprogrammed by radiation therapy attack tumors rather than protect them. The study, published in Cancer Cell, shows that radiation activates a protein called TET2 on immune cells in bone marrow, where it removes chemical tags from RNA and locks these cells into an immune-suppressing state.",
+   "date": "2026-11-01",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-01",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html"
+  },
+  {
+   "title": "Predicting jumping genes' roles in changing genome size",
+   "link": "https://phys.org/news/2026-11-genes-roles-genome-size.html",
+   "key": "https://phys.org/news/2026-11-genes-roles-genome-size.html",
+   "summary": "A genome contains all of the DNA of every living organism, but its contents don't stop there—most of these structures also contain snippets of DNA that can copy and paste themselves to \"infect\" a genome, expanding its size. Precisely why that happens remains a mystery.",
+   "date": "2026-11-03",
+   "source": "Phys.org",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-genes-roles-genome-size.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "훅: mystery"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-genes-roles-genome-size.html"
+  },
+  {
+   "title": "Zombies are real—just ask the parasites taking over the bodies and brains of insects and rodents",
+   "link": "https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html",
+   "key": "https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html",
+   "summary": "Zombies have taken many forms in popular culture. In Michael Jackson's \"Thriller\" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's \"The Last of Us,\" a fungus infects humans, takes over their bodies and turns them into hosts that help spread the infection. Even Plankton has tried his hand at taking control of another organism in \"SpongeBob SquarePants.\"",
+   "date": "2026-11-03",
+   "source": "Phys.org",
+   "first_seen": "2026-11-03",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "생활소재: music, brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html"
+  },
+  {
+   "title": "Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers",
+   "link": "https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html",
+   "key": "https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html",
+   "summary": "Expert Counter-Strike players could make ideal candidates for fast-paced emergency service response jobs requiring split-second decision-making, according to a new University of Sheffield study aiming to debunk myths about video games.",
+   "date": "2026-11-04",
+   "source": "Phys.org",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html"
+   ],
+   "format": "",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "훅: myth, debunk",
+    "생활소재: brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html"
+  },
+  {
+   "title": "Plants' immune memory hints at new crop breeding approach",
+   "link": "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html",
+   "key": "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html",
+   "summary": "A study published in Nature Communications, led by professor Jurriaan Ton and Dr. Adam Hannan Parker at the University of Sheffield, has identified mechanisms by which plants maintain and reset stress memory from past infections. This immune memory enables plants to defend themselves more effectively against harmful bacteria and mildews, which are increasingly threatening our crop and food production.",
+   "date": "2026-11-04",
+   "source": "Phys.org",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "생활소재: memory, stress"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html"
+  },
+  {
+   "title": "Tiny fossils show brittle stars gathered around a dead whale 9.5 million years ago",
+   "link": "https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html",
+   "key": "https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html",
+   "summary": "Tiny skeletal plates recovered beside fossil whale bones in southern Denmark offer a rare glimpse of life around a whale carcass approximately 9.5 million years ago. Researchers have identified a new species of brittle star, Ophiura huebnerjenseni, from the Gram Clay Pit and suggest it represents the first fossil record of brittle stars associated with a whale fall.",
+   "date": "2026-11-04",
+   "source": "Phys.org",
+   "first_seen": "2026-11-04",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html"
+   ],
+   "format": "CUT",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 5,
+   "why": [
+    "형식 CUT"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html"
+  },
+  {
+   "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+   "link": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+   "key": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+   "summary": "So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to date, astronomers are unclear as to how they could have grown so large so quickly.",
+   "date": "2026-11-05",
+   "source": "Phys.org",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 WEIGH",
+    "훅: surpris"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html"
+  },
+  {
+   "title": "Trust in influencers grows more important in predicting buying intentions over time, analysis finds",
+   "link": "https://phys.org/news/2026-11-important-buying-intentions-analysis.html",
+   "key": "https://phys.org/news/2026-11-important-buying-intentions-analysis.html",
+   "summary": "A meta-analysis of empirical studies involving more than 31,000 participants has revealed the factors that affect the level of influence of so-called social media influencers. Those factors include credibility, expertise, attractiveness and perceived similarity to their followers. They are, the work shows, positively associated with the attitude of consumers toward the brands mentioned or promoted by those influencers and, in turn, their purchasing intentions. Details of the analysis are published in the International Journal of Internet Marketing and Advertising.",
+   "date": "2026-11-05",
+   "source": "Phys.org",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-important-buying-intentions-analysis.html"
+   ],
+   "format": "PRESS",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 5,
+   "why": [
+    "형식 PRESS",
+    "생활소재: social media"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-important-buying-intentions-analysis.html"
+  },
+  {
+   "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
+   "link": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
+   "key": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
+   "summary": "Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Food Chemistry, demonstrates how artificial intelligence and molecular modeling could accelerate the discovery of new sweeteners while helping overcome one of the industry's persistent challenges: unwanted bitter aftertastes.",
+   "date": "2026-11-06",
+   "source": "Phys.org",
+   "first_seen": "2026-11-06",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "모델·시뮬레이션"
+   ],
+   "score": 5,
+   "why": [
+    "형식 SCALE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html"
+  },
+  {
+   "title": "How do octopuses remember? Scientists uncover a surprising secret",
+   "link": "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
+   "key": "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
+   "summary": "How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebrew University of Jerusalem and Ruppin Academic Center—has uncovered a previously unknown molecular mechanism that may help explain how these remarkably intelligent animals form and maintain memories.",
+   "date": "2026-11-06",
+   "source": "Phys.org",
+   "first_seen": "2026-11-06",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html"
+   ],
+   "format": "",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "훅: surpris, secret",
+    "생활소재: octopus"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html"
+  },
+  {
+   "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+   "link": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+   "key": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+   "summary": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environment around another star—or in the cloud that preceded it.",
+   "date": "2026-11-02",
+   "source": "Phys.org",
+   "first_seen": "2026-11-02",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html"
+  },
+  {
+   "title": "Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates",
+   "link": "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html",
+   "key": "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html",
+   "summary": "A University of Bath–led study has estimated that the carbon dioxide produced by humans as our bodies turn food into energy rose by 74% between 1985 and 2015, reaching 2.05 billion metric tons a year. Researchers say the findings could help scientists better understand where carbon comes from, where it goes and how human activity fits into the bigger picture.",
+   "date": "2026-11-02",
+   "source": "Phys.org",
+   "first_seen": "2026-11-02",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 SCALE"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html"
+  },
+  {
+   "title": "Extra weight may be aging your brain faster than you think",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261101010559.htm",
+   "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effects of obesity on brain health.",
+   "date": "2026-11-02",
+   "source": "ScienceDaily 뇌·마음",
+   "first_seen": "2026-11-03",
+   "text": "Carrying excess weight may affect more than physical health. New research from the University of Georgia suggests that having a higher body mass index may also speed up cognitive decline, potentially causing memory and thinking abilities to deteriorate more quickly with age. Some cognitive changes are a natural part of getting older. Remembering information, thinking clearly, and processing new details can become more difficult over time. For healthy adults, however, these changes are usually relatively mild and develop gradually. The new findings suggest that excess body weight may accelerate this process. Researchers found that people with higher body mass index (BMI) experienced faster declines in memory, overall cognitive performance, and executive functioning. These abilities are essential for everyday activities such as concentrating, planning, organizing tasks, and regulating emotions. To investigate the connection, the research team analyzed data from a nationally representative study that tracked more than 8,200 adults over age 50 for 24 years. The results revealed a consistent relationship between body weight and cognitive health. Each one-point increase in BMI was associated with a faster rate of cognitive decline, suggesting that even relatively small differences in body weight could matter over time. The association was strongest at the eighth year of the study, and adults older than 65 showed the most pronounced effects. Despite the concerning findings, researchers also identified a potentially encouraging opportunity to protect brain health. Managing body weight may help slow cognitive decline, with possible benefits becoming apparent within just two years. \"We found that if people managed their weight, they could significantly lower their rate of cognitive decline in just two years,\" said Suhang Song, the study's lead author and an assistant professor at the University of Georgia's College of Public Health. \"That makes BMI one of the most easily modifiable risk factors when it comes to aging well.\" Obesity, generally defined as a BMI of 30 or higher, has been associated with poorer brain health. However, scientists are still working to understand exactly why carrying excess body weight may interfere with memory and other cognitive abilities. Several biological processes could help explain the connection. Excess weight may promote inflammation, impair blood circulation, and contribute to insulin resistance. Together, these changes could increase the likelihood of cognitive impairment, Alzheimer's disease, and other forms of dementia. The findings are particularly relevant given how widespread obesity has become in the United States. According to the Centers for Disease Control and Prevention, approximately two in five Americans meet the criteria for obesity when BMI is used as the sole measure. Some scientists argue that BMI alone does not provide a complete picture of obesity. They support a broader definition that also considers waist measurements and medical conditions associated with excess weight. Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%. The potential connection between obesity and cognitive decline is especially concerning as dementia becomes increasingly common. More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050. Although the study does not establish that excess weight directly causes cognitive decline, its findings highlight body weight as a potentially important factor in maintaining cognitive health. Because weight can be managed, researchers believe it could offer an opportunity to reduce the risk of worsening memory and thinking abilities as people grow older. \"There are no cures for dementia,\" Song said, \"which is why it is critical to identify and address any modifiable risk factors we can find to prevent it.\" The research was published in the Journal of Neurology . Coauthors from the University of Georgia College of Public Health include Meng Hsuan Sung, Zhuo Chen, Janani Rajbhandari, Grace Bagwell Adams, Mahmud Khan, Ye Shen, and Xiao Song. Qianhui Xu and Xia Song also contributed to the study. Materials provided by University of Georgia . Note: Content may be edited for style and length. “The Closest Thing to Magic” – Researchers Create an Invisible Pipe That Moves Liquids Through Thin Air Scientists Discover How Dead Stars Could Break One of Physics’ Most Famous Limits A Natural Compound Found in Everyday Foods Shows Surprising Power Against Lung Cancer Eating a Handful of Peanuts Could Change Your Blood in a Surprising Way, Study Finds",
+   "facts": [
+    "To investigate the connection, the research team analyzed data from a nationally representative study that tracked more than 8,200 adults over age 50 for 24 years.",
+    "The association was strongest at the eighth year of the study, and adults older than 65 showed the most pronounced effects.",
+    "\"That makes BMI one of the most easily modifiable risk factors when it comes to aging well.\" Obesity, generally defined as a BMI of 30 or higher, has been associated with poorer brain health.",
+    "Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%.",
+    "More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050."
+   ],
+   "doi": [
+    "10.1007/s00415-026-13696-2"
+   ],
+   "sample": [
+    "8,200 adults"
+   ],
+   "journal_ref": "Journal Reference : Qianhui Xu, Meng Hsuan Sung, Zhuo Chen, Janani Rajbhandari-Thapa, Grace Bagwell Adams, M. Mahmud Khan, Ye Shen, Xiao Song, Xia Song, Suhang Song. Association between cumulative average BMI and cognitive decline: a 24-year cohort study . Journal of Neurology , 2026; 273 (2) DOI: 10.1007/s00415-026-13696-2",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 뇌·마음"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261101010559.htm"
+   ],
+   "format": "WEIGH",
+   "seen": "2026-11-02",
+   "catch": [],
+   "score": 4,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: aging, memory, brain",
+    "이미 본 소재(2026-11-02)"
+   ]
+  },
+  {
+   "title": "A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree",
+   "link": "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
+   "key": "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
+   "summary": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as \"The Little Mermaid\" have made this figure a pop culture icon.",
+   "date": "2026-11-04",
+   "source": "The Conversation",
+   "first_seen": "2026-11-05",
+   "text": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshipped Oannes , a human-fish hybrid; sirens populated Greek mythology ; and fairy tales such as “ The Little Mermaid ” have made this figure a pop culture icon. During the 1800s, American showman P.T. Barnum brought the Feejee Mermaid to the American public. Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution. Some people believed it was a missing link in the evolutionary chain between aquatic and terrestrial life. I recently viewed a Feejee Mermaid replica on display at the Denver Museum of Nature and Science as part of the “ Mythic Creatures: Dragons, Unicorns and Mermaids” temporary exhibit . As a folklorist , I’m intrigued by how this mermaid subverted Americans’ expectations that mermaids are alluring and how it sparked an interplay between science and myth. A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago. It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City. In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché. Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half. Feejee Mermaids were often preserved by being coated in clay . Mammalian-fish hybrid creatures have a role in Japanese folklore through the ningyo , which are a mermaidlike yokai, a supernatural being thought to have the power to either curse or grant eternal life. Unlike Western mermaids, ningyo were grotesque. The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century. He claimed to have caught the specimen and said it prophesied a sterility epidemic. The only cure for the townsfolk, the fisherman said, came through owning a picture of the mermaid. Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842. In his autobiography, Barnum details the scheme he devised after Kimball showed him the Feejee Mermaid. Barnum sent letters to newspapers, describing how a “Dr. Griffin,” who was really his hoaxing accomplice Levi Lyman, was in possession of the mermaid skeleton. He further spread the word by distributing thousands of pamphlets throughout New York City that detailed when the mermaid would be on display and highlighted the seductive nature of mermaids. However, when the public arrived at the American Museum, much to their surprise, they found Barnum’s grotesque version. Barnum himself described it as “an ugly dried-up, black-looking diminutive specimen, about three feet long. Its mouth was open, its tail turned over and its arms thrown up, giving it the appearance of having died in great agony.” The Feejee Mermaid on display at the Denver Museum of Nature and Science, and owned by the Peabody Museum of Archaeology and Ethnology, may or may not be the one shown by Barnum. The museum says it is a replica. The original was likely destroyed or disfigured in a fire at Barnum’s museum or the Boston Museum. The object on display looks quite different compared to original descriptions of the Feejee Mermaid. As originally shown, it was said to be much more monkeylike, and artistic renderings of it from the period matched Barnum’s descriptions. Feejee Mermaids, as displayed in America, are characteristic of a “ sideshow gaff ” that interested Victorian audiences due to debates about evolution and science. In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree . The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America.",
+   "facts": [
+    "During the 1800s, American showman P.T.",
+    "Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution.",
+    "A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago.",
+    "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City.",
+    "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché.",
+    "Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half.",
+    "The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century.",
+    "Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842.",
+    "In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree .",
+    "The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America."
+   ],
+   "doi": [],
+   "sample": [],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
+   "sources": [
+    "The Conversation",
+    "Phys.org"
+   ],
+   "links": [
+    "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
+    "https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html"
+   ],
+   "format": "",
+   "seen": "2026-11-02",
+   "catch": [
+    "동물 실험",
+    "DOI 못 찾음"
+   ],
+   "score": 4,
+   "why": [
+    "훅: myth, shock",
+    "생활소재: baby, fish",
+    "2곳 보도",
+    "이미 본 소재(2026-11-02)"
+   ]
+  },
+  {
+   "title": "‘Epic’ blue wave helps Democrats take Congress in overwhelming rebuke to President Trump",
+   "link": "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830",
+   "key": "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830",
+   "summary": "Election Day turned into a massive rebuke of President Donald Trump: a blue wave not seen in 20 years that was built on transforming the economy and rising prices into a central line of attack.",
+   "date": "2026-11-04",
+   "source": "The Conversation",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 4,
+   "why": [
+    "형식 WEIGH"
+   ],
+   "text": "Voters turned out in massive numbers on Election Day to hand Democrats control of Congress, in a sweeping snub of President Donald Trump and Republicans. Democrats won several statewide races in places long considered GOP bastions , including races that were considered insurmountable even weeks ago . Democrats took control of the House and Senate , flipping Senate seats in Texas , South Carolina, North Carolina, Kansas and Ohio. The results reflected broad dissatisfaction across the country with Trump, his agenda and the candidates he had endorsed. The Conversation’s senior politics editor, Alfonso Serrano, spoke on election night with Charlie Hunt, a scholar at Boise State University who studies Congress and elections . It was obviously a strong showing for Democrats on Election Day, something that was even evident in the margin of some Democratic losses. What does it tell you, for example, that democratic socialist Angie Nixon fought a competitive race for the Senate in Florida? There is this big uniform shift toward the Democrats that we’re seeing really across virtually all kinds of locations and geographies and counties. What I think is particularly notable here, and something we were on the lookout for in this election, and we’re seeing it, is the substantial shift in the Hispanic vote from 2024 in places like Texas and Florida, where you’re getting these 30-to-35 point shifts from how Donald Trump performed in 2024. That was a big part of what helped him win , and it seems like it has snapped right back and even farther in the other direction. This is what made Florida, I think, closer than a lot of folks thought. It’s what put a number of really, really right-leaning districts in play, particularly in South Florida. And it looks like it is going to help Democrats keep the number of seats they had in Florida in the House that they had before the election, which is incredible when you consider that Florida did this mid-decade gerrymander to try to get them out of a bunch of those seats. Some rural areas of the country were also more competitive than expected, like North Carolina’s 11th Congressional District, where Democrat Jaime Ager flipped a conservative district . What does that tell you? It’s definitely an indicator of at least one of these two things. One is just really massive Democratic turnout across the board. Regardless of where they live, Democrats were so enthusiastic and energized to turn out that they did so across all different types of districts and counties. It could also be an indicator of some cross-party voting, where Republicans are crossing over in some cases and voting for the Democrat. I don’t imagine there’s a ton of that, but in a lot of these close districts, and if you’ve got enough of those folks in places like Texas, it really does make a big difference, those small shifts. I think we’re probably also likely to see, and we saw some of this in the exit polling, a major shift in independent voters, unaffiliated voters, toward the Democrats, whereas in 2024 they had been closer to Trump. I’d like to go back to turnout briefly. Turnout looks like it was strong across the country. In Georgia, for example, Election Day’s turnout was on pace to beat turnout in the 2024 presidential elections. That’s unprecedented, at least in modern elections. In Texas, for example, in some counties we saw James Talarico getting as many raw votes as Kamala Harris did in a presidential election. This isn’t a very political science term, but that’s insane. In a midterm election you typically see 10% or 15% less turnout than you would in a presidential election. But Democrats voted in presidential-level numbers in a lot of these really key areas, and that’s explaining how they’re able to overperform at levels we haven’t seen in at least 20 years. Elon Musk spent nearly half a billion dollars supporting Republican candidates, including some US$200 million in Texas to elect Ken Paxton for the Senate, who lost. What does that tell you about the influence of political spending? Republican PACs, super PACs and billionaire donors like Elon Musk may have raised more money compared to Democrats, but Democratic candidates themselves outraised Republican candidates through donors that gave directly to their campaigns. This is important for a couple of reasons. Number one, because candidates get much better rates on TV ad buys than outside spenders. And so they get more bang for their buck when they’re spending on advertisements, which is the most expensive component of any campaign. And more to the point, that is an indicator of sort of dedicated grassroots donors who turn into voters, whereas Musk gets one vote at the end of the day. And there is no amount of money that can make up for a really flawed candidate like Ken Paxton . And more to the point, a lot of this money, once you get into the tens, the hundreds of millions of dollars, a lot of the research talks about the diminishing returns that you get on that. Going from zero dollars spent to $10 million spent, that’s a very different kind of campaign. But once you go from $500 million to $510 million, that’s not going to get you a whole lot more votes. The territory that Democrats covered is unbelievable. The South Carolina Senate race went to Annie Andrews , the Democrat, which was unfathomable even a few months ago. Mississippi still appears to be somewhat in play. The blue wave turned into something approaching a tsunami. I think a lot of Democrats saw the polling and didn’t want to believe it or couldn’t bring themselves to believe it. But some of this late polling seems to have gotten things on the mark. What we’ve seen in these midterm elections is a massive rebuke of the last two years of the Trump administration, and a sort of blue wave of epic proportions toward the Democrats, the likes of which we haven’t seen in 20 or more years. It’s a huge confirmation of the approach that Democrats took in this election.",
+   "doi": [],
+   "facts": [
+    "What I think is particularly notable here, and something we were on the lookout for in this election, and we’re seeing it, is the substantial shift in the Hispanic vote from 2024 in places like Texas and Florida, where you’re getting these 30-to-35 point shifts from how Donald Trump performed in 2024.",
+    "Some rural areas of the country were also more competitive than expected, like North Carolina’s 11th Congressional District, where Democrat Jaime Ager flipped a conservative district .",
+    "I think we’re probably also likely to see, and we saw some of this in the exit polling, a major shift in independent voters, unaffiliated voters, toward the Democrats, whereas in 2024 they had been closer to Trump.",
+    "In Georgia, for example, Election Day’s turnout was on pace to beat turnout in the 2024 presidential elections.",
+    "In a midterm election you typically see 10% or 15% less turnout than you would in a presidential election.",
+    "But Democrats voted in presidential-level numbers in a lot of these really key areas, and that’s explaining how they’re able to overperform at levels we haven’t seen in at least 20 years.",
+    "Elon Musk spent nearly half a billion dollars supporting Republican candidates, including some US$200 million in Texas to elect Ken Paxton for the Senate, who lost.",
+    "Going from zero dollars spent to $10 million spent, that’s a very different kind of campaign.",
+    "But once you go from $500 million to $510 million, that’s not going to get you a whole lot more votes.",
+    "What we’ve seen in these midterm elections is a massive rebuke of the last two years of the Trump administration, and a sort of blue wave of epic proportions toward the Democrats, the likes of which we haven’t seen in 20 or more years."
+   ],
+   "sample": []
+  },
+  {
+   "title": "Flesh-eating screwworm is spreading in the US, threatening livestock and wildlife – hunters can be the first line of defense",
+   "link": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891",
+   "key": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891",
+   "summary": "Over 100 screwworm cases have appeared in US animals in 2026, including in elk. How America’s 11.5 million hunters can help find these parasites and contain the spread.",
+   "date": "2026-11-06",
+   "source": "The Conversation",
+   "first_seen": "2026-11-07",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 4,
+   "why": [
+    "형식 SCALE"
+   ],
+   "text": "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U.S. mainland, and it is putting livestock and other animals at risk. The New World screwworm doesn’t just attack cattle. All warm-blooded animals are susceptible, including deer and elk, as well as small game, waterfowl and pets. That means hunters headed to the field this fall may be the most important line of defense for spotting this destructive parasite and keeping it from spreading further. As co-directors of the Mississippi State University deer lab , we believe the country’s millions of hunters can serve as a powerful early warning system by keeping a close eye on the state of wildlife they see. Wildlife agencies are already asking them to be vigilant and report any signs of screwworm infestations . Unlike other blowflies , New World screwworm larvae feed on living tissue rather than dead tissue. They lay eggs in open wounds or mucosal openings, such as the eyes and nose of livestock, deer or elk. Wounds as small as tick bites or scratches, as well as natural openings such as the umbilical stump on newborns or on deer’s pedicles , where their antlers grow and are shed, can attract these parasites. Once the eggs hatch, the maggots burrow into the animal’s flesh and feed, enlarging the wound and attracting more flies. Over time, this leads to infection and death. All warm-blooded animals are susceptible to the New World screwworm, but America has seen firsthand the harm they can cause to livestock. In the 1950s, livestock producers in the U.S. Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today. The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas. The New World screwworm has a life cycle of only about 21 days, and each female mates only once. Because of that, inundating areas with sterile male flies for a few months, which equates to a few generations of flies, can eradicate a screwworm population. Over time, sterile flies were used to push the New World screwworm further south, where they had been contained behind the Darién Gap , Panama’s narrow border region with Colombia. Sterile flies kept the parasite south of Panama for years, but the movement of cattle and wildlife likely brought it north again . Since 2022, the parasites have been reproducing and moving farther northward . There have been hundreds of detections in Mexico and now in the U.S. Wildlife have received far less attention than livestock during screwworm infestations, with one exception: In July 2016, the New World screwworm was detected in the Florida Keys in an endangered deer population : the Florida Key deer ( Odocoileus virginianus clavium ). At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals . Because they were endangered and isolated, primarily on the islands of Big Pine Key and No Name Key , they were monitored more closely than most wildlife. U.S. Fish and Wildlife Service biologists established quarantine zones. They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area. The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered. In June 2026, screwworm was back in the United States. A rancher discovered the first New World screwworm case in a calf near La Pryor, Texas. A few more cases were confirmed in livestock and domestic animals in Texas and New Mexico . The number of cases in animals had passed 120 as of Nov. 7, 2026 , including in two elk reported by hunters in Texas . The U.S. government has started ramping up production of sterile flies to try to keep the parasites from spreading. Although there have been only a couple of cases reported in wildlife, that isn’t necessarily reassuring. Wildlife are far more likely to carry the parasite without being detected. Once the screwworm is detected, treatment would also be much more complicated for wildlife than for livestock, because wildlife cannot be treated individually and thus are more dependent on the use of sterile flies to eradicate screwworm. For this reason, quickly identifying areas with New World screwworm and targeting those areas by releasing sterile flies would be more important than ever. Fortunately, there is an army of conservationists across the country who spend much of their time afield. These conservationists are also known as hunters. According to the latest U.S. Fish and Wildlife Service National Survey of Fishing, Hunting, and Wildlife-Associated Recreation, nearly 11.5 million hunters pursue big game and spend part of the fall and winter in the field hunting ungulate species such as deer and elk. White-tailed deer ( Odocoileus virginianus ) hunters alone are expected to harvest about 6 million deer during the 2026-27 season and will observe millions more. Hunters also review tens of millions of wildlife pictures collected each year by game cameras used for scouting. That level of surveillance can’t be matched. New Mexico’s Department of Agriculture has already called on hunters to report any suspicious larvae, particularly in Grant and Otero counties, where screwworm has been found in livestock. Hunters of all kinds, everywhere, can help. If you’re a hunter, be on the lookout for wounded animals , especially those with visible maggots, and for unusual behaviors such as restlessness, lethargy, or biting or licking wounds. Do not move harvested animals from the field if they show signs of a New World screwworm infection. Doing so could further spread the parasite. Instead, contact the area’s state wildlife agency , the U.S. Department of Agriculture office or a local veterinarian immediately. As hunting seasons get underway across the country, an army of conservationists will be in the field, and they have an important role to play in detecting and managing screwworm’s spread. Hunters already contribute to conservation through license fees, excise taxes and keeping wildlife populations at healthy densities. In the face of New World screwworm, their observations may be most valuable for protecting livestock. This article, originally published Nov. 6, 2026, has been updated with a rising number of cases.",
+   "doi": [],
+   "facts": [
+    "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U.S. mainland, and it is putting livestock and other animals at risk.",
+    "In the 1950s, livestock producers in the U.S.",
+    "Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today.",
+    "The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas.",
+    "The New World screwworm has a life cycle of only about 21 days, and each female mates only once.",
+    "Since 2022, the parasites have been reproducing and moving farther northward .",
+    "Wildlife have received far less attention than livestock during screwworm infestations, with one exception: In July 2016, the New World screwworm was detected in the Florida Keys in an endangered deer population : the Florida Key deer ( Odocoileus virginianus clavium ).",
+    "At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals .",
+    "They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area.",
+    "The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered."
+   ],
+   "sample": [
+    "1,000 individuals"
+   ]
+  }
+ ]
+}
