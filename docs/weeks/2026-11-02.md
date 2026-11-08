@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-02
 
-최근 8일 누적 787건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 796건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-06
@@ -311,21 +311,24 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) p
 
-## 38. The wasps that horrified Darwin reveal evolution's one-way streets
+## 38. The hidden ways insects support animal life – from habitat to health – go way beyond being food
+- 점수 6 · SCALE · The Conversation / Phys.org · 2026-11-06
+- https://theconversation.com/the-hidden-ways-insects-support-animal-life-from-habitat-to-health-go-way-beyond-being-food-294617
+- 주의: DOI 못 찾음
+- 요약: There are at least 14 million insect species on Earth, and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists often call "ecosystem services." For example, you can thank a bee or a hoverfly for pollinating wildflowers and agricult
+  - "There are at least 14 million insect species on Earth , and they play highly diverse roles in sustaining the natural world."
+  - "This international group of 21 researchers , including us , met via Zoom for a year and a half to discuss what declines in insects might mean for vertebrates – from birds to bats to bilbies ."
+  - "Small wasps are the only pollinators of fig trees , which provide fruit to over 1,200 vertebrate species ."
+
+## 39. The wasps that horrified Darwin reveal evolution's one-way streets
 - 점수 6 · CUT · Phys.org · 2026-11-07
 - https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Few insects have a more gruesome lifestyle than Darwin wasps. Rather than simply hunting other animals, these parasitic wasps lay their eggs on or inside living hosts, including caterpillars, beetles and spiders. Their larvae then feed on their hosts, gradually consuming them and eventually killing 
 
-## 39. Customizable nanoparticles show potential for delivering personalized cancer vaccines
+## 40. Customizable nanoparticles show potential for delivering personalized cancer vaccines
 - 점수 5 · CUT · Phys.org · 2026-10-31
 - https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines. The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By preci
-
-## 40. Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock—with climate implications
-- 점수 5 · WEIGH · Phys.org · 2026-10-31
-- https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A University of Massachusetts Amherst-led research team has discovered that weaker rock in mountain landscapes erodes three times faster than harder rock—even on gentler slopes—and is one of the main attributes governing mountain erosion. The finding also challenges our current understanding of the 
