@@ -1,8 +1,46 @@
 # LAB GOSSIP 후보 2026-11-09
 
-최근 8일 누적 738건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 794건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
-## 1. Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago
+## 1. Common osteoporosis drugs linked to 24% lower dementia risk in major study
+- 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-09
+- https://www.sciencedaily.com/releases/2026/11/261108233037.htm
+- DOI: 10.1002/alz.70503
+- 대상: 120,000 adults, 120,000 patients, 48 patients
+- 주의: 상관관계
+- 요약: A massive study of more than 120,000 older adults suggests that common osteoporosis drugs may reduce the risk of Alzheimer’s disease and other dementias by up to 24%. The surprising findings raise the possibility that medications already used to strengthen bones could also help protect the aging bra
+  - "In a study involving more than 120,000 older adults, researchers at the University of Hong Kong (HKUMed) found that patients taking certain medications to strengthen their bones were significantly less likely to develop dementia."
+  - "More than 55 million people worldwide currently live with dementia, and that number is projected to climb to 139 million by 2050."
+  - "Study of 120,000 Patients Finds Up to 24% Lower Dementia Risk To explore this possibility, the HKUMed researchers examined electronic medical records from across Hong Kong, analyzing data from more than 120,000 patients aged 60 and older."
+  - "The records covered the period from 2005 through 2020, allowing the team to investigate how different osteoporosis treatments were associated with dementia risk over time."
+  - "Patients taking NBPs had a 16% lower risk of developing Alzheimer's disease and related dementias compared with patients who received no osteoporosis medication."
+
+## 2. Scientists discover a surprising link between acorns and lyme disease
+- 점수 10 · PRESS · ScienceDaily 전체 · 2026-11-09
+- https://www.sciencedaily.com/releases/2026/11/261106174518.htm
+- DOI: 10.1073/pnas.2610907123
+- 주의: 동물 실험
+- 요약: After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production
+  - "Nearly 500,000 Americans are diagnosed each year."
+  - "For more than 35 years, scientists at the Cary Institute of Ecosystem Studies in Millbrook, New York, have tracked the complicated relationships among ticks, mice, oak trees, predators, and weather."
+  - "The evolution of understanding summarized in this paper is something you simply cannot get without such a long-term and system-focused study." Deer May Play a Smaller Role in Lyme Disease Risk Than Expected When Lyme disease first gained recognition in the United States during the 1980s, white-tailed deer were considered a likely driver of rising tick populations."
+  - "On the Cary Institute's 2,000-acre forested research property in Dutchess County, New York, researchers found no statistically significant connection between deer numbers and the abundance of nymphal ticks."
+  - "Years with especially large mouse populations were followed by approximately 40% more nymphal ticks the next year."
+
+## 3. Common supplement could help fight psoriasis, scientists discover
+- 점수 9 · SCALE · ScienceDaily 전체 · 2026-11-09
+- https://www.sciencedaily.com/releases/2026/11/261108233057.htm
+- DOI: 10.1084/jem.20252558
+- 대상: 24 patients, 24 people
+- 주의: 동물 실험
+- 요약: Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol
+  - "A widely available nutritional supplement derived from vitamin B5 may offer a promising new approach to treating psoriasis, according to research from China."
+  - "The findings, published October 27 in the Journal of Experimental Medicine (JEM) , reveal an unexpected connection between cholesterol production and the immune system."
+  - "Vanins convert pantethine into vitamin B5, an essential nutrient that cells need to produce energy."
+  - "They conducted a small clinical trial involving 24 patients with the condition."
+  - "Half of the participants also took pantethine tablets, allowing researchers to examine whether adding the supplement improved the results of standard treatment."
+
+## 4. Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-08
 - https://www.sciencedaily.com/releases/2026/11/261106174528.htm
 - DOI: 10.1126/science.aeg3800
@@ -12,7 +50,7 @@
   - "Earlier research at the site identified the remains of 18 horses that had been deliberately positioned on the burial mound."
   - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
 
-## 2. Stronger flu shot linked to nearly 55% lower Alzheimer's risk
+## 5. Stronger flu shot linked to nearly 55% lower Alzheimer's risk
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-08
 - https://www.sciencedaily.com/releases/2026/11/261105224609.htm
 - DOI: 10.1212/WNL.0000000000214782
@@ -25,7 +63,34 @@
   - "In a 2022 study , a team led by Paul Schulz, MD, found that flu vaccination was associated with a reduced risk of Alzheimer's among adults 65 and older."
   - "To help address that vulnerability, the Centers for Disease Control and Prevention (CDC) recommends high-dose influenza vaccines as a preferred option for adults ages 65 and older."
 
-## 3. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
+## 6. When your gut bacteria run out of fiber, they may start eating your gut lining
+- 점수 8 · SCALE · ScienceDaily 전체 · 2026-11-09
+- https://www.sciencedaily.com/releases/2026/11/261105083622.htm
+- DOI: 10.1038/s42255-026-01550-8, 10.1073/pnas.2605226123
+- 요약: Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealin
+  - "Among these were indole-3-lactate and indole-3-acetate, two biologically important compounds previously considered products of microbial metabolism."
+  - "Levels of indole-3-propionate and p-cresol sulfate, which are produced exclusively by microbes, declined following antibiotic treatment."
+  - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+
+## 7. A simple supplement may help clear brain fog after cancer
+- 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-09
+- https://www.sciencedaily.com/releases/2026/11/261104084013.htm
+- DOI: 10.1200/OA-26-00063
+- 대상: 18 women
+- 요약: A surprising new study from UCLA suggests that a naturally occurring molecule could help breast cancer survivors overcome the frustrating brain fog and exhaustion that can linger long after treatment ends. Researchers found that women taking an oxaloacetate supplement for eight weeks experienced sub
+  - "Researchers estimate that roughly 15% to 25% experience ongoing problems with memory, concentration, or other thinking abilities after their diagnosis and treatment."
+  - "To investigate, the researchers carried out a phase II clinical trial involving 18 women who had been diagnosed with early-stage breast cancer between one and five years earlier."
+  - "The women were approximately 50 years old on average."
+  - "Most had undergone chemotherapy, and nearly 90% were still receiving endocrine therapy during the trial."
+  - "Each participant was instructed to take 500 milligrams of oxaloacetate twice a day for eight weeks."
+
+## 8. Small daily activities may help ease dementia caregivers' stress
+- 점수 8 · SCALE · MedicalXpress · 2026-11-10
+- https://medicalxpress.com/news/2026-11-small-daily-ease-dementia-caregivers.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Nearly 12 million people in the U.S. provide unpaid care to a relative or friend with Alzheimer's disease and related dementias (ADRD). Compared with caregivers of people without dementia, ADRD caregivers face greater demands that may contribute to higher rates of depression, anxiety, sleep problems
+
+## 9. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-06
 - https://www.sciencedaily.com/releases/2026/11/261104084017.htm
 - DOI: 10.1177/0271678X261490342
@@ -37,7 +102,7 @@
   - "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4."
   - "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not."
 
-## 4. Magic mushrooms rewire the brain in a way scientists didn't expect
+## 10. Magic mushrooms rewire the brain in a way scientists didn't expect
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-07
 - https://www.sciencedaily.com/releases/2026/11/261104012308.htm
 - DOI: 10.1038/s41593-026-02490-y
@@ -50,19 +115,7 @@
   - "Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines."
   - "To explore this possibility, the scientists examined the role of serotonin 2A receptors (5-HT2ARs), which are proteins on the surfaces of cells that respond to chemical signals."
 
-## 5. Scientists discover a hidden driver of high cholesterol and a way to stop it
-- 점수 6 · SCALE · ScienceDaily 전체 · 2026-11-01
-- https://www.sciencedaily.com/releases/2026/10/261030003003.htm
-- DOI: 10.1038/s41586-026-10697-z
-- 주의: 동물 실험
-- 요약: Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early hum
-  - "This is one reason widely used cholesterol medications, including statins and PCSK9 inhibitors, are effective."
-  - "Although the program was eventually discontinued for strategic reasons, the experimental medication had already progressed through a Phase 1 clinical trial, where it was successfully evaluated for safety in humans."
-  - "Rather than beginning drug development from scratch, researchers believe the existing CTSA inhibitor may be ready to advance into a Phase 2 clinical trial to investigate its effectiveness against high cholesterol."
-  - "The research received partial funding from the National Institutes of Health (Grants P30DK063491, R01DK117551, R01DK128796, and R01DK135289) and an American Diabetes Association postdoctoral fellowship (1-25-PDF-76)."
-  - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-
-## 6. Scientists find surprisingly little evidence that medical cannabis helps you sleep
+## 11. Scientists find surprisingly little evidence that medical cannabis helps you sleep
 - 점수 6 · DOSE · ScienceDaily 전체 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/10/261031221157.htm
 - DOI: 10.1002/14651858.CD016216.pub2
@@ -73,7 +126,7 @@
   - "Women accounted for nearly three-quarters (72.66% of participants), and the research was heavily weighted toward younger adults."
   - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
 
-## 7. 30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought
+## 12. 30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought
 - 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/10/261031221153.htm
 - DOI: 10.1126/sciadv.aeh6128
@@ -84,7 +137,7 @@
   - "Using genetic modeling, researchers estimated that this mixing between populations occurred approximately 32,500 to 31,500 years ago."
   - "At El Mirón Cave in Cantabria, Spain, the team recovered human nuclear DNA from a sediment layer dating back approximately 22,000 years."
 
-## 8. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
+## 13. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
 - 점수 6 · SCALE · ScienceDaily 전체 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/10/261029072132.htm
 - DOI: 10.1038/s41586-026-10750-x
@@ -93,199 +146,174 @@
 - 요약: In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to st
   - "To investigate this apparent contradiction, the research team tested 12 different diets in mice."
 
-## 9. Scientists identify two overlooked skills that predict reading success
-- 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-03
-- https://www.sciencedaily.com/releases/2026/11/261102202845.htm
-- DOI: 10.3390/jintelligence13080104
-- 요약: A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t
-  - "To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model."
-  - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-
-## 10. A 50-year-old mystery of vanishing frogs reveals a hidden killer
-- 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-03
-- https://www.sciencedaily.com/releases/2026/11/261102202838.htm
-- DOI: 10.1111/mec.70573
-- 요약: A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater to
-  - "For nearly 50 years, scientists have struggled to explain why frogs began disappearing from Brazil's Atlantic Forest, one of the world's richest regions for amphibian diversity."
-  - "Beginning in the 1970s, researchers documented dramatic population declines, but the cause of these losses remained uncertain."
-  - "Scientists believe the pathogen originated in Asia before spreading around the world during the 1970s and 1980s."
-  - "However, the fungus was not formally identified and described until 1999, long after devastating amphibian declines had begun."
-  - ""After almost 50 years, we still aren't confident what caused many historical amphibian die-offs, making these declines some of the most enduring cold cases in wildlife epidemiology," said Jack Boyette, an NZCBI graduate fellow and doctoral candidate at PSU who led the research."
-
-## 11. Nearly 1 in 5 people in the US think about food even when they are not hungry
+## 14. Nearly 1 in 5 people in the US think about food even when they are not hungry
 - 점수 6 · DOSE · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-people-food-hungry.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: "Food noise" refers to intrusive thoughts about and cravings for food, whether or not a person is hungry. The phenomenon has become widely discussed on social media, in traditional media and in commercials for GLP-1 receptor agonist weight-loss medications. Because the term has only emerged in recen
 
-## 12. Kids who eat more ultra-processed foods show a troubling brain response
-- 점수 6 · WEIGH · ScienceDaily 전체 · 2026-11-04
-- https://www.sciencedaily.com/releases/2026/11/261101010549.htm
-- DOI: 10.1001/jamanetworkopen.2026.40252
-- 대상: 46 children
-- 주의: 상관관계
-- 이미 본 소재: 2026-11-02 보드에 있었음
-- 요약: A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when view
-  - "These products make up a substantial portion of children's diets, accounting for approximately 67% of the calories consumed by children in the United States."
-  - "Previous research has associated ultra-processed food consumption with obesity, type 2 diabetes, and cardiovascular disease."
-  - ""We're particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference." To investigate these connections, the research team studied 46 children between the ages of seven and 10 who were enrolled in the ongoing BrainChild study, which examines factors contributing to diabetes and obesity."
-  - "When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker."
-  - "The corresponding association with body fat percentage decreased by 44%."
-
-## 13. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
+## 15. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
 - 점수 6 · SCALE · MedicalXpress · 2026-11-04
 - https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Eating a diet rich in red, yellow and orange fruits and vegetables may help reduce inflammation and exacerbations associated with chronic obstructive pulmonary disease (COPD), according to a new study in the September 2026 issue of Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundati
 
-## 14. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
+## 16. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial
 
-## 15. Combining HIV prevention and addiction treatment in mobile clinics could save lives
+## 17. Combining HIV prevention and addiction treatment in mobile clinics could save lives
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to communit
 
-## 16. Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly
+## 18. Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Patients with early-onset Alzheimer's disease, whose symptoms start before age 65, have more extensive deposits of tau, a hallmark protein of the condition, compared with patients whose symptoms start at 65-plus, a new study found. What's more, tau accumulates at more than twice the rate in younger 
 
-## 17. Scientists discover mysterious “lonely” brain waves linked to memory loss
-- 점수 6 · 형식? · ScienceDaily 전체 · 2026-11-05
-- https://www.sciencedaily.com/releases/2026/11/261101010556.htm
-- DOI: 10.1038/s41593-026-02415-9
-- 주의: 상관관계
-- 요약: Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’
-  - "They compared cognitively healthy young adults in their early 20s with older participants ranging from their mid-60s to mid-70s."
-  - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-
-## 18. Why do blind people and musicians hear pitch better? New research suggests they have less internal noise
+## 19. Why do blind people and musicians hear pitch better? New research suggests they have less internal noise
 - 점수 6 · SCALE · MedicalXpress / The Conversation · 2026-11-05
 - https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People who have lived most of their lives blind often have extraordinary hearing abilities. In new research published in the Journal of Neuroscience, my colleagues and I discovered that this ability arises from how their auditory systems are able to more consistently and reliably process sounds comp
 
-## 19. Mammograms can do more than detect breast cancer—they also offer important clues on heart health
+## 20. Mammograms can do more than detect breast cancer—they also offer important clues on heart health
 - 점수 6 · CUT · MedicalXpress / The Conversation · 2026-11-05
 - https://medicalxpress.com/news/2026-11-mammograms-breast-cancer-important-clues.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: If you're a woman over 40, you have no doubt heard your doctor tell you to get a mammogram as part of routine screening for breast cancer. But there's another reason, too.
 
-## 20. Maternal vitamin A deficiency may increase risk of larger babies
+## 21. Maternal vitamin A deficiency may increase risk of larger babies
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study in Norway has identified a link between a mother's vitamin A levels and her baby's birth weight. The study shows that over 43% of the women had low vitamin A levels during the latter part of their pregnancy. While almost no one had levels classified as a severe vitamin A deficiency, two out 
 
-## 21. Virtual reality tied to lower presurgery anxiety in kids
+## 22. Virtual reality tied to lower presurgery anxiety in kids
 - 점수 6 · CUT · MedicalXpress · 2026-11-06
 - https://medicalxpress.com/news/2026-11-virtual-reality-presurgery-anxiety-kids.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Children who used a virtual reality (VR) headset before surgery showed reduced self-reported distress and fear, along with lower heart rate and blood pressure, according to a new study published Nov. 5 in the journal PLOS Digital Health by Dayanjan Wijesinghe of Virginia Commonwealth University, U.S
 
-## 22. Updated guidance refines how doctors assess cardiogenic shock and track treatment response
+## 23. Updated guidance refines how doctors assess cardiogenic shock and track treatment response
 - 점수 6 · CUT · MedicalXpress · 2026-11-07
 - https://medicalxpress.com/news/2026-11-guidance-refines-doctors-cardiogenic-track.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The Society for Cardiovascular Angiography & Interventions (SCAI) has released the 2026 SCAI SHOCK Classification Expert Consensus Update, providing refined guidance to help clinicians from diverse settings prioritize and recognize inadequate organ perfusion across a broad range of shock presentatio
 
-## 23. Two compounds target drug-resistant brain cancer cells in laboratory tests
+## 24. Two compounds target drug-resistant brain cancer cells in laboratory tests
 - 점수 6 · DOSE · MedicalXpress · 2026-11-07
 - https://medicalxpress.com/news/2026-11-compounds-drug-resistant-brain-cancer.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Cancer remains among the most deadly diseases worldwide. Globally, more than 300,000 new cases of brain cancer are reported each year, with glioblastoma, an aggressive form of brain cancer, accounting for over 250,000 deaths. The current standard of care involves the use of temozolomide (TMZ), a che
 
-## 24. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
+## 25. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
 - 점수 6 · CUT · Phys.org · 2026-11-09
 - https://phys.org/news/2026-11-species-ground-bird-largest-kind.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was overlooked and left to collect dust.
 
-## 25. Reversing radiation-activated immune suppression in cancer
-- 점수 5 · CUT · MedicalXpress · 2026-11-01
-- https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html
+## 26. Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day
+- 점수 6 · CUT · Phys.org · 2026-11-10
+- https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Researchers at the University of Chicago have identified a mechanism to make immune cells reprogrammed by radiation therapy attack tumors rather than protect them. The study, published in Cancer Cell, shows that radiation activates a protein called TET2 on immune cells in bone marrow, where it remov
+- 요약: An exceptionally well-preserved, approximately 47-million-year-old owl fossil from the UNESCO World Heritage Site Messel provides new clues as to when owls became nocturnal. The newly described species Masillastrix blattophaga was likely still diurnal—as indicated by an iridescent cockroach in its s
 
-## 26. Predicting jumping genes' roles in changing genome size
+## 27. Predicting jumping genes' roles in changing genome size
 - 점수 5 · CUT · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-genes-roles-genome-size.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A genome contains all of the DNA of every living organism, but its contents don't stop there—most of these structures also contain snippets of DNA that can copy and paste themselves to "infect" a genome, expanding its size. Precisely why that happens remains a mystery.
 
-## 27. Zombies are real—just ask the parasites taking over the bodies and brains of insects and rodents
+## 28. Zombies are real—just ask the parasites taking over the bodies and brains of insects and rodents
 - 점수 5 · CUT · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Zombies have taken many forms in popular culture. In Michael Jackson's "Thriller" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's "The Last of Us," a fungus infects humans, takes over their bodies and turns them into hosts that help spread the i
 
-## 28. Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers
+## 29. Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers
 - 점수 5 · 형식? · Phys.org · 2026-11-04
 - https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Expert Counter-Strike players could make ideal candidates for fast-paced emergency service response jobs requiring split-second decision-making, according to a new University of Sheffield study aiming to debunk myths about video games.
 
-## 29. Plants' immune memory hints at new crop breeding approach
+## 30. Plants' immune memory hints at new crop breeding approach
 - 점수 5 · SCALE · Phys.org · 2026-11-04
 - https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study published in Nature Communications, led by professor Jurriaan Ton and Dr. Adam Hannan Parker at the University of Sheffield, has identified mechanisms by which plants maintain and reset stress memory from past infections. This immune memory enables plants to defend themselves more effectivel
 
-## 30. Tiny fossils show brittle stars gathered around a dead whale 9.5 million years ago
+## 31. Tiny fossils show brittle stars gathered around a dead whale 9.5 million years ago
 - 점수 5 · CUT · Phys.org · 2026-11-04
 - https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Tiny skeletal plates recovered beside fossil whale bones in southern Denmark offer a rare glimpse of life around a whale carcass approximately 9.5 million years ago. Researchers have identified a new species of brittle star, Ophiura huebnerjenseni, from the Gram Clay Pit and suggest it represents th
 
-## 31. Pulsars set first mass limits on supermassive black hole pairs in the early universe
+## 32. Pulsars set first mass limits on supermassive black hole pairs in the early universe
 - 점수 5 · WEIGH · Phys.org · 2026-11-05
 - https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to dat
 
-## 32. Trust in influencers grows more important in predicting buying intentions over time, analysis finds
+## 33. Trust in influencers grows more important in predicting buying intentions over time, analysis finds
 - 점수 5 · PRESS · Phys.org · 2026-11-05
 - https://phys.org/news/2026-11-important-buying-intentions-analysis.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A meta-analysis of empirical studies involving more than 31,000 participants has revealed the factors that affect the level of influence of so-called social media influencers. Those factors include credibility, expertise, attractiveness and perceived similarity to their followers. They are, the work
 
-## 33. A sweeter future? AI helps scientists discover new sugar substitutes
+## 34. A sweeter future? AI helps scientists discover new sugar substitutes
 - 점수 5 · SCALE · Phys.org · 2026-11-06
 - https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html
 - 주의: 모델·시뮬레이션
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Fo
 
-## 34. How do octopuses remember? Scientists uncover a surprising secret
+## 35. How do octopuses remember? Scientists uncover a surprising secret
 - 점수 5 · 형식? · Phys.org · 2026-11-06
 - https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebrew University of Jerusalem and Ruppin Academic Center—has uncovered a previously unknown molecular mechanism that may hel
 
-## 35. Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace
+## 36. Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’
+- 점수 5 · PRESS · The Conversation · 2026-11-09
+- https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112
+- 주의: DOI 못 찾음
+- 요약: The collapse raises troubling questions about who benefits from financial modernization, who controls it and who bears the risks when it fails.
+  - "It started on Nov. 3, 2026, when millions of Paraguayans trying to access the Ueno banking app found they could no longer get their money ."
+  - "Founded as a digital lender in 2021, Ueno attracted customers with mobile banking and cash-back offers."
+  - "The central bank finally acted after accounting adjustments left Ueno’s solvency ratio below half the legal minimum."
+  - "That included a supervisory report put out by the bank regulators in June 2026 that described roughly US$146 million in loans to three companies linked to Grupo Vázquez, Ueno’s controlling shareholder."
+  - "In any case, Ueno’s problems were exposed in dramatic fashion on Nov. 2, when the central bank placed Ueno into resolution, a process similar to bankruptcy but managed directly by Paraguay’s central bank."
+
+## 37. 5 ways countries stymie climate negotiations without actually saying ‘no’
+- 점수 5 · CUT · The Conversation · 2026-11-09
+- https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589
+- 대상: 1,400 people
+- 주의: DOI 못 찾음
+- 요약: The methods can be subtle but effective at slowing progress, particularly when fossil fuels are involved. Here’s what to watch for as the latest global climate talks get underway.
+  - "There’s a reason: All it takes to water down a deal during these negotiations – the 2026 U.N. climate conference started Nov. 9 – are a few voices obstructing progress, often without ever saying “no,” and all the while maintaining the appearance of being a climate leader."
+  - "As world leaders and their negotiators meet for the latest climate talks, COP31 , in Antalya, Turkey, Nov. 9-20, you can also pick out who is obstructing progress."
+  - "At COP29 in Baku, Azerbaijan, in 2024, wealthy countries pointed to tight budgets, pandemic debt and rising inflation as reasons they could not meet the US$1.3 trillion in assistance that developing countries were demanding ."
+  - "They instead offered $300 billion annually by 2035 as a finance target."
+  - "The COP29 agreement itself estimated that developing countries’ climate needed $5.1 trillion to $6.8 trillion in total through 2030."
+
+## 38. Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace
 - 점수 4 · WEIGH · Phys.org · 2026-11-02
 - https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environme
 
-## 36. Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates
-- 점수 4 · SCALE · Phys.org · 2026-11-02
-- https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A University of Bath–led study has estimated that the carbon dioxide produced by humans as our bodies turn food into energy rose by 74% between 1985 and 2015, reaching 2.05 billion metric tons a year. Researchers say the findings could help scientists better understand where carbon comes from, where
-
-## 37. Extra weight may be aging your brain faster than you think
+## 39. Extra weight may be aging your brain faster than you think
 - 점수 4 · WEIGH · ScienceDaily 뇌·마음 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/11/261101010559.htm
 - DOI: 10.1007/s00415-026-13696-2
@@ -298,7 +326,7 @@
   - "Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%."
   - "More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050."
 
-## 38. A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree
+## 40. A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree
 - 점수 4 · 형식? · The Conversation / Phys.org · 2026-11-04
 - https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775
 - 주의: 동물 실험, DOI 못 찾음
@@ -309,26 +337,3 @@
   - "A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago."
   - "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City."
   - "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché."
-
-## 39. ‘Epic’ blue wave helps Democrats take Congress in overwhelming rebuke to President Trump
-- 점수 4 · WEIGH · The Conversation · 2026-11-04
-- https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830
-- 주의: DOI 못 찾음
-- 요약: Election Day turned into a massive rebuke of President Donald Trump: a blue wave not seen in 20 years that was built on transforming the economy and rising prices into a central line of attack.
-  - "What I think is particularly notable here, and something we were on the lookout for in this election, and we’re seeing it, is the substantial shift in the Hispanic vote from 2024 in places like Texas and Florida, where you’re getting these 30-to-35 point shifts from how Donald Trump performed in 2024."
-  - "Some rural areas of the country were also more competitive than expected, like North Carolina’s 11th Congressional District, where Democrat Jaime Ager flipped a conservative district ."
-  - "I think we’re probably also likely to see, and we saw some of this in the exit polling, a major shift in independent voters, unaffiliated voters, toward the Democrats, whereas in 2024 they had been closer to Trump."
-  - "In Georgia, for example, Election Day’s turnout was on pace to beat turnout in the 2024 presidential elections."
-  - "In a midterm election you typically see 10% or 15% less turnout than you would in a presidential election."
-
-## 40. Flesh-eating screwworm is spreading in the US, threatening livestock and wildlife – hunters can be the first line of defense
-- 점수 4 · SCALE · The Conversation · 2026-11-06
-- https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891
-- 대상: 1,000 individuals
-- 주의: DOI 못 찾음
-- 요약: Over 100 screwworm cases have appeared in US animals in 2026, including in elk. How America’s 11.5 million hunters can help find these parasites and contain the spread.
-  - "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U.S. mainland, and it is putting livestock and other animals at risk."
-  - "In the 1950s, livestock producers in the U.S."
-  - "Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today."
-  - "The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas."
-  - "The New World screwworm has a life cycle of only about 21 days, and each female mates only once."

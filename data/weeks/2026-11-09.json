@@ -1,6 +1,6 @@
 {
  "week": "2026-11-09",
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,21 +14,21 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 29
+   "span_days": 28
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 27
+   "span_days": 28
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 38
+   "span_days": 37
   },
   {
    "feed": "ScienceDaily 건강",
@@ -42,24 +42,153 @@
    "url": "https://phys.org/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 2
+   "span_days": 1
   },
   {
    "feed": "MedicalXpress",
    "url": "https://medicalxpress.com/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 3
+   "span_days": 1
   },
   {
    "feed": "The Conversation",
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 8
+   "span_days": 7
   }
  ],
  "top": [
+  {
+   "title": "Common osteoporosis drugs linked to 24% lower dementia risk in major study",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261108233037.htm",
+   "summary": "A massive study of more than 120,000 older adults suggests that common osteoporosis drugs may reduce the risk of Alzheimer’s disease and other dementias by up to 24%. The surprising findings raise the possibility that medications already used to strengthen bones could also help protect the aging brain.",
+   "date": "2026-11-09",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261108233037.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 11,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris",
+    "생활소재: aging, dementia, alzheimer"
+   ],
+   "text": "A common class of drugs used to treat osteoporosis may have an unexpected benefit: lowering the risk of Alzheimer's disease and other forms of dementia. In a study involving more than 120,000 older adults, researchers at the University of Hong Kong (HKUMed) found that patients taking certain medications to strengthen their bones were significantly less likely to develop dementia. The medications, known as nitrogen-containing bisphosphonates (NBPs), are widely prescribed to prevent bone loss and fractures. The findings suggest that these established treatments could potentially serve a second purpose by helping protect the aging brain. The research, conducted by scientists in the Department of Pharmacology and Pharmacy at HKUMed's LKS Faculty of Medicine, was published in Alzheimer's & Dementia . More than 55 million people worldwide currently live with dementia, and that number is projected to climb to 139 million by 2050. The World Health Organization has identified dementia as a major global health priority. Although the first medications designed to slow the progression of Alzheimer's disease and related dementias (ADRD) have recently gained approval, their high costs, limited suitability for some patients, and questions about their effectiveness remain important challenges. These obstacles have increased interest in finding affordable ways to prevent or delay dementia before symptoms develop. One promising approach is to identify existing medications that might offer benefits beyond the conditions they were originally designed to treat. Osteoporosis and dementia often affect the same older adults. Osteoporosis causes bones to become weaker and more vulnerable to fractures, while dementia progressively affects memory, thinking, and the ability to carry out everyday activities. The two conditions also share several risk factors, including older age, being female, and low levels of physical activity. Previous research by the same HKUMed team established that osteoporosis and fractures are independent risk factors for dementia. The researchers also found that people already living with dementia face an increased likelihood of falling and breaking bones. This relationship raises an intriguing possibility: medications that treat osteoporosis might also help reduce dementia risk. Among the most commonly prescribed osteoporosis treatments are alendronate and zoledronate, both of which belong to the NBP drug class. These medications work by slowing the breakdown of bone tissue, helping maintain bone strength and reduce the likelihood of fractures. Scientists have also begun uncovering evidence that some of the biological processes influenced by these drugs may be involved in the development of Alzheimer's disease and related dementias. This overlap has prompted researchers to investigate whether NBPs might provide benefits for the brain as well as the skeleton. Study of 120,000 Patients Finds Up to 24% Lower Dementia Risk To explore this possibility, the HKUMed researchers examined electronic medical records from across Hong Kong, analyzing data from more than 120,000 patients aged 60 and older. All participants had osteoporosis or fragility fractures, which are breaks that can occur after relatively minor injuries because the bones have become weakened. The records covered the period from 2005 through 2020, allowing the team to investigate how different osteoporosis treatments were associated with dementia risk over time. The results revealed a notable difference. Patients taking NBPs had a 16% lower risk of developing Alzheimer's disease and related dementias compared with patients who received no osteoporosis medication. The association was even stronger when NBP users were compared with patients taking other types of osteoporosis drugs. In that comparison, dementia risk was 24% lower among those receiving NBPs. Women and patients who had experienced hip fractures appeared to show particularly strong associations between NBP treatment and reduced dementia risk. The researchers also estimated that treating 48 patients with NBPs over five years could potentially prevent one case of dementia. If future research confirms that the medications directly reduce dementia risk, the implications could be substantial, particularly for older adults who already need treatment for osteoporosis. Because the findings come from an observational study, they do not establish that the drugs themselves prevent dementia. However, they provide evidence supporting further investigation into whether these medications could help delay or prevent cognitive decline. Professor Cheung Ching-lung, Associate Professor in the Department of Pharmacology and Pharmacy at HKUMed, believes the findings highlight the possibility that a familiar osteoporosis treatment could deliver two important health benefits. \"Our study provides evidence that NBPs may offer dual benefits in strengthening bones and reducing fracture risk, as well as potentially preventing ADRD. Their potential neuroprotective role provides an empirical basis and supports future research on the actual effectiveness of this medication in preventing or delaying cognitive decline associated with ADRD.\" The potential advantage of this approach is that NBPs are already widely available and have an established history of use in treating osteoporosis. Rather than developing an entirely new medication from scratch, researchers could investigate whether these existing treatments offer additional protection for people at elevated risk of dementia. The findings are particularly relevant as populations around the world grow older and the number of people affected by dementia continues to rise. \"These findings are significant as they demonstrate a potential approach for reducing dementia risk in a vulnerable population using safe and widely available NBPs. In our rapidly aging society, these findings suggest that while waiting for the novel therapies, existing medications can also provide additional protection for high-risk populations,\" said Professor Cheung. Further studies will be needed to determine whether NBPs can directly prevent or delay Alzheimer's disease and related dementias. Nevertheless, the results suggest that medications already prescribed to protect aging bones may also have an important role to play in protecting brain health. The research was led by Professor Cheung Ching-lung of the Department of Pharmacology and Pharmacy at HKUMed. Dr Sing Chor-wing, from the same department, served as the study's first author. Additional researchers included Professor Chan Koon-ho, Dr Patrick Chiu Ka-chun, and Professor Kathryn Tan Choon-beng, all from the Department of Medicine in the School of Clinical Medicine at HKUMed. Materials provided by The University of Hong Kong . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.1002/alz.70503"
+   ],
+   "journal_ref": "Journal Reference : Chor‐Wing Sing, Koon‐Ho Chan, Patrick K. C. Chiu, Wallis C. Y. Lau, Xiaowen Zhang, Kathryn C. B. Tan, Ching‐Lung Cheung. Bisphosphonates and the risk of dementia in patients with osteoporosis or fragility fracture: A population‐based study in Hong Kong . Alzheimer\\'s , 2025; 21 (7) DOI: 10.1002/alz.70503",
+   "facts": [
+    "In a study involving more than 120,000 older adults, researchers at the University of Hong Kong (HKUMed) found that patients taking certain medications to strengthen their bones were significantly less likely to develop dementia.",
+    "More than 55 million people worldwide currently live with dementia, and that number is projected to climb to 139 million by 2050.",
+    "Study of 120,000 Patients Finds Up to 24% Lower Dementia Risk To explore this possibility, the HKUMed researchers examined electronic medical records from across Hong Kong, analyzing data from more than 120,000 patients aged 60 and older.",
+    "The records covered the period from 2005 through 2020, allowing the team to investigate how different osteoporosis treatments were associated with dementia risk over time.",
+    "Patients taking NBPs had a 16% lower risk of developing Alzheimer's disease and related dementias compared with patients who received no osteoporosis medication.",
+    "In that comparison, dementia risk was 24% lower among those receiving NBPs.",
+    "The researchers also estimated that treating 48 patients with NBPs over five years could potentially prevent one case of dementia.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": [
+    "120,000 adults",
+    "120,000 patients",
+    "48 patients"
+   ]
+  },
+  {
+   "title": "Scientists discover a surprising link between acorns and lyme disease",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261106174518.htm",
+   "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production can predict tick population surges two years in advance, while extreme temperatures may be far less deadly to ticks than scientists once believed.",
+   "date": "2026-11-09",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261106174518.htm"
+   ],
+   "format": "PRESS",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 10,
+   "why": [
+    "형식 PRESS",
+    "훅: surpris, contrary",
+    "생활소재: mice"
+   ],
+   "text": "Tick-borne illnesses are becoming increasingly common across the United States, and Lyme disease remains the most frequently reported. Nearly 500,000 Americans are diagnosed each year. The infection is caused by the bacterium Borrelia burgdorferi , which typically reaches humans through the bite of an infected blacklegged tick. Antibiotics can treat Lyme disease, but without treatment, the infection may affect the joints, heart, and nervous system. Some patients also experience symptoms that persist over time. Now, one of the longest-running studies of Lyme disease ecology is challenging several assumptions about what makes the disease more likely to spread. For more than 35 years, scientists at the Cary Institute of Ecosystem Studies in Millbrook, New York, have tracked the complicated relationships among ticks, mice, oak trees, predators, and weather. Their research has uncovered unexpected patterns that could help predict when people face greater exposure to infected ticks. A new study published in Proceedings of the National Academy of Sciences brings together nine of the project's most surprising discoveries. The findings show how decades of observations can reveal connections that shorter studies might miss. \"On balance, these surprises have enriched our knowledge of this system, helping us to inform management of tick-borne disease risk,\" said lead author Richard Ostfeld, a disease ecologist at the Cary Institute who leads the research program alongside Shannon LaDeau. According to Ostfeld, the extensive data collected over the years have been essential for separating meaningful ecological patterns from coincidences and statistical fluctuations. \"Studies of this depth and length are incredibly rare,\" said LaDeau. \"This research has followed an ecological community -- including oak trees, mammals, and microorganisms -- examining how interactions like predation, parasitism, and competition shape the system over time. The evolution of understanding summarized in this paper is something you simply cannot get without such a long-term and system-focused study.\" Deer May Play a Smaller Role in Lyme Disease Risk Than Expected When Lyme disease first gained recognition in the United States during the 1980s, white-tailed deer were considered a likely driver of rising tick populations. Hunters frequently encountered deer carrying numerous adult ticks, suggesting that areas with more deer might also produce more ticks. The reasoning seemed straightforward. Although deer cannot pass the Lyme disease bacterium to ticks, they provide blood meals for adult female ticks. Scientists suspected that larger deer populations would allow more female ticks to reproduce, eventually increasing the number of young ticks capable of spreading the infection. But decades of monitoring have produced a different picture. On the Cary Institute's 2,000-acre forested research property in Dutchess County, New York, researchers found no statistically significant connection between deer numbers and the abundance of nymphal ticks. Nymphs are immature ticks responsible for much of the Lyme disease transmission to humans. \"We had detected a weak positive relationship between deer and subsequent nymph abundance over short subsets of the data,\" said Ostfeld, \"but the whole data set in its entirety shows no such thing.\" While deer populations failed to predict the abundance of nymphal ticks, mouse populations showed a much clearer relationship. Years with especially large mouse populations were followed by approximately 40% more nymphal ticks the next year. White-footed mice are particularly important because they provide excellent blood meals for tick larvae and are highly effective at transmitting Borrelia burgdorferi to those feeding on them. Once infected as larvae, ticks can retain the bacteria as they develop into nymphs. When these nymphs take another blood meal, they can pass the infection to humans. The findings suggest that tracking mouse populations could provide a valuable early warning of unusually high tick numbers. One of the most unexpected discoveries involves something that might seem entirely unrelated to Lyme disease: acorns. Oak trees periodically produce exceptionally large crops of acorns in synchronized events known as acorn masting. These unusually productive years provide an abundance of food for forest rodents, allowing mouse populations to expand during the following year. That increase in mice then supports larger numbers of young ticks. As a result, the researchers found that a particularly heavy acorn crop can reliably predict an increase in nymphal ticks two years later. The relationship reveals a remarkable sequence of events in which the reproductive cycle of forest trees helps determine future tick abundance. It also offers researchers another potential tool for anticipating periods of greater Lyme disease exposure. Although mouse abundance helps predict how many nymphal ticks will appear, the researchers discovered that it does not consistently predict what percentage of those ticks will carry Lyme disease bacteria. Initially, scientists expected both measures to rise together. Because mice are efficient transmitters of B. burgdorferi , an increase in mice seemed likely to produce not only more ticks but also a greater proportion of infected ticks. Early observations appeared to support that idea. However, as additional years of data accumulated, the apparent relationship gradually disappeared. \"It kept me up at night,\" said Ostfeld, \"because it meant that my understanding of how the system works was incomplete or wrong.\" The explanation appears to involve the other animals that share the forest with mice. Skunks, squirrels, and opossums also serve as hosts for feeding ticks, but most are much less effective at passing the Lyme disease bacterium to them. When these animals are abundant, more larval ticks may feed on hosts that are unlikely to infect them. This can reduce the percentage of nymphal ticks carrying the bacteria, even when mouse populations are high. \"So the infection prevalence in the nymphs really depends on how all the larval tick meals are distributed across all the hosts,\" explained Ostfeld. \"It would have been convenient if one host predicted that for us, but that has not been the case.\" This finding highlights an important distinction between the total number of ticks in an environment and the proportion carrying the pathogen. Predicting the risk of infection requires understanding the broader community of animals that ticks feed on, not simply counting mice. Earlier laboratory experiments suggested that exposure to intense heat or severe cold could kill blacklegged ticks. Yet observations in natural habitats revealed that ticks are surprisingly capable of surviving these conditions. Researchers believe ticks protect themselves from temperature extremes by retreating into deeper soil layers or hiding beneath fallen leaves, where conditions are less severe than at the surface. However, the long-term data also revealed a more complicated relationship with temperature. Years that are warmer overall tend to be followed by fewer nymphal ticks than usual, despite the ability of individual ticks to withstand short periods of extreme heat. At the same time, warmer conditions generally favor mouse populations, which can lead to more ticks. These opposing effects make it difficult to predict how changing temperatures will ultimately influence Lyme disease risk. Taken together, the discoveries show that Lyme disease risk depends on a network of ecological interactions that is complicated but not entirely unpredictable. Mouse abundance, for example, provides a stronger indicator of future nymphal tick numbers than deer abundance at the study site. Similarly, unusually harsh winters may not reduce tick populations as dramatically as previously expected. By understanding these patterns, public health officials may be better equipped to anticipat",
+   "doi": [
+    "10.1073/pnas.2610907123"
+   ],
+   "journal_ref": "Journal Reference : Richard S. Ostfeld, Shannon L. LaDeau, Kelly Oggenfuss, Charles D. Canham, Michael Fargione, Raymond J. Winchcombe, Felicia Keesing. The ecology of Lyme disease: Long-term data, surprises, and a synthesis . Proceedings of the National Academy of Sciences , 2026; 123 (34) DOI: 10.1073/pnas.2610907123",
+   "facts": [
+    "Nearly 500,000 Americans are diagnosed each year.",
+    "For more than 35 years, scientists at the Cary Institute of Ecosystem Studies in Millbrook, New York, have tracked the complicated relationships among ticks, mice, oak trees, predators, and weather.",
+    "The evolution of understanding summarized in this paper is something you simply cannot get without such a long-term and system-focused study.\" Deer May Play a Smaller Role in Lyme Disease Risk Than Expected When Lyme disease first gained recognition in the United States during the 1980s, white-tailed deer were considered a likely driver of rising tick populations.",
+    "On the Cary Institute's 2,000-acre forested research property in Dutchess County, New York, researchers found no statistically significant connection between deer numbers and the abundance of nymphal ticks.",
+    "Years with especially large mouse populations were followed by approximately 40% more nymphal ticks the next year.",
+    "The time of year when it's very warm also matters to ticks, oaks, and acorn production.\" The research site in Dutchess County has undergone significant environmental changes since monitoring began in 1991.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": []
+  },
+  {
+   "title": "Common supplement could help fight psoriasis, scientists discover",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261108233057.htm",
+   "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune inflammation.",
+   "date": "2026-11-09",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261108233057.htm"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 9,
+   "why": [
+    "형식 SCALE",
+    "훅: unexpected",
+    "생활소재: supplement, mice"
+   ],
+   "text": "A widely available nutritional supplement derived from vitamin B5 may offer a promising new approach to treating psoriasis, according to research from China. Scientists found that pantethine can calm immune cells involved in autoimmune inflammation, preventing psoriasis from developing in mice and improving symptoms in a small human clinical trial. The findings, published October 27 in the Journal of Experimental Medicine (JEM) , reveal an unexpected connection between cholesterol production and the immune system. By interfering with this process, pantethine may help reduce the excessive immune activity responsible for psoriasis and potentially other autoimmune diseases. At the center of the discovery are dendritic cells, specialized immune cells that help organize the body's defenses. These cells act as coordinators, identifying potential threats and directing other immune cells to respond. Dendritic cells perform this role by capturing foreign substances called antigens and presenting them to T cells, which are immune cells that recognize specific threats. They also release chemical signals that recruit additional immune cells and trigger inflammation. Although these activities are essential for fighting infections, problems can arise when dendritic cells become excessively active. Instead of helping protect the body, they can contribute to persistent inflammation and autoimmune diseases such as psoriasis. \"Emerging evidence highlights that metabolic pathways and their associated metabolites play vital roles in regulating immune cell function and autoimmune progression,\" says Wei-Na Zhang, a researcher at the State Key Laboratory of Biomedical Analysis in Beijing. \"But therapeutic strategies targeting metabolism in inflammatory diseases remain underexplored.\" Zhang led the research alongside Qing Xia, Ai-Ling Li, and Tao Zhou, also from the State Key Laboratory of Biomedical Analysis, and Cheng-Xin Li from The First Medical Center of Chinese PLA General Hospital in Beijing. Scientists Discover a Hidden Link Between Cholesterol and Psoriasis The researchers identified unusually high levels of enzymes called Vanins in dendritic cells from people with psoriasis and several other autoimmune diseases. These enzymes help regulate the processing of certain substances involved in cellular metabolism. When the scientists reduced Vanin levels, dendritic cells became less active and were less capable of stimulating T cells. They also found that a drug designed to inhibit Vanins prevented psoriasis from developing in mice. Further investigation revealed why these enzymes might play such an important role. Vanins convert pantethine into vitamin B5, an essential nutrient that cells need to produce energy. Pantethine is already sold as a nutritional supplement and is commonly used to help lower blood cholesterol because it can reduce cholesterol production. This connection is particularly interesting because cholesterol does more than circulate in the bloodstream. It also influences how immune cells function. Previous research has shown that cholesterol can stimulate dendritic cell activity, while elevated blood cholesterol is a major risk factor for developing psoriasis. The team discovered that excessive Vanin activity reduces the amount of pantethine available inside dendritic cells. As pantethine levels fall, cholesterol production increases, causing these immune cells to become unusually active. Restoring pantethine levels interrupted this process. The supplement reduced cholesterol accumulation within dendritic cells and helped suppress the excessive immune activation associated with inflammation. \"We found that pantethine administration effectively alleviated psoriasis in mice, suggesting that insufficient pantethine levels may be the crucial contributor to hyperactivation of dendritic cells and autoimmune inflammation following the up-regulation of Vanins,\" Zhang says. Encouraged by the laboratory and animal findings, the researchers investigated whether pantethine might also benefit people living with psoriasis. They conducted a small clinical trial involving 24 patients with the condition. All participants received a topical ointment containing calcipotriene/betamethasone, a combination treatment used to control psoriasis symptoms. Calcipotriene is a vitamin D derivative that helps regulate skin cell growth, while betamethasone is a corticosteroid that reduces inflammation. Half of the participants also took pantethine tablets, allowing researchers to examine whether adding the supplement improved the results of standard treatment. After 12 weeks, the patients who received pantethine alongside their prescribed ointment showed greater improvement in psoriasis symptoms. The benefits were especially noticeable among participants who had high blood cholesterol levels before treatment. These findings suggest that pantethine could potentially serve as an additional treatment for psoriasis, particularly in patients whose cholesterol metabolism may be contributing to inflammation. However, the trial included only 24 people, and the researchers emphasize that larger studies are necessary to confirm the supplement's effectiveness. The human results also do not establish that the same biological mechanism observed in laboratory experiments is responsible for the improvement in patients. \"Our investigator-initiated clinical trial demonstrated encouraging therapeutic efficacy of pantethine as an adjunctive therapy in psoriasis, but these findings should be interpreted as proof-of-concept for clinical feasibility rather than direct mechanistic validation,\" Zhang says. \"Overall, our study uncovers the Vanin-pantethine-cholestrol axis as a key metabolic pathway governing dendritic cell activation and provides a foundation for therapeutic strategies targeting several dendritic cell-mediated autoimmune diseases.\" Materials provided by Rockefeller University Press . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.1084/jem.20252558"
+   ],
+   "journal_ref": "Journal Reference : Ai-Ping Cao, Jun-Cheng Li, Rui Wang, Yun-Ying Wang, Nan Wu, Yan-Hong Liu, Zhi Jin, Jia-Yu Liu, Yan-Yan Shen, Yue Guo, Qi Qi, Yao Wang, Rui-Bo Wang, Bo-Yang Xie, Chun-Yan Yan, Qiu-Ying Han, Shao-Yi Huang, Sheng-Ming Wu, Na Wang, Xin Pan, Cheng-Xin Li, Tao Zhou, Ai-Ling Li, Qing Xia, Wei-Na Zhang. Vanin-pantethine metabolic axis shapes dendritic cell function and affects inflamma",
+   "facts": [
+    "A widely available nutritional supplement derived from vitamin B5 may offer a promising new approach to treating psoriasis, according to research from China.",
+    "The findings, published October 27 in the Journal of Experimental Medicine (JEM) , reveal an unexpected connection between cholesterol production and the immune system.",
+    "Vanins convert pantethine into vitamin B5, an essential nutrient that cells need to produce energy.",
+    "They conducted a small clinical trial involving 24 patients with the condition.",
+    "Half of the participants also took pantethine tablets, allowing researchers to examine whether adding the supplement improved the results of standard treatment.",
+    "After 12 weeks, the patients who received pantethine alongside their prescribed ointment showed greater improvement in psoriasis symptoms.",
+    "However, the trial included only 24 people, and the researchers emphasize that larger studies are necessary to confirm the supplement's effectiveness.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": [
+    "24 patients",
+    "24 people"
+   ]
+  },
   {
    "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
    "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
@@ -141,6 +270,107 @@
     "훅: surpris",
     "생활소재: alzheimer"
    ]
+  },
+  {
+   "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261105083622.htm",
+   "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealing a surprising new reason plant-based diets may be good for you.",
+   "date": "2026-11-09",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261105083622.htm"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 SCALE",
+    "훅: surpris",
+    "생활소재: diet"
+   ],
+   "text": "Eating more plants is widely associated with better health, but scientists are still uncovering exactly why. New research suggests that fiber is only part of the story. Certain plant proteins that resist digestion may also play a surprisingly important role in shaping gut bacteria and determining whether they produce beneficial or potentially harmful substances. Plant-based diets support digestive health, immune function, metabolism, and cardiovascular health. One reason is that they help maintain a diverse community of microorganisms in the intestines, collectively known as the gut microbiome. Many of these bacteria are beneficial, helping break down food components that the human digestive system cannot process on its own. Fiber is particularly important because it provides food for gut microbes. Plants also contain phytochemicals, natural substances that often give fruits and vegetables their vibrant colors and help protect them from environmental threats. These compounds can also contribute to human health. Yet researchers have only begun to understand the complicated chemical interactions that occur when gut bacteria digest plant foods. Two studies led by Jenna AbuSalim and Joshua Rabinowitz, director of the Princeton Branch of the Ludwig Institute for Cancer Research, provide important new insights. One, published in the Proceedings of the National Academy of Sciences , shows how plant fiber and certain proteins influence gut bacteria to favor the production of beneficial compounds over potentially harmful ones. The other, published in Nature Metabolism in June, challenges the longstanding belief that many important chemical compounds circulating in the body originate exclusively from intestinal microbes. \"There's growing interest across medical disciplines in manipulating the human microbiome or using its metabolic products themselves for therapy,\" said Rabinowitz. \"Diet holds great promise for controlling the microbiome and its outputs. But to devise effective therapeutic interventions, we need to understand what aspects of the diet control which microbial outputs.\" In the PNAS study, researchers examined a group of substances called phenol metabolites. Metabolites are chemicals formed when the body or microorganisms break down and process nutrients. Some are essential for normal biological functions, while others can contribute to health problems when they accumulate. The phenol metabolites investigated by the team are produced when gut bacteria process two amino acids, tyrosine and phenylalanine. Amino acids are the building blocks of proteins, but the compounds they ultimately produce can have very different effects on health. Two metabolites derived from phenylalanine, phenylpropionate and hippuric acid, are associated with healthy body weight and better gut health. In contrast, two compounds derived from tyrosine, p-cresol sulfate and phenol sulfate, have been linked to worse outcomes in cancer patients and harmful effects throughout the body in people with kidney disease. The researchers wanted to understand whether different components of plant foods could influence which of these substances gut microbes produce. \"Our studies showed that both the fiber and indigestible proteins from plants -- which we call 'proteins imitating fiber,' or Prif -- shift the balance of phenol metabolites from the harmful kind made from tyrosine to the healthful variety derived from phenylalanine,\" said AbuSalim. Although the health benefits of dietary fiber have been studied extensively, scientists have paid much less attention to plant proteins that pass through the digestive system without being fully broken down. The researchers found that these indigestible proteins, which they call Prif, can reach the gut microbiome and serve as material for bacterial metabolism. In doing so, they influence which microbes thrive and which chemical compounds are produced. Importantly, these proteins do not work in isolation. They cooperate with plant fiber to change how gut bacteria process nutrients, shifting their activity toward the production of beneficial phenol metabolites. This discovery suggests that the nutritional value of plant foods may depend on more than their familiar concentrations of fiber, vitamins, and minerals. The amount and type of protein that escapes digestion could also help determine how food influences the gut microbiome. When Gut Bacteria Run Low on Fiber, They May Feed on Your Gut's Protective Mucus One of the most intriguing findings concerns where gut bacteria obtain the raw materials used to produce harmful metabolites. To investigate, the researchers labeled proteins with stable (non-radioactive) isotopes, allowing them to track exactly where the proteins traveled and how they were processed in the digestive systems of mice. This technique works by giving molecules a detectable chemical signature without making them radioactive. The experiments revealed an important difference between the sources of beneficial and harmful phenols. The potentially harmful phenols came from gut bacteria breaking down proteins belonging to the host, including proteins found in the mucus layer that coats the intestines. This protective mucus helps separate intestinal microbes from the cells lining the gut and forms part of the body's natural defenses. Meanwhile, the beneficial phenols were produced almost entirely from indigestible proteins supplied by food. Fiber helped suppress the bacterial breakdown of the gut's protective mucus, reducing the production of harmful phenols. The indigestible plant proteins (Prif), in turn, supplied more dietary protein to gut bacteria, encouraging them to produce beneficial compounds instead. Together, the findings reveal two complementary ways plant foods can influence intestinal chemistry. Fiber helps discourage bacteria from consuming proteins in the gut's protective mucus, while Prif provides an alternative source of nutrients that supports the production of healthier metabolites. \"We think Prifs represent an emerging class of dietary nutrients that shape the composition of the gut microbiome and could have a far-reaching influence on metabolic health,\" said AbuSalim. The implications could eventually extend to nutrition labels and dietary recommendations. \"Food packaging may eventually list Prif right below fiber,\" said Rabinowitz. A Second Discovery Challenges What Scientists Thought About Gut Bacteria The companion study in Nature Metabolism addressed another important question: Are gut bacteria really responsible for producing all the metabolites traditionally attributed to them? Along with phenol metabolites, the researchers examined indole metabolites, which are formed from tryptophan, another amino acid found in dietary proteins. These substances have attracted considerable scientific interest because they participate in biological processes linked to inflammation, immune activity, and disease. Researchers have investigated their involvement in inflammatory bowel disease, neurodegenerative disorders, and cancer. Some indole metabolites have also been found to influence the spread of cancer and the immune system's ability to attack tumors. Scientists have generally assumed that gut bacteria are the source of these compounds. That belief has encouraged efforts to develop probiotics and dietary interventions that increase the production of potentially beneficial indole metabolites. However, this approach depends on an important assumption: that intestinal microbes are responsible for producing most or all of the compounds researchers want to influence. If the body's own cells make substantial amounts of these metabolites, changing the microbiome may not be the most effective way to control their levels. To investigate, the research team used isotope tracing in mice, rats, and human cells to follow how different metabolites were produced. The results challenged conventional thinking. Mammalian cells were capable ",
+   "doi": [
+    "10.1038/s42255-026-01550-8",
+    "10.1073/pnas.2605226123"
+   ],
+   "journal_ref": "Journal References : Jenna E. AbuSalim, Michael M. MacArthur, Meera Gupta, Asael Roichman, Craig J. Hunter, Felix C. Keber, Seema Chatterjee, Mahta Moussavi, Javad Barouei, Martin Wühr, Dinanath Sulakhe, Christopher J. Lehmann, Mohamed S. Donia, Joshua D. Rabinowitz. Digestion-resistant proteins support the healthy metabolite profiles associated with plant-based diets . Proceedings of the National",
+   "facts": [
+    "Among these were indole-3-lactate and indole-3-acetate, two biologically important compounds previously considered products of microbial metabolism.",
+    "Levels of indole-3-propionate and p-cresol sulfate, which are produced exclusively by microbes, declined following antibiotic treatment.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": []
+  },
+  {
+   "title": "A simple supplement may help clear brain fog after cancer",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261104084013.htm",
+   "summary": "A surprising new study from UCLA suggests that a naturally occurring molecule could help breast cancer survivors overcome the frustrating brain fog and exhaustion that can linger long after treatment ends. Researchers found that women taking an oxaloacetate supplement for eight weeks experienced substantial improvements in memory, concentration, mental clarity, and fatigue.",
+   "date": "2026-11-09",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104084013.htm"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 DOSE",
+    "훅: surpris",
+    "생활소재: supplement, memory, brain"
+   ],
+   "text": "For some breast cancer survivors, the effects of treatment can linger long after their cancer care ends. Memory lapses, difficulty concentrating, and persistent exhaustion can interfere with everyday life, sometimes for years. Now, researchers at the UCLA Health Jonsson Comprehensive Cancer Center have found promising early evidence that a supplement containing a naturally occurring molecule could help relieve these symptoms. The molecule, called oxaloacetate, is already present in the human body and plays an important role in how cells generate energy. In a small clinical trial, breast cancer survivors who took the supplement for eight weeks reported noticeable improvements in thinking, memory, concentration, and fatigue. The results, published in JCO Oncology Advances , also showed improvements on cognitive tests measuring how quickly participants processed information and performed tasks requiring planning, attention, and mental flexibility. Although larger studies are needed to confirm the findings, the results suggest a potentially new way to address a problem that has long been difficult to treat. \"Cancer-related cognitive impairment can persist long after treatment ends and can have a significant impact on a person's daily life, yet we still have very few effective treatments for it,\" said Dr. Patricia Ganz, the study's first author and a distinguished professor of medicine at UCLA's David Geffen School of Medicine and UCLA Fielding School of Public Health. Cognitive difficulties are a lasting concern for many people who survive breast cancer. Researchers estimate that roughly 15% to 25% experience ongoing problems with memory, concentration, or other thinking abilities after their diagnosis and treatment. These symptoms are often described as \"chemo brain\" or \"brain fog.\" Despite the name, chemotherapy is not necessarily the only cause. Scientists increasingly recognize that cancer-related cognitive impairment can develop through several overlapping processes. The cancer itself, chemotherapy, endocrine therapy, inflammation, hormonal changes, and other biological and behavioral influences may all contribute. Because the causes are complicated and effective treatments remain limited, researchers are investigating ways to address the underlying changes that may disrupt normal brain function. One area of interest involves the relationship between inflammation, brain chemistry, and energy production. Inflammation linked to cancer and its treatments may interfere with glutamate signaling, an important part of communication between nerve cells. It may also disturb the processes that allow brain cells to produce and use energy efficiently. Together, these disruptions could contribute to difficulties with thinking and persistent mental exhaustion. Oxaloacetate attracted the UCLA team's attention because it participates in both cellular energy production and the regulation of glutamate. The researchers wanted to learn whether providing additional oxaloacetate through a supplement might reduce the cognitive symptoms and fatigue experienced by cancer survivors. To investigate, the researchers carried out a phase II clinical trial involving 18 women who had been diagnosed with early-stage breast cancer between one and five years earlier. All participants were experiencing substantial cognitive difficulties when they entered the study. The women were approximately 50 years old on average. Most had undergone chemotherapy, and nearly 90% were still receiving endocrine therapy during the trial. Each participant was instructed to take 500 milligrams of oxaloacetate twice a day for eight weeks. The researchers tracked changes in cognitive symptoms using questionnaires completed by the participants, along with standardized tests designed to evaluate memory, attention, processing speed, and executive function. Executive function includes the mental abilities needed to organize activities, maintain focus, make plans, and manage tasks. The study also examined fatigue, sleep, anxiety, depression, physical health, and mental well-being. Throughout the treatment period, the team monitored participants for possible side effects. Of the 18 women enrolled, 16 completed the full eight weeks of supplementation. Every participant who finished the treatment reported significant improvement in her cognitive symptoms. The changes were particularly striking on the study's main measure of perceived cognitive impairment. Before treatment, the participants had an average score of 29.1. After eight weeks, that average had climbed to 55.5, placing the group in the range considered normal rather than impaired. Signs of improvement were already apparent after four weeks, and the benefits reported by participants generally became more pronounced as treatment continued. The results extended beyond memory and concentration. Participants reported significantly less fatigue, including the mental exhaustion that can make everyday activities difficult. They also described meaningful improvements in their ability to function physically. Standardized cognitive testing provided additional encouraging evidence. Researchers observed improvements in processing speed and executive function, suggesting that some aspects of thinking performance may have improved alongside the participants' perceptions of their symptoms. However, the scientists emphasized that these results remain preliminary because the trial included so few participants. Oxaloacetate was generally well tolerated during the eight-week study. The most frequently reported side effects involved the digestive system, including indigestion, bloating, constipation, diarrhea, and nausea. Two women stopped taking the supplement because of gastrointestinal symptoms. No serious adverse events were recorded. Despite the encouraging improvements, the researchers cautioned against drawing firm conclusions about the supplement's effectiveness. The trial was small and did not include a placebo group or another comparison group. Without that comparison, it is not possible to determine whether oxaloacetate itself caused the improvements. \"These early findings give us a strong reason to continue studying oxaloacetate as a potential approach for managing cognitive problems after breast cancer treatment,\" Ganz said. To build on these initial findings, the UCLA team has been preparing a randomized, placebo-controlled phase II clinical trial involving breast cancer survivors with cancer-related cognitive impairment. The study was expected to begin enrolling participants in late 2026. By comparing oxaloacetate with a placebo, the researchers hope to establish whether the supplement produces measurable benefits beyond those that might occur without active treatment. The investigators are also conducting preclinical research in mice to better understand how oxaloacetate affects the body and brain. These experiments include a placebo-controlled study examining whether the molecule produces similar improvements (improved fatigue and physical function) in animals. The research received partial financial support from the Breast Cancer Research Foundation and the National Cancer Institute. In addition to Ganz, the study's authors were Kathleen Van Dyk, PhD, Catherine M. Crespi, PhD, Laura Petersen, MS, Mina Sedrak, MD, MS, and Julienne Bower, PhD, all affiliated with UCLA. Materials provided by University of California - Los Angeles Health Sciences . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+   "doi": [
+    "10.1200/OA-26-00063"
+   ],
+   "journal_ref": "Journal Reference : Patricia A. Ganz, Kathleen Van Dyk, Catherine M. Crespi, Laura Petersen, Mina S. Sedrak, Julienne E. Bower. Results From a Phase II Single-Arm Trial Evaluating the Safety and Efficacy of Anhydrous Enol-Oxaloacetate on Improving Cognitive Complaints in Breast Cancer Survivors . JCO Oncology Advances , 2026; 3 (4) DOI: 10.1200/OA-26-00063",
+   "facts": [
+    "Researchers estimate that roughly 15% to 25% experience ongoing problems with memory, concentration, or other thinking abilities after their diagnosis and treatment.",
+    "To investigate, the researchers carried out a phase II clinical trial involving 18 women who had been diagnosed with early-stage breast cancer between one and five years earlier.",
+    "The women were approximately 50 years old on average.",
+    "Most had undergone chemotherapy, and nearly 90% were still receiving endocrine therapy during the trial.",
+    "Each participant was instructed to take 500 milligrams of oxaloacetate twice a day for eight weeks.",
+    "Of the 18 women enrolled, 16 completed the full eight weeks of supplementation.",
+    "Before treatment, the participants had an average score of 29.1.",
+    "After eight weeks, that average had climbed to 55.5, placing the group in the range considered normal rather than impaired.",
+    "The study was expected to begin enrolling participants in late 2026.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "sample": [
+    "18 women"
+   ]
+  },
+  {
+   "title": "Small daily activities may help ease dementia caregivers' stress",
+   "link": "https://medicalxpress.com/news/2026-11-small-daily-ease-dementia-caregivers.html",
+   "key": "https://medicalxpress.com/news/2026-11-small-daily-ease-dementia-caregivers.html",
+   "summary": "Nearly 12 million people in the U.S. provide unpaid care to a relative or friend with Alzheimer's disease and related dementias (ADRD). Compared with caregivers of people without dementia, ADRD caregivers face greater demands that may contribute to higher rates of depression, anxiety, sleep problems, reduced physical activity and chronic illness.",
+   "date": "2026-11-10",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-small-daily-ease-dementia-caregivers.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 SCALE",
+    "생활소재: sleep, dementia, alzheimer"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-small-daily-ease-dementia-caregivers.html"
   },
   {
    "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
@@ -231,44 +461,6 @@
     "훅: surpris, didn't",
     "생활소재: brain, stress, mice",
     "이미 본 소재(2026-11-02)"
-   ]
-  },
-  {
-   "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
-   "key": "https://sciencedaily.com/releases/2026/10/261030003003.htm",
-   "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early human safety trial, potentially speeding the development of a new treatment for high cholesterol.",
-   "date": "2026-11-01",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-02",
-   "text": "Heart disease linked to high cholesterol continues to be the leading cause of death worldwide. Although doctors have more treatment options than ever, many people still struggle to lower their cholesterol to safe levels. Others experience side effects that make existing medications difficult to take. Researchers at the University of California San Diego School of Medicine have now identified a previously unknown biological pathway that helps explain why diets high in cholesterol can gradually weaken the body's ability to remove harmful low-density lipoprotein (LDL) cholesterol from the bloodstream. Even more promising, they have identified an experimental drug that has already undergone safety testing in humans and could potentially interfere with this process. The findings, published in Nature , could open the door to a new approach to treating high cholesterol. \"We've known for a long time that a high-cholesterol diet reduces the liver's ability to clear cholesterol from the blood, but we didn't fully understand why,\" said senior author Alan Saltiel, PhD, professor of medicine at UC San Diego School of Medicine and director of the UC San Diego/UCLA Diabetes Research Center. \"This new discovery explains a critical piece of that puzzle.\" The liver plays a central role in controlling cholesterol levels. It removes cholesterol from the bloodstream so it can be processed, broken down, and used by other parts of the body. To accomplish this, liver cells rely on structures called LDL receptors. Located on the surface of these cells, the receptors work much like docking stations, capturing LDL cholesterol circulating in the blood and bringing it inside for processing. The number of available receptors matters. When liver cells have more LDL receptors, they can remove more cholesterol from circulation. This is one reason widely used cholesterol medications, including statins and PCSK9 inhibitors, are effective. They help maintain or increase the number of receptors available to clear LDL cholesterol. Using experiments involving mice and human cells, the researchers discovered a previously unrecognized process that interferes with the liver's ability to clear cholesterol. Over time, this mechanism reduces the number of LDL receptors, making it harder for the body to keep blood cholesterol under control. The process begins with a protein known as Ral, which Saltiel had previously investigated in fat cells. The team discovered that consuming high amounts of dietary cholesterol activates Ral, setting off a chain of events that leads to the loss of LDL receptors. As Ral activity increases, fewer receptors remain available to remove harmful cholesterol from the bloodstream. The researchers then identified another critical piece of the mechanism: an enzyme called cathepsin A (CTSA). This enzyme helps drive the process responsible for depleting LDL receptors. When scientists used a small molecule inhibitor to block CTSA, the results were striking. LDL receptors became more stable, and levels of circulating LDL cholesterol dropped dramatically in mice. The discovery is especially significant because the newly identified pathway is different from those targeted by current cholesterol medications. That distinction could make it possible to develop treatments for patients who do not respond adequately to existing drugs. \"There's still a real need for new cholesterol-lowering options, since some people can't get to safe levels even with the drugs we have now,\" said Saltiel. \"This new pathway we discovered is completely separate from anything that existing drugs target, so it gives us a new opportunity to fill that gap.\" Discovering a new biological target is usually only the beginning of a lengthy drug development process. Researchers often need years of additional work to identify a suitable compound and determine whether it can be used safely in people. In this case, however, the scientists may already have a promising candidate. A drug designed to inhibit CTSA had previously been developed as a potential treatment for heart failure. Although the program was eventually discontinued for strategic reasons, the experimental medication had already progressed through a Phase 1 clinical trial, where it was successfully evaluated for safety in humans. That earlier work could provide an important advantage. Rather than beginning drug development from scratch, researchers believe the existing CTSA inhibitor may be ready to advance into a Phase 2 clinical trial to investigate its effectiveness against high cholesterol. The findings are still at an early stage, and the drug has not yet been shown to lower cholesterol in humans. Nevertheless, its previous clinical testing could shorten the path toward determining whether this new treatment strategy works in patients. \"Luckily, there's an experimental drug sitting on the shelf that's already been shown to be safe in humans,\" said Saltiel. \"We hope to test whether this might be effective by conducting a clinical trial -- which could potentially bring a new treatment option to patients much sooner than would have been expected.\" Co-authors of the study include Xue Feng, Shuo Zhang, Yuqi Wang, Twisha Kurlagunda, Allyssa Sit, Sadatsugu Sakane, Se Yong Park, Churaibhon Wisessaowapak, Kaylee Nguyen, Jamie Yan, Himani Pothulu, Catherine Dinh, Felicia Chu, Yuyao Ren, Bichen Zhang, Patrick Secrest, Chao-Wei Hung, Preethi Veeragandham, Yuliya Skorobogatko, Tatiana Kisseleva, and Amit R. Majithia at UC San Diego; Priya Jaishankar, Pusu Yang, and Adam Renslo at the University of California, San Francisco; Linmeng Han and Peng Zhao at the University of Texas Health Science Center at San Antonio; and Philip L.S.M. Gordts at the University of Utah. The research received partial funding from the National Institutes of Health (Grants P30DK063491, R01DK117551, R01DK128796, and R01DK135289) and an American Diabetes Association postdoctoral fellowship (1-25-PDF-76). Materials provided by University of California - San Diego . Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
-   "facts": [
-    "This is one reason widely used cholesterol medications, including statins and PCSK9 inhibitors, are effective.",
-    "Although the program was eventually discontinued for strategic reasons, the experimental medication had already progressed through a Phase 1 clinical trial, where it was successfully evaluated for safety in humans.",
-    "Rather than beginning drug development from scratch, researchers believe the existing CTSA inhibitor may be ready to advance into a Phase 2 clinical trial to investigate its effectiveness against high cholesterol.",
-    "The research received partial funding from the National Institutes of Health (Grants P30DK063491, R01DK117551, R01DK128796, and R01DK135289) and an American Diabetes Association postdoctoral fellowship (1-25-PDF-76).",
-    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-   ],
-   "doi": [
-    "10.1038/s41586-026-10697-z"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Xue Feng, Shuo Zhang, Yuqi Wang, Twisha Kurlagunda, Allyssa Sit, Priyadarshini Jaishankar, Pusu Yang, Sadatsugu Sakane, Se Yong Park, Churaibhon Wisessaowapak, Kaylee Nguyen, Jamie Yan, Himani Pothulu, Catherine Dinh, Felicia Chu, Yuyao Ren, Bichen Zhang, Patrick Secrest, Linmeng Han, Chao-Wei Hung, Preethi Veeragandham, Yuliya Skorobogatko, Tatiana Kisseleva, Philip L.S.M. Gor",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/10/261030003003.htm"
-   ],
-   "format": "SCALE",
-   "catch": [
-    "동물 실험"
-   ],
-   "score": 6,
-   "why": [
-    "형식 SCALE",
-    "생활소재: diet, mice"
    ]
   },
   {
@@ -386,81 +578,6 @@
    ]
   },
   {
-   "title": "Scientists identify two overlooked skills that predict reading success",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261102202845.htm",
-   "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how to help struggling readers.",
-   "date": "2026-11-03",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-04",
-   "text": "For decades, explanations for why some children struggle with reading have often focused on two factors: intelligence and the ability to process visual information. Children who read easily have frequently been assumed to be more intelligent, while those who struggle have sometimes been viewed as less capable. Another common belief is that reading difficulties arise primarily from problems interpreting the words and letters on a page. However, a major new study challenges these assumptions, suggesting that the abilities most important for reading success may be very different from what many people expect. Dr. Daniel Hajovsky, an associate professor in Texas A&M University's Department of Educational Psychology, led one of the most extensive investigations to date into how cognitive abilities relate to reading performance. The research brought together scientists from the University of Kansas, St. John's University, Montclair State University and Temple University to examine which mental skills best predict reading development and why some children encounter difficulties. To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model. This large-scale approach allowed them to assess the contribution of individual mental abilities to reading performance while also helping clarify why previous studies had sometimes produced conflicting conclusions. The findings revealed several surprises. Visual processing showed no meaningful relationship with reading ability across the analysis. General intelligence was associated with reading performance, but its influence was considerably smaller than some earlier research had suggested. Instead, two less frequently discussed abilities emerged as particularly important predictors of reading success: auditory processing and comprehension-knowledge. \"One notable finding was that general intelligence was less dominant than in some earlier meta-analyses,\" Hajovsky said. \"Broad abilities such as comprehension-knowledge and auditory processing played strong, specific roles in reading beyond general intelligence, especially for decoding and comprehension.\" Auditory processing involves recognizing and distinguishing the individual sounds that make up spoken words. For example, a child needs to identify the separate sounds within a word to understand how those sounds correspond to written letters. This skill helps support decoding, the process of working out how written words are pronounced. Comprehension-knowledge refers to the vocabulary, concepts and background information a child has accumulated through learning and everyday experiences. Having this foundation makes it easier to understand the meaning of words, sentences and longer passages. Together, these two abilities were more reliable predictors of reading performance than any other skills examined in the study. Other cognitive functions, including memory, reasoning and mental processing speed, also contributed to reading development, although they played more supporting roles. The results suggest that reading is not simply a reflection of overall intelligence or how effectively a child processes visual information. Instead, it depends on several interconnected abilities, with language-related skills playing especially important roles. The research could help educators better understand why individual students experience reading difficulties. Rather than treating all reading problems as the same, teachers may be able to identify particular weaknesses and provide instruction that addresses those needs. For families, the findings also offer an encouraging message. A child who has trouble reading is not necessarily less intelligent or incapable of becoming a strong reader. Difficulties may instead reflect specific abilities that need additional development and support. \"Strengthening foundational skills at home, even the ones that seem simple, can have meaningful effects on more advanced reading abilities,\" Hajovsky said. \"Struggles in reading are not a sign of low ability but often reflect one specific skill that needs strengthening within a larger system that works together.\" The findings highlight the value of helping children build essential reading skills through consistent support, both in the classroom and at home. According to Hajovsky, the most effective approach involves cooperation among schools, parents, and communities. Reading develops through a network of connected skills, and strengthening those foundations one step at a time can help children become more confident and capable readers. Materials provided by Texas A&M University . Original written by Ryan McCullar. Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
-   "facts": [
-    "To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model.",
-    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-   ],
-   "doi": [
-    "10.3390/jintelligence13080104"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Daniel B. Hajovsky, Christopher R. Niileksela, Dawn P. Flanagan, Vincent C. Alfonso, William Joel Schneider, Jacob Robbins. Toward a Consensus Model of Cognitive–Reading Achievement Relations Using Meta-Structural Equation Modeling . Journal of Intelligence , 2025; 13 (8): 104 DOI: 10.3390/jintelligence13080104",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 PRESS",
-    "훅: surpris",
-    "생활소재: children"
-   ]
-  },
-  {
-   "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261102202838.htm",
-   "summary": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease that once threatened their survival.",
-   "date": "2026-11-03",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-04",
-   "text": "For nearly 50 years, scientists have struggled to explain why frogs began disappearing from Brazil's Atlantic Forest, one of the world's richest regions for amphibian diversity. Beginning in the 1970s, researchers documented dramatic population declines, but the cause of these losses remained uncertain. Now, scientists have uncovered compelling evidence pointing to a deadly fungal disease as the likely explanation. The findings, published in Molecular Ecology , come from researchers at the Center for Conservation Genomics at the Smithsonian's National Zoo and Conservation Biology Institute (NZCBI) and Pennsylvania State University (PSU). The suspected culprit is chytridiomycosis, often called chytrid, a disease caused by the microscopic fungus Batrachochytrium dendrobatidis . Scientists believe the pathogen originated in Asia before spreading around the world during the 1970s and 1980s. However, the fungus was not formally identified and described until 1999, long after devastating amphibian declines had begun. By then, hundreds of amphibian species worldwide had been driven toward extinction, and some had already disappeared. Because so many populations collapsed before scientists knew the fungus existed, determining whether it was responsible has been particularly difficult. \"After almost 50 years, we still aren't confident what caused many historical amphibian die-offs, making these declines some of the most enduring cold cases in wildlife epidemiology,\" said Jack Boyette, an NZCBI graduate fellow and doctoral candidate at PSU who led the research. One of these longstanding mysteries centers on the Boracéia Biological Station in Brazil's Atlantic Forest, where amphibian populations experienced severe declines between 1979 and 1982. Some researchers previously suggested that climate change or unusually extreme weather might have triggered the disappearances. The new findings, however, provide evidence that an emerging fungal disease was spreading through the area at precisely the same time. \"While environmental factors could have played a role, our findings most directly implicate the chytrid fungus, revealing that regional invasion of the pathogen coincided with these unexplained amphibian disappearances,\" Boyette said. To investigate what happened, the researchers turned to an unexpected source of evidence: frogs preserved in museum collections decades earlier. The Smithsonian's National Museum of Natural History houses specimens collected by William Ronald Heyer, a former curator of amphibians and reptiles. Heyer conducted five collecting expeditions at Boracéia, including two during the 1970s before the major population declines and three during the 1980s after the die-offs had occurred. These preserved animals offered scientists a rare opportunity to examine the period before and after the mysterious disappearances. By testing specimens collected at different times, researchers could investigate when the pathogen arrived and how rapidly it spread. The team analyzed samples from more than 370 preserved amphibians representing 17 species, searching for evidence of chytrid infection and tracking how frequently the fungus appeared over time. The results revealed a striking change. None of the specimens collected before 1979 showed evidence of chytrid infection. Among those collected during the 1980s, however, more than half tested positive for the fungus. This sharp increase suggests that the pathogen arrived and spread through the local amphibian community around the same time that frog populations were collapsing. Species that suffered the most severe declines showed no detectable signs of infection in the preserved specimens. Meanwhile, species whose populations remained relatively stable frequently carried the fungus. At first glance, these findings might seem to contradict the idea that chytrid caused the disappearances. The researchers believe the explanation may lie in differences in how individual species respond to the disease. Some frogs may have been naturally capable of tolerating the infection, allowing them to survive even when the fungus was present. More vulnerable species, on the other hand, may have died so quickly after becoming infected that few or no infected individuals were ever collected. \"It's important to keep in mind that not all species suffered catastrophic losses at Boracéia,\" Boyette said. \"The species that didn't decline may have naturally tolerated the fungus, allowing them to become infected without suffering mass mortality. By contrast, the species that declined most dramatically may have been so susceptible that infected frogs died before Heyer could collect them.\" Together, the results suggest that chytrid spread rapidly among frogs with little previous exposure to the disease, with potentially devastating consequences for species unable to withstand infection. For Michael Campana, a genomicist at NZCBI who contributed to the research, the findings demonstrate the extraordinary scientific value of natural history museums. Specimens preserved many decades ago can contain biological evidence that researchers at the time had no way of recognizing. Modern testing methods now make it possible to revisit these collections and investigate outbreaks that occurred long before the responsible pathogens were discovered. \"Museum collectors could not have anticipated how important their collections would be to our modern conservation challenges, but without them, we would never be able to detect pathogens that went unnoticed for decades and reconstruct disease outbreaks that would otherwise remain a mystery,\" Campana said. Understanding these past outbreaks could also help scientists anticipate future threats. One growing concern involves another fungal pathogen, B. salamandrivorans , which is threatening salamander populations in Europe and could pose a serious danger to salamanders in North America. By reconstructing how earlier fungal diseases emerged, spread, and affected different species, researchers hope to improve their ability to recognize and respond to similar threats before they cause widespread damage. Despite the devastating losses recorded decades ago, the latest findings also offer encouraging evidence of recovery. Working with researchers from the University of São Paulo, the team made six visits to Boracéia between 2022 and 2024 to investigate the amphibians living there today. Of the 17 species represented in Heyer's historical museum collection, researchers located 12 during their modern surveys. The remaining five were not found, leaving their current status uncertain and raising concerns that some may have disappeared from the site entirely. Nevertheless, the surveys indicate that most amphibian species at Boracéia have recovered since the severe declines of the early 1980s. The fungus has not disappeared. Chytrid infections are still present among local frogs, but the pattern of infection suggests that species once heavily affected by the disease may have developed greater tolerance over successive generations. That increased tolerance could help explain why many populations have survived and rebounded despite continuing exposure to the pathogen. The findings highlight an important distinction between infection and mortality. A species can carry a dangerous pathogen without necessarily suffering catastrophic losses, particularly if its members can tolerate the infection. Although the evidence strongly implicates chytrid in the historic declines at Boracéia, the researchers caution that their findings apply to this particular location. The results cannot automatically explain amphibian disappearances elsewhere in the Atlantic Forest. Still, the study provides a compelling explanation for a longstanding local mystery and demonstrates how scientists can use historical specimens to reconstruct outbreaks that would otherwise remain poorly understood. Researchers are now examining DNA recovered from museu",
-   "facts": [
-    "For nearly 50 years, scientists have struggled to explain why frogs began disappearing from Brazil's Atlantic Forest, one of the world's richest regions for amphibian diversity.",
-    "Beginning in the 1970s, researchers documented dramatic population declines, but the cause of these losses remained uncertain.",
-    "Scientists believe the pathogen originated in Asia before spreading around the world during the 1970s and 1980s.",
-    "However, the fungus was not formally identified and described until 1999, long after devastating amphibian declines had begun.",
-    "\"After almost 50 years, we still aren't confident what caused many historical amphibian die-offs, making these declines some of the most enduring cold cases in wildlife epidemiology,\" said Jack Boyette, an NZCBI graduate fellow and doctoral candidate at PSU who led the research.",
-    "One of these longstanding mysteries centers on the Boracéia Biological Station in Brazil's Atlantic Forest, where amphibian populations experienced severe declines between 1979 and 1982.",
-    "Heyer conducted five collecting expeditions at Boracéia, including two during the 1970s before the major population declines and three during the 1980s after the die-offs had occurred.",
-    "By testing specimens collected at different times, researchers could investigate when the pathogen arrived and how rapidly it spread.",
-    "The team analyzed samples from more than 370 preserved amphibians representing 17 species, searching for evidence of chytrid infection and tracking how frequently the fungus appeared over time.",
-    "None of the specimens collected before 1979 showed evidence of chytrid infection."
-   ],
-   "doi": [
-    "10.1111/mec.70573"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Jack L. Boyette, Tamilie Carvalho, David Rodriguez, Wesley J. Neely, Daniel Medina, Renato A. Martins, Robert J. Ossiboff, Zaira Gomez, William C. Vuyk, Shannon M. Buttimer, Karen A. Paniagua Torres, Ananda Brito de Assis, Carlos A. Navas, Carly R. Muletz‐Wolz, Michael G. Campana, Corinne L. Richards‐Zawacki, C. Guilherme Becker. Overcoming Detection Lag in a Cryptic Panzootic:",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 PRESS",
-    "훅: mystery"
-   ]
-  },
-  {
    "title": "Nearly 1 in 5 people in the US think about food even when they are not hungry",
    "link": "https://medicalxpress.com/news/2026-11-people-food-hungry.html",
    "key": "https://medicalxpress.com/news/2026-11-people-food-hungry.html",
@@ -482,51 +599,6 @@
    "why": [
     "형식 DOSE",
     "생활소재: social media"
-   ]
-  },
-  {
-   "title": "Kids who eat more ultra-processed foods show a troubling brain response",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261101010549.htm",
-   "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.",
-   "date": "2026-11-04",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-05",
-   "text": "Children who consume more ultra-processed foods (UPFs) may have stronger brain responses to tempting foods, potentially helping explain why these products are associated with weight gain. A new study published in JAMA Network Open found that children who ate more of these foods showed heightened activity in the brain's reward system when looking at pictures of appetizing foods. Those stronger responses were also associated with increases in body fat over the following year. Ultra-processed foods include many everyday products, such as breakfast cereals, packaged bread, and instant soups. They are manufactured to be appealing, convenient, and able to remain fresh for extended periods. Many contain artificial sweeteners, coloring agents, and other ingredients rarely used in home cooking. These products make up a substantial portion of children's diets, accounting for approximately 67% of the calories consumed by children in the United States. Previous research has associated ultra-processed food consumption with obesity, type 2 diabetes, and cardiovascular disease. However, scientists are still trying to understand the biological processes that might explain these connections. The new investigation, supported in part by the National Institutes of Health, combined magnetic resonance imaging (MRI), dietary assessments, and measurements of children's body composition to explore whether the brain's response to food could play a role. \"Children's brains are still developing, habits are still forming and food preferences are still being made. It's an important period where the brain is very sensitive to food and the food environment,\" said the study's senior author, Kathleen A. Page, MD, professor of medicine and pediatrics and co-chief of the Division of Endocrinology and Diabetes at the Keck School of Medicine of USC. \"We're particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference.\" To investigate these connections, the research team studied 46 children between the ages of seven and 10 who were enrolled in the ongoing BrainChild study, which examines factors contributing to diabetes and obesity. Every participant had a healthy weight when the research began, giving scientists an opportunity to investigate potential warning signs before excess weight developed. At the start of the study, the children underwent brain scans while looking at pictures of appealing foods (such as cookies or French fries). Researchers also gathered information about their diets and recorded several health measurements, including body mass index (BMI), body fat percentage, and waist circumference. After one year, the team measured these physical characteristics again to identify changes. The brain scans revealed a notable pattern. Children who consumed larger amounts of ultra-processed foods showed greater activity in the dorsal striatum when viewing food pictures. This part of the brain helps regulate reward and motivation, making it particularly relevant to how people respond to desirable foods. Importantly, children with stronger responses in this brain region also tended to experience greater increases in BMI and body fat percentage over the next year. The findings suggest that heightened sensitivity to food cues may be one factor connecting ultra-processed diets with subsequent weight gain. By the end of the study, children who consumed more ultra-processed foods generally had higher BMI, greater body fat percentage, and larger waist circumference. The researchers then examined whether differences in brain activity could help account for these associations. When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker. The corresponding association with body fat percentage decreased by 44%. These reductions suggest that the brain's reward response may help explain part of the relationship between ultra-processed food consumption and changes in body composition. Although the results do not demonstrate that these foods directly alter brain function, they provide a possible biological explanation for an association that has been observed in previous research. \"This study goes beyond just understanding that UPFs affect weight gain,\" Page said. \"It actually gives us insight into the neurobiological underpinnings by which these foods may be linked to body composition over time.\" The researchers caution that improving children's diets cannot depend entirely on individual families. Ultra-processed products are often inexpensive, widely available, and easy to prepare, making them practical choices for households facing financial or time constraints. \"Changing the food environment to help people access healthier, more minimally processed foods is an important part of the solution,\" Page said. There are also important limitations to consider. Because the study was observational, it cannot determine whether eating ultra-processed foods directly causes heightened brain activity or increases in body weight. The findings establish relationships between these factors, but additional research is needed to determine whether one causes another. Page hopes to address that question in a future intervention study. The proposed research would provide children who regularly consume ultra-processed foods with more minimally processed alternatives. Scientists could then examine whether changing their diets affects how their brains respond to food images and whether any differences are associated with reduced weight gain. Meanwhile, the BrainChild study will continue tracking participants as they move through puberty and into early adulthood. By monitoring brain development, body composition, dietary patterns, and general health over time, researchers hope to gain a clearer picture of how childhood nutrition may influence long-term health. The study was led by Page alongside Jasmin M. Alves, Ella Morgan, Brendan Angelo, Kianna Le, and Jared Smith from the Division of Endocrinology and Diabetes, Department of Medicine, and Diabetes and Obesity Research Institute at the Keck School of Medicine of USC, University of Southern California. Additional contributors included Kay Jann of the USC Stevens Neuroimaging and Informatics Institute at the Keck School of Medicine of USC, University of Southern California, and Ting Chow and Anny H. Xiang of the Department of Research and Evaluation at Kaiser Permanente Southern California in Pasadena, California. Funding came from an American Diabetes Association Pathway Accelerator Award [1-14-ACE-36] and the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health (NIH) [R01DK116858, R01DK134079]. Support for the REDCap database used in the research was provided by the Southern California Clinical and Translational Science Institute [NIH UL1TR001855]. Materials provided by Keck School of Medicine of USC . Note: Content may be edited for style and length. Something Remarkable Is Happening to Dogs Living Near Chernobyl’s Nuclear Plant Hubble Uncovers a Mysterious 93-Billion-Mile Structure Hiding in a Nearby Star System A Simple Tongue Exercise Could Hold the Key to Fighting the Devastating Effects of ALS Scientists Discover a New Type of Depression That Common Antidepressants May Miss",
-   "facts": [
-    "These products make up a substantial portion of children's diets, accounting for approximately 67% of the calories consumed by children in the United States.",
-    "Previous research has associated ultra-processed food consumption with obesity, type 2 diabetes, and cardiovascular disease.",
-    "\"We're particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference.\" To investigate these connections, the research team studied 46 children between the ages of seven and 10 who were enrolled in the ongoing BrainChild study, which examines factors contributing to diabetes and obesity.",
-    "When they adjusted their analysis to consider the children's responses in the dorsal striatum, the relationship between ultra-processed food intake and BMI became 31% weaker.",
-    "The corresponding association with body fat percentage decreased by 44%.",
-    "Funding came from an American Diabetes Association Pathway Accelerator Award [1-14-ACE-36] and the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health (NIH) [R01DK116858, R01DK134079].",
-    "Support for the REDCap database used in the research was provided by the Southern California Clinical and Translational Science Institute [NIH UL1TR001855].",
-    "Something Remarkable Is Happening to Dogs Living Near Chernobyl’s Nuclear Plant Hubble Uncovers a Mysterious 93-Billion-Mile Structure Hiding in a Nearby Star System A Simple Tongue Exercise Could Hold the Key to Fighting the Devastating Effects of ALS Scientists Discover a New Type of Depression That Common Antidepressants May Miss"
-   ],
-   "doi": [
-    "10.1001/jamanetworkopen.2026.40252"
-   ],
-   "sample": [
-    "46 children"
-   ],
-   "journal_ref": "Journal Reference : Jasmin M. Alves, Ella Morgan, Brendan Angelo, Kianna Le, Jared Smith, Ting Chow, Kay Jann, Anny H. Xiang, Kathleen A. Page. Ultraprocessed Food Intake, Striatal Response to Food Cues, and Adiposity Gain in Children . JAMA Network Open , 2026; 9 (10): e2640252 DOI: 10.1001/jamanetworkopen.2026.40252",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261101010549.htm"
-   ],
-   "format": "WEIGH",
-   "seen": "2026-11-02",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: diet, kids, children",
-    "이미 본 소재(2026-11-02)"
    ]
   },
   {
@@ -626,41 +698,6 @@
    "why": [
     "형식 SCALE",
     "생활소재: alzheimer, brain"
-   ]
-  },
-  {
-   "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261101010556.htm",
-   "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear.",
-   "date": "2026-11-05",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-06",
-   "text": "You walk out of the grocery store, ready to head home and make dinner. But as you scan the crowded parking lot, a frustrating question comes to mind. Where did you leave your car? You try to picture the spot, but the memory refuses to surface. Remembering personal experiences like these depends on episodic memory, which allows us to recall events from our lives. These memories help form the foundation of long-term memory, whether they involve a childhood milestone, such as the first day of elementary school, or something that happened just minutes earlier, like parking your car. This ability tends to weaken as we grow older. The sights, sounds, and other details associated with past experiences can become increasingly difficult to retrieve. Scientists still do not fully understand why this happens. Although some memory decline is a common part of aging, the changes can become far more severe in people developing Alzheimer's disease. A new study from researchers at the University of California, Berkeley, offers important clues about what may be happening inside the aging brain. Neuroscientist Omer Sharon and his colleagues, working under the direction of former Berkeley sleep researcher Matthew Walker, discovered a connection between disrupted brain waves during deep sleep, declining memory performance, and the accumulation of tau, a protein associated with Alzheimer's disease. The findings suggest that tau buildup in the brain's frontal cortex is linked to changes in the coordinated electrical activity that helps preserve memories overnight. \"This is the first time we've shown this relationship between tau and how it messes with memory consolidation by attenuating traveling slow waves that originate in the frontal cortex,\" said Sharon, a postdoctoral researcher at UC Berkeley's Center for Human Sleep Science. Sleep involves several distinct stages, each associated with different patterns of brain activity. Rapid eye movement sleep is particularly recognizable because the eyes move beneath closed eyelids and most dreaming takes place during this stage. However, another stage, known as non-REM sleep, is especially important for maintaining healthy brain function. During this deeper stage of sleep, when dreaming is limited or absent, large groups of neurons briefly become inactive and then active again in a coordinated sequence. These synchronized changes produce slow electrical waves that spread across the brain, typically beginning in the frontal cortex. \"Each slow wave reflects an enormous population of neurons switching off and back on together,\" Sharon said. \"Our study shows that for memory, it's critical that these events cascade in sequence across large parts of the brain. This coordinated shutdown has been observed only during deep sleep, and may be one reason why we sleep.\" The researchers found that this carefully organized activity becomes less coordinated as tau accumulates in the aging brain. Instead of traveling together across broad regions, the waves become more scattered and cover shorter distances. These changes are associated with weaker memory consolidation, declining cognitive abilities, and Alzheimer's disease. To investigate the relationship, the scientists monitored sleeping brain activity using electroencephalograms (EEGs). They compared cognitively healthy young adults in their early 20s with older participants ranging from their mid-60s to mid-70s. The differences were striking. In younger participants, groups of slow waves moved together across distances roughly equivalent to the width of a hand on the scalp. Among older adults, the waves typically traveled less far and appeared more independently, rather than moving in coordinated groups. The team also examined whether these changes were associated with tau accumulation. Working with Dr. William Jagust, a UC Berkeley professor emeritus of public health and neuroscience, the researchers used positron emission tomography (PET) scans to examine the brains of older participants. This imaging technique uses radioactive tracers introduced into the bloodstream to reveal biological activity and the distribution of specific substances. The scans showed that greater tau buildup in the frontal cortex was associated with a breakdown in the longer traveling waves normally seen during deep sleep. Importantly, these changes were present in people who had not developed Alzheimer's disease. \"These people did not have Alzheimer's,\" Sharon said. \"They had tau in their brains, but with subclinical impacts. Their memory decline was within the normal range for their age.\" Sharon explained that early Alzheimer's related changes can vary considerably in severity. The amount of tau present in the brain is associated with cognitive performance, even when a person's memory abilities remain within the expected range for their age. The researchers wanted to determine whether the altered sleep patterns were associated with actual differences in how well people remembered information. To test this, participants learned pairs of associated words in the evening. The following day, they were asked to recall what they had learned, allowing the scientists to evaluate how effectively the memories had been retained overnight. Participants whose slow brain waves traveled shorter distances and appeared more isolated generally remembered fewer word associations. The researchers called these disconnected patterns \"lonely waves.\" The team also tracked a subset of participants over several years to see how their brains changed with time. Among those whose frontal cortex tau levels increased, the slow waves became less coordinated, and their ability to retain newly learned information overnight declined. These observations provide evidence of a relationship between tau accumulation, changes in deep sleep brain activity, and worsening episodic memory. However, they do not establish that tau buildup directly causes memory loss or that disrupted waves are the mechanism responsible. Because PET scans are costly and require specialized facilities, the scientists sought another way to investigate the relationship between Alzheimer's related proteins and sleep activity. They collaborated with neurologist Yo-El Ju at Washington University in St. Louis to analyze spinal fluid from a separate group of older adults. The goal was to determine whether measurements of Alzheimer's associated proteins would reveal patterns similar to those seen with brain imaging. Unlike PET scans, the spinal fluid measurements could not identify tau accumulation specifically within the frontal cortex. Nevertheless, the results pointed in the same direction. People whose sleeping brains produced more isolated slow waves had higher ratios of tau to amyloid, another protein closely associated with Alzheimer's disease, in their spinal fluid. The consistency between these independent groups and testing methods strengthened the researchers' confidence in the findings. \"It's collected in a totally different place and in a different cohort, so I think that adds to the strength of the evidence,\" Sharon said. Together, the sleep recordings, brain scans, spinal fluid analyses, and memory assessments suggest that tau accumulation is associated with a particular disruption of brain activity during deep sleep. \"This longitudinal correlation suggests that Alzheimer's disease pathology is associated with a disruption of this main sleep feature,\" Sharon said. Although memory often declines with age, the new research indicates that the process may involve more than simply growing older. Changes associated with Alzheimer's disease, particularly tau accumulation in regions responsible for generating widespread slow waves, may help explain why some people experience greater difficulty retaining memories. \"It's not just about age,\" Sharon said. \"It's how much pathology you have in frontal areas where global waves originate.\" Sleep quality also appears to be part of the ",
-   "facts": [
-    "They compared cognitively healthy young adults in their early 20s with older participants ranging from their mid-60s to mid-70s.",
-    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-   ],
-   "doi": [
-    "10.1038/s41593-026-02415-9"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Omer Sharon, Xi Chen, Jason Dude, James Westphal, Chelsea Brown, Vyoma D. Shah, Yo-El S. Ju, William J. Jagust, Matthew P. Walker. Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment . Nature Neuroscience , 2026; DOI: 10.1038/s41593-026-02415-9",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261101010556.htm"
-   ],
-   "format": "",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "훅: surpris",
-    "생활소재: sleep, memory, alzheimer"
    ]
   },
   {
@@ -839,27 +876,27 @@
    ]
   },
   {
-   "title": "Reversing radiation-activated immune suppression in cancer",
-   "link": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
-   "key": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
-   "summary": "Researchers at the University of Chicago have identified a mechanism to make immune cells reprogrammed by radiation therapy attack tumors rather than protect them. The study, published in Cancer Cell, shows that radiation activates a protein called TET2 on immune cells in bone marrow, where it removes chemical tags from RNA and locks these cells into an immune-suppressing state.",
-   "date": "2026-11-01",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-01",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
-   "catch_extra": [],
+   "title": "Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day",
+   "link": "https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html",
+   "key": "https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html",
+   "summary": "An exceptionally well-preserved, approximately 47-million-year-old owl fossil from the UNESCO World Heritage Site Messel provides new clues as to when owls became nocturnal. The newly described species Masillastrix blattophaga was likely still diurnal—as indicated by an iridescent cockroach in its stomach, as well as the structure of its feathers and wing bones. In their new study, published in the journal Current Biology, the Senckenberg researchers speculate that nocturnal behavior in owls only developed between the middle and late Eocene, some 47 to 34 million years ago.",
+   "date": "2026-11-10",
+   "source": "Phys.org",
+   "first_seen": "2026-11-10",
    "sources": [
-    "MedicalXpress"
+    "Phys.org"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html"
+    "https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html"
    ],
    "format": "CUT",
    "catch": [],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 CUT"
-   ]
+    "형식 CUT",
+    "생활소재: bird"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html"
   },
   {
    "title": "Predicting jumping genes' roles in changing genome size",
@@ -1082,6 +1119,86 @@
    ]
   },
   {
+   "title": "Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’",
+   "link": "https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112",
+   "key": "https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112",
+   "summary": "The collapse raises troubling questions about who benefits from financial modernization, who controls it and who bears the risks when it fails.",
+   "date": "2026-11-09",
+   "source": "The Conversation",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112"
+   ],
+   "format": "PRESS",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 5,
+   "why": [
+    "형식 PRESS",
+    "훅: myth"
+   ],
+   "text": "It started on Nov. 3, 2026, when millions of Paraguayans trying to access the Ueno banking app found they could no longer get their money . In a matter of days, the financial situation escalated into political crisis, in which the country’s president was ousted, placed under house arrest and charged with several corruption-related crimes. The political and financial crisis exposes a central contradiction in Paraguay’s recent economic development . Ueno, a bank celebrated for expanding financial access to ordinary Paraguayans, grew through unusually close relationships with political elites and public institutions. And while the Ueno crisis came as a shock, there were clear warning signs. As scholars with expertise in various aspects of Paraguay’s contemporary political , economic and environment development , we believe the collapse raises troubling questions about who benefits from financial modernization, who controls it and who bears the risks when it fails. The political relationships through which financial institutions grow, regulators exercise authority and public resources are entrusted to private companies are crucial national concerns, especially in a country that has presented itself internationally as a model of economic stability. Founded as a digital lender in 2021, Ueno attracted customers with mobile banking and cash-back offers. Its expansion brought useful services to people underserved by conventional banks, including rural customers. Ueno also expanded the credit card market to low-income customers , an unprecedented move compared to previously restricted banking practices. As Ueno expanded, Paraguay increasingly attracted investors drawn by its low taxes, economic stability and business-friendly policies. Promoted by some as a “ Dubai of South America ,” the country also became a magnet for conservative influencers , particularly from Brazil, who contrasted Paraguay’s economic model with the purported mismanagement of left-wing governments elsewhere in the region. Indeed, under President Santiago Peña, Paraguay has been one of Latin America’s most enthusiastic allies of the Trump administration and its expansive regional vision. But beneath the financial stability, Ueno stood at the precipice of a much deeper problem. The central bank finally acted after accounting adjustments left Ueno’s solvency ratio below half the legal minimum. But problems had surfaced earlier. That included a supervisory report put out by the bank regulators in June 2026 that described roughly US$146 million in loans to three companies linked to Grupo Vázquez, Ueno’s controlling shareholder. Some companies had been transferred to group employees; supervisors questioned the collateral and ultimate use of the funds. That these warning signs went unheeded raises a related question of why regulators didn’t have a better handle on the situation and were not better able to contain the exposure. In any case, Ueno’s problems were exposed in dramatic fashion on Nov. 2, when the central bank placed Ueno into resolution, a process similar to bankruptcy but managed directly by Paraguay’s central bank. The lender, which says it has nearly 3 million customers – about half of the country’s population – halted transactions. The crisis quickly ensnared the governing party. Peña, an economist by training who was elected president in 2023 and had close ties to the bank, resigned on Nov. 5. The Senate then voted unanimously to remove him from office, thereby stripping Peña of his parliamentary immunity. He was swiftly put under house arrest, charged with corruption and succeeded by his Vice President Pedro Alliana, who was sworn in to serve until 2028. Meanwhile, the crisis has led to widespread protests, including outside Congress, with citizens accusing Peña and the ruling Colorado Party of “ stealing” their savings . Part of the story of Ueno is a tale of the closeness between political and financial elites in Paraguay. Carlos Carvallo chaired Ueno’s predecessor bank before Peña appointed him Paraguay’s central bank president in 2023. Carvallo resigned on Nov. 3 and has since been charged with the same corruption crimes as Peña. For its part, the Paraguayan central bank says Carvallo recused himself from any Ueno decisions. Yet the potential conflicts of interest ran much deeper. Peña previously directed Banco Basa, linked to Colorado Party leader and former President Horacio Cartes, who retains considerable influence and was instrumental in helping push Peña out of office. Finance Minister Carlos Fernández Valdovinos also served on Basa’s board. Local reporters had documented these revolving-door relationships early in Peña’s term. Peña reportedly held a 1.58% stake in Ueno Holding , which shared its principal shareholder, Grupo Vázquez, with Ueno bank. His brother Francisco held shares in Luxembourg-based U Holdings , an indirect shareholder in the bank. Another shareholder was Juan Carlos López Moreira, Cartes’ former chief of staff. Both brothers exited in 2025. Peña has denied any wrongdoing , while prosecutors are examining allegations concerning his former business interests and his administration’s financial supervision. The inclusion of significant reserves of public funds made these connections especially consequential. Ueno held approximately $850 million in public funds , including $355 million from the country’s social security system , IPS, including health and retirement funds. It amounted to roughly 9% of IPS’s investment portfolio. Under Peña-appointed chairman Jorge Brítez, IPS relaxed eligibility requirements for bank deposits in 2023 and removed a capital-based exposure limit in 2024. Over the same period, its deposits at Ueno rose sharply. Grupo Vázquez’s technology firm ITTI won at least $2.3 million in state contracts after Peña took office, versus $675,000 before. ITTI attributed the increase to business expansion and denied a conflict of interest. Together these ties and regulatory changes raise important questions about regulatory capture and other potential conflicts of interest. Paraguay’s economic gains are real. In August, the International Monetary Fund projected 4.4% growth in 2026 following 6.6% in 2025. Moody’s granted the country’s debt investment-grade status in 2024, and S&P followed in 2025. Hydroelectric power exports, agriculture and new infrastructure continue to underpin the economy. Washington is also drawing Paraguay more firmly into its regional economic strategy. On Oct. 23, the country became the 26th signatory to the Pax Silica Declaration , an initiative involving critical minerals, hydropower and advanced computing infrastructure. While the announcement did not specify financing commitments, it shows how Paraguay’s resources and perceived political predictability are being positioned as strategic assets. But growth figures and credit ratings say little about who shapes financial oversight or bears the costs of banking failures. Paraguay’s legacies of political patronage make it necessary to examine political and corporate connections and changes to public-fund investment rules . Paraguay has been here before. Between 1995 and 1998, 13 banks and 35 financial firms closed , with direct costs estimated by the IMF at 10% to 13% of the country’s GDP. This preceded a smaller bank crisis in the early 2000s. Both ordeals exposed weak supervision and connected lending . Paraguay’s deposit guarantee, which covers balances up to about $38,000 , is meant to limit depositor losses, and the Paraguayan Central Bank insists that failure is isolated in the latest case. Yet account transfers have already strained the system , producing outages at several banking institutions. Yet for most Paraguayans, the crisis was experienced not through technical financial or macroeconomic indicators but at the stark level of seeing from their phones that they couldn’t access their money. Wages, pensions and savings froze simultaneously . Young Ueno emp",
+   "doi": [],
+   "facts": [
+    "It started on Nov. 3, 2026, when millions of Paraguayans trying to access the Ueno banking app found they could no longer get their money .",
+    "Founded as a digital lender in 2021, Ueno attracted customers with mobile banking and cash-back offers.",
+    "The central bank finally acted after accounting adjustments left Ueno’s solvency ratio below half the legal minimum.",
+    "That included a supervisory report put out by the bank regulators in June 2026 that described roughly US$146 million in loans to three companies linked to Grupo Vázquez, Ueno’s controlling shareholder.",
+    "In any case, Ueno’s problems were exposed in dramatic fashion on Nov. 2, when the central bank placed Ueno into resolution, a process similar to bankruptcy but managed directly by Paraguay’s central bank.",
+    "The lender, which says it has nearly 3 million customers – about half of the country’s population – halted transactions.",
+    "Peña, an economist by training who was elected president in 2023 and had close ties to the bank, resigned on Nov. 5.",
+    "He was swiftly put under house arrest, charged with corruption and succeeded by his Vice President Pedro Alliana, who was sworn in to serve until 2028.",
+    "Carlos Carvallo chaired Ueno’s predecessor bank before Peña appointed him Paraguay’s central bank president in 2023.",
+    "Carvallo resigned on Nov. 3 and has since been charged with the same corruption crimes as Peña."
+   ],
+   "sample": []
+  },
+  {
+   "title": "5 ways countries stymie climate negotiations without actually saying ‘no’",
+   "link": "https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589",
+   "key": "https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589",
+   "summary": "The methods can be subtle but effective at slowing progress, particularly when fossil fuels are involved. Here’s what to watch for as the latest global climate talks get underway.",
+   "date": "2026-11-09",
+   "source": "The Conversation",
+   "first_seen": "2026-11-10",
+   "sources": [
+    "The Conversation"
+   ],
+   "links": [
+    "https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589"
+   ],
+   "format": "CUT",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "훅: actually"
+   ],
+   "text": "Nearly every country in the world has acknowledged that climate change is a serious problem . It’s hard to ignore, as billions of people suffer through increasingly destructive storms and extreme heat . In response, most governments have promised repeatedly to cut greenhouse gas emissions that are driving global temperatures higher . Yet those emissions are still hitting record levels , and global negotiations over how to slow climate change routinely end with weak promises . There’s a reason: All it takes to water down a deal during these negotiations – the 2026 U.N. climate conference started Nov. 9 – are a few voices obstructing progress, often without ever saying “no,” and all the while maintaining the appearance of being a climate leader. As a professor of environmental studies and international relations at the University of Southern California, I’ve attended and observed international climate negotiations for over a decade. My research lab investigates climate justice concerns and the forces that obstruct progress at the global U.N. climate talks. As world leaders and their negotiators meet for the latest climate talks, COP31 , in Antalya, Turkey, Nov. 9-20, you can also pick out who is obstructing progress. Here are five tactics among many that powerful people at these conferences use to delay, weaken or redirect meaningful action while still appearing committed to addressing climate change: “We don’t have the money” is a familiar refrain at U.N. climate negotiations. At COP29 in Baku, Azerbaijan, in 2024, wealthy countries pointed to tight budgets, pandemic debt and rising inflation as reasons they could not meet the US$1.3 trillion in assistance that developing countries were demanding . They instead offered $300 billion annually by 2035 as a finance target. Poorer countries that did little to cause climate change want longtime fossil fuel users to pay for the damage emissions have caused. The COP29 agreement itself estimated that developing countries’ climate needed $5.1 trillion to $6.8 trillion in total through 2030. For example, the International Institute for Sustainable Development found that governments around the world provided more than $1.2 trillion in public financial support for fossil fuels in 2024, about five times the $254 billion they provided for clean energy. Military budgets tell a similar story. Over the decade from 2014 to 2024, the U.S. contributed $2 billion to the Green Climate Fund, meant to support poorer countries as they adapt to climate change, while Congress simultaneously approved at least $79 billion to help foreign countries by U.S. military weapons. Recent research points out that rising military spending makes climate goals even harder to reach because so much military activity runs on fossil fuels. The money exists. The question is where governments choose to spend it. Another tactic is claiming that technological innovations will clean things up eventually, so drastic emissions cuts can wait or even be avoided. This technological optimism has deep roots. In 2004, Princeton scholars Steve Pacala and Robert Socolow proposed the “ stabilization wedge ” approach to addressing climate change. It slices future emissions growth into 15 strategy wedges, each representing a way to cut 1 billion tons of carbon dioxide. Selecting from that menu, government could piece together a suitable emissions reduction strategy. Renewable energy solutions such as solar and wind were proposed as wedges, but so were carbon capture and storage technologies – which would allow the burning of fossil fuels to continue. Scientists, including one of the original authors , have claimed that the wedges approach makes a difficult problem look deceptively simple to solve. Recent reporting by ProPublica tracked money behind the wedges project back to the fossil fuel giant BP . Yet the same logic is now present in agreements emerging from recent climate talks. Another tactic is to agree to something, then water it down over time until it is no longer binding. At COP26 in Glasgow, Scotland, in 2022, early drafts of the agreement called for the “phasing out” of fossil fuels. It would have been a true milestone, as it was the first time the words “fossil fuels” had appeared in a climate agreement. However, after a late push led by India, backed by China, South Africa and others, the final text was changed to “phasedown” of “unabated” coal power instead . Additionally, the pact said nothing of oil and gas, the fuels that wealthier countries depend on most. The first fossil fuel language in a U.N. climate pact came out diluted. Four years later, at COP30, 88 countries backed a roadmap to move the world away from using fossil fuels, but the final decision left it out. Countries are really good at making pledges to help, but not so much at providing the funding. In 2009, wealthy countries promised developing countries $100 billion annually to help them address climate risks. They missed that target for over a decade . Even when they did claim to hit the target, they relied largely on dubious accounting , with donors counting fossil fuel projects, airports and even ice cream shops as climate aid. The Loss and Damage Fund created at COP27 in 2021 to help countries manage disaster damage shows a similar pattern. Only about half of the roughly $822 million pledged had been paid in five years later, and the fund has not paid out a single dollar to a country hit by a disaster. Nepal has emerged as a critical test of the fund’s integrity. After a glacier collapse triggered a sudden flood that killed more than 1,400 people in Nepal in August 2026, the government estimated the country had suffered $2.7 billion in damage . Nepal requested $20 million, and, in a first, the fund’s board agreed in October to “provisionally set aside ” $21.6 million, but that’s only the beginning of the paperwork. Decisions at the U.N. climate conference are taken by consensus, meaning they’re considered adopted when no country formally objects. This act is marked by the banging of a gavel. At COP28 in Dubai, the conference president “gaveled through” a key decision before representatives of the Alliance of Small Island States had reached the room, meaning they had no chance to object. The lead negotiator for the islands’ group told the meeting that they would have objected, as they considered it too weak to keep warming to the agreed limit of 1.5 degrees Celsius (2.7 Fahrenheit) within reach. In 2025, at COP30 in Belém, Brazil, a similar scene played out. After swiftly gaveling through many decisions, the conference president failed to recognize Colombia’s request to speak until after the gavel had fallen. Colombia objected that the text of the formal decision failed to discuss a transition away from fossil fuels. The COP president later apologized but said the decision could not be reopened. At COP31, my team and I will be watching for decisions about financial support, whether talk of technology crowds out reducing fossil fuel use, and who gets a voice. Much of what matters at these conferences happens out of the spotlight. Plenary sessions , where decisions are formally adopted, are the part most people see. But the wording of those decisions is usually worked out in smaller rooms and closed-door huddles among a handful of delegations. Small delegations can’t staff every room, and some rooms are closed to observers. My team will be tracking what happens , whose proposals survive, and what quietly drops out between drafts of the agreement text. We’ll also be paying attention to who, quietly or not, says “no.” Ridwan Intisaar Mahbub, a graduate student in public diplomacy, and Richie Sanchez, an undergraduate student in environmental studies at USC, contributed research for this article.",
+   "doi": [],
+   "facts": [
+    "There’s a reason: All it takes to water down a deal during these negotiations – the 2026 U.N. climate conference started Nov. 9 – are a few voices obstructing progress, often without ever saying “no,” and all the while maintaining the appearance of being a climate leader.",
+    "As world leaders and their negotiators meet for the latest climate talks, COP31 , in Antalya, Turkey, Nov. 9-20, you can also pick out who is obstructing progress.",
+    "At COP29 in Baku, Azerbaijan, in 2024, wealthy countries pointed to tight budgets, pandemic debt and rising inflation as reasons they could not meet the US$1.3 trillion in assistance that developing countries were demanding .",
+    "They instead offered $300 billion annually by 2035 as a finance target.",
+    "The COP29 agreement itself estimated that developing countries’ climate needed $5.1 trillion to $6.8 trillion in total through 2030.",
+    "For example, the International Institute for Sustainable Development found that governments around the world provided more than $1.2 trillion in public financial support for fossil fuels in 2024, about five times the $254 billion they provided for clean energy.",
+    "Over the decade from 2014 to 2024, the U.S. contributed $2 billion to the Green Climate Fund, meant to support poorer countries as they adapt to climate change, while Congress simultaneously approved at least $79 billion to help foreign countries by U.S. military weapons.",
+    "In 2004, Princeton scholars Steve Pacala and Robert Socolow proposed the “ stabilization wedge ” approach to addressing climate change.",
+    "It slices future emissions growth into 15 strategy wedges, each representing a way to cut 1 billion tons of carbon dioxide.",
+    "At COP26 in Glasgow, Scotland, in 2022, early drafts of the agreement called for the “phasing out” of fossil fuels."
+   ],
+   "sample": [
+    "1,400 people"
+   ]
+  },
+  {
    "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
    "link": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
    "key": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
@@ -1102,29 +1219,6 @@
    "score": 4,
    "why": [
     "형식 WEIGH"
-   ]
-  },
-  {
-   "title": "Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates",
-   "link": "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html",
-   "key": "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html",
-   "summary": "A University of Bath–led study has estimated that the carbon dioxide produced by humans as our bodies turn food into energy rose by 74% between 1985 and 2015, reaching 2.05 billion metric tons a year. Researchers say the findings could help scientists better understand where carbon comes from, where it goes and how human activity fits into the bigger picture.",
-   "date": "2026-11-02",
-   "source": "Phys.org",
-   "first_seen": "2026-11-02",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 4,
-   "why": [
-    "형식 SCALE"
    ]
   },
   {
@@ -1213,90 +1307,6 @@
     "생활소재: baby, fish",
     "2곳 보도",
     "이미 본 소재(2026-11-02)"
-   ]
-  },
-  {
-   "title": "‘Epic’ blue wave helps Democrats take Congress in overwhelming rebuke to President Trump",
-   "link": "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830",
-   "key": "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830",
-   "summary": "Election Day turned into a massive rebuke of President Donald Trump: a blue wave not seen in 20 years that was built on transforming the economy and rising prices into a central line of attack.",
-   "date": "2026-11-04",
-   "source": "The Conversation",
-   "first_seen": "2026-11-05",
-   "text": "Voters turned out in massive numbers on Election Day to hand Democrats control of Congress, in a sweeping snub of President Donald Trump and Republicans. Democrats won several statewide races in places long considered GOP bastions , including races that were considered insurmountable even weeks ago . Democrats took control of the House and Senate , flipping Senate seats in Texas , South Carolina, North Carolina, Kansas and Ohio. The results reflected broad dissatisfaction across the country with Trump, his agenda and the candidates he had endorsed. The Conversation’s senior politics editor, Alfonso Serrano, spoke on election night with Charlie Hunt, a scholar at Boise State University who studies Congress and elections . It was obviously a strong showing for Democrats on Election Day, something that was even evident in the margin of some Democratic losses. What does it tell you, for example, that democratic socialist Angie Nixon fought a competitive race for the Senate in Florida? There is this big uniform shift toward the Democrats that we’re seeing really across virtually all kinds of locations and geographies and counties. What I think is particularly notable here, and something we were on the lookout for in this election, and we’re seeing it, is the substantial shift in the Hispanic vote from 2024 in places like Texas and Florida, where you’re getting these 30-to-35 point shifts from how Donald Trump performed in 2024. That was a big part of what helped him win , and it seems like it has snapped right back and even farther in the other direction. This is what made Florida, I think, closer than a lot of folks thought. It’s what put a number of really, really right-leaning districts in play, particularly in South Florida. And it looks like it is going to help Democrats keep the number of seats they had in Florida in the House that they had before the election, which is incredible when you consider that Florida did this mid-decade gerrymander to try to get them out of a bunch of those seats. Some rural areas of the country were also more competitive than expected, like North Carolina’s 11th Congressional District, where Democrat Jaime Ager flipped a conservative district . What does that tell you? It’s definitely an indicator of at least one of these two things. One is just really massive Democratic turnout across the board. Regardless of where they live, Democrats were so enthusiastic and energized to turn out that they did so across all different types of districts and counties. It could also be an indicator of some cross-party voting, where Republicans are crossing over in some cases and voting for the Democrat. I don’t imagine there’s a ton of that, but in a lot of these close districts, and if you’ve got enough of those folks in places like Texas, it really does make a big difference, those small shifts. I think we’re probably also likely to see, and we saw some of this in the exit polling, a major shift in independent voters, unaffiliated voters, toward the Democrats, whereas in 2024 they had been closer to Trump. I’d like to go back to turnout briefly. Turnout looks like it was strong across the country. In Georgia, for example, Election Day’s turnout was on pace to beat turnout in the 2024 presidential elections. That’s unprecedented, at least in modern elections. In Texas, for example, in some counties we saw James Talarico getting as many raw votes as Kamala Harris did in a presidential election. This isn’t a very political science term, but that’s insane. In a midterm election you typically see 10% or 15% less turnout than you would in a presidential election. But Democrats voted in presidential-level numbers in a lot of these really key areas, and that’s explaining how they’re able to overperform at levels we haven’t seen in at least 20 years. Elon Musk spent nearly half a billion dollars supporting Republican candidates, including some US$200 million in Texas to elect Ken Paxton for the Senate, who lost. What does that tell you about the influence of political spending? Republican PACs, super PACs and billionaire donors like Elon Musk may have raised more money compared to Democrats, but Democratic candidates themselves outraised Republican candidates through donors that gave directly to their campaigns. This is important for a couple of reasons. Number one, because candidates get much better rates on TV ad buys than outside spenders. And so they get more bang for their buck when they’re spending on advertisements, which is the most expensive component of any campaign. And more to the point, that is an indicator of sort of dedicated grassroots donors who turn into voters, whereas Musk gets one vote at the end of the day. And there is no amount of money that can make up for a really flawed candidate like Ken Paxton . And more to the point, a lot of this money, once you get into the tens, the hundreds of millions of dollars, a lot of the research talks about the diminishing returns that you get on that. Going from zero dollars spent to $10 million spent, that’s a very different kind of campaign. But once you go from $500 million to $510 million, that’s not going to get you a whole lot more votes. The territory that Democrats covered is unbelievable. The South Carolina Senate race went to Annie Andrews , the Democrat, which was unfathomable even a few months ago. Mississippi still appears to be somewhat in play. The blue wave turned into something approaching a tsunami. I think a lot of Democrats saw the polling and didn’t want to believe it or couldn’t bring themselves to believe it. But some of this late polling seems to have gotten things on the mark. What we’ve seen in these midterm elections is a massive rebuke of the last two years of the Trump administration, and a sort of blue wave of epic proportions toward the Democrats, the likes of which we haven’t seen in 20 or more years. It’s a huge confirmation of the approach that Democrats took in this election.",
-   "facts": [
-    "What I think is particularly notable here, and something we were on the lookout for in this election, and we’re seeing it, is the substantial shift in the Hispanic vote from 2024 in places like Texas and Florida, where you’re getting these 30-to-35 point shifts from how Donald Trump performed in 2024.",
-    "Some rural areas of the country were also more competitive than expected, like North Carolina’s 11th Congressional District, where Democrat Jaime Ager flipped a conservative district .",
-    "I think we’re probably also likely to see, and we saw some of this in the exit polling, a major shift in independent voters, unaffiliated voters, toward the Democrats, whereas in 2024 they had been closer to Trump.",
-    "In Georgia, for example, Election Day’s turnout was on pace to beat turnout in the 2024 presidential elections.",
-    "In a midterm election you typically see 10% or 15% less turnout than you would in a presidential election.",
-    "But Democrats voted in presidential-level numbers in a lot of these really key areas, and that’s explaining how they’re able to overperform at levels we haven’t seen in at least 20 years.",
-    "Elon Musk spent nearly half a billion dollars supporting Republican candidates, including some US$200 million in Texas to elect Ken Paxton for the Senate, who lost.",
-    "Going from zero dollars spent to $10 million spent, that’s a very different kind of campaign.",
-    "But once you go from $500 million to $510 million, that’s not going to get you a whole lot more votes.",
-    "What we’ve seen in these midterm elections is a massive rebuke of the last two years of the Trump administration, and a sort of blue wave of epic proportions toward the Democrats, the likes of which we haven’t seen in 20 or more years."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation"
-   ],
-   "links": [
-    "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830"
-   ],
-   "format": "WEIGH",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 4,
-   "why": [
-    "형식 WEIGH"
-   ]
-  },
-  {
-   "title": "Flesh-eating screwworm is spreading in the US, threatening livestock and wildlife – hunters can be the first line of defense",
-   "link": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891",
-   "key": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891",
-   "summary": "Over 100 screwworm cases have appeared in US animals in 2026, including in elk. How America’s 11.5 million hunters can help find these parasites and contain the spread.",
-   "date": "2026-11-06",
-   "source": "The Conversation",
-   "first_seen": "2026-11-07",
-   "text": "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U.S. mainland, and it is putting livestock and other animals at risk. The New World screwworm doesn’t just attack cattle. All warm-blooded animals are susceptible, including deer and elk, as well as small game, waterfowl and pets. That means hunters headed to the field this fall may be the most important line of defense for spotting this destructive parasite and keeping it from spreading further. As co-directors of the Mississippi State University deer lab , we believe the country’s millions of hunters can serve as a powerful early warning system by keeping a close eye on the state of wildlife they see. Wildlife agencies are already asking them to be vigilant and report any signs of screwworm infestations . Unlike other blowflies , New World screwworm larvae feed on living tissue rather than dead tissue. They lay eggs in open wounds or mucosal openings, such as the eyes and nose of livestock, deer or elk. Wounds as small as tick bites or scratches, as well as natural openings such as the umbilical stump on newborns or on deer’s pedicles , where their antlers grow and are shed, can attract these parasites. Once the eggs hatch, the maggots burrow into the animal’s flesh and feed, enlarging the wound and attracting more flies. Over time, this leads to infection and death. All warm-blooded animals are susceptible to the New World screwworm, but America has seen firsthand the harm they can cause to livestock. In the 1950s, livestock producers in the U.S. Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today. The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas. The New World screwworm has a life cycle of only about 21 days, and each female mates only once. Because of that, inundating areas with sterile male flies for a few months, which equates to a few generations of flies, can eradicate a screwworm population. Over time, sterile flies were used to push the New World screwworm further south, where they had been contained behind the Darién Gap , Panama’s narrow border region with Colombia. Sterile flies kept the parasite south of Panama for years, but the movement of cattle and wildlife likely brought it north again . Since 2022, the parasites have been reproducing and moving farther northward . There have been hundreds of detections in Mexico and now in the U.S. Wildlife have received far less attention than livestock during screwworm infestations, with one exception: In July 2016, the New World screwworm was detected in the Florida Keys in an endangered deer population : the Florida Key deer ( Odocoileus virginianus clavium ). At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals . Because they were endangered and isolated, primarily on the islands of Big Pine Key and No Name Key , they were monitored more closely than most wildlife. U.S. Fish and Wildlife Service biologists established quarantine zones. They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area. The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered. In June 2026, screwworm was back in the United States. A rancher discovered the first New World screwworm case in a calf near La Pryor, Texas. A few more cases were confirmed in livestock and domestic animals in Texas and New Mexico . The number of cases in animals had passed 120 as of Nov. 7, 2026 , including in two elk reported by hunters in Texas . The U.S. government has started ramping up production of sterile flies to try to keep the parasites from spreading. Although there have been only a couple of cases reported in wildlife, that isn’t necessarily reassuring. Wildlife are far more likely to carry the parasite without being detected. Once the screwworm is detected, treatment would also be much more complicated for wildlife than for livestock, because wildlife cannot be treated individually and thus are more dependent on the use of sterile flies to eradicate screwworm. For this reason, quickly identifying areas with New World screwworm and targeting those areas by releasing sterile flies would be more important than ever. Fortunately, there is an army of conservationists across the country who spend much of their time afield. These conservationists are also known as hunters. According to the latest U.S. Fish and Wildlife Service National Survey of Fishing, Hunting, and Wildlife-Associated Recreation, nearly 11.5 million hunters pursue big game and spend part of the fall and winter in the field hunting ungulate species such as deer and elk. White-tailed deer ( Odocoileus virginianus ) hunters alone are expected to harvest about 6 million deer during the 2026-27 season and will observe millions more. Hunters also review tens of millions of wildlife pictures collected each year by game cameras used for scouting. That level of surveillance can’t be matched. New Mexico’s Department of Agriculture has already called on hunters to report any suspicious larvae, particularly in Grant and Otero counties, where screwworm has been found in livestock. Hunters of all kinds, everywhere, can help. If you’re a hunter, be on the lookout for wounded animals , especially those with visible maggots, and for unusual behaviors such as restlessness, lethargy, or biting or licking wounds. Do not move harvested animals from the field if they show signs of a New World screwworm infection. Doing so could further spread the parasite. Instead, contact the area’s state wildlife agency , the U.S. Department of Agriculture office or a local veterinarian immediately. As hunting seasons get underway across the country, an army of conservationists will be in the field, and they have an important role to play in detecting and managing screwworm’s spread. Hunters already contribute to conservation through license fees, excise taxes and keeping wildlife populations at healthy densities. In the face of New World screwworm, their observations may be most valuable for protecting livestock. This article, originally published Nov. 6, 2026, has been updated with a rising number of cases.",
-   "facts": [
-    "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U.S. mainland, and it is putting livestock and other animals at risk.",
-    "In the 1950s, livestock producers in the U.S.",
-    "Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today.",
-    "The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas.",
-    "The New World screwworm has a life cycle of only about 21 days, and each female mates only once.",
-    "Since 2022, the parasites have been reproducing and moving farther northward .",
-    "Wildlife have received far less attention than livestock during screwworm infestations, with one exception: In July 2016, the New World screwworm was detected in the Florida Keys in an endangered deer population : the Florida Key deer ( Odocoileus virginianus clavium ).",
-    "At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals .",
-    "They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area.",
-    "The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered."
-   ],
-   "doi": [],
-   "sample": [
-    "1,000 individuals"
-   ],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation"
-   ],
-   "links": [
-    "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891"
-   ],
-   "format": "SCALE",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 4,
-   "why": [
-    "형식 SCALE"
    ]
   }
  ]
