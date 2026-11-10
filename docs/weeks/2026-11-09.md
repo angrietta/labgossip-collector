@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-09
 
-최근 8일 누적 857건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 892건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common osteoporosis drugs linked to 24% lower dementia risk in major study
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-09
@@ -102,7 +102,13 @@
   - "One area of interest involves GLP-1 medications, a class of drugs that mimic a hormone naturally released by the gut."
   - "Knight's team did not investigate GLP-1 drugs in the new study, so it remains unknown whether they influence the dopamine pathway the researchers identified."
 
-## 10. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
+## 10. What are biomarkers? How doctors assess health and pooling people's cells reveals new markers—a biologist explains
+- 점수 8 · CUT · MedicalXpress / The Conversation · 2026-11-10
+- https://medicalxpress.com/news/2026-11-biomarkers-doctors-health-pooling-people.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A family of five is exposed to the flu virus, but only two of them get sick. A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack. A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good
+
+## 11. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-06
 - https://www.sciencedaily.com/releases/2026/11/261104084017.htm
 - DOI: 10.1177/0271678X261490342
@@ -114,7 +120,7 @@
   - "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4."
   - "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not."
 
-## 11. Magic mushrooms rewire the brain in a way scientists didn't expect
+## 12. Magic mushrooms rewire the brain in a way scientists didn't expect
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-07
 - https://www.sciencedaily.com/releases/2026/11/261104012308.htm
 - DOI: 10.1038/s41593-026-02490-y
@@ -127,167 +133,165 @@
   - "Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines."
   - "To explore this possibility, the scientists examined the role of serotonin 2A receptors (5-HT2ARs), which are proteins on the surfaces of cells that respond to chemical signals."
 
-## 12. Scientists find surprisingly little evidence that medical cannabis helps you sleep
-- 점수 6 · DOSE · ScienceDaily 전체 · 2026-11-02
-- https://www.sciencedaily.com/releases/2026/10/261031221157.htm
-- DOI: 10.1002/14651858.CD016216.pub2
-- 대상: 537 adults
-- 요약: A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn't mean cannabis is ineffective, only that existing studies 
-  - "To investigate, researchers from The Cochrane Associate Centre at the Universidad Hospital Italiano de Buenos Aires and the University of Manitoba examined nine clinical studies involving 537 adults between the ages of 18 and 76 who were receiving treatment for insomnia."
-  - "The longest followed participants for just 12 weeks, leaving major unanswered questions about whether medical cannabis could provide lasting sleep benefits or produce additional effects with prolonged use."
-  - "Women accounted for nearly three-quarters (72.66% of participants), and the research was heavily weighted toward younger adults."
+## 13. Cool adaptations: How fish survive in the Antarctic Ocean
+- 점수 7 · CUT · Phys.org · 2026-11-11
+- https://phys.org/news/2026-11-cool-fish-survive-antarctic-ocean.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: With water temperatures as low as -1.9°C (28.6°F), the Southern Ocean is a place of extreme living conditions. A new study led by Senckenberg researchers shows how fish have adapted to Antarctic temperatures. The researchers used the Antarctic spiny plunderfish (Harpagifer antarcticus) as a model or
+
+## 14. Alzheimer's discovery reveals brain cleaning gone wrong
+- 점수 7 · CUT · MedicalXpress · 2026-11-11
+- https://medicalxpress.com/news/2026-11-alzheimer-discovery-reveals-brain-wrong.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A gene responsible for compacting trash inside the brain appears to be a key player in Alzheimer's disease, and doctors may be able to target it to better treat or help prevent the devastating condition, new UVA Health research suggests.
+
+## 15. Scientists identify two overlooked skills that predict reading success
+- 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-03
+- https://www.sciencedaily.com/releases/2026/11/261102202845.htm
+- DOI: 10.3390/jintelligence13080104
+- 요약: A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t
+  - "To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model."
   - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
 
-## 13. 30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought
-- 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-02
-- https://www.sciencedaily.com/releases/2026/10/261031221153.htm
-- DOI: 10.1126/sciadv.aeh6128
-- 요약: Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic clues from human remains and cave sediments reveal prehistoric migration, long-las
-  - "More than 30,000 years ago, people living across Ice Age Europe were far more connected than scientists previously believed."
-  - "The research focuses on people associated with one of Europe's major Paleolithic cultures (the Gravettian), which flourished across the continent roughly 34,000 to 25,000 years ago."
-  - "A Woman From 30,000 Years Ago Reveals Hidden Genetic Connections One of the most revealing discoveries came from the remains of a woman who lived approximately 30,000 years ago in what is now southwestern France."
-  - "Using genetic modeling, researchers estimated that this mixing between populations occurred approximately 32,500 to 31,500 years ago."
-  - "At El Mirón Cave in Cantabria, Spain, the team recovered human nuclear DNA from a sediment layer dating back approximately 22,000 years."
+## 16. A 50-year-old mystery of vanishing frogs reveals a hidden killer
+- 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-03
+- https://www.sciencedaily.com/releases/2026/11/261102202838.htm
+- DOI: 10.1111/mec.70573
+- 요약: A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater to
+  - "For nearly 50 years, scientists have struggled to explain why frogs began disappearing from Brazil's Atlantic Forest, one of the world's richest regions for amphibian diversity."
+  - "Beginning in the 1970s, researchers documented dramatic population declines, but the cause of these losses remained uncertain."
+  - "Scientists believe the pathogen originated in Asia before spreading around the world during the 1970s and 1980s."
+  - "However, the fungus was not formally identified and described until 1999, long after devastating amphibian declines had begun."
+  - ""After almost 50 years, we still aren't confident what caused many historical amphibian die-offs, making these declines some of the most enduring cold cases in wildlife epidemiology," said Jack Boyette, an NZCBI graduate fellow and doctoral candidate at PSU who led the research."
 
-## 14. Nearly 1 in 5 people in the US think about food even when they are not hungry
+## 17. Nearly 1 in 5 people in the US think about food even when they are not hungry
 - 점수 6 · DOSE · MedicalXpress · 2026-11-03
 - https://medicalxpress.com/news/2026-11-people-food-hungry.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: "Food noise" refers to intrusive thoughts about and cravings for food, whether or not a person is hungry. The phenomenon has become widely discussed on social media, in traditional media and in commercials for GLP-1 receptor agonist weight-loss medications. Because the term has only emerged in recen
 
-## 15. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
+## 18. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
 - 점수 6 · SCALE · MedicalXpress · 2026-11-04
 - https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Eating a diet rich in red, yellow and orange fruits and vegetables may help reduce inflammation and exacerbations associated with chronic obstructive pulmonary disease (COPD), according to a new study in the September 2026 issue of Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundati
 
-## 16. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
+## 19. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial
 
-## 17. Combining HIV prevention and addiction treatment in mobile clinics could save lives
+## 20. Combining HIV prevention and addiction treatment in mobile clinics could save lives
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to communit
 
-## 18. Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly
+## 21. Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Patients with early-onset Alzheimer's disease, whose symptoms start before age 65, have more extensive deposits of tau, a hallmark protein of the condition, compared with patients whose symptoms start at 65-plus, a new study found. What's more, tau accumulates at more than twice the rate in younger 
 
-## 19. Why do blind people and musicians hear pitch better? New research suggests they have less internal noise
+## 22. Why do blind people and musicians hear pitch better? New research suggests they have less internal noise
 - 점수 6 · SCALE · MedicalXpress / The Conversation · 2026-11-05
 - https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People who have lived most of their lives blind often have extraordinary hearing abilities. In new research published in the Journal of Neuroscience, my colleagues and I discovered that this ability arises from how their auditory systems are able to more consistently and reliably process sounds comp
 
-## 20. Mammograms can do more than detect breast cancer—they also offer important clues on heart health
+## 23. Mammograms can do more than detect breast cancer—they also offer important clues on heart health
 - 점수 6 · CUT · MedicalXpress / The Conversation · 2026-11-05
 - https://medicalxpress.com/news/2026-11-mammograms-breast-cancer-important-clues.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: If you're a woman over 40, you have no doubt heard your doctor tell you to get a mammogram as part of routine screening for breast cancer. But there's another reason, too.
 
-## 21. Maternal vitamin A deficiency may increase risk of larger babies
+## 24. Maternal vitamin A deficiency may increase risk of larger babies
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study in Norway has identified a link between a mother's vitamin A levels and her baby's birth weight. The study shows that over 43% of the women had low vitamin A levels during the latter part of their pregnancy. While almost no one had levels classified as a severe vitamin A deficiency, two out 
 
-## 22. Virtual reality tied to lower presurgery anxiety in kids
+## 25. Virtual reality tied to lower presurgery anxiety in kids
 - 점수 6 · CUT · MedicalXpress · 2026-11-06
 - https://medicalxpress.com/news/2026-11-virtual-reality-presurgery-anxiety-kids.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Children who used a virtual reality (VR) headset before surgery showed reduced self-reported distress and fear, along with lower heart rate and blood pressure, according to a new study published Nov. 5 in the journal PLOS Digital Health by Dayanjan Wijesinghe of Virginia Commonwealth University, U.S
 
-## 23. Updated guidance refines how doctors assess cardiogenic shock and track treatment response
-- 점수 6 · CUT · MedicalXpress · 2026-11-07
-- https://medicalxpress.com/news/2026-11-guidance-refines-doctors-cardiogenic-track.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The Society for Cardiovascular Angiography & Interventions (SCAI) has released the 2026 SCAI SHOCK Classification Expert Consensus Update, providing refined guidance to help clinicians from diverse settings prioritize and recognize inadequate organ perfusion across a broad range of shock presentatio
-
-## 24. Two compounds target drug-resistant brain cancer cells in laboratory tests
-- 점수 6 · DOSE · MedicalXpress · 2026-11-07
-- https://medicalxpress.com/news/2026-11-compounds-drug-resistant-brain-cancer.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Cancer remains among the most deadly diseases worldwide. Globally, more than 300,000 new cases of brain cancer are reported each year, with glioblastoma, an aggressive form of brain cancer, accounting for over 250,000 deaths. The current standard of care involves the use of temozolomide (TMZ), a che
-
-## 25. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
+## 26. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
 - 점수 6 · CUT · Phys.org · 2026-11-09
 - https://phys.org/news/2026-11-species-ground-bird-largest-kind.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was overlooked and left to collect dust.
 
-## 26. Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day
+## 27. Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day
 - 점수 6 · CUT · Phys.org · 2026-11-10
 - https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An exceptionally well-preserved, approximately 47-million-year-old owl fossil from the UNESCO World Heritage Site Messel provides new clues as to when owls became nocturnal. The newly described species Masillastrix blattophaga was likely still diurnal—as indicated by an iridescent cockroach in its s
 
-## 27. Predicting jumping genes' roles in changing genome size
+## 28. Predicting jumping genes' roles in changing genome size
 - 점수 5 · CUT · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-genes-roles-genome-size.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A genome contains all of the DNA of every living organism, but its contents don't stop there—most of these structures also contain snippets of DNA that can copy and paste themselves to "infect" a genome, expanding its size. Precisely why that happens remains a mystery.
 
-## 28. Zombies are real—just ask the parasites taking over the bodies and brains of insects and rodents
+## 29. Zombies are real—just ask the parasites taking over the bodies and brains of insects and rodents
 - 점수 5 · CUT · Phys.org · 2026-11-03
 - https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Zombies have taken many forms in popular culture. In Michael Jackson's "Thriller" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's "The Last of Us," a fungus infects humans, takes over their bodies and turns them into hosts that help spread the i
 
-## 29. Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers
+## 30. Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers
 - 점수 5 · 형식? · Phys.org · 2026-11-04
 - https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Expert Counter-Strike players could make ideal candidates for fast-paced emergency service response jobs requiring split-second decision-making, according to a new University of Sheffield study aiming to debunk myths about video games.
 
-## 30. Plants' immune memory hints at new crop breeding approach
+## 31. Plants' immune memory hints at new crop breeding approach
 - 점수 5 · SCALE · Phys.org · 2026-11-04
 - https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study published in Nature Communications, led by professor Jurriaan Ton and Dr. Adam Hannan Parker at the University of Sheffield, has identified mechanisms by which plants maintain and reset stress memory from past infections. This immune memory enables plants to defend themselves more effectivel
 
-## 31. Tiny fossils show brittle stars gathered around a dead whale 9.5 million years ago
+## 32. Tiny fossils show brittle stars gathered around a dead whale 9.5 million years ago
 - 점수 5 · CUT · Phys.org · 2026-11-04
 - https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Tiny skeletal plates recovered beside fossil whale bones in southern Denmark offer a rare glimpse of life around a whale carcass approximately 9.5 million years ago. Researchers have identified a new species of brittle star, Ophiura huebnerjenseni, from the Gram Clay Pit and suggest it represents th
 
-## 32. Pulsars set first mass limits on supermassive black hole pairs in the early universe
+## 33. Pulsars set first mass limits on supermassive black hole pairs in the early universe
 - 점수 5 · WEIGH · Phys.org · 2026-11-05
 - https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to dat
 
-## 33. Trust in influencers grows more important in predicting buying intentions over time, analysis finds
+## 34. Trust in influencers grows more important in predicting buying intentions over time, analysis finds
 - 점수 5 · PRESS · Phys.org · 2026-11-05
 - https://phys.org/news/2026-11-important-buying-intentions-analysis.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A meta-analysis of empirical studies involving more than 31,000 participants has revealed the factors that affect the level of influence of so-called social media influencers. Those factors include credibility, expertise, attractiveness and perceived similarity to their followers. They are, the work
 
-## 34. A sweeter future? AI helps scientists discover new sugar substitutes
+## 35. A sweeter future? AI helps scientists discover new sugar substitutes
 - 점수 5 · SCALE · Phys.org · 2026-11-06
 - https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html
 - 주의: 모델·시뮬레이션
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Fo
 
-## 35. How do octopuses remember? Scientists uncover a surprising secret
+## 36. How do octopuses remember? Scientists uncover a surprising secret
 - 점수 5 · 형식? · Phys.org · 2026-11-06
 - https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebrew University of Jerusalem and Ruppin Academic Center—has uncovered a previously unknown molecular mechanism that may hel
 
-## 36. New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer
+## 37. New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer
 - 점수 5 · CUT · The Conversation / MedicalXpress · 2026-11-09
 - https://theconversation.com/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-but-theres-no-evidence-it-can-reduce-your-risk-of-dying-from-cancer-293409
 - 대상: 173 patients
@@ -299,7 +303,7 @@
   - "Moreover, the test has a very low false positive rate: Only about 0.5% of people who get the test are incorrectly identified as having cancer, or one person out of every 200 tests."
   - "In comparison, many currently recommended screening tests, such as the Cologuard stool test for colorectal cancer, have false positive rates in the 10% range ."
 
-## 37. Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’
+## 38. Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’
 - 점수 5 · PRESS · The Conversation · 2026-11-09
 - https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112
 - 주의: DOI 못 찾음
@@ -310,7 +314,7 @@
   - "That included a supervisory report put out by the bank regulators in June 2026 that described roughly US$146 million in loans to three companies linked to Grupo Vázquez, Ueno’s controlling shareholder."
   - "In any case, Ueno’s problems were exposed in dramatic fashion on Nov. 2, when the central bank placed Ueno into resolution, a process similar to bankruptcy but managed directly by Paraguay’s central bank."
 
-## 38. 5 ways countries stymie climate negotiations without actually saying ‘no’
+## 39. 5 ways countries stymie climate negotiations without actually saying ‘no’
 - 점수 5 · CUT · The Conversation · 2026-11-09
 - https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589
 - 대상: 1,400 people
@@ -322,21 +326,14 @@
   - "They instead offered $300 billion annually by 2035 as a finance target."
   - "The COP29 agreement itself estimated that developing countries’ climate needed $5.1 trillion to $6.8 trillion in total through 2030."
 
-## 39. Computer science researcher reroutes truckloads of excess food from landfills to food pantries
-- 점수 5 · SCALE · Phys.org · 2026-11-10
-- https://phys.org/news/2026-11-science-reroutes-truckloads-excess-food.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The planet already grows enough food to feed everyone. The problem is one of logistics. A third of all the food grown and raised goes to waste, meaning that one in 12 people does not have enough to eat.
-
-## 40. Extra weight may be aging your brain faster than you think
-- 점수 4 · WEIGH · ScienceDaily 뇌·마음 · 2026-11-02
-- https://www.sciencedaily.com/releases/2026/11/261101010559.htm
-- DOI: 10.1007/s00415-026-13696-2
-- 대상: 8,200 adults
+## 40. A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree
+- 점수 4 · 형식? · The Conversation / Phys.org · 2026-11-04
+- https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775
+- 주의: 동물 실험, DOI 못 찾음
 - 이미 본 소재: 2026-11-02 보드에 있었음
-- 요약: A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effec
-  - "To investigate the connection, the research team analyzed data from a nationally representative study that tracked more than 8,200 adults over age 50 for 24 years."
-  - "The association was strongest at the eighth year of the study, and adults older than 65 showed the most pronounced effects."
-  - ""That makes BMI one of the most easily modifiable risk factors when it comes to aging well." Obesity, generally defined as a BMI of 30 or higher, has been associated with poorer brain health."
-  - "Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%."
-  - "More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050."
+- 요약: Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as "The Little Mermaid" have made this figure a pop culture icon.
+  - "During the 1800s, American showman P.T."
+  - "Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution."
+  - "A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago."
+  - "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City."
+  - "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché."
