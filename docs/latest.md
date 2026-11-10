@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-09
 
-최근 8일 누적 794건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 857건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common osteoporosis drugs linked to 24% lower dementia risk in major study
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-09
@@ -90,7 +90,19 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Nearly 12 million people in the U.S. provide unpaid care to a relative or friend with Alzheimer's disease and related dementias (ADRD). Compared with caregivers of people without dementia, ADRD caregivers face greater demands that may contribute to higher rates of depression, anxiety, sleep problems
 
-## 9. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
+## 9. Scientists finally discover why we learn to love bitter coffee
+- 점수 8 · SCALE · ScienceDaily 전체 · 2026-11-10
+- https://www.sciencedaily.com/releases/2026/11/261108233100.htm
+- DOI: 10.1038/s41586-026-11229-5
+- 대상: 13 men, 38 adults
+- 요약: Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating hab
+  - "The new research, published November 4 in Nature , examines a different system."
+  - "Dana Small, PhD, a psychologist at Yale University, revisited data from an earlier positron emission tomography (PET) study involving 13 men."
+  - "Using functional magnetic resonance imaging (fMRI), which measures changes in brain activity associated with blood flow, the researchers examined 38 adults after they consumed glucose, a simple sugar."
+  - "One area of interest involves GLP-1 medications, a class of drugs that mimic a hormone naturally released by the gut."
+  - "Knight's team did not investigate GLP-1 drugs in the new study, so it remains unknown whether they influence the dopamine pathway the researchers identified."
+
+## 10. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-06
 - https://www.sciencedaily.com/releases/2026/11/261104084017.htm
 - DOI: 10.1177/0271678X261490342
@@ -102,7 +114,7 @@
   - "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4."
   - "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not."
 
-## 10. Magic mushrooms rewire the brain in a way scientists didn't expect
+## 11. Magic mushrooms rewire the brain in a way scientists didn't expect
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-07
 - https://www.sciencedaily.com/releases/2026/11/261104012308.htm
 - DOI: 10.1038/s41593-026-02490-y
@@ -115,7 +127,7 @@
   - "Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines."
   - "To explore this possibility, the scientists examined the role of serotonin 2A receptors (5-HT2ARs), which are proteins on the surfaces of cells that respond to chemical signals."
 
-## 11. Scientists find surprisingly little evidence that medical cannabis helps you sleep
+## 12. Scientists find surprisingly little evidence that medical cannabis helps you sleep
 - 점수 6 · DOSE · ScienceDaily 전체 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/10/261031221157.htm
 - DOI: 10.1002/14651858.CD016216.pub2
@@ -126,7 +138,7 @@
   - "Women accounted for nearly three-quarters (72.66% of participants), and the research was heavily weighted toward younger adults."
   - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
 
-## 12. 30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought
+## 13. 30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought
 - 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/10/261031221153.htm
 - DOI: 10.1126/sciadv.aeh6128
@@ -136,15 +148,6 @@
   - "A Woman From 30,000 Years Ago Reveals Hidden Genetic Connections One of the most revealing discoveries came from the remains of a woman who lived approximately 30,000 years ago in what is now southwestern France."
   - "Using genetic modeling, researchers estimated that this mixing between populations occurred approximately 32,500 to 31,500 years ago."
   - "At El Mirón Cave in Cantabria, Spain, the team recovered human nuclear DNA from a sediment layer dating back approximately 22,000 years."
-
-## 13. Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice
-- 점수 6 · SCALE · ScienceDaily 전체 · 2026-11-02
-- https://www.sciencedaily.com/releases/2026/10/261029072132.htm
-- DOI: 10.1038/s41586-026-10750-x
-- 주의: 동물 실험, 상관관계
-- 이미 본 소재: 2026-11-02 보드에 있었음
-- 요약: In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to st
-  - "To investigate this apparent contradiction, the research team tested 12 different diets in mice."
 
 ## 14. Nearly 1 in 5 people in the US think about food even when they are not hungry
 - 점수 6 · DOSE · MedicalXpress · 2026-11-03
@@ -284,7 +287,19 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebrew University of Jerusalem and Ruppin Academic Center—has uncovered a previously unknown molecular mechanism that may hel
 
-## 36. Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’
+## 36. New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer
+- 점수 5 · CUT · The Conversation / MedicalXpress · 2026-11-09
+- https://theconversation.com/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-but-theres-no-evidence-it-can-reduce-your-risk-of-dying-from-cancer-293409
+- 대상: 173 patients
+- 주의: DOI 못 찾음
+- 요약: Cancer isn't the leading cause of death in the United States; heart disease ranks first in that regard. But it's cancer that strikes fear into the hearts of many Americans.
+  - "So when a blood test comes along that claims to be able to screen for over 50 cancers at once in a single blood draw before symptoms appear – as is the case for the Galleri test , by the biotech company GRAIL – it might seem like society has a Holy Grail of modern medicine at their fingertips."
+  - "On Sept. 23, 2026, an advisory panel to the U.S."
+  - "The Galleri test looks for DNA signals from over 50 cancers , including the 12 that account for almost two-thirds of cancer deaths in the U.S , such as lung and pancreas cancer."
+  - "Moreover, the test has a very low false positive rate: Only about 0.5% of people who get the test are incorrectly identified as having cancer, or one person out of every 200 tests."
+  - "In comparison, many currently recommended screening tests, such as the Cologuard stool test for colorectal cancer, have false positive rates in the 10% range ."
+
+## 37. Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’
 - 점수 5 · PRESS · The Conversation · 2026-11-09
 - https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112
 - 주의: DOI 못 찾음
@@ -295,7 +310,7 @@
   - "That included a supervisory report put out by the bank regulators in June 2026 that described roughly US$146 million in loans to three companies linked to Grupo Vázquez, Ueno’s controlling shareholder."
   - "In any case, Ueno’s problems were exposed in dramatic fashion on Nov. 2, when the central bank placed Ueno into resolution, a process similar to bankruptcy but managed directly by Paraguay’s central bank."
 
-## 37. 5 ways countries stymie climate negotiations without actually saying ‘no’
+## 38. 5 ways countries stymie climate negotiations without actually saying ‘no’
 - 점수 5 · CUT · The Conversation · 2026-11-09
 - https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589
 - 대상: 1,400 people
@@ -307,13 +322,13 @@
   - "They instead offered $300 billion annually by 2035 as a finance target."
   - "The COP29 agreement itself estimated that developing countries’ climate needed $5.1 trillion to $6.8 trillion in total through 2030."
 
-## 38. Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace
-- 점수 4 · WEIGH · Phys.org · 2026-11-02
-- https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html
+## 39. Computer science researcher reroutes truckloads of excess food from landfills to food pantries
+- 점수 5 · SCALE · Phys.org · 2026-11-10
+- https://phys.org/news/2026-11-science-reroutes-truckloads-excess-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environme
+- 요약: The planet already grows enough food to feed everyone. The problem is one of logistics. A third of all the food grown and raised goes to waste, meaning that one in 12 people does not have enough to eat.
 
-## 39. Extra weight may be aging your brain faster than you think
+## 40. Extra weight may be aging your brain faster than you think
 - 점수 4 · WEIGH · ScienceDaily 뇌·마음 · 2026-11-02
 - https://www.sciencedaily.com/releases/2026/11/261101010559.htm
 - DOI: 10.1007/s00415-026-13696-2
@@ -325,15 +340,3 @@
   - ""That makes BMI one of the most easily modifiable risk factors when it comes to aging well." Obesity, generally defined as a BMI of 30 or higher, has been associated with poorer brain health."
   - "Using those additional criteria, the estimated proportion of Americans classified as having obesity rises to 75%."
   - "More than 7 million Americans currently live with dementia, and researchers expect that number to double by 2050."
-
-## 40. A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree
-- 점수 4 · 형식? · The Conversation / Phys.org · 2026-11-04
-- https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775
-- 주의: 동물 실험, DOI 못 찾음
-- 이미 본 소재: 2026-11-02 보드에 있었음
-- 요약: Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as "The Little Mermaid" have made this figure a pop culture icon.
-  - "During the 1800s, American showman P.T."
-  - "Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution."
-  - "A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago."
-  - "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City."
-  - "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché."
