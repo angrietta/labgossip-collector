@@ -1,13 +1,13 @@
 {
  "week": "2026-11-09",
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 7
+   "span_days": 6
   },
   {
    "feed": "ScienceDaily 별난연구",
@@ -21,14 +21,14 @@
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 27
+   "span_days": 28
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 37
+   "span_days": 38
   },
   {
    "feed": "ScienceDaily 건강",
@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 7
+   "span_days": 8
   }
  ],
  "top": [
@@ -200,6 +200,8 @@
    "date": "2026-11-11",
    "source": "MedicalXpress",
    "first_seen": "2026-11-11",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-successful-apnea-treatment-unexpected-weight",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -213,8 +215,7 @@
     "형식 WEIGH",
     "훅: unexpected",
     "생활소재: sleep, memory, children"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-successful-apnea-treatment-unexpected-weight"
+   ]
   },
   {
    "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
@@ -478,6 +479,8 @@
    "date": "2026-11-11",
    "source": "MedicalXpress",
    "first_seen": "2026-11-11",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-guidance-foods-unhealthy.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -491,8 +494,72 @@
     "형식 SCALE",
     "훅: failed to",
     "생활소재: diet"
+   ]
+  },
+  {
+   "title": "Obesity linked to up to 27% lower risk of death in dementia",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261109205401.htm",
+   "summary": "A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that extra energy and muscle reserves may help patients survive the disease's toll on the body, although the reason for the survival advantage remains unclear.",
+   "date": "2026-11-11",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-12",
+   "sources": [
+    "ScienceDaily 전체"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-guidance-foods-unhealthy.html"
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261109205401.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 8,
+   "why": [
+    "형식 WEIGH",
+    "훅: surpris",
+    "생활소재: dementia"
+   ],
+   "text": "A surprising new study has found that people who are overweight or obese when diagnosed with dementia tend to live longer than those who have a normal body weight. The findings challenge expectations about the relationship between weight and health, suggesting that carrying extra weight may be associated with an unexpected survival advantage after dementia develops. Researchers from Columbia University Mailman School of Public Health and NYU School of Global Public Health found that body weight at the time of diagnosis may provide important clues about how long someone with dementia is likely to live. Their findings, published in the Journal of Alzheimer's Disease , also highlight the importance of proper nutrition for people living with the condition. The results are particularly intriguing because obesity is well established as a risk factor for several serious health problems, including heart disease and diabetes. Being overweight or obese during middle age is also associated with a greater likelihood of developing dementia later in life. However, previous research has suggested that the relationship may reverse once dementia has developed, with higher body weight linked to better survival. \"Because this finding is somewhat counterintuitive, an important question is whether it could simply be an artifact of bias. Our analyses suggest that the major sources of bias we examined do not explain the survival advantage associated with higher weight,\" said corresponding author Yuan Zhang, PhD, assistant professor of Sociomedical Sciences at Columbia Mailman and in the Butler Columbia Aging Center. The researchers found substantial differences in survival based on body weight at the time of dementia diagnosis. Compared with individuals in the normal weight range, those who were overweight or obese had a significantly lower risk of death, even after the researchers accounted for smoking, existing medical conditions, and demographic characteristics. People classified as overweight (body mass index of 25 to 29.9) had a 16 percent lower risk of death. Those with class 1 obesity (BMI of 30 to 34.9) had an even larger reduction of 27 percent, while individuals with class 2 and 3 obesity (BMI equal to or greater than 35) had a 22 percent lower risk. Despite these striking differences, the researchers caution that the findings should not be interpreted as a recommendation for people with dementia to gain weight. \"This doesn't mean that patients with dementia should attempt to become overweight or obese, as our study was not designed to test that question. But our findings do suggest that weight status may serve as a useful prognostic signal for survival at the time of dementia diagnosis. They also support the notion that nutrition is a key factor in the health and survival of people with dementia,\" said Virginia Chang, associate professor of Social and Behavioral Sciences at NYU School of Global Public Health and the study's first author. To investigate the connection, Zhang, Chang, and their colleagues examined information from the Health and Retirement Study, a nationally representative research project that follows Americans ages 51 and older. The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition. Because the data covered such a long period, the researchers could examine how participants' weight changed in the years leading up to their diagnosis. They could also determine their weight when dementia was identified and track their survival afterward. This extended timeline was especially important because scientists have questioned whether the apparent benefit of higher body weight is genuine or simply reflects misleading patterns in the data. One possibility is that having additional fat or muscle gives patients resources that help them withstand the physical effects of dementia. Another is that the association arises from factors that earlier studies did not adequately consider. One major concern involves weight loss that occurs before dementia becomes clinically apparent. Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches. This creates a potential problem for studies that measure weight only at the time dementia is diagnosed. Some individuals classified as having a normal weight may previously have been heavier and lost weight because of the developing disease. If those individuals are already experiencing more advanced illness, they may face a greater risk of death, making higher body weight appear beneficial by comparison. The researchers also considered other possible distortions. Restricting an analysis to people who develop dementia can create misleading relationships between obesity and mortality, even when the underlying connection is more complicated. Another concern is known as \"survivor\" bias. Since people with obesity face an increased risk of dying from certain illnesses before reaching the age when dementia typically develops, those who survive long enough to receive a dementia diagnosis may represent an unusually healthy group. To determine whether these factors explained the findings, the team performed additional analyses designed to evaluate several potential sources of bias. The results indicated that the biases they examined were unlikely to be major drivers of the observed connection between higher weight and lower mortality. Although the precise explanation remains unknown, the researchers identified several biological reasons why additional body weight could be advantageous for someone already living with dementia. One possibility involves the body's energy reserves. People with more stored fat or greater muscle mass may be better equipped to withstand periods of poor nutrition and the physical deterioration that can accompany the disease. Dementia can interfere with eating in several ways. Changes in brain function may reduce appetite or motivation to eat, while some patients experience increased energy needs or gradually lose the ability to feed themselves. Over time, these problems can contribute to significant weight loss, muscle wasting, and declining health. \"Nutrition can be a big problem for people with dementia,\" said Chang. \"They may experience wasting and an inability to eat, which can be due to changes in the brain's central drive, leading to loss of appetite and initiative, increased energy expenditure, and difficulties feeding themselves.\" Having additional energy stores or muscle tissue could potentially help patients cope with these challenges, although the study did not establish that these factors directly explain the survival differences. The researchers emphasize that important questions remain unanswered. Even after examining multiple potential biases and identifying plausible biological explanations, they cannot say for certain why overweight and obese participants experienced lower mortality. Nevertheless, Zhang and Chang believe that weight at the time of a dementia diagnosis could provide valuable information about a patient's likely survival. The results also reinforce the importance of recognizing and addressing nutritional problems in people with dementia. Additional study authors include Eleanor Hayes-Larson of the University of Southern California and Hui Zheng of the University of Toronto. The research received funding from the National Institutes of Health (grant numbers R00AG070274, R00AG075317). Materials provided by Columbia University's Mailman School of Public Health . Note: Content may be edited for style and length. NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheime",
+   "doi": [
+    "10.1177/13872877261491694"
+   ],
+   "journal_ref": "Journal Reference : Virginia W. Chang, Eleanor Hayes-Larson, Hui Zheng, Yuan S. Zhang. Body mass index and mortality in incident dementia . Journal of Alzheimer’s Disease , 2026; DOI: 10.1177/13872877261491694",
+   "facts": [
+    "People classified as overweight (body mass index of 25 to 29.9) had a 16 percent lower risk of death.",
+    "Those with class 1 obesity (BMI of 30 to 34.9) had an even larger reduction of 27 percent, while individuals with class 2 and 3 obesity (BMI equal to or greater than 35) had a 22 percent lower risk.",
+    "To investigate the connection, Zhang, Chang, and their colleagues examined information from the Health and Retirement Study, a nationally representative research project that follows Americans ages 51 and older.",
+    "The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition.",
+    "Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches.",
+    "The research received funding from the National Institutes of Health (grant numbers R00AG070274, R00AG075317).",
+    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
+   ],
+   "sample": [
+    "4,523 participants"
+   ]
+  },
+  {
+   "title": "Blood sugar spikes: What actually works to manage them",
+   "link": "https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html",
+   "key": "https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html",
+   "summary": "Blood sugar, also called blood glucose, rises after eating. Seeing that rise on a wearable monitor can make an ordinary meal look worrying. But a higher reading after lunch does not, by itself, mean that something has gone wrong.",
+   "date": "2026-11-12",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-12",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 SCALE",
+    "훅: wrong, actually"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html"
   },
   {
    "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
@@ -645,6 +712,22 @@
    "date": "2026-11-10",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-11",
+   "text": "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs appeared. The extraordinarily rare discovery is giving researchers a new understanding of how some of Earth's earliest marine animals lived, fed, and evolved. The fossil belongs to an ancient crinoid, a marine animal related to modern starfish. Crinoids often resemble underwater flowers, with branching arms extending from a central body. More than 450 million years ago, these unusual creatures were among the animals thriving in Earth's earliest coral reefs, long before plants and animals had become widespread on land. Although scientists have discovered millions of crinoid fossils, nearly all preserve only hard skeletal structures. Delicate body parts usually decay long before fossilization can occur, leaving major gaps in our understanding of how these ancient creatures functioned. Now, paleontologists at the University of Oklahoma have identified an exceptionally rare specimen that preserves soft tissue structures, providing an extraordinary opportunity to investigate life in Earth's ancient oceans. \"After an animal dies, soft tissues like skin, eyes, or internal organs are the first things to decay,\" said Dr. Lena Cole, OU paleontologist and assistant curator of invertebrate paleontology at the Sam Noble Oklahoma Museum of Natural History. \"Most fossils are only made up of hard parts like bones, teeth, or shells. Soft tissues are only preserved when the environment acts almost like a natural refrigerator or vacuum‑sealer -- conditions that are incredibly rare.\" A 450 Million-Year-Old Fossil With Exceptionally Rare Soft Tissue The remarkable specimen belongs to Dendrocrinus simcoensis , an extinct species of crinoid. Its preserved tube feet represent only the second known example of fossilized soft tissue in crinoids and the oldest such discovery ever documented. Tube feet are small, flexible structures found in echinoderms, a group of marine animals that includes starfish, sea urchins, and crinoids. Because these structures are soft and easily destroyed after death, finding evidence of them in fossils is extraordinarily unusual. \"Preservation like this is truly one in a million,\" Cole added. \"Crinoid fossils number in the millions, and this is only the second time soft tissues have ever been found.\" The age of the specimen makes the discovery even more remarkable. These delicate structures have been preserved in the fossil record for nearly half a billion years, offering direct evidence of anatomy that would otherwise have disappeared. \"It's incredible these soft tissues have survived more than 450 million years,\" said Dr. David Wright, another OU paleontologist and assistant curator of invertebrate paleontology at the Sam Noble Oklahoma Museum of Natural History, who co‑authored the study with Cole. \"For reference, these soft tissues are more than 200 million years older than the oldest dinosaur.\" The fossil's preserved tube feet are especially valuable because they provide clues about how crinoids obtained food and interacted with their surroundings. Unlike the teeth and jaws that many familiar animals use to eat, crinoids rely on specialized structures to capture food particles from seawater. Their tube feet play an important role in feeding and in how these animals interact with ocean currents. The size, arrangement, and shape of these structures can differ between species, reflecting adaptations to particular habitats and feeding methods. By studying those differences, paleontologists can reconstruct aspects of an extinct animal's lifestyle, even when no living examples of that species exist. \"Since crinoid tube feet are used for feeding, you can think of them in a similar way to how we think about teeth in mammals,\" Wright explained. \"Differences in their structure tell us about what kinds of environments a species lived in and how it fed.\" Researchers also compared the ancient fossil with crinoids living in today's oceans. Those comparisons revealed notable anatomical differences, suggesting that the feeding structures of these animals have undergone substantial evolutionary changes over hundreds of millions of years. \"Comparisons with living crinoids show that the anatomy of this ancient species was very different,\" Cole added. \"This gives us new insight into how crinoids evolved and how their feeding strategies changed over hundreds of millions of years.\" Beyond revealing details about one ancient species, the discovery could help scientists piece together how marine ecosystems developed during the early Paleozoic Era. The Paleozoic was a vast chapter of Earth's history that began about 541 million years ago. During its early stages, marine environments supported an expanding variety of complex animals, while life on land was still relatively limited. Crinoids were among the creatures that became established in early reef communities. Their fossils provide important evidence of how marine animals occupied different ecological roles and adapted to changing environmental conditions. However, studying only living species cannot reveal the full range of forms and adaptations that existed in the distant past. Some extinct animals possessed anatomical features that have no close equivalent among their modern relatives. \"Fossilized remains of long‑extinct species can show features well outside the range of variation we see in living species,\" Wright said. \"By comparing ecological ways of life for extinct and modern species, we can understand how patterns of adaptive evolution have changed through time and what factors shaped the modern biosphere.\" The biosphere includes all living organisms on Earth and the environments they inhabit. Understanding how it developed requires scientists to examine not only which species existed, but also how they interacted with their surroundings and one another. Because soft tissues are so rarely preserved in ancient echinoderms, discoveries like this one provide evidence that conventional fossils cannot offer. They can help researchers identify previously unknown feeding strategies, understand ancient ecosystems, and trace evolutionary changes that eventually shaped modern marine life. Perhaps one of the most surprising aspects of the discovery is where the fossil was found. Although major paleontological breakthroughs are often associated with expeditions to remote locations, valuable scientific evidence can also remain unnoticed for decades in museums. Fossil collections contain enormous numbers of specimens, many of which have never been examined by specialists with the expertise needed to recognize their most important features. As scientific knowledge and research methods improve, these collections can reveal discoveries that earlier generations overlooked. \"New fossil discoveries ultimately come from fieldwork, but museum collections play a significant role in this kind of integrative research,\" Wright said. \"We don't always know the full significance of the specimens we collect. New technologies, ideas or expertise often find surprising ways to utilize existing specimens to make new discoveries.\" The Dendrocrinus simcoensis fossil had been housed for years at Montréal's Musée de paléontologie et de l'évolution, a small museum that operates entirely with support from community donations. Its remarkable scientific value became apparent when Cole and Wright, both specialists in crinoids, visited the museum and examined the specimen more closely. Their investigation revealed that the fossil preserved an extraordinarily rare record of ancient soft tissue, transforming a specimen already held in a museum collection into an important source of new evolutionary evidence. \"This discovery highlights the importance of museum collections and the community support that keeps them alive,\" Cole said. \"Without the dedication ",
+   "facts": [
+    "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs appeared.",
+    "More than 450 million years ago, these unusual creatures were among the animals thriving in Earth's earliest coral reefs, long before plants and animals had become widespread on land.",
+    "Soft tissues are only preserved when the environment acts almost like a natural refrigerator or vacuum‑sealer -- conditions that are incredibly rare.\" A 450 Million-Year-Old Fossil With Exceptionally Rare Soft Tissue The remarkable specimen belongs to Dendrocrinus simcoensis , an extinct species of crinoid.",
+    "These delicate structures have been preserved in the fossil record for nearly half a billion years, offering direct evidence of anatomy that would otherwise have disappeared.",
+    "\"It's incredible these soft tissues have survived more than 450 million years,\" said Dr.",
+    "\"For reference, these soft tissues are more than 200 million years older than the oldest dinosaur.\" The fossil's preserved tube feet are especially valuable because they provide clues about how crinoids obtained food and interacted with their surroundings.",
+    "The Paleozoic was a vast chapter of Earth's history that began about 541 million years ago.",
+    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
+   ],
+   "doi": [],
+   "sample": [],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -660,20 +743,7 @@
     "형식 CUT",
     "훅: unexpected",
     "생활소재: dinosaur"
-   ],
-   "text": "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs appeared. The extraordinarily rare discovery is giving researchers a new understanding of how some of Earth's earliest marine animals lived, fed, and evolved. The fossil belongs to an ancient crinoid, a marine animal related to modern starfish. Crinoids often resemble underwater flowers, with branching arms extending from a central body. More than 450 million years ago, these unusual creatures were among the animals thriving in Earth's earliest coral reefs, long before plants and animals had become widespread on land. Although scientists have discovered millions of crinoid fossils, nearly all preserve only hard skeletal structures. Delicate body parts usually decay long before fossilization can occur, leaving major gaps in our understanding of how these ancient creatures functioned. Now, paleontologists at the University of Oklahoma have identified an exceptionally rare specimen that preserves soft tissue structures, providing an extraordinary opportunity to investigate life in Earth's ancient oceans. \"After an animal dies, soft tissues like skin, eyes, or internal organs are the first things to decay,\" said Dr. Lena Cole, OU paleontologist and assistant curator of invertebrate paleontology at the Sam Noble Oklahoma Museum of Natural History. \"Most fossils are only made up of hard parts like bones, teeth, or shells. Soft tissues are only preserved when the environment acts almost like a natural refrigerator or vacuum‑sealer -- conditions that are incredibly rare.\" A 450 Million-Year-Old Fossil With Exceptionally Rare Soft Tissue The remarkable specimen belongs to Dendrocrinus simcoensis , an extinct species of crinoid. Its preserved tube feet represent only the second known example of fossilized soft tissue in crinoids and the oldest such discovery ever documented. Tube feet are small, flexible structures found in echinoderms, a group of marine animals that includes starfish, sea urchins, and crinoids. Because these structures are soft and easily destroyed after death, finding evidence of them in fossils is extraordinarily unusual. \"Preservation like this is truly one in a million,\" Cole added. \"Crinoid fossils number in the millions, and this is only the second time soft tissues have ever been found.\" The age of the specimen makes the discovery even more remarkable. These delicate structures have been preserved in the fossil record for nearly half a billion years, offering direct evidence of anatomy that would otherwise have disappeared. \"It's incredible these soft tissues have survived more than 450 million years,\" said Dr. David Wright, another OU paleontologist and assistant curator of invertebrate paleontology at the Sam Noble Oklahoma Museum of Natural History, who co‑authored the study with Cole. \"For reference, these soft tissues are more than 200 million years older than the oldest dinosaur.\" The fossil's preserved tube feet are especially valuable because they provide clues about how crinoids obtained food and interacted with their surroundings. Unlike the teeth and jaws that many familiar animals use to eat, crinoids rely on specialized structures to capture food particles from seawater. Their tube feet play an important role in feeding and in how these animals interact with ocean currents. The size, arrangement, and shape of these structures can differ between species, reflecting adaptations to particular habitats and feeding methods. By studying those differences, paleontologists can reconstruct aspects of an extinct animal's lifestyle, even when no living examples of that species exist. \"Since crinoid tube feet are used for feeding, you can think of them in a similar way to how we think about teeth in mammals,\" Wright explained. \"Differences in their structure tell us about what kinds of environments a species lived in and how it fed.\" Researchers also compared the ancient fossil with crinoids living in today's oceans. Those comparisons revealed notable anatomical differences, suggesting that the feeding structures of these animals have undergone substantial evolutionary changes over hundreds of millions of years. \"Comparisons with living crinoids show that the anatomy of this ancient species was very different,\" Cole added. \"This gives us new insight into how crinoids evolved and how their feeding strategies changed over hundreds of millions of years.\" Beyond revealing details about one ancient species, the discovery could help scientists piece together how marine ecosystems developed during the early Paleozoic Era. The Paleozoic was a vast chapter of Earth's history that began about 541 million years ago. During its early stages, marine environments supported an expanding variety of complex animals, while life on land was still relatively limited. Crinoids were among the creatures that became established in early reef communities. Their fossils provide important evidence of how marine animals occupied different ecological roles and adapted to changing environmental conditions. However, studying only living species cannot reveal the full range of forms and adaptations that existed in the distant past. Some extinct animals possessed anatomical features that have no close equivalent among their modern relatives. \"Fossilized remains of long‑extinct species can show features well outside the range of variation we see in living species,\" Wright said. \"By comparing ecological ways of life for extinct and modern species, we can understand how patterns of adaptive evolution have changed through time and what factors shaped the modern biosphere.\" The biosphere includes all living organisms on Earth and the environments they inhabit. Understanding how it developed requires scientists to examine not only which species existed, but also how they interacted with their surroundings and one another. Because soft tissues are so rarely preserved in ancient echinoderms, discoveries like this one provide evidence that conventional fossils cannot offer. They can help researchers identify previously unknown feeding strategies, understand ancient ecosystems, and trace evolutionary changes that eventually shaped modern marine life. Perhaps one of the most surprising aspects of the discovery is where the fossil was found. Although major paleontological breakthroughs are often associated with expeditions to remote locations, valuable scientific evidence can also remain unnoticed for decades in museums. Fossil collections contain enormous numbers of specimens, many of which have never been examined by specialists with the expertise needed to recognize their most important features. As scientific knowledge and research methods improve, these collections can reveal discoveries that earlier generations overlooked. \"New fossil discoveries ultimately come from fieldwork, but museum collections play a significant role in this kind of integrative research,\" Wright said. \"We don't always know the full significance of the specimens we collect. New technologies, ideas or expertise often find surprising ways to utilize existing specimens to make new discoveries.\" The Dendrocrinus simcoensis fossil had been housed for years at Montréal's Musée de paléontologie et de l'évolution, a small museum that operates entirely with support from community donations. Its remarkable scientific value became apparent when Cole and Wright, both specialists in crinoids, visited the museum and examined the specimen more closely. Their investigation revealed that the fossil preserved an extraordinarily rare record of ancient soft tissue, transforming a specimen already held in a museum collection into an important source of new evolutionary evidence. \"This discovery highlights the importance of museum collections and the community support that keeps them alive,\" Cole said. \"Without the dedication ",
-   "doi": [],
-   "facts": [
-    "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs appeared.",
-    "More than 450 million years ago, these unusual creatures were among the animals thriving in Earth's earliest coral reefs, long before plants and animals had become widespread on land.",
-    "Soft tissues are only preserved when the environment acts almost like a natural refrigerator or vacuum‑sealer -- conditions that are incredibly rare.\" A 450 Million-Year-Old Fossil With Exceptionally Rare Soft Tissue The remarkable specimen belongs to Dendrocrinus simcoensis , an extinct species of crinoid.",
-    "These delicate structures have been preserved in the fossil record for nearly half a billion years, offering direct evidence of anatomy that would otherwise have disappeared.",
-    "\"It's incredible these soft tissues have survived more than 450 million years,\" said Dr.",
-    "\"For reference, these soft tissues are more than 200 million years older than the oldest dinosaur.\" The fossil's preserved tube feet are especially valuable because they provide clues about how crinoids obtained food and interacted with their surroundings.",
-    "The Paleozoic was a vast chapter of Earth's history that began about 541 million years ago.",
-    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "UK regulatory systems for food and drink identify only around half of processed/ultraprocessed products as unhealthy",
@@ -683,6 +753,8 @@
    "date": "2026-11-11",
    "source": "MedicalXpress",
    "first_seen": "2026-11-11",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-uk-regulatory-food-processedultraprocessed-p",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -695,66 +767,31 @@
    "why": [
     "형식 SCALE",
     "생활소재: diet"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-uk-regulatory-food-processedultraprocessed-p"
+   ]
   },
   {
-   "title": "Scientists identify two overlooked skills that predict reading success",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261102202845.htm",
-   "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how to help struggling readers.",
-   "date": "2026-11-03",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-04",
-   "text": "For decades, explanations for why some children struggle with reading have often focused on two factors: intelligence and the ability to process visual information. Children who read easily have frequently been assumed to be more intelligent, while those who struggle have sometimes been viewed as less capable. Another common belief is that reading difficulties arise primarily from problems interpreting the words and letters on a page. However, a major new study challenges these assumptions, suggesting that the abilities most important for reading success may be very different from what many people expect. Dr. Daniel Hajovsky, an associate professor in Texas A&M University's Department of Educational Psychology, led one of the most extensive investigations to date into how cognitive abilities relate to reading performance. The research brought together scientists from the University of Kansas, St. John's University, Montclair State University and Temple University to examine which mental skills best predict reading development and why some children encounter difficulties. To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model. This large-scale approach allowed them to assess the contribution of individual mental abilities to reading performance while also helping clarify why previous studies had sometimes produced conflicting conclusions. The findings revealed several surprises. Visual processing showed no meaningful relationship with reading ability across the analysis. General intelligence was associated with reading performance, but its influence was considerably smaller than some earlier research had suggested. Instead, two less frequently discussed abilities emerged as particularly important predictors of reading success: auditory processing and comprehension-knowledge. \"One notable finding was that general intelligence was less dominant than in some earlier meta-analyses,\" Hajovsky said. \"Broad abilities such as comprehension-knowledge and auditory processing played strong, specific roles in reading beyond general intelligence, especially for decoding and comprehension.\" Auditory processing involves recognizing and distinguishing the individual sounds that make up spoken words. For example, a child needs to identify the separate sounds within a word to understand how those sounds correspond to written letters. This skill helps support decoding, the process of working out how written words are pronounced. Comprehension-knowledge refers to the vocabulary, concepts and background information a child has accumulated through learning and everyday experiences. Having this foundation makes it easier to understand the meaning of words, sentences and longer passages. Together, these two abilities were more reliable predictors of reading performance than any other skills examined in the study. Other cognitive functions, including memory, reasoning and mental processing speed, also contributed to reading development, although they played more supporting roles. The results suggest that reading is not simply a reflection of overall intelligence or how effectively a child processes visual information. Instead, it depends on several interconnected abilities, with language-related skills playing especially important roles. The research could help educators better understand why individual students experience reading difficulties. Rather than treating all reading problems as the same, teachers may be able to identify particular weaknesses and provide instruction that addresses those needs. For families, the findings also offer an encouraging message. A child who has trouble reading is not necessarily less intelligent or incapable of becoming a strong reader. Difficulties may instead reflect specific abilities that need additional development and support. \"Strengthening foundational skills at home, even the ones that seem simple, can have meaningful effects on more advanced reading abilities,\" Hajovsky said. \"Struggles in reading are not a sign of low ability but often reflect one specific skill that needs strengthening within a larger system that works together.\" The findings highlight the value of helping children build essential reading skills through consistent support, both in the classroom and at home. According to Hajovsky, the most effective approach involves cooperation among schools, parents, and communities. Reading develops through a network of connected skills, and strengthening those foundations one step at a time can help children become more confident and capable readers. Materials provided by Texas A&M University . Original written by Ryan McCullar. Note: Content may be edited for style and length. Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
-   "facts": [
-    "To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model.",
-    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-   ],
-   "doi": [
-    "10.3390/jintelligence13080104"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Daniel B. Hajovsky, Christopher R. Niileksela, Dawn P. Flanagan, Vincent C. Alfonso, William Joel Schneider, Jacob Robbins. Toward a Consensus Model of Cognitive–Reading Achievement Relations Using Meta-Structural Equation Modeling . Journal of Intelligence , 2025; 13 (8): 104 DOI: 10.3390/jintelligence13080104",
-   "catch_extra": [],
+   "title": "Frozen sperm enables embryo development in endangered Japanese bird for first time—but chick fails to hatch",
+   "link": "https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html",
+   "key": "https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html",
+   "summary": "The Okinawa rail (Hypotaenidia okinawae) is an endangered flightless bird endemic to the Yanbaru forest region of Okinawa Island in Japan. The bird has only recently begun recovering its numbers after introduced predators, such as the mongoose, and traffic accidents reduced its population to as low as 820 individuals.",
+   "date": "2026-11-12",
+   "source": "Phys.org",
+   "first_seen": "2026-11-12",
    "sources": [
-    "ScienceDaily 전체"
+    "Phys.org"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
+    "https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html"
    ],
    "format": "PRESS",
    "catch": [],
-   "score": 6,
+   "score": 7,
    "why": [
     "형식 PRESS",
-    "훅: surpris",
-    "생활소재: children"
-   ]
-  },
-  {
-   "title": "Nearly 1 in 5 people in the US think about food even when they are not hungry",
-   "link": "https://medicalxpress.com/news/2026-11-people-food-hungry.html",
-   "key": "https://medicalxpress.com/news/2026-11-people-food-hungry.html",
-   "summary": "\"Food noise\" refers to intrusive thoughts about and cravings for food, whether or not a person is hungry. The phenomenon has become widely discussed on social media, in traditional media and in commercials for GLP-1 receptor agonist weight-loss medications. Because the term has only emerged in recent years, not much is known about who experiences food noise, and there is not even a universally accepted scientific definition.",
-   "date": "2026-11-03",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-04",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-food-hungry.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
+    "훅: first time",
+    "생활소재: bird"
    ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-people-food-hungry.html"
-   ],
-   "format": "DOSE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 DOSE",
-    "생활소재: social media"
-   ]
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html"
   },
   {
    "title": "Consuming colorful produce may help reduce COPD-related inflammation, flare-ups",
@@ -938,6 +975,8 @@
    "date": "2026-11-11",
    "source": "Phys.org",
    "first_seen": "2026-11-11",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-mental-health-app-unemployed-people.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -950,56 +989,30 @@
    "why": [
     "형식 SCALE",
     "생활소재: phone, exercise, stress"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-mental-health-app-unemployed-people.html"
+   ]
   },
   {
-   "title": "Predicting jumping genes' roles in changing genome size",
-   "link": "https://phys.org/news/2026-11-genes-roles-genome-size.html",
-   "key": "https://phys.org/news/2026-11-genes-roles-genome-size.html",
-   "summary": "A genome contains all of the DNA of every living organism, but its contents don't stop there—most of these structures also contain snippets of DNA that can copy and paste themselves to \"infect\" a genome, expanding its size. Precisely why that happens remains a mystery.",
-   "date": "2026-11-03",
+   "title": "Bennu asteroid analysis suggests unexpected origins for organics in space",
+   "link": "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html",
+   "key": "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html",
+   "summary": "Samples from the Bennu asteroid, which is currently more than 200 million miles (322 million kilometers) from Earth, and the Murchison meteorite, which fell to Earth in 1969, both contain molecules that build proteins necessary for life. New research has found that the molecules may have formed through the same process but originated far from one another in the solar system.",
+   "date": "2026-11-11",
    "source": "Phys.org",
-   "first_seen": "2026-11-03",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-genes-roles-genome-size.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-12",
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-11-genes-roles-genome-size.html"
+    "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html"
    ],
    "format": "CUT",
    "catch": [],
-   "score": 5,
+   "score": 6,
    "why": [
     "형식 CUT",
-    "훅: mystery"
-   ]
-  },
-  {
-   "title": "Zombies are real—just ask the parasites taking over the bodies and brains of insects and rodents",
-   "link": "https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html",
-   "key": "https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html",
-   "summary": "Zombies have taken many forms in popular culture. In Michael Jackson's \"Thriller\" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's \"The Last of Us,\" a fungus infects humans, takes over their bodies and turns them into hosts that help spread the infection. Even Plankton has tried his hand at taking control of another organism in \"SpongeBob SquarePants.\"",
-   "date": "2026-11-03",
-   "source": "Phys.org",
-   "first_seen": "2026-11-03",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
+    "훅: unexpected"
    ],
-   "links": [
-    "https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "생활소재: music, brain"
-   ]
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html"
   },
   {
    "title": "Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers",

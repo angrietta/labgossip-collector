@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-09
 
-최근 8일 누적 970건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 896건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common osteoporosis drugs linked to 24% lower dementia risk in major study
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-09
@@ -120,7 +120,26 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 95% of processed or ultra-processed food products would be classified as unhealthy under UK government dietary guidance, according to new UCL-led research. The study, published in BMJ Medicine, found that the official public health definitions used to identify and regulate food and drink p
 
-## 13. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
+## 13. Obesity linked to up to 27% lower risk of death in dementia
+- 점수 8 · WEIGH · ScienceDaily 전체 · 2026-11-11
+- https://www.sciencedaily.com/releases/2026/11/261109205401.htm
+- DOI: 10.1177/13872877261491694
+- 대상: 4,523 participants
+- 주의: 상관관계
+- 요약: A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that extra energy and muscle reserves may help patients survive the disease's toll on
+  - "People classified as overweight (body mass index of 25 to 29.9) had a 16 percent lower risk of death."
+  - "Those with class 1 obesity (BMI of 30 to 34.9) had an even larger reduction of 27 percent, while individuals with class 2 and 3 obesity (BMI equal to or greater than 35) had a 22 percent lower risk."
+  - "To investigate the connection, Zhang, Chang, and their colleagues examined information from the Health and Retirement Study, a nationally representative research project that follows Americans ages 51 and older."
+  - "The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition."
+  - "Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches."
+
+## 14. Blood sugar spikes: What actually works to manage them
+- 점수 8 · SCALE · MedicalXpress · 2026-11-12
+- https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Blood sugar, also called blood glucose, rises after eating. Seeing that rise on a wearable monitor can make an ordinary meal look worrying. But a higher reading after lunch does not, by itself, mean that something has gone wrong.
+
+## 15. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-06
 - https://www.sciencedaily.com/releases/2026/11/261104084017.htm
 - DOI: 10.1177/0271678X261490342
@@ -132,7 +151,7 @@
   - "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4."
   - "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not."
 
-## 14. Magic mushrooms rewire the brain in a way scientists didn't expect
+## 16. Magic mushrooms rewire the brain in a way scientists didn't expect
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-07
 - https://www.sciencedaily.com/releases/2026/11/261104012308.htm
 - DOI: 10.1038/s41593-026-02490-y
@@ -145,20 +164,20 @@
   - "Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines."
   - "To explore this possibility, the scientists examined the role of serotonin 2A receptors (5-HT2ARs), which are proteins on the surfaces of cells that respond to chemical signals."
 
-## 15. Cool adaptations: How fish survive in the Antarctic Ocean
+## 17. Cool adaptations: How fish survive in the Antarctic Ocean
 - 점수 7 · CUT · Phys.org · 2026-11-11
 - https://phys.org/news/2026-11-cool-fish-survive-antarctic-ocean.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: With water temperatures as low as -1.9°C (28.6°F), the Southern Ocean is a place of extreme living conditions. A new study led by Senckenberg researchers shows how fish have adapted to Antarctic temperatures. The researchers used the Antarctic spiny plunderfish (Harpagifer antarcticus) as a model or
 
-## 16. Alzheimer's discovery reveals brain cleaning gone wrong
+## 18. Alzheimer's discovery reveals brain cleaning gone wrong
 - 점수 7 · CUT · MedicalXpress · 2026-11-11
 - https://medicalxpress.com/news/2026-11-alzheimer-discovery-reveals-brain-wrong.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A gene responsible for compacting trash inside the brain appears to be a key player in Alzheimer's disease, and doctors may be able to target it to better treat or help prevent the devastating condition, new UVA Health research suggests.
 
-## 17. Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue
+## 19. Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-10
 - https://www.sciencedaily.com/releases/2026/11/261105085201.htm
 - 주의: DOI 못 찾음
@@ -169,87 +188,73 @@
   - "These delicate structures have been preserved in the fossil record for nearly half a billion years, offering direct evidence of anatomy that would otherwise have disappeared."
   - ""It's incredible these soft tissues have survived more than 450 million years," said Dr."
 
-## 18. UK regulatory systems for food and drink identify only around half of processed/ultraprocessed products as unhealthy
+## 20. UK regulatory systems for food and drink identify only around half of processed/ultraprocessed products as unhealthy
 - 점수 7 · SCALE · MedicalXpress · 2026-11-11
 - https://medicalxpress.com/news/2026-11-uk-regulatory-food-processedultraprocessed-products.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Current U.K. regulatory systems for food and drink identify only around half of processed and ultraprocessed products as unhealthy—in other words, those that contain excess fat, salt, sugar and energy density—finds research published in BMJ Medicine. But new nutrient profiling, based on official U.K
 
-## 19. Scientists identify two overlooked skills that predict reading success
-- 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-03
-- https://www.sciencedaily.com/releases/2026/11/261102202845.htm
-- DOI: 10.3390/jintelligence13080104
-- 요약: A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t
-  - "To investigate these relationships, the researchers combined 50,000 correlations drawn from 137 cognitive and achievement test batteries into a single statistical model."
-  - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-
-## 20. Nearly 1 in 5 people in the US think about food even when they are not hungry
-- 점수 6 · DOSE · MedicalXpress · 2026-11-03
-- https://medicalxpress.com/news/2026-11-people-food-hungry.html
+## 21. Frozen sperm enables embryo development in endangered Japanese bird for first time—but chick fails to hatch
+- 점수 7 · PRESS · Phys.org · 2026-11-12
+- https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: "Food noise" refers to intrusive thoughts about and cravings for food, whether or not a person is hungry. The phenomenon has become widely discussed on social media, in traditional media and in commercials for GLP-1 receptor agonist weight-loss medications. Because the term has only emerged in recen
+- 요약: The Okinawa rail (Hypotaenidia okinawae) is an endangered flightless bird endemic to the Yanbaru forest region of Okinawa Island in Japan. The bird has only recently begun recovering its numbers after introduced predators, such as the mongoose, and traffic accidents reduced its population to as low 
 
-## 21. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
+## 22. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
 - 점수 6 · SCALE · MedicalXpress · 2026-11-04
 - https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Eating a diet rich in red, yellow and orange fruits and vegetables may help reduce inflammation and exacerbations associated with chronic obstructive pulmonary disease (COPD), according to a new study in the September 2026 issue of Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundati
 
-## 22. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
+## 23. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial
 
-## 23. Combining HIV prevention and addiction treatment in mobile clinics could save lives
+## 24. Combining HIV prevention and addiction treatment in mobile clinics could save lives
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to communit
 
-## 24. Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly
+## 25. Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Patients with early-onset Alzheimer's disease, whose symptoms start before age 65, have more extensive deposits of tau, a hallmark protein of the condition, compared with patients whose symptoms start at 65-plus, a new study found. What's more, tau accumulates at more than twice the rate in younger 
 
-## 25. Why do blind people and musicians hear pitch better? New research suggests they have less internal noise
+## 26. Why do blind people and musicians hear pitch better? New research suggests they have less internal noise
 - 점수 6 · SCALE · MedicalXpress / The Conversation · 2026-11-05
 - https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People who have lived most of their lives blind often have extraordinary hearing abilities. In new research published in the Journal of Neuroscience, my colleagues and I discovered that this ability arises from how their auditory systems are able to more consistently and reliably process sounds comp
 
-## 26. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
+## 27. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
 - 점수 6 · CUT · Phys.org · 2026-11-09
 - https://phys.org/news/2026-11-species-ground-bird-largest-kind.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was overlooked and left to collect dust.
 
-## 27. Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day
+## 28. Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day
 - 점수 6 · CUT · Phys.org · 2026-11-10
 - https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An exceptionally well-preserved, approximately 47-million-year-old owl fossil from the UNESCO World Heritage Site Messel provides new clues as to when owls became nocturnal. The newly described species Masillastrix blattophaga was likely still diurnal—as indicated by an iridescent cockroach in its s
 
-## 28. Mental health app may help unemployed people find jobs, six-week trial suggests
+## 29. Mental health app may help unemployed people find jobs, six-week trial suggests
 - 점수 6 · SCALE · Phys.org · 2026-11-11
 - https://phys.org/news/2026-11-mental-health-app-unemployed-people.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Losing a job can be a life-shattering experience. And when depression complicates a job search, unemployment can become a vicious cycle. Now, a Northwestern University–led clinical trial suggests a new intervention may break that cycle: a phone app, named DRIVEN, that combines weekly self-guided men
 
-## 29. Predicting jumping genes' roles in changing genome size
-- 점수 5 · CUT · Phys.org · 2026-11-03
-- https://phys.org/news/2026-11-genes-roles-genome-size.html
+## 30. Bennu asteroid analysis suggests unexpected origins for organics in space
+- 점수 6 · CUT · Phys.org · 2026-11-11
+- https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A genome contains all of the DNA of every living organism, but its contents don't stop there—most of these structures also contain snippets of DNA that can copy and paste themselves to "infect" a genome, expanding its size. Precisely why that happens remains a mystery.
-
-## 30. Zombies are real—just ask the parasites taking over the bodies and brains of insects and rodents
-- 점수 5 · CUT · Phys.org · 2026-11-03
-- https://phys.org/news/2026-11-zombies-real-parasites-bodies-brains.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Zombies have taken many forms in popular culture. In Michael Jackson's "Thriller" music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO's "The Last of Us," a fungus infects humans, takes over their bodies and turns them into hosts that help spread the i
+- 요약: Samples from the Bennu asteroid, which is currently more than 200 million miles (322 million kilometers) from Earth, and the Murchison meteorite, which fell to Earth in 1969, both contain molecules that build proteins necessary for life. New research has found that the molecules may have formed thro
 
 ## 31. Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers
 - 점수 5 · 형식? · Phys.org · 2026-11-04
