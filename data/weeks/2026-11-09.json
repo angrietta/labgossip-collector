@@ -1,20 +1,20 @@
 {
  "week": "2026-11-09",
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 6
+   "span_days": 7
   },
   {
    "feed": "ScienceDaily 별난연구",
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 26
+   "span_days": 25
   },
   {
    "feed": "ScienceDaily 뇌·마음",
@@ -216,6 +216,37 @@
     "훅: unexpected",
     "생활소재: sleep, memory, children"
    ]
+  },
+  {
+   "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261109205411.htm",
+   "summary": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
+   "date": "2026-11-12",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-13",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261109205411.htm"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 9,
+   "why": [
+    "형식 PRESS",
+    "훅: surpris, unexpected, secret"
+   ],
+   "text": "Turbulence is all around us, from milk swirling into a cup of coffee to powerful storms churning through the atmosphere and oceans. But turbulence also occurs throughout space, where it behaves in ways that scientists are still struggling to understand. Unlike the air and water on Earth, much of the matter in space consists of electrically charged particles in a state (known as the plasma state). These particles interact strongly with magnetic and electric fields, creating turbulence that is fundamentally different from what we experience on Earth. Space plasma is also so thinly spread that particles rarely collide with one another, making its behavior even more unusual. Scientists have long struggled to explain how turbulence develops under these conditions and how energy is distributed among its constantly changing fluctuations. Now, an international research team has uncovered a surprising clue: hidden within the seemingly random motion of space plasma is a distinct magnetic pattern that reverses direction at very small scales. The discovery, published in The Astrophysical Journal Letters , reveals a previously unobserved phenomenon that could improve our understanding of the solar wind and the turbulent conditions that influence space weather. Researchers from the Technische Universität Braunschweig and the University of Tokyo, working with Tohoku University, Kyushu University, Osaka University, and other international institutions, identified the phenomenon using observations from NASA's Parker Solar Probe. The collaboration brought together scientists from ten countries, including researchers at the Institute of Theoretical Physics at Technische Universität Braunschweig. By analyzing highly precise measurements of magnetic fields and particles, the team discovered that turbulent magnetic fields reverse their direction of rotation at a particular range of wavelengths. This marks the first direct observation of such a reversal in space turbulence. Even more surprisingly, the reversal becomes more pronounced and shifts toward longer wavelengths as the solar wind travels farther from the Sun. The change occurs at a critical boundary where the behavior of plasma shifts from the collective movement of a flowing fluid to the dynamics of individual particles. This connection suggests that the magnetic reversal may provide an important new way to understand how turbulence operates across different physical scales. At larger scales, plasma moves much like a fluid. Swirling structures called vortices and electromagnetic waves create increasingly complex fluctuations, producing the turbulent conditions found throughout space. Although these movements appear random, the researchers discovered that the rotation of the magnetic fields follows a consistent pattern. When viewed along a direction pointing outward from the Sun, magnetic fields at larger scales tend to rotate counterclockwise. At much smaller scales, however, the preferred rotation switches to clockwise. This reversal occurs precisely where plasma stops behaving primarily like a fluid and begins exhibiting behavior governed by individual particles. The finding is particularly striking because it reveals a clear, organized feature within a system otherwise dominated by seemingly unpredictable fluctuations. \"We see a clear structure in the spectrum, even though the turbulence represents unstructured motions,\" says Dr. Masatomi Iizawa (TU Braunschweig), the study's first author. Dr. Yokoi (University. of Tokyo) emphasizes the broader importance of the discovery, stating, \"The results are of great significance for both plasma physics and astrophysics.\" Although the magnetic reversal occurs at extremely small scales, understanding it could have far-reaching consequences for space physics. Plasma turbulence is a major feature of many environments throughout the universe, including Earth's magnetosphere, the solar wind, regions affected by solar eruptions, interplanetary space, and the disks of material surrounding astronomical objects known as accretion disks. It also influences the shock waves and clouds of magnetic material that travel through interplanetary space following eruptions on the Sun. These disturbances can play an important role in geomagnetic storms, making plasma turbulence a critical factor in efforts to predict space weather. By showing how an organized magnetic pattern emerges as turbulent plasma transitions from fluid behavior to particle behavior, the new research provides an important piece of a longstanding physics puzzle. The findings could ultimately help scientists better understand the complex processes that govern the solar wind and improve the physical models used to forecast geomagnetic storms. Materials provided by School of Science, The University of Tokyo . Note: Content may be edited for style and length. NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different",
+   "doi": [
+    "10.3847/2041-8213/aea84b"
+   ],
+   "journal_ref": "Journal Reference : Masatomi Iizawa, Yasuhito Narita, Tommaso Alberti, Stuart D. Bale, Axel Brandenburg, Abraham C.-L. Chian, Horia Comişel, Shuichi Matsukiyo, Nobumitsu Yokoi. Nonlocal Evolution of Magnetic Helicity across the Magnetohydrodynamic–Kinetic Interface . The Astrophysical Journal Letters , 2026; 1010 (2): L21 DOI: 10.3847/2041-8213/aea84b",
+   "facts": [
+    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
+   ],
+   "sample": []
   },
   {
    "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
@@ -564,6 +595,64 @@
    ]
   },
   {
+   "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261111221501.htm",
+   "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together, making it easier for cancer to spread. High dietary fructose levels and cholesterol-lowering statins also produced concerning effects in preclinical experiments.",
+   "date": "2026-11-12",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-13",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261111221501.htm"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 SCALE",
+    "훅: surpris",
+    "생활소재: diet"
+   ],
+   "text": "A common sugar found in many foods and sweetened drinks may play an unexpected role in helping aggressive ovarian cancer spread. Researchers at The Wistar Institute have discovered that cancer cells surviving chemotherapy can release fructose, which acts as a signal that encourages nearby tumor cells to break free and spread. The findings, published in Nature Aging , reveal a previously unknown way that cancer cells can continue influencing a tumor even after treatment has stopped them from multiplying. The discovery also raises important questions about whether dietary sugar and commonly prescribed cholesterol medications could affect how cancer progresses. \"Some cancer cells that survive chemotherapy aren't dividing anymore, but they're still biologically active,\" said Aidan Cole, Ph.D., a postdoctoral fellow in the lab of Katherine Aird, Ph.D. , at The Wistar Institute and first author on the study. \"Instead, they continue to release molecules that send signals to nearby cells. Our study is among the first to show that a nutrient -- in this case, fructose -- can act as one of those signals.\" Most patients with ovarian cancer receive platinum-based chemotherapy, a treatment that uses drugs containing platinum to damage the DNA of cancer cells and prevent them from reproducing. Although many patients initially respond well, the cancer eventually returns in most cases. It also frequently spreads throughout the abdominal cavity, the space inside the abdomen that contains organs such as the stomach, intestines, and liver. This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths. Understanding what allows cancer cells to escape from their original location and establish new tumors is therefore a major priority for researchers. Previous studies have suggested that cancer cells surviving chemotherapy may contribute to recurrence even when they are no longer actively dividing. These surviving cells can continue producing and releasing a mixture of substances that influence the behavior of surrounding cells. To investigate this process, Cole and his colleagues developed an experiment that separated the surviving cancer cells from the molecules they released. They discovered that these released substances, even without the surviving cells themselves, were enough to significantly increase cancer spread in a preclinical model. \"As far as we know, this is the first time anyone has shown, in a preclinical model rather than just a dish, that it's the molecules these cells release -- not the cells themselves -- that drive the cancer's spread,\" said Cole. The next challenge was identifying which substances were responsible for encouraging cancer cells to spread. The researchers discovered an unexpected culprit: fructose. Fructose is a naturally occurring sugar found in fruit, honey, and other foods. It is also a component of table sugar and high fructose corn syrup, a sweetener frequently used in soft drinks and processed foods. The study revealed that cancer cells surviving chemotherapy could produce fructose and release it into their surroundings. Rather than simply serving as an energy source, the sugar acted as a chemical messenger that encouraged neighboring cancer cells to become more capable of spreading. The researchers also uncovered another concerning possibility. In their preclinical experiments, consuming high amounts of fructose comparable to those found in sugary drinks could promote signals associated with cancer spread even without chemotherapy treatment. This observation suggests that diet might influence cancer progression through a mechanism scientists had not previously recognized. Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals. Unlike many factors that influence cancer risk and progression, dietary fructose intake can be changed. That raises the possibility that nutritional strategies might eventually become part of efforts to limit cancer spread. However, researchers have not yet tested whether reducing fructose consumption improves outcomes in patients with ovarian cancer. The findings do not establish that eating sugar causes cancer to spread in humans, and additional research is needed before specific dietary recommendations can be made based on this mechanism. To understand how fructose encourages cancer spread, the researchers examined what happens inside cancer cells exposed to the sugar. They used several advanced methods to investigate the biological changes involved, including a CRISPR screen. This technique allows scientists to systematically examine genes and identify which ones influence a particular cellular process. The experiments revealed that fructose suppresses cholesterol production in neighboring cancer cells. Although cholesterol is often discussed in connection with heart disease, it also serves essential functions throughout the body. It is an important component of cell membranes, the thin outer layers that surround cells and help regulate how they interact with their environment. In this case, cholesterol helps maintain the connections that hold neighboring cells together. These connections act somewhat like biological glue, making it harder for cancer cells to separate from one another. When fructose reduces cholesterol production, those connections weaken. As a result, cancer cells can detach more easily, potentially allowing them to escape and spread to other locations. This discovery provides a possible explanation for how a common nutrient can influence one of the most dangerous aspects of cancer. The cholesterol finding also led researchers to investigate an unexpected question involving statins, medications widely prescribed to lower cholesterol. Approximately 39 million people in the United States take statins. These drugs work by reducing the body's production of cholesterol and are commonly used to lower the risk of heart attacks and strokes. Because fructose appeared to promote cancer spread by suppressing cholesterol production, the research team wanted to know whether statins might produce similar effects. Their experiments showed that statins alone could weaken the connections between cancer cells, making it easier for them to separate and escape. The finding raises questions about whether cholesterol-lowering medications could influence the effectiveness of chemotherapy in certain situations. Researchers are now investigating that possibility, but they emphasize that the results have not been demonstrated in patients and are not a reason for anyone to discontinue prescribed statins. \"We haven't tested this effect in patients yet, but it raises questions about combining cholesterol-lowering drugs with chemotherapy, especially since ovarian cancer is most common in postmenopausal women who are often already on statins,\" said Katherine Aird, Ph.D., professor and co-leader of the Molecular and Cellular Oncogenesis Program in the Ellen and Ronald Caplan Cancer Center at The Wistar Institute, and senior author of the study. Although the research focused on ovarian cancer, the scientists suspect that the same biological process could occur in other forms of the disease. Cancers affecting organs within the abdomen and torso can also spread to nearby tissues and organs. If fructose influences the connections between cancer cells in a similar way, the discovery could have implications beyond ovarian cancer. \"We think other cancers that spread within the torso -- pancreatic, colon, liver -- could behave similarly. We can't call it universal yet, but we think the effects are not just limited to ovarian cancer,\" said Aird. Aird and Cole have already begun designing additional experiments to determine whether their findings can be reproduced in pancreatic, colon, liver, and other cancers. The research opens a new avenue for understanding how ca",
+   "doi": [
+    "10.1038/s43587-026-01172-5"
+   ],
+   "journal_ref": "Journal Reference : Aidan R. Cole, Raquel Buj, Apoorva Uboveja, Evan Levasseur, Alexander Tom, Hui Wang, Katarzyna M. Kedziora, Adam Chatoff, Andrea Andress Huacachino, Mariola M. Marcinkiewicz, Amandine Amalric, Baixue Yang, Naveen Kumar Tangudu, Emily Noonan, Jeff Danielson, Miho Naruse, Amal Taher Elhaw, Sierra White, Danyang Li, Callen T. Wallace, Frederick Keeney, Felicia Lazure, Esther Elish",
+   "facts": [
+    "This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths.",
+    "Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals.",
+    "Approximately 39 million people in the United States take statins.",
+    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
+   ],
+   "sample": []
+  },
+  {
+   "title": "A suspected black hole turns out to be a rapidly spinning star",
+   "link": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
+   "key": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
+   "summary": "Sometimes massive stars can mimic the behavior of a black hole and trick astronomers into misinterpreting their nature. Such is the case with a strange pair of stars in the Large Magellanic Cloud (LMC) cluster NGC 1850. The system was initially thought to contain a star about five times the mass of the sun orbiting a stellar-mass black hole. Now, a new study led by Rhys Seeburger of Liverpool John Moores University demonstrates that this is a black hole \"impostor\" system. The research paper was posted to the arXiv preprint server on Oct. 27.",
+   "date": "2026-11-13",
+   "source": "Phys.org",
+   "first_seen": "2026-11-13",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-black-hole-rapidly-star.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 CUT",
+    "훅: strange, turns out"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-black-hole-rapidly-star.html"
+  },
+  {
    "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
    "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
    "key": "https://sciencedaily.com/releases/2026/11/261104084017.htm",
@@ -604,53 +693,6 @@
     "형식 DOSE",
     "훅: surpris",
     "생활소재: aging, memory, alzheimer",
-    "이미 본 소재(2026-11-02)"
-   ]
-  },
-  {
-   "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261104012308.htm",
-   "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain rewiring without the behavioral response associated with psychedelic effects.",
-   "date": "2026-11-07",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-08",
-   "text": "A new study from the University of California, Santa Cruz, has revealed how psilocybin, the psychedelic substance found in \"magic mushrooms,\" changes the brain by reorganizing connections between nerve cells. The findings could eventually help scientists develop treatments for mental health conditions that capture some of psilocybin's potential benefits without producing hallucinations. The research, published October 15 in Nature Neuroscience , found that psilocybin rapidly encourages brain cells to form new connections and helps those connections mature. At the same time, it promotes the removal of certain older connections, suggesting that its effects involve more than simply increasing communication between neurons. Experiments in mice also revealed something especially intriguing. The researchers were able to separate the cellular changes responsible for this rewiring from a behavioral response commonly associated with psychedelic effects. This suggests that some of psilocybin's effects on brain structure may be achievable without the hallucinations typically associated with the drug. The discovery could provide a foundation for developing medications that enhance the brain's ability to adapt and reorganize itself, a property known as neuroplasticity. Such treatments might eventually offer new approaches for depression, post-traumatic stress disorder (PTSD), and other psychiatric conditions. The team also identified a particular group of neurons in the cerebral cortex that plays an essential role in psilocybin's effects on brain connections. Importantly, the researchers discovered that the drug does not affect every brain in the same way. Its influence depends partly on whether the brain has previously experienced chronic stress. \"I consider this work a major advance, particularly in our understanding of how psilocybin reshapes neural circuits and its potential implications for treating mental disorders,\" said senior author Yi Zuo, professor of molecular, cell, and developmental biology at UC Santa Cruz. Scientific interest in psychedelic drugs has changed dramatically over the past century. During the middle of the 20th century, substances such as psilocybin and LSD attracted attention from Western researchers because of their powerful effects on perception, consciousness, and mood. Early studies suggested these compounds might have applications in psychiatric treatment. However, scientific investigations slowed substantially after the United States passed the Controlled Substances Act in 1970, which imposed strict restrictions on these substances. In recent years, researchers have renewed their interest in psychedelics, particularly their ability to produce rapid and potentially lasting changes in brain function. Scientists sometimes describe these compounds as \"psychoplastogens\" because they can stimulate neuroplasticity after a single dose. Neuroplasticity refers to the brain's capacity to change its structure and activity by forming, strengthening, reorganizing, or removing connections between neurons. This property is particularly interesting for mental health treatment because conditions such as depression can involve disruptions in the circuits responsible for regulating mood, emotions, and behavior. The U.S. Food and Drug Administration (FDA) has previously recognized the therapeutic potential of psychedelic research by granting Breakthrough Therapy designations to substances including psilocybin and MDMA. These designations are intended to accelerate the development and review of promising treatments for serious medical conditions. In September 2026, the FDA took another step toward evaluating psychedelic treatments by organizing a public hearing titled \"Considerations for Potential Future Therapeutic Use of Psychedelic Drugs.\" Experts discussed how healthcare professionals administering psychedelic treatments should be qualified, how potential risks could be managed through Risk Evaluation and Mitigation Strategy (REMS) programs, and how future clinical trials should be designed. As regulators examine ways psychedelic treatments might eventually become part of mainstream healthcare, researchers are increasingly focused on understanding exactly what these substances do to the brain. Identifying the cellular mechanisms behind their effects could help scientists develop treatments that are both effective and safer to administer. To investigate how psilocybin changes brain structure, the UC Santa Cruz team used an advanced imaging method called two-photon microscopy. This technology allows scientists to observe extremely small structures inside living tissue with remarkable detail. Using it, the researchers followed individual connections on neurons in living mice over several weeks, allowing them to see how those structures changed after psilocybin treatment. Their attention centered on tiny projections called dendritic spines. These structures extend from neurons and receive messages from neighboring nerve cells. They help form synapses, the specialized junctions through which neurons communicate. Synapses are essential for processing information and supporting functions such as learning, memory, and emotional regulation. Changes in their number, strength, and organization can alter the way information travels through the brain. Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines. But the drug did more than encourage new connections to appear. It also helped them develop into more mature structures at an unusually rapid pace. Normally, newly formed spines often begin as small, immature structures described as \"stubby.\" Many remain unstable and disappear before becoming fully developed connections. After psilocybin treatment, however, a much larger proportion developed into structures with a distinctive \"mushroom\" appearance. These mature spines are generally more stable and contain higher concentrations of receptors that receive chemical signals from neighboring neurons. Because of these features, mature spines can support stronger and more persistent communication between brain cells, potentially contributing to lasting changes in circuits involved in memory and mood. For lead author Jacob Baker, one of the biggest questions is whether these structural changes require the intense psychedelic experience typically produced by psilocybin. \"Psychedelics are fascinating compounds because they have the potential to profoundly transform who we are by reshaping the neural circuits in our brains,\" said Baker, a Ph.D. student in Zuo's lab. \"These newly formed connections can integrate into existing neural circuitry and persist over time, leaving a lasting structural trace of psilocybin's effects on the brain.\" One of the study's most revealing findings was that psilocybin's influence on brain connections changed depending on whether the mice had experienced prolonged stress. In healthy mice, psilocybin initially stimulated the formation of new dendritic spines. Over the following three weeks, however, the number of connections gradually moved back toward its previous level. This happened partly because the brain eliminated some connections that had existed before treatment. Rather than simply accumulating additional synapses, the healthy brain appeared to reorganize its existing circuitry while maintaining an overall balance. The researchers observed a different response in mice exposed to chronic stress. To investigate this, they used an unpredictable mild stress model, which exposes animals to varying low-intensity stressors and produces changes that resemble certain features of human depression. Prolonged stress is known to interfere with neural communication and can cause substantial losses of synaptic connections. Over time, these changes can weaken the circuits involved in important brain functions. When the stressed mice received psilocybin, the researchers",
-   "facts": [
-    "The research, published October 15 in Nature Neuroscience , found that psilocybin rapidly encourages brain cells to form new connections and helps those connections mature.",
-    "During the middle of the 20th century, substances such as psilocybin and LSD attracted attention from Western researchers because of their powerful effects on perception, consciousness, and mood.",
-    "However, scientific investigations slowed substantially after the United States passed the Controlled Substances Act in 1970, which imposed strict restrictions on these substances.",
-    "Within just 24 hours of psilocybin administration, the researchers observed a substantial increase in newly forming dendritic spines.",
-    "To explore this possibility, the scientists examined the role of serotonin 2A receptors (5-HT2ARs), which are proteins on the surfaces of cells that respond to chemical signals.",
-    "The researchers focused on a group of nerve cells called Layer 5 pyramidal neurons.",
-    "Layer 5 pyramidal neurons serve as important communication pathways that send information from the cortex to other brain regions.",
-    "They also contain high levels of serotonin 2A receptors, making them especially relevant to understanding psilocybin's effects.",
-    "When the researchers restored serotonin 2A receptors only in Layer 5 pyramidal neurons, psilocybin was still able to stimulate the development of new synapses and help stabilize them.",
-    "When they removed serotonin 2A receptors specifically from Layer 5 pyramidal neurons, psilocybin lost its ability to stimulate the same structural growth of synapses."
-   ],
-   "doi": [
-    "10.1038/s41593-026-02490-y"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Jacob J. Baker, Emily Kogan, Shaorong Ma, Ju Lu, Yi Zuo. 5-HT2A receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin . Nature Neuroscience , 2026; DOI: 10.1038/s41593-026-02490-y",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261104012308.htm"
-   ],
-   "format": "DOSE",
-   "seen": "2026-11-02",
-   "catch": [
-    "동물 실험",
-    "상관관계"
-   ],
-   "score": 7,
-   "why": [
-    "형식 DOSE",
-    "훅: surpris, didn't",
-    "생활소재: brain, stress, mice",
     "이미 본 소재(2026-11-02)"
    ]
   },
@@ -704,47 +746,6 @@
     "형식 CUT",
     "훅: wrong",
     "생활소재: alzheimer, brain"
-   ]
-  },
-  {
-   "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261105085201.htm",
-   "summary": "Scientists have discovered a remarkably preserved 450-million-year-old fossil containing soft tissues from an ancient starfish relative, revealing unexpected details about marine life more than 200 million years before dinosaurs existed. Found in a museum collection, the extraordinarily rare specimen offers new clues about how Earth's earliest reef animals fed, survived, and evolved.",
-   "date": "2026-11-10",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-11",
-   "text": "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs appeared. The extraordinarily rare discovery is giving researchers a new understanding of how some of Earth's earliest marine animals lived, fed, and evolved. The fossil belongs to an ancient crinoid, a marine animal related to modern starfish. Crinoids often resemble underwater flowers, with branching arms extending from a central body. More than 450 million years ago, these unusual creatures were among the animals thriving in Earth's earliest coral reefs, long before plants and animals had become widespread on land. Although scientists have discovered millions of crinoid fossils, nearly all preserve only hard skeletal structures. Delicate body parts usually decay long before fossilization can occur, leaving major gaps in our understanding of how these ancient creatures functioned. Now, paleontologists at the University of Oklahoma have identified an exceptionally rare specimen that preserves soft tissue structures, providing an extraordinary opportunity to investigate life in Earth's ancient oceans. \"After an animal dies, soft tissues like skin, eyes, or internal organs are the first things to decay,\" said Dr. Lena Cole, OU paleontologist and assistant curator of invertebrate paleontology at the Sam Noble Oklahoma Museum of Natural History. \"Most fossils are only made up of hard parts like bones, teeth, or shells. Soft tissues are only preserved when the environment acts almost like a natural refrigerator or vacuum‑sealer -- conditions that are incredibly rare.\" A 450 Million-Year-Old Fossil With Exceptionally Rare Soft Tissue The remarkable specimen belongs to Dendrocrinus simcoensis , an extinct species of crinoid. Its preserved tube feet represent only the second known example of fossilized soft tissue in crinoids and the oldest such discovery ever documented. Tube feet are small, flexible structures found in echinoderms, a group of marine animals that includes starfish, sea urchins, and crinoids. Because these structures are soft and easily destroyed after death, finding evidence of them in fossils is extraordinarily unusual. \"Preservation like this is truly one in a million,\" Cole added. \"Crinoid fossils number in the millions, and this is only the second time soft tissues have ever been found.\" The age of the specimen makes the discovery even more remarkable. These delicate structures have been preserved in the fossil record for nearly half a billion years, offering direct evidence of anatomy that would otherwise have disappeared. \"It's incredible these soft tissues have survived more than 450 million years,\" said Dr. David Wright, another OU paleontologist and assistant curator of invertebrate paleontology at the Sam Noble Oklahoma Museum of Natural History, who co‑authored the study with Cole. \"For reference, these soft tissues are more than 200 million years older than the oldest dinosaur.\" The fossil's preserved tube feet are especially valuable because they provide clues about how crinoids obtained food and interacted with their surroundings. Unlike the teeth and jaws that many familiar animals use to eat, crinoids rely on specialized structures to capture food particles from seawater. Their tube feet play an important role in feeding and in how these animals interact with ocean currents. The size, arrangement, and shape of these structures can differ between species, reflecting adaptations to particular habitats and feeding methods. By studying those differences, paleontologists can reconstruct aspects of an extinct animal's lifestyle, even when no living examples of that species exist. \"Since crinoid tube feet are used for feeding, you can think of them in a similar way to how we think about teeth in mammals,\" Wright explained. \"Differences in their structure tell us about what kinds of environments a species lived in and how it fed.\" Researchers also compared the ancient fossil with crinoids living in today's oceans. Those comparisons revealed notable anatomical differences, suggesting that the feeding structures of these animals have undergone substantial evolutionary changes over hundreds of millions of years. \"Comparisons with living crinoids show that the anatomy of this ancient species was very different,\" Cole added. \"This gives us new insight into how crinoids evolved and how their feeding strategies changed over hundreds of millions of years.\" Beyond revealing details about one ancient species, the discovery could help scientists piece together how marine ecosystems developed during the early Paleozoic Era. The Paleozoic was a vast chapter of Earth's history that began about 541 million years ago. During its early stages, marine environments supported an expanding variety of complex animals, while life on land was still relatively limited. Crinoids were among the creatures that became established in early reef communities. Their fossils provide important evidence of how marine animals occupied different ecological roles and adapted to changing environmental conditions. However, studying only living species cannot reveal the full range of forms and adaptations that existed in the distant past. Some extinct animals possessed anatomical features that have no close equivalent among their modern relatives. \"Fossilized remains of long‑extinct species can show features well outside the range of variation we see in living species,\" Wright said. \"By comparing ecological ways of life for extinct and modern species, we can understand how patterns of adaptive evolution have changed through time and what factors shaped the modern biosphere.\" The biosphere includes all living organisms on Earth and the environments they inhabit. Understanding how it developed requires scientists to examine not only which species existed, but also how they interacted with their surroundings and one another. Because soft tissues are so rarely preserved in ancient echinoderms, discoveries like this one provide evidence that conventional fossils cannot offer. They can help researchers identify previously unknown feeding strategies, understand ancient ecosystems, and trace evolutionary changes that eventually shaped modern marine life. Perhaps one of the most surprising aspects of the discovery is where the fossil was found. Although major paleontological breakthroughs are often associated with expeditions to remote locations, valuable scientific evidence can also remain unnoticed for decades in museums. Fossil collections contain enormous numbers of specimens, many of which have never been examined by specialists with the expertise needed to recognize their most important features. As scientific knowledge and research methods improve, these collections can reveal discoveries that earlier generations overlooked. \"New fossil discoveries ultimately come from fieldwork, but museum collections play a significant role in this kind of integrative research,\" Wright said. \"We don't always know the full significance of the specimens we collect. New technologies, ideas or expertise often find surprising ways to utilize existing specimens to make new discoveries.\" The Dendrocrinus simcoensis fossil had been housed for years at Montréal's Musée de paléontologie et de l'évolution, a small museum that operates entirely with support from community donations. Its remarkable scientific value became apparent when Cole and Wright, both specialists in crinoids, visited the museum and examined the specimen more closely. Their investigation revealed that the fossil preserved an extraordinarily rare record of ancient soft tissue, transforming a specimen already held in a museum collection into an important source of new evolutionary evidence. \"This discovery highlights the importance of museum collections and the community support that keeps them alive,\" Cole said. \"Without the dedication ",
-   "facts": [
-    "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs appeared.",
-    "More than 450 million years ago, these unusual creatures were among the animals thriving in Earth's earliest coral reefs, long before plants and animals had become widespread on land.",
-    "Soft tissues are only preserved when the environment acts almost like a natural refrigerator or vacuum‑sealer -- conditions that are incredibly rare.\" A 450 Million-Year-Old Fossil With Exceptionally Rare Soft Tissue The remarkable specimen belongs to Dendrocrinus simcoensis , an extinct species of crinoid.",
-    "These delicate structures have been preserved in the fossil record for nearly half a billion years, offering direct evidence of anatomy that would otherwise have disappeared.",
-    "\"It's incredible these soft tissues have survived more than 450 million years,\" said Dr.",
-    "\"For reference, these soft tissues are more than 200 million years older than the oldest dinosaur.\" The fossil's preserved tube feet are especially valuable because they provide clues about how crinoids obtained food and interacted with their surroundings.",
-    "The Paleozoic was a vast chapter of Earth's history that began about 541 million years ago.",
-    "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261105085201.htm"
-   ],
-   "format": "CUT",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 7,
-   "why": [
-    "형식 CUT",
-    "훅: unexpected",
-    "생활소재: dinosaur"
    ]
   },
   {
@@ -804,6 +805,8 @@
    "date": "2026-11-12",
    "source": "MedicalXpress",
    "first_seen": "2026-11-12",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -816,8 +819,7 @@
    "why": [
     "형식 SCALE",
     "생활소재: diet, supplement, brain"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html"
+   ]
   },
   {
    "title": "We cannot predict the development of social anxiety from brain scans, study says",
@@ -827,6 +829,8 @@
    "date": "2026-11-12",
    "source": "MedicalXpress",
    "first_seen": "2026-11-12",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-social-anxiety-brain-scans.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -842,34 +846,57 @@
     "형식 PRESS",
     "훅: strange",
     "생활소재: children, brain"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-social-anxiety-brain-scans.html"
+   ]
   },
   {
-   "title": "Consuming colorful produce may help reduce COPD-related inflammation, flare-ups",
-   "link": "https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html",
-   "key": "https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html",
-   "summary": "Eating a diet rich in red, yellow and orange fruits and vegetables may help reduce inflammation and exacerbations associated with chronic obstructive pulmonary disease (COPD), according to a new study in the September 2026 issue of Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundation.",
-   "date": "2026-11-04",
+   "title": "Five lifespan-extending treatments boost the same antioxidant in mice",
+   "link": "https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.html",
+   "key": "https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.html",
+   "summary": "Aging is about far more than wrinkles and gray hair, despite what social media and advertisements might have us believe. The real concern lies beneath the surface, where the biology of aging is intertwined with a host of diseases, from heart disease to neurodegenerative diseases like Alzheimer's and Parkinson's to metabolic disorders and cancer. Targeting the processes that make the body age could have effects far beyond any single disease, potentially easing the burden of several age-related conditions at once.",
+   "date": "2026-11-13",
    "source": "MedicalXpress",
-   "first_seen": "2026-11-05",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-13",
    "sources": [
     "MedicalXpress"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html"
+    "https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.html"
    ],
-   "format": "SCALE",
+   "format": "CUT",
    "catch": [
-    "상관관계"
+    "동물 실험"
+   ],
+   "score": 7,
+   "why": [
+    "형식 CUT",
+    "생활소재: aging, social media, alzheimer"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.h"
+  },
+  {
+   "title": "Feejee Mermaid on display in Colorado may shock and intrigue—but no longer considered a 'missing link'",
+   "link": "https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html",
+   "key": "https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html",
+   "summary": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as \"The Little Mermaid\" have made this figure a pop culture icon.",
+   "date": "2026-11-05",
+   "source": "Phys.org",
+   "first_seen": "2026-11-05",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html"
+   ],
+   "format": "",
+   "catch": [
+    "동물 실험"
    ],
    "score": 6,
    "why": [
-    "형식 SCALE",
-    "생활소재: diet"
-   ]
+    "훅: myth, shock",
+    "생활소재: baby, fish"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html"
   },
   {
    "title": "Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain",
@@ -1017,79 +1044,6 @@
    ]
   },
   {
-   "title": "Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers",
-   "link": "https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html",
-   "key": "https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html",
-   "summary": "Expert Counter-Strike players could make ideal candidates for fast-paced emergency service response jobs requiring split-second decision-making, according to a new University of Sheffield study aiming to debunk myths about video games.",
-   "date": "2026-11-04",
-   "source": "Phys.org",
-   "first_seen": "2026-11-04",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-counter-players-decision-reveals-faster.html"
-   ],
-   "format": "",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "훅: myth, debunk",
-    "생활소재: brain"
-   ]
-  },
-  {
-   "title": "Plants' immune memory hints at new crop breeding approach",
-   "link": "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html",
-   "key": "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html",
-   "summary": "A study published in Nature Communications, led by professor Jurriaan Ton and Dr. Adam Hannan Parker at the University of Sheffield, has identified mechanisms by which plants maintain and reset stress memory from past infections. This immune memory enables plants to defend themselves more effectively against harmful bacteria and mildews, which are increasingly threatening our crop and food production.",
-   "date": "2026-11-04",
-   "source": "Phys.org",
-   "first_seen": "2026-11-04",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "생활소재: memory, stress"
-   ]
-  },
-  {
-   "title": "Tiny fossils show brittle stars gathered around a dead whale 9.5 million years ago",
-   "link": "https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html",
-   "key": "https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html",
-   "summary": "Tiny skeletal plates recovered beside fossil whale bones in southern Denmark offer a rare glimpse of life around a whale carcass approximately 9.5 million years ago. Researchers have identified a new species of brittle star, Ophiura huebnerjenseni, from the Gram Clay Pit and suggest it represents the first fossil record of brittle stars associated with a whale fall.",
-   "date": "2026-11-04",
-   "source": "Phys.org",
-   "first_seen": "2026-11-04",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html"
-   ],
-   "format": "CUT",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 5,
-   "why": [
-    "형식 CUT"
-   ]
-  },
-  {
    "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
    "link": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
    "key": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
@@ -1162,6 +1116,30 @@
    "score": 5,
    "why": [
     "형식 SCALE"
+   ]
+  },
+  {
+   "title": "How do octopuses remember? Scientists uncover a surprising secret",
+   "link": "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
+   "key": "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
+   "summary": "How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebrew University of Jerusalem and Ruppin Academic Center—has uncovered a previously unknown molecular mechanism that may help explain how these remarkably intelligent animals form and maintain memories.",
+   "date": "2026-11-06",
+   "source": "Phys.org",
+   "first_seen": "2026-11-06",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html"
+   ],
+   "format": "",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "훅: surpris, secret",
+    "생활소재: octopus"
    ]
   },
   {
@@ -1297,51 +1275,46 @@
    ]
   },
   {
-   "title": "A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree",
-   "link": "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
-   "key": "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
-   "summary": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as \"The Little Mermaid\" have made this figure a pop culture icon.",
-   "date": "2026-11-04",
+   "title": "Flesh-eating screwworm is spreading in the US, threatening livestock and wildlife – hunters can be the first line of defense",
+   "link": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891",
+   "key": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891",
+   "summary": "Over 100 screwworm cases have appeared in US animals in 2026, including in elk. How America’s 11.5 million hunters can help find these parasites and contain the spread.",
+   "date": "2026-11-06",
    "source": "The Conversation",
-   "first_seen": "2026-11-05",
-   "text": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshipped Oannes , a human-fish hybrid; sirens populated Greek mythology ; and fairy tales such as “ The Little Mermaid ” have made this figure a pop culture icon. During the 1800s, American showman P.T. Barnum brought the Feejee Mermaid to the American public. Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution. Some people believed it was a missing link in the evolutionary chain between aquatic and terrestrial life. I recently viewed a Feejee Mermaid replica on display at the Denver Museum of Nature and Science as part of the “ Mythic Creatures: Dragons, Unicorns and Mermaids” temporary exhibit . As a folklorist , I’m intrigued by how this mermaid subverted Americans’ expectations that mermaids are alluring and how it sparked an interplay between science and myth. A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago. It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City. In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché. Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half. Feejee Mermaids were often preserved by being coated in clay . Mammalian-fish hybrid creatures have a role in Japanese folklore through the ningyo , which are a mermaidlike yokai, a supernatural being thought to have the power to either curse or grant eternal life. Unlike Western mermaids, ningyo were grotesque. The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century. He claimed to have caught the specimen and said it prophesied a sterility epidemic. The only cure for the townsfolk, the fisherman said, came through owning a picture of the mermaid. Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842. In his autobiography, Barnum details the scheme he devised after Kimball showed him the Feejee Mermaid. Barnum sent letters to newspapers, describing how a “Dr. Griffin,” who was really his hoaxing accomplice Levi Lyman, was in possession of the mermaid skeleton. He further spread the word by distributing thousands of pamphlets throughout New York City that detailed when the mermaid would be on display and highlighted the seductive nature of mermaids. However, when the public arrived at the American Museum, much to their surprise, they found Barnum’s grotesque version. Barnum himself described it as “an ugly dried-up, black-looking diminutive specimen, about three feet long. Its mouth was open, its tail turned over and its arms thrown up, giving it the appearance of having died in great agony.” The Feejee Mermaid on display at the Denver Museum of Nature and Science, and owned by the Peabody Museum of Archaeology and Ethnology, may or may not be the one shown by Barnum. The museum says it is a replica. The original was likely destroyed or disfigured in a fire at Barnum’s museum or the Boston Museum. The object on display looks quite different compared to original descriptions of the Feejee Mermaid. As originally shown, it was said to be much more monkeylike, and artistic renderings of it from the period matched Barnum’s descriptions. Feejee Mermaids, as displayed in America, are characteristic of a “ sideshow gaff ” that interested Victorian audiences due to debates about evolution and science. In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree . The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America.",
+   "first_seen": "2026-11-07",
+   "text": "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U.S. mainland, and it is putting livestock and other animals at risk. The New World screwworm doesn’t just attack cattle. All warm-blooded animals are susceptible, including deer and elk, as well as small game, waterfowl and pets. That means hunters headed to the field this fall may be the most important line of defense for spotting this destructive parasite and keeping it from spreading further. As co-directors of the Mississippi State University deer lab , we believe the country’s millions of hunters can serve as a powerful early warning system by keeping a close eye on the state of wildlife they see. Wildlife agencies are already asking them to be vigilant and report any signs of screwworm infestations . Unlike other blowflies , New World screwworm larvae feed on living tissue rather than dead tissue. They lay eggs in open wounds or mucosal openings, such as the eyes and nose of livestock, deer or elk. Wounds as small as tick bites or scratches, as well as natural openings such as the umbilical stump on newborns or on deer’s pedicles , where their antlers grow and are shed, can attract these parasites. Once the eggs hatch, the maggots burrow into the animal’s flesh and feed, enlarging the wound and attracting more flies. Over time, this leads to infection and death. All warm-blooded animals are susceptible to the New World screwworm, but America has seen firsthand the harm they can cause to livestock. In the 1950s, livestock producers in the U.S. Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today. The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas. The New World screwworm has a life cycle of only about 21 days, and each female mates only once. Because of that, inundating areas with sterile male flies for a few months, which equates to a few generations of flies, can eradicate a screwworm population. Over time, sterile flies were used to push the New World screwworm further south, where they had been contained behind the Darién Gap , Panama’s narrow border region with Colombia. Sterile flies kept the parasite south of Panama for years, but the movement of cattle and wildlife likely brought it north again . Since 2022, the parasites have been reproducing and moving farther northward . There have been hundreds of detections in Mexico and now in the U.S. Wildlife have received far less attention than livestock during screwworm infestations, with one exception: In July 2016, the New World screwworm was detected in the Florida Keys in an endangered deer population : the Florida Key deer ( Odocoileus virginianus clavium ). At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals . Because they were endangered and isolated, primarily on the islands of Big Pine Key and No Name Key , they were monitored more closely than most wildlife. U.S. Fish and Wildlife Service biologists established quarantine zones. They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area. The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered. In June 2026, screwworm was back in the United States. A rancher discovered the first New World screwworm case in a calf near La Pryor, Texas. A few more cases were confirmed in livestock and domestic animals in Texas and New Mexico . The number of cases in animals had passed 120 as of Nov. 7, 2026 , including in two elk reported by hunters in Texas . The U.S. government has started ramping up production of sterile flies to try to keep the parasites from spreading. Although there have been only a couple of cases reported in wildlife, that isn’t necessarily reassuring. Wildlife are far more likely to carry the parasite without being detected. Once the screwworm is detected, treatment would also be much more complicated for wildlife than for livestock, because wildlife cannot be treated individually and thus are more dependent on the use of sterile flies to eradicate screwworm. For this reason, quickly identifying areas with New World screwworm and targeting those areas by releasing sterile flies would be more important than ever. Fortunately, there is an army of conservationists across the country who spend much of their time afield. These conservationists are also known as hunters. According to the latest U.S. Fish and Wildlife Service National Survey of Fishing, Hunting, and Wildlife-Associated Recreation, nearly 11.5 million hunters pursue big game and spend part of the fall and winter in the field hunting ungulate species such as deer and elk. White-tailed deer ( Odocoileus virginianus ) hunters alone are expected to harvest about 6 million deer during the 2026-27 season and will observe millions more. Hunters also review tens of millions of wildlife pictures collected each year by game cameras used for scouting. That level of surveillance can’t be matched. New Mexico’s Department of Agriculture has already called on hunters to report any suspicious larvae, particularly in Grant and Otero counties, where screwworm has been found in livestock. Hunters of all kinds, everywhere, can help. If you’re a hunter, be on the lookout for wounded animals , especially those with visible maggots, and for unusual behaviors such as restlessness, lethargy, or biting or licking wounds. Do not move harvested animals from the field if they show signs of a New World screwworm infection. Doing so could further spread the parasite. Instead, contact the area’s state wildlife agency , the U.S. Department of Agriculture office or a local veterinarian immediately. As hunting seasons get underway across the country, an army of conservationists will be in the field, and they have an important role to play in detecting and managing screwworm’s spread. Hunters already contribute to conservation through license fees, excise taxes and keeping wildlife populations at healthy densities. In the face of New World screwworm, their observations may be most valuable for protecting livestock. This article, originally published Nov. 6, 2026, has been updated with a rising number of cases.",
    "facts": [
-    "During the 1800s, American showman P.T.",
-    "Presented at the American Museum, run by Barnum in Manhattan from 1841 to 1865 , as “ The Greatest Curiosity in the World ” and said to have originated in the “Feejee Islands,” the creature inspired debates about science and evolution.",
-    "A Feejee Mermaid is a type of traditional art form that originated in Japan and the East Indies more than 400 years ago.",
-    "It came to Americans in 1842, when Barnum claimed to display a “specimen” at the American Museum in New York City.",
-    "In the Japanese version, the lower half was a fish attached to an upper half of a monkey or made of papier-mâché.",
-    "Barnum’s was a mixture of a monkey and a fish, but the replica on display at the Denver Museum of Nature and Science has a papier-mâché upper half.",
-    "The Feejee Mermaid that became part of Barnum’s exhibition was created by a Japanese fisherman in the early 19th century.",
-    "Samuel Barrett Eades, an American sailor, purchased the Feejee Mermaid and willed it to his son, who then sold it to Moses Kimball , a curator at the Boston Museum, in 1842.",
-    "In fact, 18th-century Swedish naturalist Carl Linnaeus had left space for mermaids in the evolutionary tree .",
-    "The Feejee Mermaid, as it blended human and animal characteristics, folklore and science, spectacle and empiricism, displays how a monstrous hoax inspired fierce intellectual debates in 19th-century America."
+    "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U.S. mainland, and it is putting livestock and other animals at risk.",
+    "In the 1950s, livestock producers in the U.S.",
+    "Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today.",
+    "The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas.",
+    "The New World screwworm has a life cycle of only about 21 days, and each female mates only once.",
+    "Since 2022, the parasites have been reproducing and moving farther northward .",
+    "Wildlife have received far less attention than livestock during screwworm infestations, with one exception: In July 2016, the New World screwworm was detected in the Florida Keys in an endangered deer population : the Florida Key deer ( Odocoileus virginianus clavium ).",
+    "At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals .",
+    "They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area.",
+    "The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered."
    ],
    "doi": [],
-   "sample": [],
+   "sample": [
+    "1,000 individuals"
+   ],
    "catch_extra": [
     "DOI 못 찾음"
    ],
    "sources": [
-    "The Conversation",
-    "Phys.org"
+    "The Conversation"
    ],
    "links": [
-    "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
-    "https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html"
+    "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891"
    ],
-   "format": "",
-   "seen": "2026-11-02",
+   "format": "SCALE",
    "catch": [
-    "동물 실험",
     "DOI 못 찾음"
    ],
    "score": 4,
    "why": [
-    "훅: myth, shock",
-    "생활소재: baby, fish",
-    "2곳 보도",
-    "이미 본 소재(2026-11-02)"
+    "형식 SCALE"
    ]
   }
  ]
