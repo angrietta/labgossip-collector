@@ -504,6 +504,24 @@
    "date": "2026-11-11",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-12",
+   "text": "A surprising new study has found that people who are overweight or obese when diagnosed with dementia tend to live longer than those who have a normal body weight. The findings challenge expectations about the relationship between weight and health, suggesting that carrying extra weight may be associated with an unexpected survival advantage after dementia develops. Researchers from Columbia University Mailman School of Public Health and NYU School of Global Public Health found that body weight at the time of diagnosis may provide important clues about how long someone with dementia is likely to live. Their findings, published in the Journal of Alzheimer's Disease , also highlight the importance of proper nutrition for people living with the condition. The results are particularly intriguing because obesity is well established as a risk factor for several serious health problems, including heart disease and diabetes. Being overweight or obese during middle age is also associated with a greater likelihood of developing dementia later in life. However, previous research has suggested that the relationship may reverse once dementia has developed, with higher body weight linked to better survival. \"Because this finding is somewhat counterintuitive, an important question is whether it could simply be an artifact of bias. Our analyses suggest that the major sources of bias we examined do not explain the survival advantage associated with higher weight,\" said corresponding author Yuan Zhang, PhD, assistant professor of Sociomedical Sciences at Columbia Mailman and in the Butler Columbia Aging Center. The researchers found substantial differences in survival based on body weight at the time of dementia diagnosis. Compared with individuals in the normal weight range, those who were overweight or obese had a significantly lower risk of death, even after the researchers accounted for smoking, existing medical conditions, and demographic characteristics. People classified as overweight (body mass index of 25 to 29.9) had a 16 percent lower risk of death. Those with class 1 obesity (BMI of 30 to 34.9) had an even larger reduction of 27 percent, while individuals with class 2 and 3 obesity (BMI equal to or greater than 35) had a 22 percent lower risk. Despite these striking differences, the researchers caution that the findings should not be interpreted as a recommendation for people with dementia to gain weight. \"This doesn't mean that patients with dementia should attempt to become overweight or obese, as our study was not designed to test that question. But our findings do suggest that weight status may serve as a useful prognostic signal for survival at the time of dementia diagnosis. They also support the notion that nutrition is a key factor in the health and survival of people with dementia,\" said Virginia Chang, associate professor of Social and Behavioral Sciences at NYU School of Global Public Health and the study's first author. To investigate the connection, Zhang, Chang, and their colleagues examined information from the Health and Retirement Study, a nationally representative research project that follows Americans ages 51 and older. The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition. Because the data covered such a long period, the researchers could examine how participants' weight changed in the years leading up to their diagnosis. They could also determine their weight when dementia was identified and track their survival afterward. This extended timeline was especially important because scientists have questioned whether the apparent benefit of higher body weight is genuine or simply reflects misleading patterns in the data. One possibility is that having additional fat or muscle gives patients resources that help them withstand the physical effects of dementia. Another is that the association arises from factors that earlier studies did not adequately consider. One major concern involves weight loss that occurs before dementia becomes clinically apparent. Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches. This creates a potential problem for studies that measure weight only at the time dementia is diagnosed. Some individuals classified as having a normal weight may previously have been heavier and lost weight because of the developing disease. If those individuals are already experiencing more advanced illness, they may face a greater risk of death, making higher body weight appear beneficial by comparison. The researchers also considered other possible distortions. Restricting an analysis to people who develop dementia can create misleading relationships between obesity and mortality, even when the underlying connection is more complicated. Another concern is known as \"survivor\" bias. Since people with obesity face an increased risk of dying from certain illnesses before reaching the age when dementia typically develops, those who survive long enough to receive a dementia diagnosis may represent an unusually healthy group. To determine whether these factors explained the findings, the team performed additional analyses designed to evaluate several potential sources of bias. The results indicated that the biases they examined were unlikely to be major drivers of the observed connection between higher weight and lower mortality. Although the precise explanation remains unknown, the researchers identified several biological reasons why additional body weight could be advantageous for someone already living with dementia. One possibility involves the body's energy reserves. People with more stored fat or greater muscle mass may be better equipped to withstand periods of poor nutrition and the physical deterioration that can accompany the disease. Dementia can interfere with eating in several ways. Changes in brain function may reduce appetite or motivation to eat, while some patients experience increased energy needs or gradually lose the ability to feed themselves. Over time, these problems can contribute to significant weight loss, muscle wasting, and declining health. \"Nutrition can be a big problem for people with dementia,\" said Chang. \"They may experience wasting and an inability to eat, which can be due to changes in the brain's central drive, leading to loss of appetite and initiative, increased energy expenditure, and difficulties feeding themselves.\" Having additional energy stores or muscle tissue could potentially help patients cope with these challenges, although the study did not establish that these factors directly explain the survival differences. The researchers emphasize that important questions remain unanswered. Even after examining multiple potential biases and identifying plausible biological explanations, they cannot say for certain why overweight and obese participants experienced lower mortality. Nevertheless, Zhang and Chang believe that weight at the time of a dementia diagnosis could provide valuable information about a patient's likely survival. The results also reinforce the importance of recognizing and addressing nutritional problems in people with dementia. Additional study authors include Eleanor Hayes-Larson of the University of Southern California and Hui Zheng of the University of Toronto. The research received funding from the National Institutes of Health (grant numbers R00AG070274, R00AG075317). Materials provided by Columbia University's Mailman School of Public Health . Note: Content may be edited for style and length. NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheime",
+   "facts": [
+    "People classified as overweight (body mass index of 25 to 29.9) had a 16 percent lower risk of death.",
+    "Those with class 1 obesity (BMI of 30 to 34.9) had an even larger reduction of 27 percent, while individuals with class 2 and 3 obesity (BMI equal to or greater than 35) had a 22 percent lower risk.",
+    "To investigate the connection, Zhang, Chang, and their colleagues examined information from the Health and Retirement Study, a nationally representative research project that follows Americans ages 51 and older.",
+    "The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition.",
+    "Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches.",
+    "The research received funding from the National Institutes of Health (grant numbers R00AG070274, R00AG075317).",
+    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
+   ],
+   "doi": [
+    "10.1177/13872877261491694"
+   ],
+   "sample": [
+    "4,523 participants"
+   ],
+   "journal_ref": "Journal Reference : Virginia W. Chang, Eleanor Hayes-Larson, Hui Zheng, Yuan S. Zhang. Body mass index and mortality in incident dementia . Journal of Alzheimer’s Disease , 2026; DOI: 10.1177/13872877261491694",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -519,23 +537,6 @@
     "형식 WEIGH",
     "훅: surpris",
     "생활소재: dementia"
-   ],
-   "text": "A surprising new study has found that people who are overweight or obese when diagnosed with dementia tend to live longer than those who have a normal body weight. The findings challenge expectations about the relationship between weight and health, suggesting that carrying extra weight may be associated with an unexpected survival advantage after dementia develops. Researchers from Columbia University Mailman School of Public Health and NYU School of Global Public Health found that body weight at the time of diagnosis may provide important clues about how long someone with dementia is likely to live. Their findings, published in the Journal of Alzheimer's Disease , also highlight the importance of proper nutrition for people living with the condition. The results are particularly intriguing because obesity is well established as a risk factor for several serious health problems, including heart disease and diabetes. Being overweight or obese during middle age is also associated with a greater likelihood of developing dementia later in life. However, previous research has suggested that the relationship may reverse once dementia has developed, with higher body weight linked to better survival. \"Because this finding is somewhat counterintuitive, an important question is whether it could simply be an artifact of bias. Our analyses suggest that the major sources of bias we examined do not explain the survival advantage associated with higher weight,\" said corresponding author Yuan Zhang, PhD, assistant professor of Sociomedical Sciences at Columbia Mailman and in the Butler Columbia Aging Center. The researchers found substantial differences in survival based on body weight at the time of dementia diagnosis. Compared with individuals in the normal weight range, those who were overweight or obese had a significantly lower risk of death, even after the researchers accounted for smoking, existing medical conditions, and demographic characteristics. People classified as overweight (body mass index of 25 to 29.9) had a 16 percent lower risk of death. Those with class 1 obesity (BMI of 30 to 34.9) had an even larger reduction of 27 percent, while individuals with class 2 and 3 obesity (BMI equal to or greater than 35) had a 22 percent lower risk. Despite these striking differences, the researchers caution that the findings should not be interpreted as a recommendation for people with dementia to gain weight. \"This doesn't mean that patients with dementia should attempt to become overweight or obese, as our study was not designed to test that question. But our findings do suggest that weight status may serve as a useful prognostic signal for survival at the time of dementia diagnosis. They also support the notion that nutrition is a key factor in the health and survival of people with dementia,\" said Virginia Chang, associate professor of Social and Behavioral Sciences at NYU School of Global Public Health and the study's first author. To investigate the connection, Zhang, Chang, and their colleagues examined information from the Health and Retirement Study, a nationally representative research project that follows Americans ages 51 and older. The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition. Because the data covered such a long period, the researchers could examine how participants' weight changed in the years leading up to their diagnosis. They could also determine their weight when dementia was identified and track their survival afterward. This extended timeline was especially important because scientists have questioned whether the apparent benefit of higher body weight is genuine or simply reflects misleading patterns in the data. One possibility is that having additional fat or muscle gives patients resources that help them withstand the physical effects of dementia. Another is that the association arises from factors that earlier studies did not adequately consider. One major concern involves weight loss that occurs before dementia becomes clinically apparent. Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches. This creates a potential problem for studies that measure weight only at the time dementia is diagnosed. Some individuals classified as having a normal weight may previously have been heavier and lost weight because of the developing disease. If those individuals are already experiencing more advanced illness, they may face a greater risk of death, making higher body weight appear beneficial by comparison. The researchers also considered other possible distortions. Restricting an analysis to people who develop dementia can create misleading relationships between obesity and mortality, even when the underlying connection is more complicated. Another concern is known as \"survivor\" bias. Since people with obesity face an increased risk of dying from certain illnesses before reaching the age when dementia typically develops, those who survive long enough to receive a dementia diagnosis may represent an unusually healthy group. To determine whether these factors explained the findings, the team performed additional analyses designed to evaluate several potential sources of bias. The results indicated that the biases they examined were unlikely to be major drivers of the observed connection between higher weight and lower mortality. Although the precise explanation remains unknown, the researchers identified several biological reasons why additional body weight could be advantageous for someone already living with dementia. One possibility involves the body's energy reserves. People with more stored fat or greater muscle mass may be better equipped to withstand periods of poor nutrition and the physical deterioration that can accompany the disease. Dementia can interfere with eating in several ways. Changes in brain function may reduce appetite or motivation to eat, while some patients experience increased energy needs or gradually lose the ability to feed themselves. Over time, these problems can contribute to significant weight loss, muscle wasting, and declining health. \"Nutrition can be a big problem for people with dementia,\" said Chang. \"They may experience wasting and an inability to eat, which can be due to changes in the brain's central drive, leading to loss of appetite and initiative, increased energy expenditure, and difficulties feeding themselves.\" Having additional energy stores or muscle tissue could potentially help patients cope with these challenges, although the study did not establish that these factors directly explain the survival differences. The researchers emphasize that important questions remain unanswered. Even after examining multiple potential biases and identifying plausible biological explanations, they cannot say for certain why overweight and obese participants experienced lower mortality. Nevertheless, Zhang and Chang believe that weight at the time of a dementia diagnosis could provide valuable information about a patient's likely survival. The results also reinforce the importance of recognizing and addressing nutritional problems in people with dementia. Additional study authors include Eleanor Hayes-Larson of the University of Southern California and Hui Zheng of the University of Toronto. The research received funding from the National Institutes of Health (grant numbers R00AG070274, R00AG075317). Materials provided by Columbia University's Mailman School of Public Health . Note: Content may be edited for style and length. NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheime",
-   "doi": [
-    "10.1177/13872877261491694"
-   ],
-   "journal_ref": "Journal Reference : Virginia W. Chang, Eleanor Hayes-Larson, Hui Zheng, Yuan S. Zhang. Body mass index and mortality in incident dementia . Journal of Alzheimer’s Disease , 2026; DOI: 10.1177/13872877261491694",
-   "facts": [
-    "People classified as overweight (body mass index of 25 to 29.9) had a 16 percent lower risk of death.",
-    "Those with class 1 obesity (BMI of 30 to 34.9) had an even larger reduction of 27 percent, while individuals with class 2 and 3 obesity (BMI equal to or greater than 35) had a 22 percent lower risk.",
-    "To investigate the connection, Zhang, Chang, and their colleagues examined information from the Health and Retirement Study, a nationally representative research project that follows Americans ages 51 and older.",
-    "The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition.",
-    "Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches.",
-    "The research received funding from the National Institutes of Health (grant numbers R00AG070274, R00AG075317).",
-    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
-   ],
-   "sample": [
-    "4,523 participants"
    ]
   },
   {
@@ -546,6 +547,8 @@
    "date": "2026-11-12",
    "source": "MedicalXpress",
    "first_seen": "2026-11-12",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -558,8 +561,7 @@
    "why": [
     "형식 SCALE",
     "훅: wrong, actually"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html"
+   ]
   },
   {
    "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
@@ -777,6 +779,8 @@
    "date": "2026-11-12",
    "source": "Phys.org",
    "first_seen": "2026-11-12",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -790,8 +794,56 @@
     "형식 PRESS",
     "훅: first time",
     "생활소재: bird"
+   ]
+  },
+  {
+   "title": "Clinical trial explores potential brain health benefits of dietary supplement",
+   "link": "https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html",
+   "key": "https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html",
+   "summary": "A dietary supplement called urolithin A increased blood flow to the brain during mental activity in middle-aged adults with obesity, according to a University of Oklahoma study published in JAMA Network Open. The findings could help researchers better understand the relationship between the supplement, blood vessel function and brain health.",
+   "date": "2026-11-12",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-12",
+   "sources": [
+    "MedicalXpress"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html"
+   "links": [
+    "https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet, supplement, brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html"
+  },
+  {
+   "title": "We cannot predict the development of social anxiety from brain scans, study says",
+   "link": "https://medicalxpress.com/news/2026-11-social-anxiety-brain-scans.html",
+   "key": "https://medicalxpress.com/news/2026-11-social-anxiety-brain-scans.html",
+   "summary": "Freezing when a stranger enters the room, retreating to a parent's lap or being reluctant to approach other children: inhibited behavior in childhood is strongly associated with social anxiety disorder later in life. But is this inhibition also reflected in the brain, and could brain scans therefore help identify the early signs of social anxiety disorder?",
+   "date": "2026-11-12",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-12",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-social-anxiety-brain-scans.html"
+   ],
+   "format": "PRESS",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 7,
+   "why": [
+    "형식 PRESS",
+    "훅: strange",
+    "생활소재: children, brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-social-anxiety-brain-scans.html"
   },
   {
    "title": "Consuming colorful produce may help reduce COPD-related inflammation, flare-ups",
@@ -866,57 +918,6 @@
    "score": 6,
    "why": [
     "형식 SCALE"
-   ]
-  },
-  {
-   "title": "Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly",
-   "link": "https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html",
-   "key": "https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html",
-   "summary": "Patients with early-onset Alzheimer's disease, whose symptoms start before age 65, have more extensive deposits of tau, a hallmark protein of the condition, compared with patients whose symptoms start at 65-plus, a new study found. What's more, tau accumulates at more than twice the rate in younger compared to older patients and spreads widely throughout the brain.",
-   "date": "2026-11-05",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-05",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 SCALE",
-    "생활소재: alzheimer, brain"
-   ]
-  },
-  {
-   "title": "Why do blind people and musicians hear pitch better? New research suggests they have less internal noise",
-   "link": "https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html",
-   "key": "https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html",
-   "summary": "People who have lived most of their lives blind often have extraordinary hearing abilities. In new research published in the Journal of Neuroscience, my colleagues and I discovered that this ability arises from how their auditory systems are able to more consistently and reliably process sounds compared with people who aren't blind. And interestingly, sighted musicians seem to enhance their hearing through a similar mechanism.",
-   "date": "2026-11-05",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-06",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress",
-    "The Conversation"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html",
-    "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 SCALE",
-    "생활소재: music",
-    "2곳 보도"
    ]
   },
   {
@@ -999,6 +1000,8 @@
    "date": "2026-11-11",
    "source": "Phys.org",
    "first_seen": "2026-11-12",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -1011,8 +1014,7 @@
    "why": [
     "형식 CUT",
     "훅: unexpected"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html"
+   ]
   },
   {
    "title": "Are Counter-Strike players better at decision-making? Study reveals faster brain processing in expert gamers",

@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-09
 
-최근 8일 누적 896건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 956건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common osteoporosis drugs linked to 24% lower dementia risk in major study
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-09
@@ -200,37 +200,38 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The Okinawa rail (Hypotaenidia okinawae) is an endangered flightless bird endemic to the Yanbaru forest region of Okinawa Island in Japan. The bird has only recently begun recovering its numbers after introduced predators, such as the mongoose, and traffic accidents reduced its population to as low 
 
-## 22. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
+## 22. Clinical trial explores potential brain health benefits of dietary supplement
+- 점수 7 · SCALE · MedicalXpress · 2026-11-12
+- https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A dietary supplement called urolithin A increased blood flow to the brain during mental activity in middle-aged adults with obesity, according to a University of Oklahoma study published in JAMA Network Open. The findings could help researchers better understand the relationship between the suppleme
+
+## 23. We cannot predict the development of social anxiety from brain scans, study says
+- 점수 7 · PRESS · MedicalXpress · 2026-11-12
+- https://medicalxpress.com/news/2026-11-social-anxiety-brain-scans.html
+- 주의: 상관관계
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Freezing when a stranger enters the room, retreating to a parent's lap or being reluctant to approach other children: inhibited behavior in childhood is strongly associated with social anxiety disorder later in life. But is this inhibition also reflected in the brain, and could brain scans therefore
+
+## 24. Consuming colorful produce may help reduce COPD-related inflammation, flare-ups
 - 점수 6 · SCALE · MedicalXpress · 2026-11-04
 - https://medicalxpress.com/news/2026-11-consuming-copd-inflammation-flare-ups.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Eating a diet rich in red, yellow and orange fruits and vegetables may help reduce inflammation and exacerbations associated with chronic obstructive pulmonary disease (COPD), according to a new study in the September 2026 issue of Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundati
 
-## 23. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
+## 25. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial
 
-## 24. Combining HIV prevention and addiction treatment in mobile clinics could save lives
+## 26. Combining HIV prevention and addiction treatment in mobile clinics could save lives
 - 점수 6 · SCALE · MedicalXpress · 2026-11-05
 - https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to communit
-
-## 25. Rapid tau spread may explain why midlife Alzheimer's progresses more rapidly
-- 점수 6 · SCALE · MedicalXpress · 2026-11-05
-- https://medicalxpress.com/news/2026-11-rapid-tau-midlife-alzheimer-rapidly.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Patients with early-onset Alzheimer's disease, whose symptoms start before age 65, have more extensive deposits of tau, a hallmark protein of the condition, compared with patients whose symptoms start at 65-plus, a new study found. What's more, tau accumulates at more than twice the rate in younger 
-
-## 26. Why do blind people and musicians hear pitch better? New research suggests they have less internal noise
-- 점수 6 · SCALE · MedicalXpress / The Conversation · 2026-11-05
-- https://medicalxpress.com/news/2026-11-people-musicians-pitch-internal-noise.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: People who have lived most of their lives blind often have extraordinary hearing abilities. In new research published in the Journal of Neuroscience, my colleagues and I discovered that this ability arises from how their auditory systems are able to more consistently and reliably process sounds comp
 
 ## 27. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
 - 점수 6 · CUT · Phys.org · 2026-11-09
