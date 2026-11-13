@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-09
 
-최근 8일 누적 905건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 977건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common osteoporosis drugs linked to 24% lower dementia risk in major study
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-09
@@ -162,17 +162,15 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Sometimes massive stars can mimic the behavior of a black hole and trick astronomers into misinterpreting their nature. Such is the case with a strange pair of stars in the Large Magellanic Cloud (LMC) cluster NGC 1850. The system was initially thought to contain a star about five times the mass of 
 
-## 18. An anti-aging drug may help protect the brain before Alzheimer's symptoms begin
-- 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-06
-- https://www.sciencedaily.com/releases/2026/11/261104084017.htm
-- DOI: 10.1177/0271678X261490342
-- 이미 본 소재: 2026-11-02 보드에 있었음
-- 요약: A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women
-  - "A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life."
-  - "People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties."
-  - ""Alzheimer's tends to happen more in older people, especially for those with APOE4," Lin said."
-  - "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4."
-  - "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not."
+## 18. A surprising brain difference may explain why some kids struggle with math
+- 점수 8 · PRESS · ScienceDaily 전체 · 2026-11-13
+- https://www.sciencedaily.com/releases/2026/11/261112025542.htm
+- DOI: 10.1523/JNEUROSCI.2200-25.2026
+- 대상: 68 children
+- 주의: 상관관계
+- 요약: Stanford researchers have discovered that children who struggle persistently with math may have underlying differences in how their brains manage problem-solving strategies. Children with developmental dyscalculia were slower to switch strategies, less responsive to changes in difficulty, and less a
+  - "To investigate these challenges, the Stanford team studied 68 children between the ages of 8 and 10."
+  - "Popular Weight-Loss Drugs May Have a Surprising Effect on Your Brain A Natural “Varnish” May Explain How 37,000-Year-Old Cave Art Survived Scientists Just Found a Key Ingredient for Superconductivity at Room Temperature Scientists Discover That Male and Female Hearts Age in Surprisingly Different Ways"
 
 ## 19. Cool adaptations: How fish survive in the Antarctic Ocean
 - 점수 7 · CUT · Phys.org · 2026-11-11
@@ -219,25 +217,24 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Aging is about far more than wrinkles and gray hair, despite what social media and advertisements might have us believe. The real concern lies beneath the surface, where the biology of aging is intertwined with a host of diseases, from heart disease to neurodegenerative diseases like Alzheimer's and
 
-## 26. Feejee Mermaid on display in Colorado may shock and intrigue—but no longer considered a 'missing link'
+## 26. Mediterranean diet can help clear fat from the pancreas and improve blood-sugar control
+- 점수 7 · SCALE · MedicalXpress · 2026-11-13
+- https://medicalxpress.com/news/2026-11-mediterranean-diet-fat-pancreas-blood.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Fat that builds up in the pancreas is one of the lesser-known risk factors for diabetes and metabolic syndrome, but it turns out it can be targeted directly through what's on the plate.
+
+## 27. New guidance outlines use of first immunotherapy for children newly diagnosed with type 1 diabetes
+- 점수 7 · SCALE · MedicalXpress · 2026-11-13
+- https://medicalxpress.com/news/2026-11-guidance-outlines-immunotherapy-children-newly.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: For the first time, children ages 8 to 17 who are newly diagnosed with type 1 diabetes have access to an approved treatment that targets the underlying autoimmune disease, rather than solely managing blood sugar levels with insulin.
+
+## 28. Feejee Mermaid on display in Colorado may shock and intrigue—but no longer considered a 'missing link'
 - 점수 6 · 형식? · Phys.org · 2026-11-05
 - https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as "The Little Mermaid" have made this figure a pop culture icon.
-
-## 27. Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain
-- 점수 6 · SCALE · MedicalXpress · 2026-11-05
-- https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html
-- 주의: 상관관계
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial
-
-## 28. Combining HIV prevention and addiction treatment in mobile clinics could save lives
-- 점수 6 · SCALE · MedicalXpress · 2026-11-05
-- https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to communit
 
 ## 29. New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis
 - 점수 6 · CUT · Phys.org · 2026-11-09

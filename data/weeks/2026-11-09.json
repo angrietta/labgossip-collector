@@ -21,14 +21,14 @@
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 28
+   "span_days": 29
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 38
+   "span_days": 36
   },
   {
    "feed": "ScienceDaily 건강",
@@ -225,6 +225,16 @@
    "date": "2026-11-12",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-13",
+   "text": "Turbulence is all around us, from milk swirling into a cup of coffee to powerful storms churning through the atmosphere and oceans. But turbulence also occurs throughout space, where it behaves in ways that scientists are still struggling to understand. Unlike the air and water on Earth, much of the matter in space consists of electrically charged particles in a state (known as the plasma state). These particles interact strongly with magnetic and electric fields, creating turbulence that is fundamentally different from what we experience on Earth. Space plasma is also so thinly spread that particles rarely collide with one another, making its behavior even more unusual. Scientists have long struggled to explain how turbulence develops under these conditions and how energy is distributed among its constantly changing fluctuations. Now, an international research team has uncovered a surprising clue: hidden within the seemingly random motion of space plasma is a distinct magnetic pattern that reverses direction at very small scales. The discovery, published in The Astrophysical Journal Letters , reveals a previously unobserved phenomenon that could improve our understanding of the solar wind and the turbulent conditions that influence space weather. Researchers from the Technische Universität Braunschweig and the University of Tokyo, working with Tohoku University, Kyushu University, Osaka University, and other international institutions, identified the phenomenon using observations from NASA's Parker Solar Probe. The collaboration brought together scientists from ten countries, including researchers at the Institute of Theoretical Physics at Technische Universität Braunschweig. By analyzing highly precise measurements of magnetic fields and particles, the team discovered that turbulent magnetic fields reverse their direction of rotation at a particular range of wavelengths. This marks the first direct observation of such a reversal in space turbulence. Even more surprisingly, the reversal becomes more pronounced and shifts toward longer wavelengths as the solar wind travels farther from the Sun. The change occurs at a critical boundary where the behavior of plasma shifts from the collective movement of a flowing fluid to the dynamics of individual particles. This connection suggests that the magnetic reversal may provide an important new way to understand how turbulence operates across different physical scales. At larger scales, plasma moves much like a fluid. Swirling structures called vortices and electromagnetic waves create increasingly complex fluctuations, producing the turbulent conditions found throughout space. Although these movements appear random, the researchers discovered that the rotation of the magnetic fields follows a consistent pattern. When viewed along a direction pointing outward from the Sun, magnetic fields at larger scales tend to rotate counterclockwise. At much smaller scales, however, the preferred rotation switches to clockwise. This reversal occurs precisely where plasma stops behaving primarily like a fluid and begins exhibiting behavior governed by individual particles. The finding is particularly striking because it reveals a clear, organized feature within a system otherwise dominated by seemingly unpredictable fluctuations. \"We see a clear structure in the spectrum, even though the turbulence represents unstructured motions,\" says Dr. Masatomi Iizawa (TU Braunschweig), the study's first author. Dr. Yokoi (University. of Tokyo) emphasizes the broader importance of the discovery, stating, \"The results are of great significance for both plasma physics and astrophysics.\" Although the magnetic reversal occurs at extremely small scales, understanding it could have far-reaching consequences for space physics. Plasma turbulence is a major feature of many environments throughout the universe, including Earth's magnetosphere, the solar wind, regions affected by solar eruptions, interplanetary space, and the disks of material surrounding astronomical objects known as accretion disks. It also influences the shock waves and clouds of magnetic material that travel through interplanetary space following eruptions on the Sun. These disturbances can play an important role in geomagnetic storms, making plasma turbulence a critical factor in efforts to predict space weather. By showing how an organized magnetic pattern emerges as turbulent plasma transitions from fluid behavior to particle behavior, the new research provides an important piece of a longstanding physics puzzle. The findings could ultimately help scientists better understand the complex processes that govern the solar wind and improve the physical models used to forecast geomagnetic storms. Materials provided by School of Science, The University of Tokyo . Note: Content may be edited for style and length. NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different",
+   "facts": [
+    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
+   ],
+   "doi": [
+    "10.3847/2041-8213/aea84b"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Masatomi Iizawa, Yasuhito Narita, Tommaso Alberti, Stuart D. Bale, Axel Brandenburg, Abraham C.-L. Chian, Horia Comişel, Shuichi Matsukiyo, Nobumitsu Yokoi. Nonlocal Evolution of Magnetic Helicity across the Magnetohydrodynamic–Kinetic Interface . The Astrophysical Journal Letters , 2026; 1010 (2): L21 DOI: 10.3847/2041-8213/aea84b",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -237,16 +247,7 @@
    "why": [
     "형식 PRESS",
     "훅: surpris, unexpected, secret"
-   ],
-   "text": "Turbulence is all around us, from milk swirling into a cup of coffee to powerful storms churning through the atmosphere and oceans. But turbulence also occurs throughout space, where it behaves in ways that scientists are still struggling to understand. Unlike the air and water on Earth, much of the matter in space consists of electrically charged particles in a state (known as the plasma state). These particles interact strongly with magnetic and electric fields, creating turbulence that is fundamentally different from what we experience on Earth. Space plasma is also so thinly spread that particles rarely collide with one another, making its behavior even more unusual. Scientists have long struggled to explain how turbulence develops under these conditions and how energy is distributed among its constantly changing fluctuations. Now, an international research team has uncovered a surprising clue: hidden within the seemingly random motion of space plasma is a distinct magnetic pattern that reverses direction at very small scales. The discovery, published in The Astrophysical Journal Letters , reveals a previously unobserved phenomenon that could improve our understanding of the solar wind and the turbulent conditions that influence space weather. Researchers from the Technische Universität Braunschweig and the University of Tokyo, working with Tohoku University, Kyushu University, Osaka University, and other international institutions, identified the phenomenon using observations from NASA's Parker Solar Probe. The collaboration brought together scientists from ten countries, including researchers at the Institute of Theoretical Physics at Technische Universität Braunschweig. By analyzing highly precise measurements of magnetic fields and particles, the team discovered that turbulent magnetic fields reverse their direction of rotation at a particular range of wavelengths. This marks the first direct observation of such a reversal in space turbulence. Even more surprisingly, the reversal becomes more pronounced and shifts toward longer wavelengths as the solar wind travels farther from the Sun. The change occurs at a critical boundary where the behavior of plasma shifts from the collective movement of a flowing fluid to the dynamics of individual particles. This connection suggests that the magnetic reversal may provide an important new way to understand how turbulence operates across different physical scales. At larger scales, plasma moves much like a fluid. Swirling structures called vortices and electromagnetic waves create increasingly complex fluctuations, producing the turbulent conditions found throughout space. Although these movements appear random, the researchers discovered that the rotation of the magnetic fields follows a consistent pattern. When viewed along a direction pointing outward from the Sun, magnetic fields at larger scales tend to rotate counterclockwise. At much smaller scales, however, the preferred rotation switches to clockwise. This reversal occurs precisely where plasma stops behaving primarily like a fluid and begins exhibiting behavior governed by individual particles. The finding is particularly striking because it reveals a clear, organized feature within a system otherwise dominated by seemingly unpredictable fluctuations. \"We see a clear structure in the spectrum, even though the turbulence represents unstructured motions,\" says Dr. Masatomi Iizawa (TU Braunschweig), the study's first author. Dr. Yokoi (University. of Tokyo) emphasizes the broader importance of the discovery, stating, \"The results are of great significance for both plasma physics and astrophysics.\" Although the magnetic reversal occurs at extremely small scales, understanding it could have far-reaching consequences for space physics. Plasma turbulence is a major feature of many environments throughout the universe, including Earth's magnetosphere, the solar wind, regions affected by solar eruptions, interplanetary space, and the disks of material surrounding astronomical objects known as accretion disks. It also influences the shock waves and clouds of magnetic material that travel through interplanetary space following eruptions on the Sun. These disturbances can play an important role in geomagnetic storms, making plasma turbulence a critical factor in efforts to predict space weather. By showing how an organized magnetic pattern emerges as turbulent plasma transitions from fluid behavior to particle behavior, the new research provides an important piece of a longstanding physics puzzle. The findings could ultimately help scientists better understand the complex processes that govern the solar wind and improve the physical models used to forecast geomagnetic storms. Materials provided by School of Science, The University of Tokyo . Note: Content may be edited for style and length. NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different",
-   "doi": [
-    "10.3847/2041-8213/aea84b"
-   ],
-   "journal_ref": "Journal Reference : Masatomi Iizawa, Yasuhito Narita, Tommaso Alberti, Stuart D. Bale, Axel Brandenburg, Abraham C.-L. Chian, Horia Comişel, Shuichi Matsukiyo, Nobumitsu Yokoi. Nonlocal Evolution of Magnetic Helicity across the Magnetohydrodynamic–Kinetic Interface . The Astrophysical Journal Letters , 2026; 1010 (2): L21 DOI: 10.3847/2041-8213/aea84b",
-   "facts": [
-    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
@@ -602,6 +603,19 @@
    "date": "2026-11-12",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-13",
+   "text": "A common sugar found in many foods and sweetened drinks may play an unexpected role in helping aggressive ovarian cancer spread. Researchers at The Wistar Institute have discovered that cancer cells surviving chemotherapy can release fructose, which acts as a signal that encourages nearby tumor cells to break free and spread. The findings, published in Nature Aging , reveal a previously unknown way that cancer cells can continue influencing a tumor even after treatment has stopped them from multiplying. The discovery also raises important questions about whether dietary sugar and commonly prescribed cholesterol medications could affect how cancer progresses. \"Some cancer cells that survive chemotherapy aren't dividing anymore, but they're still biologically active,\" said Aidan Cole, Ph.D., a postdoctoral fellow in the lab of Katherine Aird, Ph.D. , at The Wistar Institute and first author on the study. \"Instead, they continue to release molecules that send signals to nearby cells. Our study is among the first to show that a nutrient -- in this case, fructose -- can act as one of those signals.\" Most patients with ovarian cancer receive platinum-based chemotherapy, a treatment that uses drugs containing platinum to damage the DNA of cancer cells and prevent them from reproducing. Although many patients initially respond well, the cancer eventually returns in most cases. It also frequently spreads throughout the abdominal cavity, the space inside the abdomen that contains organs such as the stomach, intestines, and liver. This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths. Understanding what allows cancer cells to escape from their original location and establish new tumors is therefore a major priority for researchers. Previous studies have suggested that cancer cells surviving chemotherapy may contribute to recurrence even when they are no longer actively dividing. These surviving cells can continue producing and releasing a mixture of substances that influence the behavior of surrounding cells. To investigate this process, Cole and his colleagues developed an experiment that separated the surviving cancer cells from the molecules they released. They discovered that these released substances, even without the surviving cells themselves, were enough to significantly increase cancer spread in a preclinical model. \"As far as we know, this is the first time anyone has shown, in a preclinical model rather than just a dish, that it's the molecules these cells release -- not the cells themselves -- that drive the cancer's spread,\" said Cole. The next challenge was identifying which substances were responsible for encouraging cancer cells to spread. The researchers discovered an unexpected culprit: fructose. Fructose is a naturally occurring sugar found in fruit, honey, and other foods. It is also a component of table sugar and high fructose corn syrup, a sweetener frequently used in soft drinks and processed foods. The study revealed that cancer cells surviving chemotherapy could produce fructose and release it into their surroundings. Rather than simply serving as an energy source, the sugar acted as a chemical messenger that encouraged neighboring cancer cells to become more capable of spreading. The researchers also uncovered another concerning possibility. In their preclinical experiments, consuming high amounts of fructose comparable to those found in sugary drinks could promote signals associated with cancer spread even without chemotherapy treatment. This observation suggests that diet might influence cancer progression through a mechanism scientists had not previously recognized. Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals. Unlike many factors that influence cancer risk and progression, dietary fructose intake can be changed. That raises the possibility that nutritional strategies might eventually become part of efforts to limit cancer spread. However, researchers have not yet tested whether reducing fructose consumption improves outcomes in patients with ovarian cancer. The findings do not establish that eating sugar causes cancer to spread in humans, and additional research is needed before specific dietary recommendations can be made based on this mechanism. To understand how fructose encourages cancer spread, the researchers examined what happens inside cancer cells exposed to the sugar. They used several advanced methods to investigate the biological changes involved, including a CRISPR screen. This technique allows scientists to systematically examine genes and identify which ones influence a particular cellular process. The experiments revealed that fructose suppresses cholesterol production in neighboring cancer cells. Although cholesterol is often discussed in connection with heart disease, it also serves essential functions throughout the body. It is an important component of cell membranes, the thin outer layers that surround cells and help regulate how they interact with their environment. In this case, cholesterol helps maintain the connections that hold neighboring cells together. These connections act somewhat like biological glue, making it harder for cancer cells to separate from one another. When fructose reduces cholesterol production, those connections weaken. As a result, cancer cells can detach more easily, potentially allowing them to escape and spread to other locations. This discovery provides a possible explanation for how a common nutrient can influence one of the most dangerous aspects of cancer. The cholesterol finding also led researchers to investigate an unexpected question involving statins, medications widely prescribed to lower cholesterol. Approximately 39 million people in the United States take statins. These drugs work by reducing the body's production of cholesterol and are commonly used to lower the risk of heart attacks and strokes. Because fructose appeared to promote cancer spread by suppressing cholesterol production, the research team wanted to know whether statins might produce similar effects. Their experiments showed that statins alone could weaken the connections between cancer cells, making it easier for them to separate and escape. The finding raises questions about whether cholesterol-lowering medications could influence the effectiveness of chemotherapy in certain situations. Researchers are now investigating that possibility, but they emphasize that the results have not been demonstrated in patients and are not a reason for anyone to discontinue prescribed statins. \"We haven't tested this effect in patients yet, but it raises questions about combining cholesterol-lowering drugs with chemotherapy, especially since ovarian cancer is most common in postmenopausal women who are often already on statins,\" said Katherine Aird, Ph.D., professor and co-leader of the Molecular and Cellular Oncogenesis Program in the Ellen and Ronald Caplan Cancer Center at The Wistar Institute, and senior author of the study. Although the research focused on ovarian cancer, the scientists suspect that the same biological process could occur in other forms of the disease. Cancers affecting organs within the abdomen and torso can also spread to nearby tissues and organs. If fructose influences the connections between cancer cells in a similar way, the discovery could have implications beyond ovarian cancer. \"We think other cancers that spread within the torso -- pancreatic, colon, liver -- could behave similarly. We can't call it universal yet, but we think the effects are not just limited to ovarian cancer,\" said Aird. Aird and Cole have already begun designing additional experiments to determine whether their findings can be reproduced in pancreatic, colon, liver, and other cancers. The research opens a new avenue for understanding how ca",
+   "facts": [
+    "This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths.",
+    "Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals.",
+    "Approximately 39 million people in the United States take statins.",
+    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
+   ],
+   "doi": [
+    "10.1038/s43587-026-01172-5"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Aidan R. Cole, Raquel Buj, Apoorva Uboveja, Evan Levasseur, Alexander Tom, Hui Wang, Katarzyna M. Kedziora, Adam Chatoff, Andrea Andress Huacachino, Mariola M. Marcinkiewicz, Amandine Amalric, Baixue Yang, Naveen Kumar Tangudu, Emily Noonan, Jeff Danielson, Miho Naruse, Amal Taher Elhaw, Sierra White, Danyang Li, Callen T. Wallace, Frederick Keeney, Felicia Lazure, Esther Elish",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -615,19 +629,7 @@
     "형식 SCALE",
     "훅: surpris",
     "생활소재: diet"
-   ],
-   "text": "A common sugar found in many foods and sweetened drinks may play an unexpected role in helping aggressive ovarian cancer spread. Researchers at The Wistar Institute have discovered that cancer cells surviving chemotherapy can release fructose, which acts as a signal that encourages nearby tumor cells to break free and spread. The findings, published in Nature Aging , reveal a previously unknown way that cancer cells can continue influencing a tumor even after treatment has stopped them from multiplying. The discovery also raises important questions about whether dietary sugar and commonly prescribed cholesterol medications could affect how cancer progresses. \"Some cancer cells that survive chemotherapy aren't dividing anymore, but they're still biologically active,\" said Aidan Cole, Ph.D., a postdoctoral fellow in the lab of Katherine Aird, Ph.D. , at The Wistar Institute and first author on the study. \"Instead, they continue to release molecules that send signals to nearby cells. Our study is among the first to show that a nutrient -- in this case, fructose -- can act as one of those signals.\" Most patients with ovarian cancer receive platinum-based chemotherapy, a treatment that uses drugs containing platinum to damage the DNA of cancer cells and prevent them from reproducing. Although many patients initially respond well, the cancer eventually returns in most cases. It also frequently spreads throughout the abdominal cavity, the space inside the abdomen that contains organs such as the stomach, intestines, and liver. This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths. Understanding what allows cancer cells to escape from their original location and establish new tumors is therefore a major priority for researchers. Previous studies have suggested that cancer cells surviving chemotherapy may contribute to recurrence even when they are no longer actively dividing. These surviving cells can continue producing and releasing a mixture of substances that influence the behavior of surrounding cells. To investigate this process, Cole and his colleagues developed an experiment that separated the surviving cancer cells from the molecules they released. They discovered that these released substances, even without the surviving cells themselves, were enough to significantly increase cancer spread in a preclinical model. \"As far as we know, this is the first time anyone has shown, in a preclinical model rather than just a dish, that it's the molecules these cells release -- not the cells themselves -- that drive the cancer's spread,\" said Cole. The next challenge was identifying which substances were responsible for encouraging cancer cells to spread. The researchers discovered an unexpected culprit: fructose. Fructose is a naturally occurring sugar found in fruit, honey, and other foods. It is also a component of table sugar and high fructose corn syrup, a sweetener frequently used in soft drinks and processed foods. The study revealed that cancer cells surviving chemotherapy could produce fructose and release it into their surroundings. Rather than simply serving as an energy source, the sugar acted as a chemical messenger that encouraged neighboring cancer cells to become more capable of spreading. The researchers also uncovered another concerning possibility. In their preclinical experiments, consuming high amounts of fructose comparable to those found in sugary drinks could promote signals associated with cancer spread even without chemotherapy treatment. This observation suggests that diet might influence cancer progression through a mechanism scientists had not previously recognized. Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals. Unlike many factors that influence cancer risk and progression, dietary fructose intake can be changed. That raises the possibility that nutritional strategies might eventually become part of efforts to limit cancer spread. However, researchers have not yet tested whether reducing fructose consumption improves outcomes in patients with ovarian cancer. The findings do not establish that eating sugar causes cancer to spread in humans, and additional research is needed before specific dietary recommendations can be made based on this mechanism. To understand how fructose encourages cancer spread, the researchers examined what happens inside cancer cells exposed to the sugar. They used several advanced methods to investigate the biological changes involved, including a CRISPR screen. This technique allows scientists to systematically examine genes and identify which ones influence a particular cellular process. The experiments revealed that fructose suppresses cholesterol production in neighboring cancer cells. Although cholesterol is often discussed in connection with heart disease, it also serves essential functions throughout the body. It is an important component of cell membranes, the thin outer layers that surround cells and help regulate how they interact with their environment. In this case, cholesterol helps maintain the connections that hold neighboring cells together. These connections act somewhat like biological glue, making it harder for cancer cells to separate from one another. When fructose reduces cholesterol production, those connections weaken. As a result, cancer cells can detach more easily, potentially allowing them to escape and spread to other locations. This discovery provides a possible explanation for how a common nutrient can influence one of the most dangerous aspects of cancer. The cholesterol finding also led researchers to investigate an unexpected question involving statins, medications widely prescribed to lower cholesterol. Approximately 39 million people in the United States take statins. These drugs work by reducing the body's production of cholesterol and are commonly used to lower the risk of heart attacks and strokes. Because fructose appeared to promote cancer spread by suppressing cholesterol production, the research team wanted to know whether statins might produce similar effects. Their experiments showed that statins alone could weaken the connections between cancer cells, making it easier for them to separate and escape. The finding raises questions about whether cholesterol-lowering medications could influence the effectiveness of chemotherapy in certain situations. Researchers are now investigating that possibility, but they emphasize that the results have not been demonstrated in patients and are not a reason for anyone to discontinue prescribed statins. \"We haven't tested this effect in patients yet, but it raises questions about combining cholesterol-lowering drugs with chemotherapy, especially since ovarian cancer is most common in postmenopausal women who are often already on statins,\" said Katherine Aird, Ph.D., professor and co-leader of the Molecular and Cellular Oncogenesis Program in the Ellen and Ronald Caplan Cancer Center at The Wistar Institute, and senior author of the study. Although the research focused on ovarian cancer, the scientists suspect that the same biological process could occur in other forms of the disease. Cancers affecting organs within the abdomen and torso can also spread to nearby tissues and organs. If fructose influences the connections between cancer cells in a similar way, the discovery could have implications beyond ovarian cancer. \"We think other cancers that spread within the torso -- pancreatic, colon, liver -- could behave similarly. We can't call it universal yet, but we think the effects are not just limited to ovarian cancer,\" said Aird. Aird and Cole have already begun designing additional experiments to determine whether their findings can be reproduced in pancreatic, colon, liver, and other cancers. The research opens a new avenue for understanding how ca",
-   "doi": [
-    "10.1038/s43587-026-01172-5"
-   ],
-   "journal_ref": "Journal Reference : Aidan R. Cole, Raquel Buj, Apoorva Uboveja, Evan Levasseur, Alexander Tom, Hui Wang, Katarzyna M. Kedziora, Adam Chatoff, Andrea Andress Huacachino, Mariola M. Marcinkiewicz, Amandine Amalric, Baixue Yang, Naveen Kumar Tangudu, Emily Noonan, Jeff Danielson, Miho Naruse, Amal Taher Elhaw, Sierra White, Danyang Li, Callen T. Wallace, Frederick Keeney, Felicia Lazure, Esther Elish",
-   "facts": [
-    "This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths.",
-    "Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals.",
-    "Approximately 39 million people in the United States take statins.",
-    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "A suspected black hole turns out to be a rapidly spinning star",
@@ -637,6 +639,8 @@
    "date": "2026-11-13",
    "source": "Phys.org",
    "first_seen": "2026-11-13",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-black-hole-rapidly-star.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -649,51 +653,43 @@
    "why": [
     "형식 CUT",
     "훅: strange, turns out"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-black-hole-rapidly-star.html"
+   ]
   },
   {
-   "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261104084017.htm",
-   "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins.",
-   "date": "2026-11-06",
+   "title": "A surprising brain difference may explain why some kids struggle with math",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261112025542.htm",
+   "summary": "Stanford researchers have discovered that children who struggle persistently with math may have underlying differences in how their brains manage problem-solving strategies. Children with developmental dyscalculia were slower to switch strategies, less responsive to changes in difficulty, and less able to improve their approach over time. Distinct patterns of brain activity were linked to these difficulties and could even predict certain math-related abilities.",
+   "date": "2026-11-13",
    "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-07",
-   "text": "A drug commonly used to prevent organ transplant rejection may offer an unexpected new approach to protecting people at increased risk of Alzheimer's disease. Researchers at the University of Missouri have discovered that rapamycin, a medication also studied for its effects on aging, can improve blood flow in the brains of middle-aged adults who carry a gene variant linked to Alzheimer's. The findings could help scientists develop strategies to address Alzheimer's risk long before memory problems appear. The research also adds to the University of Missouri's growing contributions to understanding and potentially preventing the most common form of dementia. The study was led by Ai-Ling Lin, a professor in the university's School of Medicine and an investigator at the Roy Blunt NextGen Precision Health building. Her work focuses on identifying changes in the brain that occur before Alzheimer's symptoms develop and finding ways to intervene early. A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life. People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties. Because these circulation changes can occur so early, researchers believe they could provide an important warning sign of increased Alzheimer's risk. Lin's latest findings suggest that improving brain circulation with an existing medication may be one way to address these early changes. \"Alzheimer's tends to happen more in older people, especially for those with APOE4,\" Lin said. \"If we can slow down aging in the brain for those people most at risk, maybe we can reduce the risk of them developing Alzheimer's disease.\" Rapamycin is already used in medicine to prevent the immune system from rejecting transplanted organs and to treat certain rare conditions. However, researchers have also been investigating its potential to slow biological aging and protect the brain. Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4. Her earlier research showed that rapamycin could slow brain aging and increase blood flow in these animals. Those results prompted an important question: Could rapamycin produce similar benefits in people who have a genetic predisposition to Alzheimer's but have not yet developed the disease? To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not. All participants received a low daily dose of rapamycin for four weeks. When researchers examined the results, they found a notable difference between the two groups. Brain blood flow improved among participants carrying APOE4, but the same benefit was not observed in those without the gene variant. This suggests that rapamycin may have particular potential for people whose genetics place them at greater risk of Alzheimer's. Although the study did not establish whether the treatment could prevent Alzheimer's or preserve memory over time, the improved circulation offers a promising direction for future research. Women With the Alzheimer's Risk Gene Saw the Greatest Benefits Another intriguing finding emerged when the researchers examined differences between male and female participants. Women carrying APOE4 experienced the largest improvements in brain blood flow following treatment. That result may be especially important because women account for nearly two-thirds of people living with Alzheimer's disease. \"We also found that females with APOE4 saw the greatest improvement in brain blood flow, which is significant given that nearly two-thirds of people with Alzheimer's are women,\" she said. \"This research is an example of precision medicine, as we work to identify who can benefit from this drug the most.\" The results highlight the potential of precision medicine, an approach that considers individual characteristics, including genetics, when determining which treatments may be most effective. Rather than assuming that a medication will benefit everyone equally, researchers hope to identify the people most likely to respond. Lin, who is also a professor in the university's College of Arts and Science, credits Mizzou's collaborative research environment with helping advance discoveries like these. At the Roy Blunt NextGen Precision Health building, scientists and medical professionals work together in the same facility. This collaboration is designed to help move promising laboratory findings into human clinical studies more quickly. The latest results provide an encouraging starting point for investigating whether rapamycin could eventually help delay or reduce Alzheimer's risk in genetically vulnerable individuals. More research will be needed to determine whether the changes in brain blood flow lead to lasting improvements in brain health or a lower likelihood of developing the disease. The study, \"EXPRESS: Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiome profiles in healthy middle-aged APOE4 carriers: a pilot single-arm trial\" was published in Journal of Cerebral Blood Flow & Metabolism . Materials provided by University of Missouri-Columbia . Note: Content may be edited for style and length. Scientists Sound the Alarm As Colorectal Cancer Reverses a 20-Year Decline A Hidden Cancer-Fighting Switch Could Supercharge the Human Immune System A Devastating Disease Is Threatening the World’s Chocolate Supply – but Scientists May Have Found the Answer Researchers Discover Earth May Have Made Its Own Water 4.5 Billion Years Ago",
-   "facts": [
-    "A major focus of Lin's research is the APOE4 gene variant, which is associated with a substantially increased risk of developing Alzheimer's disease later in life.",
-    "People who carry APOE4 can experience reduced blood flow in certain areas of the brain years before they begin having noticeable memory difficulties.",
-    "\"Alzheimer's tends to happen more in older people, especially for those with APOE4,\" Lin said.",
-    "Before joining the University of Missouri, Lin conducted experiments involving mice that carried APOE4.",
-    "To investigate, Lin studied healthy adults between the ages of 45 and 65, including people who carried APOE4 and others who did not.",
-    "Brain blood flow improved among participants carrying APOE4, but the same benefit was not observed in those without the gene variant.",
-    "Women carrying APOE4 experienced the largest improvements in brain blood flow following treatment.",
-    "\"We also found that females with APOE4 saw the greatest improvement in brain blood flow, which is significant given that nearly two-thirds of people with Alzheimer's are women,\" she said.",
-    "The study, \"EXPRESS: Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiome profiles in healthy middle-aged APOE4 carriers: a pilot single-arm trial\" was published in Journal of Cerebral Blood Flow & Metabolism .",
-    "Scientists Sound the Alarm As Colorectal Cancer Reverses a 20-Year Decline A Hidden Cancer-Fighting Switch Could Supercharge the Human Immune System A Devastating Disease Is Threatening the World’s Chocolate Supply – but Scientists May Have Found the Answer Researchers Discover Earth May Have Made Its Own Water 4.5 Billion Years Ago"
-   ],
-   "doi": [
-    "10.1177/0271678X261490342"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Chetan Aware, Caitlin Maria Neher, Carter Woods, Oleksandr Khegai, Alok Kumar Dwivedi, Maalavika Govindarajan, Kira Ivanich, Mehmet Kurt, David Beversdorf, Jianlin Cheng, Nathan Bresette, Taixing Cui, Priti Balchandani, Mitzi M Gonzales, Aaron C. Ericsson, Talissa A. Altes, Ai-Ling Lin. Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiom",
-   "catch_extra": [],
+   "first_seen": "2026-11-13",
    "sources": [
     "ScienceDaily 전체"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261112025542.htm"
    ],
-   "format": "DOSE",
-   "seen": "2026-11-02",
-   "catch": [],
-   "score": 7,
+   "format": "PRESS",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 8,
    "why": [
-    "형식 DOSE",
+    "형식 PRESS",
     "훅: surpris",
-    "생활소재: aging, memory, alzheimer",
-    "이미 본 소재(2026-11-02)"
+    "생활소재: kids, children, brain"
+   ],
+   "text": "For some children, learning math is much more difficult than it is for their classmates. Even when they practice and receive instruction, they may continue to struggle with problems that other children their age can solve more easily. Researchers are now uncovering clues about why these difficulties persist, and the answers may involve more than an understanding of numbers. One possible explanation lies in differences in how the brain selects and manages strategies for solving problems. A new study from Stanford University suggests that children with persistent math difficulties may have trouble adjusting their approach when faced with different mathematical challenges. The researchers also identified distinctive patterns of brain activity associated with these struggles. The findings, published in JNeurosci , come from research led by Oliver Lasnick and colleagues at Stanford University. Their work focused on children with a condition that causes ongoing difficulty with mathematical problem solving (developmental dyscalculia). Although the condition has been recognized for years, scientists are still working to understand the specific thinking processes and brain mechanisms that contribute to it. To investigate these challenges, the Stanford team studied 68 children between the ages of 8 and 10. They examined how the children approached math problems, how effectively they used different strategies, and how their brain activity related to their performance. Solving a math problem often requires more than knowing numbers or remembering arithmetic facts. Children must also decide which approach will work best. For example, a child might count individual numbers to find an answer or use a more efficient method based on a familiar mathematical relationship. As problems become more difficult, the ability to recognize when a different strategy is needed can become increasingly important. The researchers found that children with developmental dyscalculia were generally less effective at using different mathematical strategies than children without the condition. They took longer to shift from one method to another and were less responsive when the difficulty of a problem changed. Another important difference involved learning to choose better strategies over time. While other children became more effective at selecting appropriate approaches, those with developmental dyscalculia did not show the same improvement. This suggests that their difficulties may involve not only performing calculations but also deciding how to approach a problem in the first place. The researchers also examined patterns of brain activity to better understand what might be happening behind these behavioral differences. They discovered that activity within a particular brain system differed between children with developmental dyscalculia and those who were more skilled at selecting and using math strategies. These neural patterns were not simply unrelated differences. They could also predict how effectively children counted and how well they switched between approaches when solving problems. The findings highlight the possible importance of several mental abilities that extend beyond mathematics itself. These include attention, memory, and cognitive flexibility, which is the ability to adjust thinking or behavior when circumstances change. Such abilities are part of what researchers often call executive functions. These mental processes help people organize information, stay focused on a task, hold relevant details in mind, and change plans when an approach is not working. In mathematics, they can help a child keep track of numbers, compare possible solutions, and recognize when to try a different method. The Stanford findings suggest that difficulties involving these processes may contribute to the development of dyscalculia. Differences in brain activity may also help explain why some children have persistent trouble choosing and changing problem-solving strategies. However, the observed connections do not establish that the brain activity differences directly cause the condition. They provide new evidence about the cognitive and neural processes associated with these mathematical difficulties. An important conclusion is that developmental dyscalculia does not appear to involve one simple problem shared by every affected child. Instead, different children may experience difficulties involving several interacting mental processes. As Lasnick explains, \"Importantly, this study also emphasizes the individual variability observed in dyscalculia, further demonstrating that the disorder reflects cognitive and neural dysfunction across multiple processes.\" By connecting children's mathematical behavior with measurable differences in brain activity, the research offers a more detailed picture of why math can be persistently challenging for some students. The findings also point toward the importance of looking beyond whether a child gets the correct answer. Understanding how children choose strategies, adapt to more difficult problems, and manage the mental demands of mathematics could ultimately help researchers develop better ways to identify and support those with developmental dyscalculia. Materials provided by Society for Neuroscience . Note: Content may be edited for style and length. Popular Weight-Loss Drugs May Have a Surprising Effect on Your Brain A Natural “Varnish” May Explain How 37,000-Year-Old Cave Art Survived Scientists Just Found a Key Ingredient for Superconductivity at Room Temperature Scientists Discover That Male and Female Hearts Age in Surprisingly Different Ways",
+   "doi": [
+    "10.1523/JNEUROSCI.2200-25.2026"
+   ],
+   "journal_ref": "Journal Reference : Oliver H. M. Lasnick, Yunji Park, Percy Mistry, Vinod Menon. Uncovering Latent Cognitive, Metacognitive, and Neural Bases of Problem-Solving Deficits in Children with Developmental Dyscalculia . The Journal of Neuroscience , 2026; 46 (41): e2200252026 DOI: 10.1523/JNEUROSCI.2200-25.2026",
+   "facts": [
+    "To investigate these challenges, the Stanford team studied 68 children between the ages of 8 and 10.",
+    "Popular Weight-Loss Drugs May Have a Surprising Effect on Your Brain A Natural “Varnish” May Explain How 37,000-Year-Old Cave Art Survived Scientists Just Found a Key Ingredient for Superconductivity at Room Temperature Scientists Discover That Male and Female Hearts Age in Surprisingly Different Ways"
+   ],
+   "sample": [
+    "68 children"
    ]
   },
   {
@@ -856,6 +852,8 @@
    "date": "2026-11-13",
    "source": "MedicalXpress",
    "first_seen": "2026-11-13",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.h",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -870,8 +868,55 @@
    "why": [
     "형식 CUT",
     "생활소재: aging, social media, alzheimer"
+   ]
+  },
+  {
+   "title": "Mediterranean diet can help clear fat from the pancreas and improve blood-sugar control",
+   "link": "https://medicalxpress.com/news/2026-11-mediterranean-diet-fat-pancreas-blood.html",
+   "key": "https://medicalxpress.com/news/2026-11-mediterranean-diet-fat-pancreas-blood.html",
+   "summary": "Fat that builds up in the pancreas is one of the lesser-known risk factors for diabetes and metabolic syndrome, but it turns out it can be targeted directly through what's on the plate.",
+   "date": "2026-11-13",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-13",
+   "sources": [
+    "MedicalXpress"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.h"
+   "links": [
+    "https://medicalxpress.com/news/2026-11-mediterranean-diet-fat-pancreas-blood.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "훅: turns out",
+    "생활소재: diet"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-mediterranean-diet-fat-pancreas-blood.html"
+  },
+  {
+   "title": "New guidance outlines use of first immunotherapy for children newly diagnosed with type 1 diabetes",
+   "link": "https://medicalxpress.com/news/2026-11-guidance-outlines-immunotherapy-children-newly.html",
+   "key": "https://medicalxpress.com/news/2026-11-guidance-outlines-immunotherapy-children-newly.html",
+   "summary": "For the first time, children ages 8 to 17 who are newly diagnosed with type 1 diabetes have access to an approved treatment that targets the underlying autoimmune disease, rather than solely managing blood sugar levels with insulin.",
+   "date": "2026-11-13",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-13",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-guidance-outlines-immunotherapy-children-newly.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "훅: first time",
+    "생활소재: children"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-guidance-outlines-immunotherapy-children-new"
   },
   {
    "title": "Feejee Mermaid on display in Colorado may shock and intrigue—but no longer considered a 'missing link'",
@@ -881,6 +926,8 @@
    "date": "2026-11-05",
    "source": "Phys.org",
    "first_seen": "2026-11-05",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -895,56 +942,6 @@
    "why": [
     "훅: myth, shock",
     "생활소재: baby, fish"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html"
-  },
-  {
-   "title": "Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain",
-   "link": "https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html",
-   "key": "https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html",
-   "summary": "Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial evidence published by The BMJ.",
-   "date": "2026-11-05",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-05",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-shockwave-therapy-ease-frozen-shoulder.html"
-   ],
-   "format": "SCALE",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "형식 SCALE",
-    "훅: shock"
-   ]
-  },
-  {
-   "title": "Combining HIV prevention and addiction treatment in mobile clinics could save lives",
-   "link": "https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html",
-   "key": "https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html",
-   "summary": "Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to community-based services alone. While scientists found no difference in the use of daily, oral preexposure prophylaxis (PrEP) and medication for opioid use disorder (MOUD) between the groups, the secondary outcome of reduced mortality was significant. The study is published in JAMA Psychiatry.",
-   "date": "2026-11-05",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-05",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.htm",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-combining-hiv-addiction-treatment-mobile.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 SCALE"
    ]
   },
   {
