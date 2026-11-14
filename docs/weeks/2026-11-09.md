@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-09
 
-최근 8일 누적 952건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 854건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common osteoporosis drugs linked to 24% lower dementia risk in major study
 - 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-09
@@ -15,7 +15,16 @@
   - "The records covered the period from 2005 through 2020, allowing the team to investigate how different osteoporosis treatments were associated with dementia risk over time."
   - "Patients taking NBPs had a 16% lower risk of developing Alzheimer's disease and related dementias compared with patients who received no osteoporosis medication."
 
-## 2. Scientists discover a surprising link between acorns and lyme disease
+## 2. Yale scientists reveal what really slows aging and what doesn't
+- 점수 11 · DOSE · ScienceDaily 전체 · 2026-11-14
+- https://www.sciencedaily.com/releases/2026/11/261112230452.htm
+- DOI: 10.1038/s41591-026-04562-9
+- 요약: Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although wh
+  - "The researchers brought together findings from 51 clinical studies investigating different anti-aging strategies."
+  - "Across those studies, the team examined more than 110 DNA methylation biomarkers (including 16 major epigenetic clocks)."
+  - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
+
+## 3. Scientists discover a surprising link between acorns and lyme disease
 - 점수 10 · PRESS · ScienceDaily 전체 · 2026-11-09
 - https://www.sciencedaily.com/releases/2026/11/261106174518.htm
 - DOI: 10.1073/pnas.2610907123
@@ -27,7 +36,7 @@
   - "On the Cary Institute's 2,000-acre forested research property in Dutchess County, New York, researchers found no statistically significant connection between deer numbers and the abundance of nymphal ticks."
   - "Years with especially large mouse populations were followed by approximately 40% more nymphal ticks the next year."
 
-## 3. Common supplement could help fight psoriasis, scientists discover
+## 4. Common supplement could help fight psoriasis, scientists discover
 - 점수 9 · SCALE · ScienceDaily 전체 · 2026-11-09
 - https://www.sciencedaily.com/releases/2026/11/261108233057.htm
 - DOI: 10.1084/jem.20252558
@@ -40,20 +49,20 @@
   - "They conducted a small clinical trial involving 24 patients with the condition."
   - "Half of the participants also took pantethine tablets, allowing researchers to examine whether adding the supplement improved the results of standard treatment."
 
-## 4. Successful sleep apnea treatment may lead to unexpected weight gain
+## 5. Successful sleep apnea treatment may lead to unexpected weight gain
 - 점수 9 · WEIGH · MedicalXpress · 2026-11-11
 - https://medicalxpress.com/news/2026-11-successful-apnea-treatment-unexpected-weight.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new study from Ben-Gurion University of the Negev (BGU) and Soroka University Medical Center may have uncovered a biological mechanism behind why many adults and children gain weight following successful treatment for obstructive sleep apnea. The research, conducted on mice and published in Scient
 
-## 5. NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields
+## 6. NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields
 - 점수 9 · PRESS · ScienceDaily 전체 · 2026-11-12
 - https://www.sciencedaily.com/releases/2026/11/261109205411.htm
 - DOI: 10.3847/2041-8213/aea84b
 - 요약: NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better u
   - "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
 
-## 6. Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy
+## 7. Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy
 - 점수 9 · DOSE · ScienceDaily 전체 · 2026-11-13
 - https://www.sciencedaily.com/releases/2026/11/261111005911.htm
 - DOI: 10.1093/hropen/hoag015, 10.1093/hropen/hoag016
@@ -66,7 +75,7 @@
   - "Professor Henriette Svarre Nielsen, who led the research at the Department of Gynecology and Obstetrics at Copenhagen University Hospital Hvidovre in Hvidovre, Denmark, explained that the rapid rise in GLP-1 prescriptions has created an urgent need for better information about pregnancy exposure."
   - ""GLP-1 RA treatment has, within the last few years, become the medication with the sharpest increase in prescriptions worldwide."
 
-## 7. Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago
+## 8. Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-08
 - https://www.sciencedaily.com/releases/2026/11/261106174528.htm
 - DOI: 10.1126/science.aeg3800
@@ -76,7 +85,7 @@
   - "Earlier research at the site identified the remains of 18 horses that had been deliberately positioned on the burial mound."
   - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
 
-## 8. Stronger flu shot linked to nearly 55% lower Alzheimer's risk
+## 9. Stronger flu shot linked to nearly 55% lower Alzheimer's risk
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-08
 - https://www.sciencedaily.com/releases/2026/11/261105224609.htm
 - DOI: 10.1212/WNL.0000000000214782
@@ -89,7 +98,7 @@
   - "In a 2022 study , a team led by Paul Schulz, MD, found that flu vaccination was associated with a reduced risk of Alzheimer's among adults 65 and older."
   - "To help address that vulnerability, the Centers for Disease Control and Prevention (CDC) recommends high-dose influenza vaccines as a preferred option for adults ages 65 and older."
 
-## 9. When your gut bacteria run out of fiber, they may start eating your gut lining
+## 10. When your gut bacteria run out of fiber, they may start eating your gut lining
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-11-09
 - https://www.sciencedaily.com/releases/2026/11/261105083622.htm
 - DOI: 10.1038/s42255-026-01550-8, 10.1073/pnas.2605226123
@@ -98,7 +107,7 @@
   - "Levels of indole-3-propionate and p-cresol sulfate, which are produced exclusively by microbes, declined following antibiotic treatment."
   - "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children"
 
-## 10. A simple supplement may help clear brain fog after cancer
+## 11. A simple supplement may help clear brain fog after cancer
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-09
 - https://www.sciencedaily.com/releases/2026/11/261104084013.htm
 - DOI: 10.1200/OA-26-00063
@@ -110,13 +119,13 @@
   - "Most had undergone chemotherapy, and nearly 90% were still receiving endocrine therapy during the trial."
   - "Each participant was instructed to take 500 milligrams of oxaloacetate twice a day for eight weeks."
 
-## 11. Small daily activities may help ease dementia caregivers' stress
+## 12. Small daily activities may help ease dementia caregivers' stress
 - 점수 8 · SCALE · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-small-daily-ease-dementia-caregivers.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Nearly 12 million people in the U.S. provide unpaid care to a relative or friend with Alzheimer's disease and related dementias (ADRD). Compared with caregivers of people without dementia, ADRD caregivers face greater demands that may contribute to higher rates of depression, anxiety, sleep problems
 
-## 12. Scientists finally discover why we learn to love bitter coffee
+## 13. Scientists finally discover why we learn to love bitter coffee
 - 점수 8 · SCALE · ScienceDaily 전체 · 2026-11-10
 - https://www.sciencedaily.com/releases/2026/11/261108233100.htm
 - DOI: 10.1038/s41586-026-11229-5
@@ -128,19 +137,19 @@
   - "One area of interest involves GLP-1 medications, a class of drugs that mimic a hormone naturally released by the gut."
   - "Knight's team did not investigate GLP-1 drugs in the new study, so it remains unknown whether they influence the dopamine pathway the researchers identified."
 
-## 13. What are biomarkers? How doctors assess health and pooling people's cells reveals new markers—a biologist explains
+## 14. What are biomarkers? How doctors assess health and pooling people's cells reveals new markers—a biologist explains
 - 점수 8 · CUT · MedicalXpress / The Conversation · 2026-11-10
 - https://medicalxpress.com/news/2026-11-biomarkers-doctors-health-pooling-people.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A family of five is exposed to the flu virus, but only two of them get sick. A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack. A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good
 
-## 14. Government guidance indicates 95% of processed foods are unhealthy
+## 15. Government guidance indicates 95% of processed foods are unhealthy
 - 점수 8 · SCALE · MedicalXpress · 2026-11-11
 - https://medicalxpress.com/news/2026-11-guidance-foods-unhealthy.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 95% of processed or ultra-processed food products would be classified as unhealthy under UK government dietary guidance, according to new UCL-led research. The study, published in BMJ Medicine, found that the official public health definitions used to identify and regulate food and drink p
 
-## 15. Obesity linked to up to 27% lower risk of death in dementia
+## 16. Obesity linked to up to 27% lower risk of death in dementia
 - 점수 8 · WEIGH · ScienceDaily 전체 · 2026-11-11
 - https://www.sciencedaily.com/releases/2026/11/261109205401.htm
 - DOI: 10.1177/13872877261491694
@@ -153,21 +162,11 @@
   - "The team analyzed records collected between 1998 and 2022, focusing on 4,523 participants who did not have dementia when they entered the study but subsequently developed the condition."
   - "Earlier research by Zhang and Chang found that people can begin losing weight as much as 10 years before a dementia diagnosis, with the decline becoming more pronounced as the disease approaches."
 
-## 16. Blood sugar spikes: What actually works to manage them
+## 17. Blood sugar spikes: What actually works to manage them
 - 점수 8 · SCALE · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-blood-sugar-spikes.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Blood sugar, also called blood glucose, rises after eating. Seeing that rise on a wearable monitor can make an ordinary meal look worrying. But a higher reading after lunch does not, by itself, mean that something has gone wrong.
-
-## 17. Scientists discover a common sugar may help cancer cells break free and spread
-- 점수 8 · SCALE · ScienceDaily 전체 · 2026-11-12
-- https://www.sciencedaily.com/releases/2026/11/261111221501.htm
-- DOI: 10.1038/s43587-026-01172-5
-- 요약: Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together,
-  - "This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths."
-  - "Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals."
-  - "Approximately 39 million people in the United States take statins."
-  - "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
 
 ## 18. A suspected black hole turns out to be a rapidly spinning star
 - 점수 8 · CUT · Phys.org · 2026-11-13
@@ -274,20 +273,7 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Samples from the Bennu asteroid, which is currently more than 200 million miles (322 million kilometers) from Earth, and the Murchison meteorite, which fell to Earth in 1969, both contain molecules that build proteins necessary for life. New research has found that the molecules may have formed thro
 
-## 34. A sweeter future? AI helps scientists discover new sugar substitutes
-- 점수 5 · SCALE · Phys.org · 2026-11-06
-- https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html
-- 주의: 모델·시뮬레이션
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Fo
-
-## 35. How do octopuses remember? Scientists uncover a surprising secret
-- 점수 5 · 형식? · Phys.org · 2026-11-06
-- https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebrew University of Jerusalem and Ruppin Academic Center—has uncovered a previously unknown molecular mechanism that may hel
-
-## 36. New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer
+## 34. New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer
 - 점수 5 · CUT · The Conversation / MedicalXpress · 2026-11-09
 - https://theconversation.com/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-but-theres-no-evidence-it-can-reduce-your-risk-of-dying-from-cancer-293409
 - 대상: 173 patients
@@ -299,7 +285,7 @@
   - "Moreover, the test has a very low false positive rate: Only about 0.5% of people who get the test are incorrectly identified as having cancer, or one person out of every 200 tests."
   - "In comparison, many currently recommended screening tests, such as the Cologuard stool test for colorectal cancer, have false positive rates in the 10% range ."
 
-## 37. Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’
+## 35. Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’
 - 점수 5 · PRESS · The Conversation · 2026-11-09
 - https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112
 - 주의: DOI 못 찾음
@@ -310,7 +296,7 @@
   - "That included a supervisory report put out by the bank regulators in June 2026 that described roughly US$146 million in loans to three companies linked to Grupo Vázquez, Ueno’s controlling shareholder."
   - "In any case, Ueno’s problems were exposed in dramatic fashion on Nov. 2, when the central bank placed Ueno into resolution, a process similar to bankruptcy but managed directly by Paraguay’s central bank."
 
-## 38. 5 ways countries stymie climate negotiations without actually saying ‘no’
+## 36. 5 ways countries stymie climate negotiations without actually saying ‘no’
 - 점수 5 · CUT · The Conversation · 2026-11-09
 - https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589
 - 대상: 1,400 people
@@ -322,14 +308,26 @@
   - "They instead offered $300 billion annually by 2035 as a finance target."
   - "The COP29 agreement itself estimated that developing countries’ climate needed $5.1 trillion to $6.8 trillion in total through 2030."
 
-## 39. Computer science researcher reroutes truckloads of excess food from landfills to food pantries
+## 37. Computer science researcher reroutes truckloads of excess food from landfills to food pantries
 - 점수 5 · SCALE · Phys.org · 2026-11-10
 - https://phys.org/news/2026-11-science-reroutes-truckloads-excess-food.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The planet already grows enough food to feed everyone. The problem is one of logistics. A third of all the food grown and raised goes to waste, meaning that one in 12 people does not have enough to eat.
 
-## 40. Overheating cattle: More and more dangerous heat is coming for northern Australia's herds
+## 38. Overheating cattle: More and more dangerous heat is coming for northern Australia's herds
 - 점수 5 · SCALE · Phys.org · 2026-11-12
 - https://phys.org/news/2026-11-overheating-cattle-dangerous-northern-australia.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The Sunday roast and the backyard barbecue have long been Australian rituals. The country is one of the world's biggest consumers of red meat. The average Australian ate about 22 kilograms (49 pounds) of beef in 2024.
+
+## 39. Even cacti are severely threatened in a warmer, drier world
+- 점수 5 · PRESS · Phys.org · 2026-11-12
+- https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Findings from a study spanning the Americas show that climate change forecasts are underestimating threats to biodiversity—even to exceptionally resilient species—by not factoring in extreme weather events that become more likely in a warmer world.
+
+## 40. Looping DNA may help flowers grow nectar-producing organs
+- 점수 5 · CUT · Phys.org · 2026-11-12
+- https://phys.org/news/2026-11-looping-dna-nectar.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Nectaries are specialized floral tissues that secrete nectar to attract pollinators. Although the protein CRABS CLAW (CRC) is established as essential for nectary formation, the exact molecular mechanisms governing how it drives organ growth and secretion have remained unknown.

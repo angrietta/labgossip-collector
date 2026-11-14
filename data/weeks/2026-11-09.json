@@ -1,20 +1,20 @@
 {
  "week": "2026-11-09",
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 7
+   "span_days": 6
   },
   {
    "feed": "ScienceDaily 별난연구",
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 25
+   "span_days": 27
   },
   {
    "feed": "ScienceDaily 뇌·마음",
@@ -35,7 +35,7 @@
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 11
+   "span_days": 12
   },
   {
    "feed": "Phys.org",
@@ -105,6 +105,40 @@
     "훅: surpris",
     "생활소재: aging, dementia, alzheimer"
    ]
+  },
+  {
+   "title": "Yale scientists reveal what really slows aging and what doesn't",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261112230452.htm",
+   "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although whether these biological changes actually extend life remains uncertain.",
+   "date": "2026-11-14",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-15",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261112230452.htm"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 11,
+   "why": [
+    "형식 DOSE",
+    "훅: actually",
+    "생활소재: diet, aging, exercise"
+   ],
+   "text": "A growing body of research suggests that aging may be more flexible than once believed. Now, scientists at Yale have taken an important step toward identifying which treatments can actually influence biological aging and which ones show little measurable benefit. Their findings suggest that certain prescription medications and lifestyle changes can reduce biological age as measured by DNA-based blood tests. Popular over-the-counter supplements examined in the research, however, showed little evidence of producing the same effects. The findings, published in Nature Medicine , could help scientists evaluate anti-aging treatments more effectively, although researchers emphasize that changes in biological age markers do not necessarily mean people will live longer or avoid age-related diseases. When Raghav Sehgal began graduate school at Yale several years ago, he planned to use advanced computer science techniques to investigate cancer. His background in engineering and experience launching a computational biology startup had given him a strong foundation for that work. However, a question from his Ph.D. adviser at the Yale School of Medicine changed his research direction. Rather than focusing on individual diseases such as cancer or cardiovascular disease, why not investigate the aging process that contributes to their development? \"That put me on a different path,\" said Sehgal, now an associate research scientist in psychiatry who specializes in computational biology and bioinformatics. \"As researchers, we have a long way to go in understanding the aging process and whether the steps we take to manage it really work.\" Sehgal now studies the biological mechanisms behind human aging, how scientists can measure those changes, and why getting older increases the likelihood of conditions such as cancer, diabetes, and dementia. His work also explores whether interventions might reverse certain aspects of biological aging, even if eliminating aging itself remains beyond reach. Sehgal is the lead author of the new study, which was conducted in the laboratory of Albert Higgins-Chen, an assistant professor of psychiatry at the Yale School of Medicine. The research team set out to determine which existing approaches to slowing aging produce changes that can be reliably measured. Their analysis found encouraging results for certain medications and lifestyle interventions. In contrast, the over-the-counter supplements included in the study generally failed to produce meaningful reductions in biological age. The project involved the entire Higgins-Chen laboratory, including Daniel Borrus, Jenel F. Armstrong, John Gonzalez, Jessica Kasamoto, and Yaroslav Markov. \"For the first time we've shown that certain therapies have measurable impacts,\" said Sehgal. \"This wasn't previously possible, because we didn't have enough data to say these biomarkers are consistently responsive to these interventions.\" Biomarkers provide measurable information about what is happening inside the body. In aging research, they can help estimate a person's biological or functional age, which may differ from their chronological age. To investigate whether treatments could influence aging, the Yale team relied primarily on blood-based measurements called epigenetic clocks. These tools analyze chemical patterns attached to DNA, particularly methyl groups (basic chemical structures that act like tags). Previous research has shown that these chemical markers change as people grow older. Some interventions may reverse certain age-associated patterns, and computer algorithms use those changes to estimate a person's biological age. The researchers brought together findings from 51 clinical studies investigating different anti-aging strategies. These ranged from dietary supplements and medications to lifestyle changes and medical procedures. Across those studies, the team examined more than 110 DNA methylation biomarkers (including 16 major epigenetic clocks). By comparing measurements taken before and after interventions, they could evaluate which approaches were associated with reductions in biological age. \"What we did was pretty unique,\" Sehgal said. \"We already know that certain things might prolong health span and lifespan. There is data from retrospective analysis as well as from animal models. We took all that knowledge along with the real-world clinical studies to identify which interventions in humans were slowing down aging across the board in these known biomarkers.\" The researchers divided the interventions into four main groups: prescription drugs, lifestyle modifications, over-the-counter supplements, and medical procedures. One of the clearest findings involved diet and exercise. Combining regular physical activity with a healthy eating plan consistently reduced epigenetic age. The dietary approaches examined included Mediterranean, low-fat, and low-carb diets. The strongest reductions in biological age markers were associated with certain pharmaceutical treatments. These included metformin and semaglutide, prescription medications used to manage metabolic conditions and body weight, as well as anti-TNF therapies that target a protein involved in the body's inflammatory response. (TNF, or tumor necrosis factor, is an immune-system protein that helps fight inflammation-related injury.) The findings were less encouraging for over-the-counter supplements and some medical procedures. In the studies examined, these approaches did not produce measurable reductions in epigenetic age. The researchers also discovered that newer biological age clocks performed better than older versions. Another important finding was that people living with diseases generally experienced larger changes in their aging biomarkers than healthy participants. According to Sehgal, the next priority is to test these findings in larger, more diverse populations. This would help researchers determine how consistently different treatments influence biological aging across people with different health conditions and backgrounds. The improved blood tests could also dramatically shorten the time needed to evaluate potential anti-aging therapies. \"If these new biomarkers are eventually validated to predict long-term health, scientists will be able to evaluate anti-aging therapies much faster,\" he added. \"Instead of waiting decades for evidence from clinical trials, we'll be able to see which interventions are effective and in which people in a few years or even months.\" That possibility could represent a major advance for aging research. Instead of relying entirely on clinical studies that follow participants for decades, scientists might eventually use validated biological age measurements to identify promising treatments much earlier. However, senior author Higgins-Chen stressed that scientists must be careful about interpreting what changes in aging biomarkers actually mean. \"We have developed a rigorous, systematic approach to evaluating and comparing how biomarkers change across a wide variety of interventions, and that is a critical step in the right direction,\" he said. \"However, the true meaning of that change must be fully understood.\" Although the results are promising, several major questions remain unanswered. For example, researchers still need to establish whether changes in biological age are directly caused by a treatment or influenced by other factors that were not accounted for. They also need to understand how quickly those changes occur, whether they persist after treatment ends, and which biological processes produce them. Most importantly, scientists have not yet established whether lowering epigenetic age leads to meaningful improvements in long-term health. \"And most importantly - what does the change mean for our long-term risk of age-related disease and functional decline?\" Higgins-Chen said. Further investigations into these questions are underway, with additional studies led by Borrus, Armstron",
+   "doi": [
+    "10.1038/s41591-026-04562-9"
+   ],
+   "journal_ref": "Journal Reference : Raghav Sehgal, Daniel Borrus, Jenel F. Armstrong, John Gonzalez, Jessica Kasamoto, Yaroslav Markov, Ahana Priyanka, Ryan Smith, Natàlia Carreras-Gallo, Jessica Lasky-Su, Varun B. Dwaraka, Michael J. Corley, Albert Higgins-Chen. Responsiveness of epigenetic aging biomarkers to longevity interventions in humans . Nature Medicine , 2026; 32 (9): 3477 DOI: 10.1038/s41591-026-04562-",
+   "facts": [
+    "The researchers brought together findings from 51 clinical studies investigating different anti-aging strategies.",
+    "Across those studies, the team examined more than 110 DNA methylation biomarkers (including 16 major epigenetic clocks).",
+    "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
+   ],
+   "sample": []
   },
   {
    "title": "Scientists discover a surprising link between acorns and lyme disease",
@@ -643,42 +677,6 @@
    ]
   },
   {
-   "title": "Scientists discover a common sugar may help cancer cells break free and spread",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261111221501.htm",
-   "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together, making it easier for cancer to spread. High dietary fructose levels and cholesterol-lowering statins also produced concerning effects in preclinical experiments.",
-   "date": "2026-11-12",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-13",
-   "text": "A common sugar found in many foods and sweetened drinks may play an unexpected role in helping aggressive ovarian cancer spread. Researchers at The Wistar Institute have discovered that cancer cells surviving chemotherapy can release fructose, which acts as a signal that encourages nearby tumor cells to break free and spread. The findings, published in Nature Aging , reveal a previously unknown way that cancer cells can continue influencing a tumor even after treatment has stopped them from multiplying. The discovery also raises important questions about whether dietary sugar and commonly prescribed cholesterol medications could affect how cancer progresses. \"Some cancer cells that survive chemotherapy aren't dividing anymore, but they're still biologically active,\" said Aidan Cole, Ph.D., a postdoctoral fellow in the lab of Katherine Aird, Ph.D. , at The Wistar Institute and first author on the study. \"Instead, they continue to release molecules that send signals to nearby cells. Our study is among the first to show that a nutrient -- in this case, fructose -- can act as one of those signals.\" Most patients with ovarian cancer receive platinum-based chemotherapy, a treatment that uses drugs containing platinum to damage the DNA of cancer cells and prevent them from reproducing. Although many patients initially respond well, the cancer eventually returns in most cases. It also frequently spreads throughout the abdominal cavity, the space inside the abdomen that contains organs such as the stomach, intestines, and liver. This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths. Understanding what allows cancer cells to escape from their original location and establish new tumors is therefore a major priority for researchers. Previous studies have suggested that cancer cells surviving chemotherapy may contribute to recurrence even when they are no longer actively dividing. These surviving cells can continue producing and releasing a mixture of substances that influence the behavior of surrounding cells. To investigate this process, Cole and his colleagues developed an experiment that separated the surviving cancer cells from the molecules they released. They discovered that these released substances, even without the surviving cells themselves, were enough to significantly increase cancer spread in a preclinical model. \"As far as we know, this is the first time anyone has shown, in a preclinical model rather than just a dish, that it's the molecules these cells release -- not the cells themselves -- that drive the cancer's spread,\" said Cole. The next challenge was identifying which substances were responsible for encouraging cancer cells to spread. The researchers discovered an unexpected culprit: fructose. Fructose is a naturally occurring sugar found in fruit, honey, and other foods. It is also a component of table sugar and high fructose corn syrup, a sweetener frequently used in soft drinks and processed foods. The study revealed that cancer cells surviving chemotherapy could produce fructose and release it into their surroundings. Rather than simply serving as an energy source, the sugar acted as a chemical messenger that encouraged neighboring cancer cells to become more capable of spreading. The researchers also uncovered another concerning possibility. In their preclinical experiments, consuming high amounts of fructose comparable to those found in sugary drinks could promote signals associated with cancer spread even without chemotherapy treatment. This observation suggests that diet might influence cancer progression through a mechanism scientists had not previously recognized. Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals. Unlike many factors that influence cancer risk and progression, dietary fructose intake can be changed. That raises the possibility that nutritional strategies might eventually become part of efforts to limit cancer spread. However, researchers have not yet tested whether reducing fructose consumption improves outcomes in patients with ovarian cancer. The findings do not establish that eating sugar causes cancer to spread in humans, and additional research is needed before specific dietary recommendations can be made based on this mechanism. To understand how fructose encourages cancer spread, the researchers examined what happens inside cancer cells exposed to the sugar. They used several advanced methods to investigate the biological changes involved, including a CRISPR screen. This technique allows scientists to systematically examine genes and identify which ones influence a particular cellular process. The experiments revealed that fructose suppresses cholesterol production in neighboring cancer cells. Although cholesterol is often discussed in connection with heart disease, it also serves essential functions throughout the body. It is an important component of cell membranes, the thin outer layers that surround cells and help regulate how they interact with their environment. In this case, cholesterol helps maintain the connections that hold neighboring cells together. These connections act somewhat like biological glue, making it harder for cancer cells to separate from one another. When fructose reduces cholesterol production, those connections weaken. As a result, cancer cells can detach more easily, potentially allowing them to escape and spread to other locations. This discovery provides a possible explanation for how a common nutrient can influence one of the most dangerous aspects of cancer. The cholesterol finding also led researchers to investigate an unexpected question involving statins, medications widely prescribed to lower cholesterol. Approximately 39 million people in the United States take statins. These drugs work by reducing the body's production of cholesterol and are commonly used to lower the risk of heart attacks and strokes. Because fructose appeared to promote cancer spread by suppressing cholesterol production, the research team wanted to know whether statins might produce similar effects. Their experiments showed that statins alone could weaken the connections between cancer cells, making it easier for them to separate and escape. The finding raises questions about whether cholesterol-lowering medications could influence the effectiveness of chemotherapy in certain situations. Researchers are now investigating that possibility, but they emphasize that the results have not been demonstrated in patients and are not a reason for anyone to discontinue prescribed statins. \"We haven't tested this effect in patients yet, but it raises questions about combining cholesterol-lowering drugs with chemotherapy, especially since ovarian cancer is most common in postmenopausal women who are often already on statins,\" said Katherine Aird, Ph.D., professor and co-leader of the Molecular and Cellular Oncogenesis Program in the Ellen and Ronald Caplan Cancer Center at The Wistar Institute, and senior author of the study. Although the research focused on ovarian cancer, the scientists suspect that the same biological process could occur in other forms of the disease. Cancers affecting organs within the abdomen and torso can also spread to nearby tissues and organs. If fructose influences the connections between cancer cells in a similar way, the discovery could have implications beyond ovarian cancer. \"We think other cancers that spread within the torso -- pancreatic, colon, liver -- could behave similarly. We can't call it universal yet, but we think the effects are not just limited to ovarian cancer,\" said Aird. Aird and Cole have already begun designing additional experiments to determine whether their findings can be reproduced in pancreatic, colon, liver, and other cancers. The research opens a new avenue for understanding how ca",
-   "facts": [
-    "This spread, known as metastasis, is responsible for approximately 90% of ovarian cancer deaths.",
-    "Fructose consumption is particularly relevant in the United States, where high fructose corn syrup can account for approximately 8% to 20% of daily calorie intake in some individuals.",
-    "Approximately 39 million people in the United States take statins.",
-    "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event “This Should Not Happen”: Scientists Discover a Strange New Way To Control Atoms Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease An Ancient Virus May Hold the Secret to What Makes the Human Brain Different"
-   ],
-   "doi": [
-    "10.1038/s43587-026-01172-5"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Aidan R. Cole, Raquel Buj, Apoorva Uboveja, Evan Levasseur, Alexander Tom, Hui Wang, Katarzyna M. Kedziora, Adam Chatoff, Andrea Andress Huacachino, Mariola M. Marcinkiewicz, Amandine Amalric, Baixue Yang, Naveen Kumar Tangudu, Emily Noonan, Jeff Danielson, Miho Naruse, Amal Taher Elhaw, Sierra White, Danyang Li, Callen T. Wallace, Frederick Keeney, Felicia Lazure, Esther Elish",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261111221501.htm"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 8,
-   "why": [
-    "형식 SCALE",
-    "훅: surpris",
-    "생활소재: diet"
-   ]
-  },
-  {
    "title": "A suspected black hole turns out to be a rapidly spinning star",
    "link": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
    "key": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
@@ -1096,55 +1094,6 @@
    ]
   },
   {
-   "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
-   "link": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
-   "key": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
-   "summary": "Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Food Chemistry, demonstrates how artificial intelligence and molecular modeling could accelerate the discovery of new sweeteners while helping overcome one of the industry's persistent challenges: unwanted bitter aftertastes.",
-   "date": "2026-11-06",
-   "source": "Phys.org",
-   "first_seen": "2026-11-06",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html"
-   ],
-   "format": "SCALE",
-   "catch": [
-    "모델·시뮬레이션"
-   ],
-   "score": 5,
-   "why": [
-    "형식 SCALE"
-   ]
-  },
-  {
-   "title": "How do octopuses remember? Scientists uncover a surprising secret",
-   "link": "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
-   "key": "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
-   "summary": "How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebrew University of Jerusalem and Ruppin Academic Center—has uncovered a previously unknown molecular mechanism that may help explain how these remarkably intelligent animals form and maintain memories.",
-   "date": "2026-11-06",
-   "source": "Phys.org",
-   "first_seen": "2026-11-06",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html"
-   ],
-   "format": "",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "훅: surpris, secret",
-    "생활소재: octopus"
-   ]
-  },
-  {
    "title": "New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer",
    "link": "https://theconversation.com/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-but-theres-no-evidence-it-can-reduce-your-risk-of-dying-from-cancer-293409",
    "key": "https://theconversation.com/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-but-theres-no-evidence-it-can-reduce-your-risk-of-dying-from-cancer-293409",
@@ -1322,6 +1271,52 @@
     "형식 SCALE",
     "생활소재: cat"
    ]
+  },
+  {
+   "title": "Even cacti are severely threatened in a warmer, drier world",
+   "link": "https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html",
+   "key": "https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html",
+   "summary": "Findings from a study spanning the Americas show that climate change forecasts are underestimating threats to biodiversity—even to exceptionally resilient species—by not factoring in extreme weather events that become more likely in a warmer world.",
+   "date": "2026-11-12",
+   "source": "Phys.org",
+   "first_seen": "2026-11-12",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 PRESS",
+    "훅: underestimat"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html"
+  },
+  {
+   "title": "Looping DNA may help flowers grow nectar-producing organs",
+   "link": "https://phys.org/news/2026-11-looping-dna-nectar.html",
+   "key": "https://phys.org/news/2026-11-looping-dna-nectar.html",
+   "summary": "Nectaries are specialized floral tissues that secrete nectar to attract pollinators. Although the protein CRABS CLAW (CRC) is established as essential for nectary formation, the exact molecular mechanisms governing how it drives organ growth and secretion have remained unknown.",
+   "date": "2026-11-12",
+   "source": "Phys.org",
+   "first_seen": "2026-11-12",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-looping-dna-nectar.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "훅: secret"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-looping-dna-nectar.html"
   }
  ]
 }
