@@ -1,6 +1,6 @@
 {
  "week": "2026-11-16",
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,49 +14,49 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 27
+   "span_days": 28
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 28
+   "span_days": 29
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 38
+   "span_days": 36
   },
   {
    "feed": "ScienceDaily 건강",
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 13
+   "span_days": 11
   },
   {
    "feed": "Phys.org",
    "url": "https://phys.org/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 2
+   "span_days": 1
   },
   {
    "feed": "MedicalXpress",
    "url": "https://medicalxpress.com/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 2
+   "span_days": 1
   },
   {
    "feed": "The Conversation",
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 10
+   "span_days": 7
   }
  ],
  "top": [
@@ -143,6 +143,32 @@
    ]
   },
   {
+   "title": "Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve",
+   "link": "https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html",
+   "key": "https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html",
+   "summary": "A highly lethal pathogen is responsible for the mass death of tadpoles and the rapid decline of amphibian populations in the Atlantic Forest. A group of researchers demonstrate for the first time in South America that recurring ranavirus outbreaks caused an 83% drop in monkey frog (Phyllomedusa distincta) reproduction in a pond in the Brazilian state of Santa Catarina. The disease is caused by a virus that affects reptiles and fish as well.",
+   "date": "2026-11-17",
+   "source": "Phys.org",
+   "first_seen": "2026-11-17",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html"
+   ],
+   "format": "PRESS",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 9,
+   "why": [
+    "형식 PRESS",
+    "훅: first time",
+    "생활소재: cat, fish, monkey"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html"
+  },
+  {
    "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
    "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
    "key": "https://sciencedaily.com/releases/2026/11/261112025540.htm",
@@ -223,6 +249,69 @@
     "형식 CUT",
     "훅: strange, bizarre"
    ]
+  },
+  {
+   "title": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261116014842.htm",
+   "summary": "A revolutionary new wearable patch could help people get more restorative sleep without medication or surgery. Developed by University of Texas researchers, the device uses gentle ultrasound to stimulate deep brain regions, helping participants enter REM sleep 43 minutes faster and remain there 16 minutes longer on average. The technology also showed promising effects on stress regulation and brain circuits involved in emotion.",
+   "date": "2026-11-16",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-17",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261116014842.htm"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "과장 의심 단어"
+   ],
+   "score": 8,
+   "why": [
+    "형식 DOSE",
+    "생활소재: sleep, brain, stress"
+   ],
+   "text": "A new wearable patch could offer a surprisingly simple way to improve one of the most important stages of sleep, without relying on medication or surgery. Developed by researchers led by the University of Texas at Austin, the device uses gentle ultrasound waves to stimulate regions deep inside the brain, helping people enter REM sleep sooner and spend more time in this restorative stage. Known as NEUSLeeP, the soft patch attaches to the skin and combines ultrasound stimulation with electrodes that monitor brain activity in real time. This allows researchers to influence brain regions involved in sleep while simultaneously tracking how the brain responds. REM sleep, short for rapid eye movement sleep, is the stage when most vivid dreaming occurs. It also plays an important role in processing emotions, consolidating memories, and adapting to stress. Disturbances in this stage of sleep have been associated with several mental health conditions, making it an important target for new treatments. \"This is the first time we've been able to noninvasively target deep brain regions involved in REM sleep, while simultaneously monitoring brain activity,\" said Kai Wing \"Kevin\" Tang, a recent UT biomedical engineering Ph.D. graduate who led the research effort. \"Our skin-attached NEUSLeeP patch opens up new possibilities for understanding sleep and treating sleep disorders in home settings,\" added Huiliang \"Evan\" Wang, assistant professor in the Cockrell School of Engineering's Department of Biomedical Engineering. Wang supervised Tang's research and served as the principal investigator (PI) overseeing the project. The early results suggest that the technology can make a measurable difference in how people experience REM sleep. In a study involving 28 participants, published in Nature Communications , people using the patch entered REM sleep an average of 43 minutes sooner and spent approximately 16 additional minutes in that stage. These improvements were observed in both healthy sleepers and participants experiencing certain sleep difficulties. The volunteers also reported that the patch was comfortable to wear, with minimal adverse effects. Unlike medications that affect the body more broadly, NEUSLeeP is designed to deliver stimulation to specific brain regions involved in sleep regulation. It uses ultrasound, a form of sound energy with frequencies beyond human hearing, to reach areas beneath the surface of the brain without requiring an invasive procedure. The findings are encouraging, although the relatively small study means that larger trials will be needed to determine how consistently the technology works and whether its benefits persist over time. The researchers also found evidence that the patch's effects may extend beyond increasing REM sleep. Among healthy participants, ultrasound stimulation improved heart rate variability, a measure of the natural differences in time between consecutive heartbeats. This measurement provides insight into how the body's nervous system responds to stress and adjusts to changing conditions. Brain imaging revealed changes in neural circuits involved in emotional processing. Together, these findings suggest that improving REM sleep through targeted stimulation could potentially support emotional regulation and the ability to cope with stress. \"REM sleep is not just about dreaming -- it's about emotional reset and stress adaptation,\" explained Gregory Fonzo, assistant professor in the Dell Medical School's Department of Psychiatry and Behavioral Sciences and one of the project's co-PIs. \"By enhancing REM, we may help people better cope with stress and improve their overall well-being.\" These possibilities are especially interesting because REM sleep disturbances have been linked to depression, anxiety, and post-traumatic stress disorder (PTSD). Current approaches to sleep problems often involve medication or behavioral therapy. Although these treatments can be effective, medications may produce unwanted side effects, and existing approaches do not always directly address the biological processes responsible for disrupted REM sleep. A device capable of influencing those processes without drugs or surgery could therefore offer an additional treatment option. However, the researchers have not yet established whether NEUSLeeP can improve symptoms of mental health disorders. Building on the initial findings, the research team plans to conduct larger clinical trials to confirm the patch's effects and investigate its potential use in people with PTSD, depression, and chronic insomnia. Beyond treating sleep disorders, the technology could eventually support sleep monitoring at home and provide scientists with a new way to study how deep brain regions influence sleep. Researchers also envision personalized therapies that could be adjusted to individual sleep patterns and needs. \"Our vision is a future where patients with mental health disorders can optimize their sleep with a noninvasive and safe treatment,\" said Vincent Mysliwiec, M.D., a professor at UT Health San Antonio, a leading expert in sleep disorders, and another co-PI on the project. \"This technology could help millions of people get the restorative sleep they need.\" The team is already taking steps toward making NEUSLeeP available beyond the research setting. Working with the university's commercialization unit, Discovery to Impact, the researchers are exploring how to bring the device to market and have filed a patent application covering the technology. If future studies confirm the early results, this wearable ultrasound patch could become a valuable new tool for improving REM sleep and potentially addressing conditions associated with poor sleep. Other members of the research team include William D. Moscoso-Barrera, Mengxia Yu, Mengmeng Yao, Jinmo Jeong, Ilya Pyatnitskiy, Anakaren Romero Lozano, Jiachen Wang, Ju-Chun Hsieh, Tony Sungjin Chae, Daniel Song, Julieta Garcia, Rithvik Mittapalli, and Adam Bush of the Department of Biomedical Engineering; Benjamin Baird of the College of Natural Sciences' Department of Psychology; and Wynn Legon of Virginia Tech's Fralin Biomedical Research Institute. Materials provided by University of Texas at Austin . Note: Content may be edited for style and length. Scientists Just Challenged a 50-Year-Old Theory About How Evolution Work “A Magnetar Is Born”: Supercomputer Simulates One of the Universe’s Most Violent Collisions Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down",
+   "doi": [
+    "10.1038/s41467-026-73787-6"
+   ],
+   "journal_ref": "Journal Reference : Kai Wing Kevin Tang, Benjamin Baird, William D. Moscoso-Barrera, Mengxia Yu, Mengmeng Yao, Jinmo Jeong, Ilya Pyatnitskiy, Anakaren Romero Lozano, Jiachen Wang, Ju-Chun Hsieh, Tony Sungjin Chae, Daniel Song, Julieta Garcia, Rithvik Mittapalli, Adam Bush, Wynn Legon, Vincent Mysliwiec, Gregory A. Fonzo, Huiliang Wang. Skin-attached bioadhesive patch enabling ultrasound deep brain",
+   "facts": [
+    "In a study involving 28 participants, published in Nature Communications , people using the patch entered REM sleep an average of 43 minutes sooner and spent approximately 16 additional minutes in that stage.",
+    "Scientists Just Challenged a 50-Year-Old Theory About How Evolution Work “A Magnetar Is Born”: Supercomputer Simulates One of the Universe’s Most Violent Collisions Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down"
+   ],
+   "sample": [
+    "28 participants"
+   ]
+  },
+  {
+   "title": "Catching AI's mistakes is a mental burden—and a drag on productivity",
+   "link": "https://phys.org/news/2026-11-ai-mental-burden-productivity.html",
+   "key": "https://phys.org/news/2026-11-ai-mental-burden-productivity.html",
+   "summary": "By now, almost everyone has asked an AI agent a question, only to realize that the answer seems not quite right. Something might be missing or wrong or out of date. An executive assistant told me she uses AI tools for drafting itineraries and briefings, but she's caught enough issues that she now builds time into her workflow to thoroughly check for inaccuracies and biases.",
+   "date": "2026-11-16",
+   "source": "Phys.org",
+   "first_seen": "2026-11-17",
+   "sources": [
+    "Phys.org",
+    "The Conversation"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-ai-mental-burden-productivity.html",
+    "https://theconversation.com/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity-291748"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 WEIGH",
+    "훅: wrong",
+    "생활소재: cat",
+    "2곳 보도"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-ai-mental-burden-productivity.html"
   },
   {
    "title": "Common osteoporosis drugs linked to 24% lower dementia risk in major study",
@@ -469,75 +558,111 @@
    ]
   },
   {
-   "title": "A 24-hour fast triggers a surprising repair response in the gut",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261104084024.htm",
-   "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
-   "date": "2026-11-08",
+   "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261115085535.htm",
+   "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to more personalized treatments for neurological disorders.",
+   "date": "2026-11-16",
    "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-09",
-   "text": "A 24-hour fast may help prepare the intestines to recover from radiation damage, but scientists have discovered that a particular gut bacterium plays a crucial role in making this possible. New preclinical research from The University of Texas MD Anderson Cancer Center reveals how fasting and beneficial microbes work together to activate the body's natural tissue repair mechanisms. The findings could eventually lead to new ways to protect healthy tissue during cancer treatment. By improving the intestine's ability to recover from radiation exposure, researchers hope to reduce serious side effects and potentially make radiation therapy safer and more effective. Published in the Proceedings of the National Academy of Sciences , the study was co-led by Helen Piwnica-Worms, Ph.D., professor of Experimental Radiation Oncology, and Kunal Rai, Ph.D., professor of Genomic Medicine. \"Fasting helps prepare intestinal cells to respond more quickly and effectively after injury, almost like training the cells with an emergency preparedness plan,\" Piwnica-Worms said. \"This study helps explain how that plan is organized and identifies a key bacterium involved in coordinating the response.\" Radiation therapy is widely used to treat cancers in the abdomen, including pancreatic, colorectal, and gynecologic cancers. Although radiation can destroy cancer cells, it can also harm nearby healthy tissue. The small intestine is particularly vulnerable because its delicate lining is highly sensitive to radiation exposure. When this protective lining becomes damaged, patients may experience nausea, diarrhea, and infections. Severe injuries can cause life-threatening complications. These risks can also restrict the amount of radiation doctors can safely administer, potentially limiting treatment options. Previous preclinical research from the Piwnica-Worms Laboratory showed that fasting before radiation exposure helped the intestines recover afterward. However, researchers had not fully determined why going without food produced this protective effect. The latest study provides an important piece of that puzzle by identifying a specific gut bacterium and explaining how it helps intestinal cells prepare for injury. Researchers found that 24 hours of fasting increased the abundance of a beneficial bacterium called Akkermansia muciniphila , also known as AKK, in the small intestine. This microbe produces a substance called propionate, which helps trigger changes inside intestinal cells that make them better prepared to regenerate following radiation damage. Propionate works alongside other metabolic changes caused by fasting to modify proteins known as histones. These proteins serve as structures around which DNA is packaged inside cells. Small chemical markers added to histones can influence which genes become active without changing the underlying DNA sequence. These modifications make portions of DNA more accessible, allowing cells to activate genes involved in tissue regeneration. During fasting, a population of intestinal cells carrying these repair programs becomes more abundant. In effect, fasting helps prepare these cells with the biological instructions they will need if an injury occurs. When the intestines are subsequently exposed to radiation, the prepared cells can expand and help rebuild the damaged intestinal lining. To determine how important AKK was to this process, the researchers selectively removed the bacterium. Without it, fasting no longer produced the same regenerative benefits. Even more revealing, the protective response returned only when the bacterium was restored in combination with fasting. This demonstrated that neither component alone was sufficient to reproduce the full effect observed in the study. The results suggest that fasting does more than temporarily change the gut's metabolism. Together with AKK, it alters the activity of intestinal cells before radiation exposure, placing them in a state that supports more efficient recovery after damage occurs. By uncovering this connection between nutrition, gut bacteria, and cellular regeneration, the researchers have identified a potential new way to strengthen the body's response to tissue injury. The discovery could be especially valuable for protecting healthy organs during cancer treatment. Although the results are promising, the research remains preclinical. Additional studies will be needed to determine whether the same protective mechanism operates in humans and whether it can safely improve outcomes for patients receiving radiation therapy. One possibility is that the newly discovered pathway could be used to help other healthy tissues recover from cancer treatment. Researchers are particularly interested in tissues with rapidly dividing cells, including bone marrow, which can also suffer treatment-related damage. If further investigations support the findings, clinical trials could eventually explore whether activating this repair mechanism benefits patients undergoing abdominal radiation therapy. Importantly, the discovery may also provide ways to achieve these effects without requiring patients to fast. Treatments involving beneficial bacteria or the molecules they produce could potentially stimulate similar repair processes while avoiding the practical difficulties of food restriction during cancer care. \"Fasting is not always practical for cancer patients, and this work supports several other potential ways to enhance recovery after treatment,\" Rai said. \"Whether through dietary interventions, targeted microbes or their metabolites, the goal is to help repair healthy tissue more effectively while patients receive the cancer therapies they need.\" The research was funded by the National Cancer Institute (NCI) within the National Institutes of Health (NIH) and the Cancer Prevention and Research Institute of Texas (CPRIT). Materials provided by University of Texas M. D. Anderson Cancer Center . Note: Content may be edited for style and length. A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago",
-   "facts": [
-    "A 24-hour fast may help prepare the intestines to recover from radiation damage, but scientists have discovered that a particular gut bacterium plays a crucial role in making this possible.",
-    "Researchers found that 24 hours of fasting increased the abundance of a beneficial bacterium called Akkermansia muciniphila , also known as AKK, in the small intestine.",
-    "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
-   ],
-   "doi": [
-    "10.1073/pnas.2529215123"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Praveen Barrodia, Ajay Kumar Saw, Sabrina L. Jeter-Jones, Chia-Chi Chang, Jiansu Shao, Emre Arslan, Anand K. Singh, Suresh Satpati, Robert R. Jenq, Kunal Rai, Helen Piwnica-Worms. Fasting primes small intestinal regeneration after damage via a microbiome–metabolite–chromatin axis . Proceedings of the National Academy of Sciences , 2026; 123 (26) DOI: 10.1073/pnas.2529215123",
-   "catch_extra": [],
+   "first_seen": "2026-11-17",
    "sources": [
     "ScienceDaily 전체"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261104084024.htm"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "훅: surpris"
-   ]
-  },
-  {
-   "title": "MIT scientists turn immune cells into cancer killers inside the body",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261104084015.htm",
-   "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapies dramatically simpler and less expensive while opening new possibilities for treating cancer and autoimmune diseases.",
-   "date": "2026-11-08",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-09",
-   "text": "MIT researchers have developed a new technique that allows them to transform immune cells into cancer fighters directly inside the body, potentially making advanced treatments for cancer and autoimmune diseases much easier to produce and administer. The method focuses on natural killer (NK) cells, a type of immune cell that can be engineered to recognize and destroy harmful cells. These include cancerous T cells and T cells that mistakenly attack healthy tissue, contributing to conditions such as lymphoma and autoimmune hepatitis. Rather than extracting immune cells from a patient and modifying them in a laboratory, the researchers use tiny particles made of fatty molecules to deliver genetic instructions directly to NK cells. These instructions, carried by messenger RNA, tell the cells to produce specialized proteins that help them identify and eliminate diseased T cells. The resulting cells, known as CAR NK cells, could eventually be used against several different diseases. By carrying out the engineering process inside the body, the new approach could eliminate much of the time, expense, and complexity involved in manufacturing personalized immune cell therapies. \"The manufacturing challenges with CAR NK cells are significant. The idea here is you can deliver a nanoparticle that will modify your own NK cells with a CAR construct and teach them to attack tumor cells,\" says Daniel Anderson, a professor in MIT's Department of Chemical Engineering and a member of MIT's Koch Institute for Integrative Cancer Research and Institute for Medical Engineering and Science. Anderson is the senior author of the research, published in Nature Biotechnology . The lead authors are MIT postdoctoral researcher Yuang Chen and graduate students Julia Monkovic and Haseeb Mughal. Robert Langer, MIT's David H. Koch Institute Professor, also contributed to the study. Immune cell engineering has already transformed treatment options for certain cancers. During the past decade, the U.S. Food and Drug Administration has approved seven cancer therapies that use genetically modified T cells, known as chimeric antigen receptor (CAR) T cells. These treatments work by equipping T cells with specially designed receptors that recognize particular markers, or antigens, on other cells. When an engineered T cell encounters its designated target, such as a protein associated with cancer, it becomes activated and attacks the cell carrying that marker. CAR T cell therapies have been especially effective against blood cancers arising from B cells. These include certain forms of leukemia and lymphoma, as well as multiple myeloma. However, preparing these treatments involves several complicated steps. Doctors first collect blood from the patient and send it to a specialized facility. There, technicians separate the T cells, genetically modify them to produce the desired receptors, and grow enough engineered cells for treatment. The finished cells must then be transported back to the hospital and infused into the patient. Scientists have recently been exploring whether natural killer cells could be engineered in a similar way. One important advantage is their potential to treat cancers and autoimmune conditions involving abnormal T cells. Trying to use CAR T cells against diseased T cells creates a major problem. Because both the engineered cells and their intended targets are T cells, the modified cells may recognize and destroy one another. This unintended attack can undermine the treatment. Natural killer cells avoid this complication because they are a different type of immune cell. They can be programmed to attack harmful T cells without triggering the same problem of engineered T cells killing each other. \"NK cells can treat these T cell malignancies -- not only T cell cancer, but also T cell autoimmune diseases,\" Chen says. Producing CAR NK cells outside the body, however, still requires much of the specialized equipment, labor, and processing associated with CAR T cell manufacturing. To overcome these limitations, the MIT team investigated whether NK cells could instead be engineered \"in vivo,\" meaning directly inside the body. \"If a patient can just get an infusion of nanoparticles, it would dramatically simplify the process and reduce costs,\" Anderson says. Although researchers are actively developing CAR NK cell therapies for cancer and autoimmune disorders, none have received FDA approval. The MIT team designed lipid nanoparticles (LNPs) capable of transporting messenger RNA into natural killer cells. The mRNA carries instructions for producing a chimeric antigen receptor that directs the modified immune cell toward a specific target. The technology can be adapted to recognize different proteins depending on the disease being treated. For example, the researchers can provide instructions for a receptor that recognizes CD19, a protein found on B cells, or CD3, a protein present on T cells, including those responsible for autoimmune attacks. To help the nanoparticles reach the correct immune cells, the scientists covered their surfaces with antibody fragments. These fragments recognize and attach to receptors on NK cells, helping deliver the genetic instructions where they are needed. Once inside an NK cell, the mRNA directs the production of the new receptor, giving the immune cell the ability to recognize and attack its intended target. The researchers then tested whether this approach could efficiently reprogram NK cells and whether the resulting cells could combat cancer and autoimmune disease in mice. The initial experiments produced encouraging results. After injecting the nanoparticles into mice, the researchers successfully modified approximately 80 percent of the NK cells they were targeting. They next investigated whether these engineered cells could attack tumors. In mice with an aggressive form of melanoma, three of the five animals treated with nanoparticles designed to direct NK cells against the cancer experienced complete remission. The researchers also tested the technique against T cell lymphoma using humanized mice. These animals receive transfusions of human blood cells, temporarily giving them immune systems that share certain characteristics with those of humans. In this model, the treatment produced substantial tumor destruction. After five injections of the nanoparticles, the tumors were completely eliminated. Importantly, these results were comparable to those achieved with CAR NK cells produced through the more traditional method of collecting NK cells, modifying them outside the body, and then returning them to the animals. This suggests that generating CAR NK cells directly inside the body could offer similar cancer-fighting capabilities while avoiding the complicated manufacturing process required by conventional cell therapies. The researchers also wanted to determine whether their technology could help treat autoimmune diseases, in which the immune system mistakenly damages healthy tissues. They focused on autoimmune hepatitis, a condition in which abnormal T cells attack hepatocytes, the main functional cells of the liver. By designing nanoparticles that instruct NK cells to recognize these harmful T cells, the scientists tested whether they could interrupt the autoimmune response. The treatment successfully eliminated the autoreactive T cells in mice with the disease. Even more encouragingly, the animals' damaged liver tissue healed after the harmful immune cells were removed. These improvements occurred after just one nanoparticle injection, demonstrating the potential of the approach beyond cancer treatment. \"This study is an excellent example of the power of nano delivery systems and their ability to potentially treat cancer and other diseases,\" Langer says. The researchers believe that reprogramming natural killer cells inside the body could eventually provide new treatment options for a much wider range of conditions. Among the diseases they h",
-   "facts": [
-    "For example, the researchers can provide instructions for a receptor that recognizes CD19, a protein found on B cells, or CD3, a protein present on T cells, including those responsible for autoimmune attacks.",
-    "After injecting the nanoparticles into mice, the researchers successfully modified approximately 80 percent of the NK cells they were targeting.",
-    "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
-   ],
-   "doi": [
-    "10.1038/s41587-026-03310-1"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Yuang Chen, Julia Monkovic, Haseeb Mughal, Binlong Chen, Elina Thadhani, Patrick McMullen, Ava Self, Yuxuan Chen, Yizong Hu, Samuel Detmer, Min Chen, Anna Lapteva, Ria Kamat, Ashley Vernon, Robert Langer, Daniel G. Anderson. In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles . Nature Biotechnology , 2026; DOI: 10.1038/s41",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261104084015.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
    ],
    "format": "CUT",
    "catch": [
-    "동물 실험",
-    "과장 의심 단어"
+    "DOI 못 찾음"
    ],
-   "score": 6,
+   "score": 7,
    "why": [
     "형식 CUT",
-    "생활소재: mouse"
-   ]
+    "훅: surpris",
+    "생활소재: alzheimer, brain"
+   ],
+   "text": "Emerging research suggests that biological sex and genetics may play a major role in how neurological disorders develop, progress, and respond to treatment. The findings, which will be presented at Neuroscience 2026, reveal important differences that could help researchers develop more personalized approaches to treating complex brain conditions. Neuroscience 2026 is the annual meeting of the Society for Neuroscience and the world's largest source of emerging news about brain science and health. Researchers are increasingly finding that certain neurological conditions can behave differently depending on a person's biological sex and genetic makeup. Understanding these differences could lead to treatments better suited to each individual's biology. Two conditions receiving particular attention are Alzheimer's disease (AD), an incurable disorder that progressively damages memory and other brain functions, and fibromyalgia, a chronic illness marked by persistent pain and fatigue that affects 2-4% of the global population . According to the World Health Organization , Alzheimer's affects between 35 and 40 million people worldwide. Two of the new studies highlight how menopause and inherited genetic factors may influence Alzheimer's vulnerability and treatment responses. One investigation found that people carrying genetic risk factors for Alzheimer's responded differently to menopause hormone therapy (MHT) compared with those without the same genetic risks. The effects also varied according to the particular combination of hormones used. These findings suggest that both genetic background and hormone therapy formulation deserve consideration when evaluating treatment options. (Mateja Perović, University of Toronto) A separate study examined rodents undergoing menopause that also carried genetic risk factors for Alzheimer's. Researchers observed that brain circuits responsible for memory became particularly vulnerable, providing evidence that menopause may represent an important period of increased susceptibility for women who are genetically predisposed to the disease. (Stephanie M. Perez, University of Texas Health Science Center at San Antonio) The other two studies explored how biological sex influences pain sensitivity, immune activity, and the effects of inflammation on the brain. In a mouse model of fibromyalgia, females continued to show heightened sensitivity to touch and stronger immune system activation compared with males. The findings suggest that the biological processes contributing to chronic pain may differ between sexes, potentially making treatments tailored to these differences more effective. (Yasmin Sahlloul, University of Cincinnati) Another investigation uncovered differences in how prolonged intestinal inflammation influences the brain. Using a mouse model, researchers found that chronic gut inflammation affected brain function and Alzheimer's related disease changes differently in males and females. The results provide additional evidence that biological sex may influence the relationship between inflammation and neurological disease. (Nurcan Kilic, University of North Dakota) Together, the four studies underscore the importance of examining sex and genetic differences when investigating neurological conditions. By identifying biological factors that influence disease progression and treatment responses, researchers hope to move toward more precise therapies for Alzheimer's, fibromyalgia, and other difficult-to-treat brain disorders. \"These four studies illustrate the fascinating discoveries that can be made when focusing on female-specific biology or possible sex differences in AD-related symptoms and risk factors,\" said Liisa Galea, PhD, Treliving Family Chair in Women's Mental Health at Centre for Addiction and Mental Health and moderator of the press conference. \"The research presented at Neuroscience 2026 helps us pinpoint the specific differences that may help us develop more targeted treatment using precision approaches, even for some of our most complex brain disorders.\" Materials provided by Society for Neuroscience . Note: Content may be edited for style and length. Scientists Just Challenged a 50-Year-Old Theory About How Evolution Work “A Magnetar Is Born”: Supercomputer Simulates One of the Universe’s Most Violent Collisions Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down",
+   "doi": [],
+   "facts": [
+    "The findings, which will be presented at Neuroscience 2026, reveal important differences that could help researchers develop more personalized approaches to treating complex brain conditions.",
+    "Neuroscience 2026 is the annual meeting of the Society for Neuroscience and the world's largest source of emerging news about brain science and health.",
+    "Two conditions receiving particular attention are Alzheimer's disease (AD), an incurable disorder that progressively damages memory and other brain functions, and fibromyalgia, a chronic illness marked by persistent pain and fatigue that affects 2-4% of the global population .",
+    "According to the World Health Organization , Alzheimer's affects between 35 and 40 million people worldwide.",
+    "\"The research presented at Neuroscience 2026 helps us pinpoint the specific differences that may help us develop more targeted treatment using precision approaches, even for some of our most complex brain disorders.\" Materials provided by Society for Neuroscience .",
+    "Scientists Just Challenged a 50-Year-Old Theory About How Evolution Work “A Magnetar Is Born”: Supercomputer Simulates One of the Universe’s Most Violent Collisions Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down"
+   ],
+   "sample": []
+  },
+  {
+   "title": "City crows and country crows don't see the world the same way",
+   "link": "https://phys.org/news/2026-11-city-crows-country-dont-world.html",
+   "key": "https://phys.org/news/2026-11-city-crows-country-dont-world.html",
+   "summary": "A country crow hesitates upon seeing a takeout food box. A city crow pauses the first time it sees an ear of corn. Both are taken aback when they find a strange wooden object next to the expected peanuts.",
+   "date": "2026-11-17",
+   "source": "Phys.org",
+   "first_seen": "2026-11-17",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-city-crows-country-dont-world.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "훅: strange, first time"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-city-crows-country-dont-world.html"
+  },
+  {
+   "title": "Astaxanthin supplements: What the science says about skin, exercise and your brain",
+   "link": "https://medicalxpress.com/news/2026-11-astaxanthin-supplements-science-skin-brain.html",
+   "key": "https://medicalxpress.com/news/2026-11-astaxanthin-supplements-science-skin-brain.html",
+   "summary": "Smoother skin, sharper eyesight, better memory, stronger joints, improved athletic performance and even protection against aging—astaxanthin is marketed as a supplement with an extraordinary range of health benefits. But how much of this promise is backed by evidence in people?",
+   "date": "2026-11-17",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-17",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-astaxanthin-supplements-science-skin-brain.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "생활소재: aging, exercise, supplement"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-astaxanthin-supplements-science-skin-brain.h"
+  },
+  {
+   "title": "Ending Medicaid coverage for weight-loss drugs linked to sharp drop in GLP-1 use",
+   "link": "https://medicalxpress.com/news/2026-11-medicaid-coverage-weight-loss-drugs.html",
+   "key": "https://medicalxpress.com/news/2026-11-medicaid-coverage-weight-loss-drugs.html",
+   "summary": "Medicaid prescriptions for weight loss–approved GLP-1 medications fell sharply after four states ended coverage of the drugs, according to a new study led by researchers at the University of Pittsburgh. The findings, published in JAMA, demonstrate how state coverage decisions can have an immediate and substantial effect on access to these medications.",
+   "date": "2026-11-17",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-17",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-medicaid-coverage-weight-loss-drugs.html"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "생활소재: weight loss"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-medicaid-coverage-weight-loss-drugs.html"
   },
   {
    "title": "Liver transplant linked to significantly extended survival for alcohol-associated disease yet access is not equitable",
@@ -792,52 +917,27 @@
    ]
   },
   {
-   "title": "Researchers trial AI coach for diabetes",
-   "link": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
-   "key": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
-   "summary": "For many people with type 2 diabetes, the challenge isn't understanding what they need to do to stay well. It's doing it consistently. Managing the condition often requires a long-term commitment to healthier eating patterns, regular exercise and medication. But unlike some illnesses, diabetes can progress quietly. Missing a dose or skipping exercise may not cause immediate consequences, making it easy for healthy intentions to slip amid the demands of work, family and everyday life.",
-   "date": "2026-11-14",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-14",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
-   "catch_extra": [],
+   "title": "Ancient height trends show technological advances did not always improve living standards",
+   "link": "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html",
+   "key": "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html",
+   "summary": "New research from the University of Tübingen and the Max Planck Institute of Geoanthropology in Jena gives valuable clues as to economic development in various regions across thousands of years. Researchers evaluated 18,457 skeletal remains and analyzed changes in height, estimated from thighbone length. The bones come from 45 different countries across Europe and Asia. The study has been published in the journal Proceedings of the National Academy of Sciences.",
+   "date": "2026-11-17",
+   "source": "Phys.org",
+   "first_seen": "2026-11-17",
    "sources": [
-    "MedicalXpress"
+    "Phys.org"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html"
-   ],
-   "format": "DOSE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 DOSE",
-    "생활소재: exercise"
-   ]
-  },
-  {
-   "title": "Predator-like scent activates an anxiety-related brain circuit in mice",
-   "link": "https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html",
-   "key": "https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html",
-   "summary": "Anxiety disorders are some of the most common psychiatric conditions, estimated to affect around 4.4% of people worldwide, according to the World Health Organization. While neuroscientists have been studying these disorders for decades, their neural underpinnings are not yet fully understood.",
-   "date": "2026-11-14",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-15",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html"
+    "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html"
    ],
    "format": "CUT",
    "catch": [],
    "score": 6,
    "why": [
     "형식 CUT",
-    "생활소재: brain, mice"
-   ]
+    "훅: did not"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html"
   },
   {
    "title": "Asteroid mining will crash the platinum market, but that's good news for Earth",
@@ -1034,96 +1134,44 @@
    ]
   },
   {
-   "title": "A newly discovered South African dinosaur was a heavyweight even as a youngster",
-   "link": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
-   "key": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
-   "summary": "It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 million years ago in what is now South Africa.",
-   "date": "2026-11-14",
-   "source": "Phys.org",
-   "first_seen": "2026-11-14",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: dinosaur"
-   ]
-  },
-  {
-   "title": "Milk and wine used in Menorcan funerary rituals over 2,000 years ago",
-   "link": "https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html",
-   "key": "https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html",
-   "summary": "In the Late Iron Age, or post-Talayotic period, over 2,000 years ago, Menorca and the other Balearic Islands experienced increasing connectivity with the wider Mediterranean. However, they also maintained distinctive local funerary traditions, such as burying their loved ones in rock-cut tombs, or artificial caves. Some of these caves contained external courtyards located in front of the burial chambers where animal offerings might have been made. Archaeologists even suspect that perishable foods or liquids were offered in characteristic island containers, such as high-bottomed vessels. Until now, however, the contents of these ceramic containers had never been identified.",
+   "title": "Americans are eating way less turkey than we used to",
+   "link": "https://theconversation.com/americans-are-eating-way-less-turkey-than-we-used-to-295921",
+   "key": "https://theconversation.com/americans-are-eating-way-less-turkey-than-we-used-to-295921",
+   "summary": "Despite evidence that Americans still love poultry, they’re eating 25% less turkey.",
    "date": "2026-11-16",
-   "source": "Phys.org",
-   "first_seen": "2026-11-16",
+   "source": "The Conversation",
+   "first_seen": "2026-11-17",
    "sources": [
-    "Phys.org"
+    "The Conversation"
    ],
    "links": [
-    "https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html"
+    "https://theconversation.com/americans-are-eating-way-less-turkey-than-we-used-to-295921"
    ],
    "format": "SCALE",
-   "catch": [],
+   "catch": [
+    "DOI 못 찾음"
+   ],
    "score": 5,
    "why": [
     "형식 SCALE",
     "생활소재: love"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html"
-  },
-  {
-   "title": "Archaeologists uncover a witness to the Neolithic revolution",
-   "link": "https://phys.org/news/2026-11-archaeologists-uncover-witness-neolithic-revolution.html",
-   "key": "https://phys.org/news/2026-11-archaeologists-uncover-witness-neolithic-revolution.html",
-   "summary": "Radiocarbon dating and isotope analysis of an immaculately preserved skeleton from Mesolithic Denmark indicate that the individual lived through the introduction of agriculture and adapted his diet to the change, providing a unique \"eyewitness account\" of one of humanity's most significant technological revolutions.",
-   "date": "2026-11-16",
-   "source": "Phys.org",
-   "first_seen": "2026-11-16",
-   "sources": [
-    "Phys.org"
+   "text": "One of the most quintessential American things is having roasted turkey on the table at a Thanksgiving feast. While that remains the norm , Americans are eating much less of this kind of poultry today than in the past. Annual consumption has fallen by more than 25% over the past three decades, while demand for chicken has soared. I’m a business school professor who has written about the economics of various holidays . I find turkeys fascinating , because even though I live in an urban area, a large group of wild turkeys has taken over my backyard. And I can offer several good explanations for the turkey slump. Domesticated turkeys, unlike their wild cousins, are a big business. More than US$5 billion worth of the birds were sold in 2025. That’s no chicken feed. However, it’s the latest sign of the industry’s decline. U.S. consumers are drifting away from eating turkey. Back in 1995, the average American consumed 17.7 pounds (8 kilograms) of turkey each year. By 2025, consumption had fallen to just 13.2 pounds (6 kg). While turkey consumption started to recede in the late 1990s, it began accelerating around 2008, when the Great Recession was underway . Occasionally, turkey production ticks upward a little, as happened in 2026 as demand for niche products like turkey jerky rose, but the long-term picture is one of steady decline. It’s not like Americans are eating less poultry overall. Chicken consumption has steadily grown during this turkey slump, rising about 50% from 69 pounds (31 kg) in 1995 to 104 pounds (47 kg) in 2025. In other words, we’re eating almost eight times more chicken than turkey. Well, at least the 95% of Americans who aren’t vegetarian or vegan are. Government agencies , researchers and some pundits have identified two possible explanations for why Americans are eating less turkey. First: pocketbook concerns. Turkey often costs more than chicken, except when it goes on sale just before Thanksgiving . Over the past 25 years, wholesale turkey prices per pound averaged about 10% higher than chicken , according to U.S. Department of Agriculture data. That price, which is what big retailers typically pay, affects what you owe at checkout. For example, just before the 2026 Thanksgiving sales began, a Bell & Evans fresh whole turkey was going for $4.99 a pound , while a Bell & Evans fresh whole chicken cost $3.49 a pound at my local supermarket. That’s $1.50 a pound difference, which is significant in an economy where many people feel economically pinched . Nationally, you will see similar price differences, with fresh turkey being more expensive than fresh chicken . Both turkeys and chickens are fed a diet of corn and soybeans. However, turkeys consume a higher percentage of soybeans . And soybeans currently cost about twice as much as corn . The latest data shows turkey feed costs are up almost 80%, without accounting for inflation, since 2000, while chicken feed costs have climbed only 60%. The second reason has to do with the size of today’s families. The typical Bell & Evans whole chicken my grocery store sells weighs approximately 4 pounds, while its fresh turkeys tend to range between 10 and 12 pounds . Big birds are handy if you have a lot of mouths to feed, but American families have shrunk over time. Today the average household includes only 2.5 people. The extra half-person does not represent children who are picky eaters or people who don’t like eating meat. It just means the typical family has between two and three people. That means cooking a 10-pound turkey results in 4 pounds of food per person, which is far more than almost anyone who is not a competitive food eater can consume. Cooking a 4-pound chicken, however, results in a more manageable 1.2 pounds of poultry per eater after getting rid of the bones, which make up about a quarter of a chicken . In simple terms, buying a whole chicken often results in one or two meals per person. Cooking a whole turkey often yields enough meat to produce meals for an entire week . There are two more factors to consider. First, a 10-pound turkey costs a lot more than a 4-pound chicken. A 10-pound fresh bird at $4.99 a pound sets you back almost $50, while a $3.49-per-pound chicken that weighs 4 pounds costs under $14. Last, bigger birds take longer to roast. Cooking a 10-pound turkey in an oven takes about three hours , while a 4-pound chicken takes about two . That extra hour is a big burden in an increasingly time-pressed society . In case you were wondering, the world record for eating a turkey is held by Joey Chestnut . He gobbled down 9.35 pounds of turkey off the bone in 10 minutes in 2014. Please do not try that at home. If you need to save money on turkey this holiday season, you should consider buying a frozen one . They are much cheaper. Given all the large wild turkeys roosting in my backyard, I looked into what it would take . I live in Massachusetts, where hunting wild turkeys before Thanksgiving is legal. For much of the fall, hunters are allowed to use only bows and arrows. Beyond needing to be a proficient archer, they also have to purchase a sporting license, a turkey permit and an archery stamp for $95 each year. Having learned about that, I’m sticking to buying my turkeys in the supermarket.",
+   "doi": [],
+   "facts": [
+    "Annual consumption has fallen by more than 25% over the past three decades, while demand for chicken has soared.",
+    "More than US$5 billion worth of the birds were sold in 2025.",
+    "Back in 1995, the average American consumed 17.7 pounds (8 kilograms) of turkey each year.",
+    "By 2025, consumption had fallen to just 13.2 pounds (6 kg).",
+    "While turkey consumption started to recede in the late 1990s, it began accelerating around 2008, when the Great Recession was underway .",
+    "Occasionally, turkey production ticks upward a little, as happened in 2026 as demand for niche products like turkey jerky rose, but the long-term picture is one of steady decline.",
+    "Chicken consumption has steadily grown during this turkey slump, rising about 50% from 69 pounds (31 kg) in 1995 to 104 pounds (47 kg) in 2025.",
+    "In other words, we’re eating almost eight times more chicken than turkey.",
+    "Well, at least the 95% of Americans who aren’t vegetarian or vegan are.",
+    "Over the past 25 years, wholesale turkey prices per pound averaged about 10% higher than chicken , according to U.S."
    ],
-   "links": [
-    "https://phys.org/news/2026-11-archaeologists-uncover-witness-neolithic-revolution.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "생활소재: diet, dating"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-archaeologists-uncover-witness-neolithic-revolution.h"
-  },
-  {
-   "title": "Heavy rain can more than double glacier speeds in Alaska",
-   "link": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
-   "key": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
-   "summary": "Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. But sometimes their slow crawl becomes a surge that sees them move orders of magnitude faster than their usual speed.",
-   "date": "2026-11-08",
-   "source": "Phys.org",
-   "first_seen": "2026-11-08",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-heavy-glacier-alaska.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-heavy-glacier-alaska.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 4,
-   "why": [
-    "형식 WEIGH"
+   "sample": [
+    "5 people"
    ]
   },
   {
@@ -1252,47 +1300,6 @@
    "score": 4,
    "why": [
     "형식 DOSE"
-   ]
-  },
-  {
-   "title": "What is ‘food is medicine?’ – 2 experts explain this decades-old approach to healthcare that is taking on new life",
-   "link": "https://theconversation.com/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life-293312",
-   "key": "https://theconversation.com/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life-293312",
-   "summary": "Food is medicine aims to help patients prevent or manage chronic illnesses by eating food that supports their health.",
-   "date": "2026-11-12",
-   "source": "The Conversation",
-   "first_seen": "2026-11-13",
-   "text": "Mountains of scientific evidence support both the negative and positive effects of our eating habits on our health . Research shows that a healthy diet can help those suffering from chronic health conditions like Type 2 diabetes , heart disease and high blood pressure . This is where “food is medicine” comes in. Food is medicine, also known as “food as medicine” and “food prescriptions,” is a movement dedicated to providing healthy food – fruits, vegetables and sometimes healthy proteins – based on a clinician’s prescription in order to prevent, manage or treat specific clinical conditions . Prescribing food to patients is intended to convey that food is just as important as medication for health and wellness. As researchers whose work focuses on food access and health in rural communities, we have firsthand experience running food is medicine programs in our local area in northern Mississippi. This experience has shown us the benefits and limitations of these programs in our community. Food is medicine programs can be delivered through curated food boxes, grocery vouchers and medically tailored meals. Most programs are collaborations between nonprofit organizations, health clinics and healthcare providers. The goal of food is medicine is to improve patient health, especially for those with chronic conditions, while reducing healthcare costs. Increasingly, food is medicine programs have become lifelines for people with food insecurity. In 2024, more than 47 million Americans, including 7.3 million children, lived in food-insecure households – meaning they were at some point uncertain of having, or did not have, enough food for everyone in the household. Internationally, the number of people experiencing hunger rises to roughly 673 million . Rural populations are more likely to be food insecure due to the loss of local grocery stores and distance from urban centers. Unlike a food bank, food is medicine programs provide only healthy foods, which are often curated by a dietitian, to optimize patient health. Though food is medicine isn’t formally connected to the Make American Healthy Again movement , U.S. Health and Human Services Secretary Robert F. Kennedy, Jr. has brought new energy and attention to the concept. In January 2026, the second Trump administration launched a campaign encouraging Americans to “ Eat Real Food .” But the food is medicine movement actually began more than 60 years ago. One of the early providers who prescribed food as medicine was civil rights activist and multiple Nobel Peace Prize winner Dr. Jack Geiger . In the 1960s, he co-founded community health centers in South Boston and the Mississippi Delta. When government officials chastised him for prescribing food to patients in the Delta, Geiger responded, “The last time I looked at my textbooks, the most specific therapy for malnutrition was food.” Since then, thousands of community organizations like Community Servings and Project Open Hand have provided healthy food to vulnerable community members. In 2023, the president of the American Heart Association convened an advisory group of researchers and physicians to review current food is medicine research and suggest next steps for work in this area. This advisory has suggested that these programs could help prevent or manage chronic conditions, saving the U.S. healthcare system an estimated US$4.3 trillion annually . Food is medicine has also started to gain international momentum. In 2025, the Rockefeller Foundation supported a meeting of international scholars, policy experts and practitioners that established the Food Is Medicine Global Alliance . This organization plans to help integrate, sustainably finance and routinely deliver food is medicine programs worldwide by 2030. So far, it has released several reports highlighting the current food is medicine environment and made resources available to providers looking to start their own programs. Food is medicine programs can use food from local farms or grocery stores, and the means of getting the food to patients varies. The four projects we have run to date have been relatively small and local. One was a food box pickup program that supplemented fruits and vegetables for 55 households whose members demonstrated food insecurity. We followed the participants for two years and found statistically significant reductions in weight , waist circumference and triglyceride levels in the primary adult participants. For two of our other programs, including one that is ongoing, we partnered with local farmers . One was a pilot test of a food box delivery program for housebound people. Both the recipients of the food and the farmers reported high satisfaction with the program’s delivery and felt the program strengthened community connections while also supporting local agricultural livelihoods. One recent large-scale literature review identified 14 trials of food is medicine interventions and found that these approaches often positively influenced diet quality and food security . Another review of food is medicine programs for people with diabetes found significant increases in fruit and vegetable intake and reductions in blood sugar levels . This data supports our own previous findings. However, the effect of food is medicine programs on long-term health outcomes has been inconsistent, in part because many trials have been too small or not rigorous enough to determine causation. In some cases, the “dose” – that is, the amount of food provided – is limited by grant funding. Our food box pickup project supplemented only four to five meals each week , which may have been insufficient to significantly improve all health outcomes. Moreover, it will be important for researchers to consider the logistics of making these programs work in various local food environments. Global factors like changing weather patterns and, more recently, delays in fuel and supplies from the Strait of Hormuz have increased prices of staple food products like cereals and vegetable oil and led to shortages of cooking oil in some countries. Food is medicine can be appealing because it makes intuitive sense. But going forward, larger, high-quality studies are needed to adequately track clinical outcomes from the various types of food is medicine programming. If studies show food is medicine is beneficial, it could lead to a shift in how healthcare practitioners approach diet for patients with chronic illness. Access to healthy food would be considered as essential as medications for patients with chronic illness.",
-   "facts": [
-    "Research shows that a healthy diet can help those suffering from chronic health conditions like Type 2 diabetes , heart disease and high blood pressure .",
-    "In 2024, more than 47 million Americans, including 7.3 million children, lived in food-insecure households – meaning they were at some point uncertain of having, or did not have, enough food for everyone in the household.",
-    "Internationally, the number of people experiencing hunger rises to roughly 673 million .",
-    "In January 2026, the second Trump administration launched a campaign encouraging Americans to “ Eat Real Food .” But the food is medicine movement actually began more than 60 years ago.",
-    "In the 1960s, he co-founded community health centers in South Boston and the Mississippi Delta.",
-    "In 2023, the president of the American Heart Association convened an advisory group of researchers and physicians to review current food is medicine research and suggest next steps for work in this area.",
-    "This advisory has suggested that these programs could help prevent or manage chronic conditions, saving the U.S. healthcare system an estimated US$4.3 trillion annually .",
-    "In 2025, the Rockefeller Foundation supported a meeting of international scholars, policy experts and practitioners that established the Food Is Medicine Global Alliance .",
-    "This organization plans to help integrate, sustainably finance and routinely deliver food is medicine programs worldwide by 2030.",
-    "One was a food box pickup program that supplemented fruits and vegetables for 55 households whose members demonstrated food insecurity."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation"
-   ],
-   "links": [
-    "https://theconversation.com/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life-293312"
-   ],
-   "format": "SCALE",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 4,
-   "why": [
-    "형식 SCALE"
    ]
   }
  ]
