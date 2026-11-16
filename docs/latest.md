@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 793건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 802건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Dinosaurs may have been eating seaweed 100 million years ago
 - 점수 11 · SCALE · ScienceDaily 전체 · 2026-11-15
@@ -263,24 +263,23 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 million years ago in what is now South Africa.
 
-## 34. Heavy rain can more than double glacier speeds in Alaska
+## 34. Milk and wine used in Menorcan funerary rituals over 2,000 years ago
+- 점수 5 · SCALE · Phys.org · 2026-11-16
+- https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: In the Late Iron Age, or post-Talayotic period, over 2,000 years ago, Menorca and the other Balearic Islands experienced increasing connectivity with the wider Mediterranean. However, they also maintained distinctive local funerary traditions, such as burying their loved ones in rock-cut tombs, or a
+
+## 35. Archaeologists uncover a witness to the Neolithic revolution
+- 점수 5 · SCALE · Phys.org · 2026-11-16
+- https://phys.org/news/2026-11-archaeologists-uncover-witness-neolithic-revolution.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Radiocarbon dating and isotope analysis of an immaculately preserved skeleton from Mesolithic Denmark indicate that the individual lived through the introduction of agriculture and adapted his diet to the change, providing a unique "eyewitness account" of one of humanity's most significant technolog
+
+## 36. Heavy rain can more than double glacier speeds in Alaska
 - 점수 4 · WEIGH · Phys.org · 2026-11-08
 - https://phys.org/news/2026-11-heavy-glacier-alaska.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. But sometimes their slow crawl becomes a surge that sees them move orders of magnitude faster than their usual speed.
-
-## 35. Why the tropics lose the most birds when cities expand
-- 점수 4 · CUT · Phys.org · 2026-11-08
-- https://phys.org/news/2026-11-tropics-birds-cities.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the latitudinal diversity gradient—is pervasive across branches of the tree of life, and fossil evidence suggests it has existed for millennia.
-
-## 36. Earth's gravity may have kept the early moon's volcanic heart beating
-- 점수 4 · CUT · Phys.org · 2026-11-08
-- https://phys.org/news/2026-11-earth-gravity-early-moon-volcanic.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: We typically think of the moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics—the moon should have cooled rapidly after forming when a huge protoplanet hi
 
 ## 37. Why do farts smell so bad? A microbiologist explains the odors brewing in your gut
 - 점수 4 · CUT · The Conversation · 2026-11-09
