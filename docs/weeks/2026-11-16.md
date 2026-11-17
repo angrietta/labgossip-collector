@@ -1,8 +1,19 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 899건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 938건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
-## 1. Dinosaurs may have been eating seaweed 100 million years ago
+## 1. Ozempic and Mounjaro may have a surprising effect on your brain
+- 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17
+- https://www.sciencedaily.com/releases/2026/11/261116023401.htm
+- DOI: 10.1126/science.aek9987
+- 요약: Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzh
+  - "Popular medications used to treat obesity and type 2 diabetes, including semaglutide and tirzepatide, may have effects that extend beyond weight loss and blood sugar control."
+  - "Studies involving animals suggest that GLP-1 medications can influence learning and memory."
+  - "Analyses of patient health records have found an association between GLP-1 treatment and a reduced risk of dementia among people with type 2 diabetes."
+  - "Despite the disappointing Alzheimer's results, researchers believe GLP-1 medications could still offer cognitive benefits to certain groups of patients."
+  - "People living with obesity or type 2 diabetes sometimes experience difficulties with attention, planning, and the speed at which they process information."
+
+## 2. Dinosaurs may have been eating seaweed 100 million years ago
 - 점수 11 · SCALE · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261112230502.htm
 - DOI: 10.3389/fevo.2026.1895247
@@ -13,7 +24,7 @@
   - "These readings also exceed what scientists would expect from animals that ate only plants growing on land, which generally have lower δ13C values than most marine plants."
   - "Around 100 million years ago, the Western Interior Seaway was an enormous inland sea that divided North America into two separate landmasses."
 
-## 2. Scientists discover a bizarre paradox among endangered penguins
+## 3. Scientists discover a bizarre paradox among endangered penguins
 - 점수 10 · PRESS · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261112230458.htm
 - DOI: 10.1371/journal.pone.0359075
@@ -24,14 +35,14 @@
   - ""The tiny Bounty Islands, at just 50 hectares, were found to hold almost as many breeding pairs (about 27,800) as the Antipodes Islands (about 29,800), even though the latter is 40 times larger and historically considered the species' stronghold." The difference in population trends was even more unexpected."
   - ""Comparing the new counts with historical records going back to the mid-1990s, the Bounty Islands population has remained essentially unchanged for at least 25 years."
 
-## 3. Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve
+## 4. Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve
 - 점수 9 · PRESS · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A highly lethal pathogen is responsible for the mass death of tadpoles and the rapid decline of amphibian populations in the Atlantic Forest. A group of researchers demonstrate for the first time in South America that recurring ranavirus outbreaks caused an 83% drop in monkey frog (Phyllomedusa dist
 
-## 4. 5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings
+## 5. 5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112025540.htm
 - DOI: 10.3389/fearc.2026.1858940
@@ -42,7 +53,7 @@
   - ""Who were these people and how did they view the ruler and their own role in his or her life and death?" Around 3000 BCE, the earliest kings of a unified Egypt constructed elaborate burial complexes at Abydos."
   - "Campbell located 46 of these skulls in the Duckworth Collection at Cambridge University and examined them using contemporary forensic knowledge."
 
-## 5. Uranus and Neptune’s bizarre magnetic fields may finally be explained
+## 6. Uranus and Neptune’s bizarre magnetic fields may finally be explained
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261114202204.htm
 - DOI: 10.1038/s42005-026-02841-y
@@ -54,7 +65,7 @@
   - "Each is approximately four times wider than Earth, and scientists believe their interiors contain substantial amounts of hydrogen, helium, water, ammonia, methane, and rocky material."
   - "To investigate this possibility, the researchers developed computer simulations designed to reproduce the strange magnetic fields recorded by Voyager 2."
 
-## 6. New wearable ultrasound patch boosts REM sleep without drugs or surgery
+## 7. New wearable ultrasound patch boosts REM sleep without drugs or surgery
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-16
 - https://www.sciencedaily.com/releases/2026/11/261116014842.htm
 - DOI: 10.1038/s41467-026-73787-6
@@ -64,33 +75,31 @@
   - "In a study involving 28 participants, published in Nature Communications , people using the patch entered REM sleep an average of 43 minutes sooner and spent approximately 16 additional minutes in that stage."
   - "Scientists Just Challenged a 50-Year-Old Theory About How Evolution Work “A Magnetar Is Born”: Supercomputer Simulates One of the Universe’s Most Violent Collisions Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down"
 
-## 7. Catching AI's mistakes is a mental burden—and a drag on productivity
+## 8. Catching AI's mistakes is a mental burden—and a drag on productivity
 - 점수 8 · WEIGH · Phys.org / The Conversation · 2026-11-16
 - https://phys.org/news/2026-11-ai-mental-burden-productivity.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: By now, almost everyone has asked an AI agent a question, only to realize that the answer seems not quite right. Something might be missing or wrong or out of date. An executive assistant told me she uses AI tools for drafting itineraries and briefings, but she's caught enough issues that she now bu
 
-## 8. Daily iron supplements reduce iron deficiency anemia in children and adolescents
+## 9. Daily iron supplements reduce iron deficiency anemia in children and adolescents
 - 점수 8 · DOSE · MedicalXpress · 2026-11-17
 - https://medicalxpress.com/news/2026-11-daily-iron-supplements-deficiency-anemia.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Giving children and adolescents a daily iron tablet significantly reduces the risk of iron deficiency anemia with little to no effect on several common illnesses, according to a review published in Cochrane Database of Systematic Reviews that included 114 studies involving more than 50,000 participa
 
-## 9. Common osteoporosis drugs linked to 24% lower dementia risk in major study
-- 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-09
-- https://www.sciencedaily.com/releases/2026/11/261108233037.htm
-- DOI: 10.1002/alz.70503
-- 대상: 120,000 adults, 120,000 patients, 48 patients
-- 주의: 상관관계
-- 이미 본 소재: 2026-11-09 보드에 있었음
-- 요약: A massive study of more than 120,000 older adults suggests that common osteoporosis drugs may reduce the risk of Alzheimer’s disease and other dementias by up to 24%. The surprising findings raise the possibility that medications already used to strengthen bones could also help protect the aging bra
-  - "In a study involving more than 120,000 older adults, researchers at the University of Hong Kong (HKUMed) found that patients taking certain medications to strengthen their bones were significantly less likely to develop dementia."
-  - "More than 55 million people worldwide currently live with dementia, and that number is projected to climb to 139 million by 2050."
-  - "Study of 120,000 Patients Finds Up to 24% Lower Dementia Risk To explore this possibility, the HKUMed researchers examined electronic medical records from across Hong Kong, analyzing data from more than 120,000 patients aged 60 and older."
-  - "The records covered the period from 2005 through 2020, allowing the team to investigate how different osteoporosis treatments were associated with dementia risk over time."
-  - "Patients taking NBPs had a 16% lower risk of developing Alzheimer's disease and related dementias compared with patients who received no osteoporosis medication."
+## 10. Wine, beer, or spirits? Massive study reveals a surprising health divide
+- 점수 8 · WEIGH · ScienceDaily 전체 · 2026-11-17
+- https://www.sciencedaily.com/releases/2026/11/261116015104.htm
+- 대상: 340,000 adults, 340,924 adults
+- 주의: 상관관계, DOI 못 찾음
+- 요약: A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was harmful regardless of beverage type, the findings suggest that
+  - "A massive study involving more than 340,000 adults has uncovered a surprising difference in the health risks associated with wine, beer, cider, and spirits."
+  - "The findings, presented at the American College of Cardiology's Annual Scientific Session (ACC.26), suggest that both the type and quantity of alcohol may influence its relationship with long-term health."
+  - "To investigate the relationship between drinking habits and longevity, scientists examined data from 340,924 adults enrolled in the UK Biobank between 2006 and 2022."
+  - "For comparison, a 12-ounce can of beer, a 5-ounce glass of wine, and a 1.5-ounce shot of spirits each provide approximately 14 grams of pure alcohol."
+  - "People consuming fewer than 20 g (about 1.5 standard drinks) per week were placed in the never or occasional drinking group."
 
-## 10. Walking and weight training may not be enough to keep your bones strong
+## 11. Walking and weight training may not be enough to keep your bones strong
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-12
 - https://www.sciencedaily.com/releases/2026/11/261110042601.htm
 - DOI: 10.1186/s40798-026-00986-2
@@ -100,7 +109,7 @@
   - "These activities were linked to increases of up to 45-46 percent in blood markers associated with bone formation, suggesting that they may provide a particularly strong stimulus for the body's bone-building processes."
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 11. Scientists discover a hidden danger of viral infections that vaccines may prevent
+## 12. Scientists discover a hidden danger of viral infections that vaccines may prevent
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-13
 - https://www.sciencedaily.com/releases/2026/11/261112025531.htm
 - DOI: 10.1038/s41419-026-09253-4
@@ -108,7 +117,7 @@
 - 요약: A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulner
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 12. Yale scientists reveal what really slows aging and what doesn't
+## 13. Yale scientists reveal what really slows aging and what doesn't
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112230452.htm
 - DOI: 10.1038/s41591-026-04562-9
@@ -118,7 +127,7 @@
   - "Across those studies, the team examined more than 110 DNA methylation biomarkers (including 16 major epigenetic clocks)."
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 13. Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms
+## 14. Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms
 - 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112230444.htm
 - DOI: 10.1126/sciadv.aed9351
@@ -130,7 +139,7 @@
   - "People whose brain patterns more closely resembled those of Alzheimer's patients were more likely to experience cognitive decline, accumulate amyloid-beta plaques, and receive an Alzheimer's diagnosis during follow-up periods extending up to 12 years."
   - ""That's why identifying the super-ager brain resilience pattern is a critical component -- so we know what a good pattern should be." Depending on how they are defined, approximately 10% of older adults may qualify as super agers."
 
-## 14. A simple supplement could help your immune system fight cancer and viral infections
+## 15. A simple supplement could help your immune system fight cancer and viral infections
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261113232000.htm
 - DOI: 10.1016/j.cell.2026.07.020
@@ -141,17 +150,6 @@
   - "When arginine becomes scarce, cells struggle to produce enough of a crucial immune system protein known as MHC-1."
   - "Without enough MHC-1, abnormal or infected cells may become harder for the immune system to recognize."
   - "To investigate, Wu examined the effects of arginine availability across several disease models, including colon cancer, influenza, and SARS-CoV-2."
-
-## 15. A hidden biological divide may help explain Alzheimer’s and chronic pain
-- 점수 7 · CUT · ScienceDaily 전체 · 2026-11-16
-- https://www.sciencedaily.com/releases/2026/11/261115085535.htm
-- 주의: DOI 못 찾음
-- 요약: New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to mo
-  - "The findings, which will be presented at Neuroscience 2026, reveal important differences that could help researchers develop more personalized approaches to treating complex brain conditions."
-  - "Neuroscience 2026 is the annual meeting of the Society for Neuroscience and the world's largest source of emerging news about brain science and health."
-  - "Two conditions receiving particular attention are Alzheimer's disease (AD), an incurable disorder that progressively damages memory and other brain functions, and fibromyalgia, a chronic illness marked by persistent pain and fatigue that affects 2-4% of the global population ."
-  - "According to the World Health Organization , Alzheimer's affects between 35 and 40 million people worldwide."
-  - ""The research presented at Neuroscience 2026 helps us pinpoint the specific differences that may help us develop more targeted treatment using precision approaches, even for some of our most complex brain disorders." Materials provided by Society for Neuroscience ."
 
 ## 16. City crows and country crows don't see the world the same way
 - 점수 7 · SCALE · Phys.org · 2026-11-17
@@ -172,62 +170,62 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Medicaid prescriptions for weight loss–approved GLP-1 medications fell sharply after four states ended coverage of the drugs, according to a new study led by researchers at the University of Pittsburgh. The findings, published in JAMA, demonstrate how state coverage decisions can have an immediate a
 
-## 19. Liver transplant linked to significantly extended survival for alcohol-associated disease yet access is not equitable
+## 19. Intermittent fasting offers no additional benefits over the Mediterranean diet for reducing liver fat
+- 점수 7 · SCALE · MedicalXpress · 2026-11-18
+- https://medicalxpress.com/news/2026-11-intermittent-fasting-additional-benefits-mediterranean.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A study led by the University of Granada and the Public University of Navarra has determined that, in the context of intermittent fasting, the time of day when one eats matters less than the amount of weight lost when it comes to reducing liver fat. The clinical trial, published in the journal JHEP 
+
+## 20. Liver transplant linked to significantly extended survival for alcohol-associated disease yet access is not equitable
 - 점수 6 · CUT · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-liver-transplant-linked-significantly-survival.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People with alcohol-associated liver disease who received a liver transplant survived years longer than those who did not, but there are disparities in which patients receive a transplant. A large study published in Alcohol: Clinical and Experimental Research found that liver transplantation was ass
 
-## 20. Community CPR and EMS intervention program did not increase survival after cardiac arrest
+## 21. Community CPR and EMS intervention program did not increase survival after cardiac arrest
 - 점수 6 · CUT · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-community-cpr-ems-intervention-survival.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A comprehensive emergency medical services and community-based educational intervention in North Carolina focused on recognizing out-of-hospital cardiac arrest and actions needed quickly to increase bystander CPR and use of an automated external defibrillator (AED) did not significantly improve pati
 
-## 21. How a protein contributes to blood vessel damage in the brain in patients with malaria
+## 22. How a protein contributes to blood vessel damage in the brain in patients with malaria
 - 점수 6 · CUT · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Malaria remains one of the deadliest infectious diseases worldwide. According to World Health Organization (WHO) estimates, there were more than 280 million cases in 2024, with 610,000 people dying from the parasitic infection. Ninety-five percent of deaths occur in sub-Saharan Africa, where childre
 
-## 22. GLP-1 drugs show lower obesity-related cancer risk than insulin, but not all diabetes treatments
+## 23. GLP-1 drugs show lower obesity-related cancer risk than insulin, but not all diabetes treatments
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-glp-drugs-obesity-cancer-insulin.html
 - 주의: 과장 의심 단어
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Years of research point to obesity and type 2 diabetes raising the risk of developing several types of cancer. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), a recent medical breakthrough, were originally developed for blood sugar control or diabetes management and also work overtime promoti
 
-## 23. Rare eye condition prompts new FDA warning on popular GLP-1 drugs
+## 24. Rare eye condition prompts new FDA warning on popular GLP-1 drugs
 - 점수 6 · DOSE · MedicalXpress · 2026-11-11
 - https://medicalxpress.com/news/2026-11-rare-eye-condition-prompts-fda.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The U.S. Food and Drug Administration (FDA) is requiring makers of Ozempic, Wegovy and similar drugs to warn of a rare eye condition that can cause vision loss.
 
-## 24. Even substitute PFAS cause metabolic stress in zebrafish embryos
+## 25. Even substitute PFAS cause metabolic stress in zebrafish embryos
 - 점수 6 · CUT · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Publishing in the Journal of Hazardous Materials Advances, researchers from Kyushu University used zebrafish embryos to study the health effects of the PFAS called PFBS (perfluorobutanesulfonic acid), a substitute PFAS thought to be safer than traditional compounds. They found that while PFBS did no
 
-## 25. New clinical definition of obesity could help target care more effectively, saving time and money
+## 26. New clinical definition of obesity could help target care more effectively, saving time and money
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The traditional way of assessing whether someone is overweight using body mass index (BMI) may fail to capture whether excess body fat is harmful and could be supplemented with a second measure when assessing patients, a new UCL study suggests.
 
-## 26. Psychedelic aftereffects may offer a window into psychotic symptoms
+## 27. Psychedelic aftereffects may offer a window into psychotic symptoms
 - 점수 6 · DOSE · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Every night, as he fell asleep, a 25-year-old man saw an eye in his ceiling. It was huge and unblinking, and it felt as if the whole world was being sucked into it. He didn't have psychosis, and he wasn't on drugs. But he had taken psychedelics in the past, and he was worried enough to contact Max G
-
-## 27. Scientists identify protein driving age-related organ damage
-- 점수 6 · CUT · MedicalXpress · 2026-11-13
-- https://medicalxpress.com/news/2026-11-scientists-protein-age.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs 
 
 ## 28. Ancient height trends show technological advances did not always improve living standards
 - 점수 6 · CUT · Phys.org · 2026-11-17
@@ -296,16 +294,17 @@
   - "By 2025, consumption had fallen to just 13.2 pounds (6 kg)."
   - "While turkey consumption started to recede in the late 1990s, it began accelerating around 2008, when the Great Recession was underway ."
 
-## 38. Why do farts smell so bad? A microbiologist explains the odors brewing in your gut
-- 점수 4 · CUT · The Conversation · 2026-11-09
-- https://theconversation.com/why-do-farts-smell-so-bad-a-microbiologist-explains-the-odors-brewing-in-your-gut-294335
+## 38. Massive super PAC spending did not secure Republican victories in 2026, but it remains a pernicious influence – in both parties
+- 점수 5 · WEIGH · The Conversation · 2026-11-17
+- https://theconversation.com/massive-super-pac-spending-did-not-secure-republican-victories-in-2026-but-it-remains-a-pernicious-influence-in-both-parties-296028
+- 대상: 100 people
 - 주의: DOI 못 찾음
-- 요약: Your farts’ aromas are tuned to your diet – and your overall health.
-  - "Why do farts smell so bad? – Daisy, age 7, New York, New York A healthy person farts about 14 to 20 times each day ."
-  - "Anywhere from 20% to 90% of a fart’s volume consists of nitrogen, which makes up more than three quarters of air."
-  - "Up to 10% of a fart is oxygen, which humans need in order to breathe."
-  - "Up to 30% is carbon dioxide, up to 50% is hydrogen, and up to 10% is methane."
-  - "Only tiny amounts are required: One molecule of hydrogen sulfide among 1 million other gas molecules has enough power to do the job."
+- 요약: Republicans lost across the board in the midterms – whether they had super PAC support or not. Does that mean that super PAC spending doesn’t matter as much as we’ve been told?
+  - "Republican super PACs substantially outspent Democratic ones in the 2026 midterm elections – particularly in Texas, where Elon Musk spent an astounding US$224 million on behalf of Republican Ken Paxton’s Senate campaign."
+  - "So, do the 2026 election results mean that super PAC spending, which represents the single-largest category of campaign spending in competitive races, doesn’t matter as much as we thought?"
+  - "In each election cycle, approximately 90% of voters vote for the same party they did in the previous election."
+  - "Super PACs do not receive the LUC, and thus they can pay two or three times as much per advertisement."
+  - "Nearly two-thirds of super PAC spending in 2026 can be traced to only 100 people ."
 
 ## 39. GLP-1 drugs carry risk of rare but serious eye condition – a physician studying these medicines explains the potential side effect
 - 점수 4 · DOSE · The Conversation · 2026-11-11
