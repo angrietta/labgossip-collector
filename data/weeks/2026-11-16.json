@@ -1,13 +1,13 @@
 {
  "week": "2026-11-16",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 6
+   "span_days": 7
   },
   {
    "feed": "ScienceDaily 별난연구",
@@ -21,21 +21,21 @@
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 30
+   "span_days": 28
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 36
+   "span_days": 37
   },
   {
    "feed": "ScienceDaily 건강",
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 12
+   "span_days": 13
   },
   {
    "feed": "Phys.org",
@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 8
+   "span_days": 6
   }
  ],
  "top": [
@@ -429,6 +429,53 @@
    ]
   },
   {
+   "title": "DNA reveals the secret lives of Hawaiʻi's aeʻo (Hawaiian stilt)",
+   "link": "https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html",
+   "key": "https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html",
+   "summary": "Long-legged, tuxedo-clad and famously noisy, the aeʻo, or Hawaiian stilt (Himantopus mexicanus knudseni), has a family life as complicated as any reality TV show. A new study led by University of Hawaiʻi at Mānoa researchers, published in Ecology and Evolution, paired a decade of birdwatching with DNA sequencing to uncover a world of egg-dumping, secret infidelities and surprisingly close family ties among the newly downlisted species.",
+   "date": "2026-11-19",
+   "source": "Phys.org",
+   "first_seen": "2026-11-19",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 CUT",
+    "훅: surpris, secret",
+    "생활소재: bird"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html"
+  },
+  {
+   "title": "The hypothalamus is not a bystander in Alzheimer's disease",
+   "link": "https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.html",
+   "key": "https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.html",
+   "summary": "Alzheimer's disease is well known as a disease of memory. But long before memory fades, many patients have trouble sleeping, lose their daily rhythms and show changes in metabolism and stress hormones. All of these functions are regulated by the hypothalamus, a structure at the base of the brain. A new study from the Buck Institute for Research on Aging, published on Nov. 18, 2026, in Nature, shows that the hypothalamus is not a bystander in Alzheimer's. Its circadian and metabolic control centers show specific age-related changes in volume and gene activity early in the disease.",
+   "date": "2026-11-19",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-19",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 DOSE",
+    "생활소재: sleep, aging, memory"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.htm"
+  },
+  {
    "title": "Walking and weight training may not be enough to keep your bones strong",
    "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
    "key": "https://sciencedaily.com/releases/2026/11/261110042601.htm",
@@ -730,6 +777,16 @@
    "date": "2026-11-17",
    "source": "The Conversation",
    "first_seen": "2026-11-18",
+   "text": "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. In new research published in the scientific journal Cell Host & Microbe, my colleagues and I found that the microbes living in your gut are the hidden timekeepers behind this system. Gut microbes convert dietary signals into molecules that intestinal cells use to synchronize nutrient absorption with feeding times. In mice, this microbe-controlled timing mechanism maximizes the nutrients the mouse’s body takes in and supports growth, especially when food is scarce. When mice consumed an excess of calories, however, that same system fueled obesity . Because of Earth’s rotation, all animals – including humans – experience rhythmic shifts of day and night . Your eyes and brain use light signals to coordinate your body’s activities with environmental changes and nutrient availability. Disruption of this temporal alignment, such as through jet lag and night-shift work, is associated with a range of health disorders . However, light is not the only timekeeper. Your intestines are home to trillions of microbes, called the gut microbiome . They play a key role in shaping your physiology, such as metabolism, immunity and even brain activity. Intriguingly, the microbiome also influences the daily biological rhythms of hosts . My colleagues and I had previously shown that depleting gut bacteria in mice weakens circadian rhythms in the small intestine and alters them in the colon . These disruptions can affect how well your intestine absorbs and processes fats and other lipids, which may contribute to metabolic disorders such as obesity. But if gut microbes are never exposed to the light, how do they track time? New research from my team suggests that the answer is feeding time. We found that the gut microbiota can metabolize phytate – a food component commonly found in grains, beans, nuts and seeds – and convert it into molecules that activate a specific protein in intestinal cells, subsequently turning on genes involved in transporting nutrients. Conversely, when fasting, a decrease in phytate levels leads to reduced microbial activity and a drop in nutrient absorption. Through this pathway, microbes align intestinal absorption with when you typically eat , which maximizes the efficiency of nutrient absorption. Our findings suggest that, like light, food provides time-of-day signals that gut microbes read to determine how your body functions. People have co-evolved with their gut microbiota for millennia, implying this microbe-controlled time system carries benefits. For most of human history, food was scarce . We hypothesized that this microbial pathway might help people survive and grow under starvation conditions. To test this idea, we fed mice a nutrient-poor diet and gave some of them either a common gut microbe or a molecule it produces that is linked to circadian regulation. We found that undernourished young mice who were given this bacterium or the microbial molecule grew taller and healthier than mice that weren’t, suggesting that this microbial pathway promotes growth and metabolic health when nutrients are limited. However, many people today have constant access to abundant calories. Rather than nutrient scarcity, obesity has become the dominant dietary challenge. We found that for mice under high-calorie conditions, this microbial pathway promotes excess fat uptake in the body and worsens diet-induced obesity. Therefore, the same gut microbiome mechanism that helped people thrive can become a liability when it encounters an environment it was never designed for. This is an example of evolutionary mismatch .",
+   "facts": [
+    "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles.",
+    "Gut microbes convert dietary signals into molecules that intestinal cells use to synchronize nutrient absorption with feeding times."
+   ],
+   "doi": [],
+   "sample": [],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
    "sources": [
     "The Conversation",
     "MedicalXpress"
@@ -747,116 +804,30 @@
    "why": [
     "형식 SCALE",
     "2곳 보도"
-   ],
-   "text": "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. In new research published in the scientific journal Cell Host & Microbe, my colleagues and I found that the microbes living in your gut are the hidden timekeepers behind this system. Gut microbes convert dietary signals into molecules that intestinal cells use to synchronize nutrient absorption with feeding times. In mice, this microbe-controlled timing mechanism maximizes the nutrients the mouse’s body takes in and supports growth, especially when food is scarce. When mice consumed an excess of calories, however, that same system fueled obesity . Because of Earth’s rotation, all animals – including humans – experience rhythmic shifts of day and night . Your eyes and brain use light signals to coordinate your body’s activities with environmental changes and nutrient availability. Disruption of this temporal alignment, such as through jet lag and night-shift work, is associated with a range of health disorders . However, light is not the only timekeeper. Your intestines are home to trillions of microbes, called the gut microbiome . They play a key role in shaping your physiology, such as metabolism, immunity and even brain activity. Intriguingly, the microbiome also influences the daily biological rhythms of hosts . My colleagues and I had previously shown that depleting gut bacteria in mice weakens circadian rhythms in the small intestine and alters them in the colon . These disruptions can affect how well your intestine absorbs and processes fats and other lipids, which may contribute to metabolic disorders such as obesity. But if gut microbes are never exposed to the light, how do they track time? New research from my team suggests that the answer is feeding time. We found that the gut microbiota can metabolize phytate – a food component commonly found in grains, beans, nuts and seeds – and convert it into molecules that activate a specific protein in intestinal cells, subsequently turning on genes involved in transporting nutrients. Conversely, when fasting, a decrease in phytate levels leads to reduced microbial activity and a drop in nutrient absorption. Through this pathway, microbes align intestinal absorption with when you typically eat , which maximizes the efficiency of nutrient absorption. Our findings suggest that, like light, food provides time-of-day signals that gut microbes read to determine how your body functions. People have co-evolved with their gut microbiota for millennia, implying this microbe-controlled time system carries benefits. For most of human history, food was scarce . We hypothesized that this microbial pathway might help people survive and grow under starvation conditions. To test this idea, we fed mice a nutrient-poor diet and gave some of them either a common gut microbe or a molecule it produces that is linked to circadian regulation. We found that undernourished young mice who were given this bacterium or the microbial molecule grew taller and healthier than mice that weren’t, suggesting that this microbial pathway promotes growth and metabolic health when nutrients are limited. However, many people today have constant access to abundant calories. Rather than nutrient scarcity, obesity has become the dominant dietary challenge. We found that for mice under high-calorie conditions, this microbial pathway promotes excess fat uptake in the body and worsens diet-induced obesity. Therefore, the same gut microbiome mechanism that helped people thrive can become a liability when it encounters an environment it was never designed for. This is an example of evolutionary mismatch .",
-   "doi": [],
-   "facts": [
-    "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles.",
-    "Gut microbes convert dietary signals into molecules that intestinal cells use to synchronize nutrient absorption with feeding times."
-   ],
-   "sample": []
-  },
-  {
-   "title": "Liver transplant linked to significantly extended survival for alcohol-associated disease yet access is not equitable",
-   "link": "https://medicalxpress.com/news/2026-11-liver-transplant-linked-significantly-survival.html",
-   "key": "https://medicalxpress.com/news/2026-11-liver-transplant-linked-significantly-survival.html",
-   "summary": "People with alcohol-associated liver disease who received a liver transplant survived years longer than those who did not, but there are disparities in which patients receive a transplant. A large study published in Alcohol: Clinical and Experimental Research found that liver transplantation was associated with significantly longer survival in both the short term and longer term. Yet, women and African Americans had lower odds of receiving a transplant, even though neither group had a higher risk of death than men or white patients.",
-   "date": "2026-11-10",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-10",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-liver-transplant-linked-significantly-surviv",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-liver-transplant-linked-significantly-survival.html"
-   ],
-   "format": "CUT",
-   "catch": [
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "훅: did not",
-    "생활소재: alcohol"
    ]
   },
   {
-   "title": "Community CPR and EMS intervention program did not increase survival after cardiac arrest",
-   "link": "https://medicalxpress.com/news/2026-11-community-cpr-ems-intervention-survival.html",
-   "key": "https://medicalxpress.com/news/2026-11-community-cpr-ems-intervention-survival.html",
-   "summary": "A comprehensive emergency medical services and community-based educational intervention in North Carolina focused on recognizing out-of-hospital cardiac arrest and actions needed quickly to increase bystander CPR and use of an automated external defibrillator (AED) did not significantly improve patient survival with favorable brain function, according to new, independent, preliminary, late-breaking science presented Sunday at the American Heart Association's Scientific Sessions in Chicago.",
-   "date": "2026-11-10",
+   "title": "Is my child eating enough? Fathers want more support when it comes to young children's eating habits",
+   "link": "https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html",
+   "key": "https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html",
+   "summary": "Getting young children to eat can be a source of both joy and worry. First-time fathers may feel unsure about how to manage their child's appetite and mealtimes, according to a study led by Ylva Törner Le Priol, a doctoral student at the Department of Food Studies, Nutrition and Dietetics at Uppsala University. The findings, published in PLOS One, point to a need for clearer and more practical support from child health services.",
+   "date": "2026-11-19",
    "source": "MedicalXpress",
-   "first_seen": "2026-11-10",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-community-cpr-ems-intervention-survival.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-19",
    "sources": [
     "MedicalXpress"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-11-community-cpr-ems-intervention-survival.html"
+    "https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html"
    ],
-   "format": "CUT",
+   "format": "SCALE",
    "catch": [],
-   "score": 6,
+   "score": 7,
    "why": [
-    "형식 CUT",
-    "훅: did not",
-    "생활소재: brain"
-   ]
-  },
-  {
-   "title": "How a protein contributes to blood vessel damage in the brain in patients with malaria",
-   "link": "https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html",
-   "key": "https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html",
-   "summary": "Malaria remains one of the deadliest infectious diseases worldwide. According to World Health Organization (WHO) estimates, there were more than 280 million cases in 2024, with 610,000 people dying from the parasitic infection. Ninety-five percent of deaths occur in sub-Saharan Africa, where children under the age of 5 are particularly affected. Prompt treatment is crucial. Nevertheless, some patients die from malaria even when treated with medication.",
-   "date": "2026-11-10",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-10",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
+    "형식 SCALE",
+    "생활소재: diet, children"
    ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "생활소재: children, brain"
-   ]
-  },
-  {
-   "title": "GLP-1 drugs show lower obesity-related cancer risk than insulin, but not all diabetes treatments",
-   "link": "https://medicalxpress.com/news/2026-11-glp-drugs-obesity-cancer-insulin.html",
-   "key": "https://medicalxpress.com/news/2026-11-glp-drugs-obesity-cancer-insulin.html",
-   "summary": "Years of research point to obesity and type 2 diabetes raising the risk of developing several types of cancer. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), a recent medical breakthrough, were originally developed for blood sugar control or diabetes management and also work overtime promoting weight loss. Scientists are curious to explore whether there are any links between these drugs and the onset of cancers in people with diabetes.",
-   "date": "2026-11-10",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-10",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-glp-drugs-obesity-cancer-insulin.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-glp-drugs-obesity-cancer-insulin.html"
-   ],
-   "format": "WEIGH",
-   "catch": [
-    "과장 의심 단어"
-   ],
-   "score": 6,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: weight loss"
-   ]
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html"
   },
   {
    "title": "Rare eye condition prompts new FDA warning on popular GLP-1 drugs",
@@ -955,6 +926,57 @@
    "why": [
     "형식 DOSE",
     "훅: didn't"
+   ]
+  },
+  {
+   "title": "Scientists identify protein driving age-related organ damage",
+   "link": "https://medicalxpress.com/news/2026-11-scientists-protein-age.html",
+   "key": "https://medicalxpress.com/news/2026-11-scientists-protein-age.html",
+   "summary": "Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs of aging in the heart, liver and kidneys.",
+   "date": "2026-11-13",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-13",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-scientists-protein-age.html",
+   "catch_extra": [],
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-scientists-protein-age.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: aging"
+   ]
+  },
+  {
+   "title": "Precision RNA therapy offers hope for brain receptor disorders",
+   "link": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
+   "key": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
+   "summary": "Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder and intellectual disability.",
+   "date": "2026-11-14",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-14",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
+   "catch_extra": [],
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "동물 실험",
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: memory, brain, mice"
    ]
   },
   {
@@ -1149,30 +1171,6 @@
    "why": [
     "형식 DOSE",
     "생활소재: alcohol"
-   ]
-  },
-  {
-   "title": "Happy face, angry voice: Human–dog interaction study tracks conflicting cues",
-   "link": "https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html",
-   "key": "https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html",
-   "summary": "Dogs, having lived alongside humans for tens of thousands of years, are keenly tuned in to our emotions. Behavioral experiments, brain studies and even measurements of heart rate all suggest dogs respond differently depending on the emotional expressions they encounter in humans.",
-   "date": "2026-11-14",
-   "source": "Phys.org",
-   "first_seen": "2026-11-14",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "생활소재: dog, brain"
    ]
   },
   {
