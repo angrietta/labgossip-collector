@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 938건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 1002건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -176,113 +176,121 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study led by the University of Granada and the Public University of Navarra has determined that, in the context of intermittent fasting, the time of day when one eats matters less than the amount of weight lost when it comes to reducing liver fat. The clinical trial, published in the journal JHEP 
 
-## 20. Liver transplant linked to significantly extended survival for alcohol-associated disease yet access is not equitable
+## 20. Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food
+- 점수 7 · SCALE · The Conversation / MedicalXpress · 2026-11-17
+- https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323
+- 주의: 상관관계, DOI 못 찾음
+- 요약: How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. In new research published in the journal Cell Host & Microbe, my colleagues and I found that the microbes living in your gut are the hidden timekeepers behind this system.
+  - "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles."
+  - "Gut microbes convert dietary signals into molecules that intestinal cells use to synchronize nutrient absorption with feeding times."
+
+## 21. Liver transplant linked to significantly extended survival for alcohol-associated disease yet access is not equitable
 - 점수 6 · CUT · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-liver-transplant-linked-significantly-survival.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People with alcohol-associated liver disease who received a liver transplant survived years longer than those who did not, but there are disparities in which patients receive a transplant. A large study published in Alcohol: Clinical and Experimental Research found that liver transplantation was ass
 
-## 21. Community CPR and EMS intervention program did not increase survival after cardiac arrest
+## 22. Community CPR and EMS intervention program did not increase survival after cardiac arrest
 - 점수 6 · CUT · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-community-cpr-ems-intervention-survival.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A comprehensive emergency medical services and community-based educational intervention in North Carolina focused on recognizing out-of-hospital cardiac arrest and actions needed quickly to increase bystander CPR and use of an automated external defibrillator (AED) did not significantly improve pati
 
-## 22. How a protein contributes to blood vessel damage in the brain in patients with malaria
+## 23. How a protein contributes to blood vessel damage in the brain in patients with malaria
 - 점수 6 · CUT · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Malaria remains one of the deadliest infectious diseases worldwide. According to World Health Organization (WHO) estimates, there were more than 280 million cases in 2024, with 610,000 people dying from the parasitic infection. Ninety-five percent of deaths occur in sub-Saharan Africa, where childre
 
-## 23. GLP-1 drugs show lower obesity-related cancer risk than insulin, but not all diabetes treatments
+## 24. GLP-1 drugs show lower obesity-related cancer risk than insulin, but not all diabetes treatments
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-10
 - https://medicalxpress.com/news/2026-11-glp-drugs-obesity-cancer-insulin.html
 - 주의: 과장 의심 단어
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Years of research point to obesity and type 2 diabetes raising the risk of developing several types of cancer. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), a recent medical breakthrough, were originally developed for blood sugar control or diabetes management and also work overtime promoti
 
-## 24. Rare eye condition prompts new FDA warning on popular GLP-1 drugs
+## 25. Rare eye condition prompts new FDA warning on popular GLP-1 drugs
 - 점수 6 · DOSE · MedicalXpress · 2026-11-11
 - https://medicalxpress.com/news/2026-11-rare-eye-condition-prompts-fda.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The U.S. Food and Drug Administration (FDA) is requiring makers of Ozempic, Wegovy and similar drugs to warn of a rare eye condition that can cause vision loss.
 
-## 25. Even substitute PFAS cause metabolic stress in zebrafish embryos
+## 26. Even substitute PFAS cause metabolic stress in zebrafish embryos
 - 점수 6 · CUT · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Publishing in the Journal of Hazardous Materials Advances, researchers from Kyushu University used zebrafish embryos to study the health effects of the PFAS called PFBS (perfluorobutanesulfonic acid), a substitute PFAS thought to be safer than traditional compounds. They found that while PFBS did no
 
-## 26. New clinical definition of obesity could help target care more effectively, saving time and money
+## 27. New clinical definition of obesity could help target care more effectively, saving time and money
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The traditional way of assessing whether someone is overweight using body mass index (BMI) may fail to capture whether excess body fat is harmful and could be supplemented with a second measure when assessing patients, a new UCL study suggests.
 
-## 27. Psychedelic aftereffects may offer a window into psychotic symptoms
+## 28. Psychedelic aftereffects may offer a window into psychotic symptoms
 - 점수 6 · DOSE · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Every night, as he fell asleep, a 25-year-old man saw an eye in his ceiling. It was huge and unblinking, and it felt as if the whole world was being sucked into it. He didn't have psychosis, and he wasn't on drugs. But he had taken psychedelics in the past, and he was worried enough to contact Max G
 
-## 28. Ancient height trends show technological advances did not always improve living standards
+## 29. Ancient height trends show technological advances did not always improve living standards
 - 점수 6 · CUT · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: New research from the University of Tübingen and the Max Planck Institute of Geoanthropology in Jena gives valuable clues as to economic development in various regions across thousands of years. Researchers evaluated 18,457 skeletal remains and analyzed changes in height, estimated from thighbone le
 
-## 29. Asteroid mining will crash the platinum market, but that's good news for Earth
+## 30. Asteroid mining will crash the platinum market, but that's good news for Earth
 - 점수 5 · PRESS · Phys.org · 2026-11-12
 - https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question—what happens to the prices of all those rare materi
 
-## 30. A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials
+## 31. A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials
 - 점수 5 · CUT · Phys.org · 2026-11-12
 - https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Scientists from the Physics Department and Organic Electroactive Materials research group at Durham University have made significant advances in understanding how materials absorb and release light in two recently published research papers in Nature Communications.
 
-## 31. Pumpkin seed protein puts a twist on nondairy coffee creamer
+## 32. Pumpkin seed protein puts a twist on nondairy coffee creamer
 - 점수 5 · SCALE · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based cof
 
-## 32. Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds
+## 33. Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds
 - 점수 5 · SCALE · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The alpine zone is located above the tree line in mountainous regions and is characterized by long winters and short growing seasons. Birds and other animals inhabiting these environments breed during a limited period extending from spring to summer. Arthropods, including insects and spiders, serve 
 
-## 33. Sensors track stress in plants in real time—without hurting them in the process
+## 34. Sensors track stress in plants in real time—without hurting them in the process
 - 점수 5 · CUT · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-sensors-track-stress-real.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Even plants, from towering palm trees to vegetables such as onions and eggplants, can get stressed. Now, a team of engineers has designed a new kind of sensor that attaches directly to plants and peers inside them to track how they respond to stressors such as drought and fires in real time.
 
-## 34. How populist leaders dismantle intelligence agencies from within: New study reveals the 'intelligence cyclone'
+## 35. How populist leaders dismantle intelligence agencies from within: New study reveals the 'intelligence cyclone'
 - 점수 5 · 형식? · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-populist-leaders-dismantle-intelligence-agencies.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new joint study from Ben-Gurion University of the Negev (BGU) and The Hebrew University of Jerusalem reveals how populist leaderships systematically undermine, discredit and ultimately capture intelligence agencies, transforming vital national security bodies into political echo chambers. The rese
 
-## 35. How Chinese brewers refined their booze 5,000 years ago
+## 36. How Chinese brewers refined their booze 5,000 years ago
 - 점수 5 · DOSE · Phys.org · 2026-11-14
 - https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 5,000 years ago, brewers in eastern China appear to have used red mold to make rice alcohol, then strained the drink through cloth. Microscopic residues on ancient pottery show evidence of both the fermentation method and the filtering process to separate the liquid from leftover grain.
 
-## 36. Happy face, angry voice: Human–dog interaction study tracks conflicting cues
+## 37. Happy face, angry voice: Human–dog interaction study tracks conflicting cues
 - 점수 5 · CUT · Phys.org · 2026-11-14
 - https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Dogs, having lived alongside humans for tens of thousands of years, are keenly tuned in to our emotions. Behavioral experiments, brain studies and even measurements of heart rate all suggest dogs respond differently depending on the emotional expressions they encounter in humans.
 
-## 37. Americans are eating way less turkey than we used to
+## 38. Americans are eating way less turkey than we used to
 - 점수 5 · SCALE · The Conversation · 2026-11-16
 - https://theconversation.com/americans-are-eating-way-less-turkey-than-we-used-to-295921
 - 대상: 5 people
@@ -294,7 +302,7 @@
   - "By 2025, consumption had fallen to just 13.2 pounds (6 kg)."
   - "While turkey consumption started to recede in the late 1990s, it began accelerating around 2008, when the Great Recession was underway ."
 
-## 38. Massive super PAC spending did not secure Republican victories in 2026, but it remains a pernicious influence – in both parties
+## 39. Massive super PAC spending did not secure Republican victories in 2026, but it remains a pernicious influence – in both parties
 - 점수 5 · WEIGH · The Conversation · 2026-11-17
 - https://theconversation.com/massive-super-pac-spending-did-not-secure-republican-victories-in-2026-but-it-remains-a-pernicious-influence-in-both-parties-296028
 - 대상: 100 people
@@ -306,7 +314,7 @@
   - "Super PACs do not receive the LUC, and thus they can pay two or three times as much per advertisement."
   - "Nearly two-thirds of super PAC spending in 2026 can be traced to only 100 people ."
 
-## 39. GLP-1 drugs carry risk of rare but serious eye condition – a physician studying these medicines explains the potential side effect
+## 40. GLP-1 drugs carry risk of rare but serious eye condition – a physician studying these medicines explains the potential side effect
 - 점수 4 · DOSE · The Conversation · 2026-11-11
 - https://theconversation.com/glp-1-drugs-carry-risk-of-rare-but-serious-eye-condition-a-physician-studying-these-medicines-explains-the-potential-side-effect-296237
 - 대상: 100,000 patients, 100,000 people, 134,253 patients, 17,000 patients
@@ -317,15 +325,3 @@
   - "I am a clinician and epidemiologist who has studied GLP-1 drugs, and my colleagues and I published one of the studies that identified a link between GLP-1 drugs and NAION ."
   - "Millions of people around the world take these medications – including 30 million in the U.S. – to treat diabetes and obesity and reduce the risk of cardiovascular disease."
   - "The data on which the FDA’s warning is based suggests a real but low risk of NAION for people taking GLP-1 medications."
-
-## 40. You likely have genes that affect how well your medications work – testing for them could improve treatment
-- 점수 4 · DOSE · The Conversation · 2026-11-12
-- https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352
-- 대상: 100,000 participants
-- 주의: DOI 못 찾음
-- 요약: Researchers found that everyone in a 100,000 sample of people has at least one genetic variant that interacts with common prescriptions.
-  - "Moreover, 1 in 4 already take a medication their body processes differently because of their genetics."
-  - "To improve the diversity of pharmacogenomic data, my team of researchers and I analyzed the whole genome sequences and health records of nearly 100,000 participants in the All of Us Research Program ."
-  - "All of Us is an effort from the National Institutes of Health to study the health of 1 million or more people across the U.S. and its territories, with a focus on groups historically left out of biomedical research."
-  - "We examined 16 genes with well-established links to how someone responds to different medications, pairing this data with electronic health records to identify which drugs participants had already taken."
-  - "Around 99.5% of participants had a genetic variant for which the Food and Drug Administration or medical guidelines recommend a different drug or change in dose for certain medications."
