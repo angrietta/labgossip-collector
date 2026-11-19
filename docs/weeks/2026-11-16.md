@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 993건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 938건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -42,7 +42,18 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A highly lethal pathogen is responsible for the mass death of tadpoles and the rapid decline of amphibian populations in the Atlantic Forest. A group of researchers demonstrate for the first time in South America that recurring ranavirus outbreaks caused an 83% drop in monkey frog (Phyllomedusa dist
 
-## 5. 5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings
+## 5. This 6-million-year-old whale may have had the most crooked face in mammal history
+- 점수 9 · CUT · ScienceDaily 전체 · 2026-11-19
+- https://www.sciencedaily.com/releases/2026/11/261118065528.htm
+- DOI: 10.1038/s42003-026-11074-2
+- 요약: A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distort
+  - "A bizarre prehistoric whale that lived roughly 6 million years ago had a face so crooked that researchers initially suspected its fossilized skull had been distorted after death."
+  - "Named Scaphokogia huachafo , the whale lived during the Late Miocene, between 6.3 and 5.6 million years ago, and measured approximately 2.7 meters in length."
+  - "Its anatomy is so extravagant and odd that huachafo seemed the perfect name for it." The remarkable fossil was originally recovered during the mid-1990s from the Pisco Formation in southern Peru."
+  - "Benites-Palomino first encountered the specimen in 2015 while preparing his Bachelor's thesis at the Museo de Historia Natural in Lima."
+  - "Its snout also pointed downward at an angle of 31 degrees relative to the rest of its skull."
+
+## 6. 5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112025540.htm
 - DOI: 10.3389/fearc.2026.1858940
@@ -53,7 +64,7 @@
   - ""Who were these people and how did they view the ruler and their own role in his or her life and death?" Around 3000 BCE, the earliest kings of a unified Egypt constructed elaborate burial complexes at Abydos."
   - "Campbell located 46 of these skulls in the Duckworth Collection at Cambridge University and examined them using contemporary forensic knowledge."
 
-## 6. Uranus and Neptune’s bizarre magnetic fields may finally be explained
+## 7. Uranus and Neptune’s bizarre magnetic fields may finally be explained
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261114202204.htm
 - DOI: 10.1038/s42005-026-02841-y
@@ -65,7 +76,7 @@
   - "Each is approximately four times wider than Earth, and scientists believe their interiors contain substantial amounts of hydrogen, helium, water, ammonia, methane, and rocky material."
   - "To investigate this possibility, the researchers developed computer simulations designed to reproduce the strange magnetic fields recorded by Voyager 2."
 
-## 7. New wearable ultrasound patch boosts REM sleep without drugs or surgery
+## 8. New wearable ultrasound patch boosts REM sleep without drugs or surgery
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-16
 - https://www.sciencedaily.com/releases/2026/11/261116014842.htm
 - DOI: 10.1038/s41467-026-73787-6
@@ -75,19 +86,19 @@
   - "In a study involving 28 participants, published in Nature Communications , people using the patch entered REM sleep an average of 43 minutes sooner and spent approximately 16 additional minutes in that stage."
   - "Scientists Just Challenged a 50-Year-Old Theory About How Evolution Work “A Magnetar Is Born”: Supercomputer Simulates One of the Universe’s Most Violent Collisions Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down"
 
-## 8. Catching AI's mistakes is a mental burden—and a drag on productivity
+## 9. Catching AI's mistakes is a mental burden—and a drag on productivity
 - 점수 8 · WEIGH · Phys.org / The Conversation · 2026-11-16
 - https://phys.org/news/2026-11-ai-mental-burden-productivity.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: By now, almost everyone has asked an AI agent a question, only to realize that the answer seems not quite right. Something might be missing or wrong or out of date. An executive assistant told me she uses AI tools for drafting itineraries and briefings, but she's caught enough issues that she now bu
 
-## 9. Daily iron supplements reduce iron deficiency anemia in children and adolescents
+## 10. Daily iron supplements reduce iron deficiency anemia in children and adolescents
 - 점수 8 · DOSE · MedicalXpress · 2026-11-17
 - https://medicalxpress.com/news/2026-11-daily-iron-supplements-deficiency-anemia.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Giving children and adolescents a daily iron tablet significantly reduces the risk of iron deficiency anemia with little to no effect on several common illnesses, according to a review published in Cochrane Database of Systematic Reviews that included 114 studies involving more than 50,000 participa
 
-## 10. Wine, beer, or spirits? Massive study reveals a surprising health divide
+## 11. Wine, beer, or spirits? Massive study reveals a surprising health divide
 - 점수 8 · WEIGH · ScienceDaily 전체 · 2026-11-17
 - https://www.sciencedaily.com/releases/2026/11/261116015104.htm
 - 대상: 340,000 adults, 340,924 adults
@@ -99,19 +110,26 @@
   - "For comparison, a 12-ounce can of beer, a 5-ounce glass of wine, and a 1.5-ounce shot of spirits each provide approximately 14 grams of pure alcohol."
   - "People consuming fewer than 20 g (about 1.5 standard drinks) per week were placed in the never or occasional drinking group."
 
-## 11. DNA reveals the secret lives of Hawaiʻi's aeʻo (Hawaiian stilt)
+## 12. DNA reveals the secret lives of Hawaiʻi's aeʻo (Hawaiian stilt)
 - 점수 8 · CUT · Phys.org · 2026-11-19
 - https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Long-legged, tuxedo-clad and famously noisy, the aeʻo, or Hawaiian stilt (Himantopus mexicanus knudseni), has a family life as complicated as any reality TV show. A new study led by University of Hawaiʻi at Mānoa researchers, published in Ecology and Evolution, paired a decade of birdwatching with D
 
-## 12. The hypothalamus is not a bystander in Alzheimer's disease
+## 13. The hypothalamus is not a bystander in Alzheimer's disease
 - 점수 8 · DOSE · MedicalXpress · 2026-11-19
 - https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Alzheimer's disease is well known as a disease of memory. But long before memory fades, many patients have trouble sleeping, lose their daily rhythms and show changes in metabolism and stress hormones. All of these functions are regulated by the hypothalamus, a structure at the base of the brain. A 
 
-## 13. Walking and weight training may not be enough to keep your bones strong
+## 14. Duck-billed dinosaur discovered in Italy had a birdlike beak hidden among its bizarre 'spikes'
+- 점수 8 · PRESS · Phys.org · 2026-11-20
+- https://phys.org/news/2026-11-duck-billed-dinosaur-italy-birdlike.html
+- 주의: 모델·시뮬레이션
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: For more than 15 years, the Italian duck-billed dinosaur Tethyshadros insularis has been reconstructed with one of the most unusual mouth structures among hadrosauroids. The tip of its upper jaw featured three forward-pointing bony projections on each side, long interpreted as exposed "spikes" or to
+
+## 15. Walking and weight training may not be enough to keep your bones strong
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-12
 - https://www.sciencedaily.com/releases/2026/11/261110042601.htm
 - DOI: 10.1186/s40798-026-00986-2
@@ -121,7 +139,7 @@
   - "These activities were linked to increases of up to 45-46 percent in blood markers associated with bone formation, suggesting that they may provide a particularly strong stimulus for the body's bone-building processes."
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 14. Scientists discover a hidden danger of viral infections that vaccines may prevent
+## 16. Scientists discover a hidden danger of viral infections that vaccines may prevent
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-13
 - https://www.sciencedaily.com/releases/2026/11/261112025531.htm
 - DOI: 10.1038/s41419-026-09253-4
@@ -129,7 +147,7 @@
 - 요약: A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulner
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 15. Yale scientists reveal what really slows aging and what doesn't
+## 17. Yale scientists reveal what really slows aging and what doesn't
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112230452.htm
 - DOI: 10.1038/s41591-026-04562-9
@@ -139,7 +157,7 @@
   - "Across those studies, the team examined more than 110 DNA methylation biomarkers (including 16 major epigenetic clocks)."
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 16. Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms
+## 18. Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms
 - 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112230444.htm
 - DOI: 10.1126/sciadv.aed9351
@@ -151,44 +169,32 @@
   - "People whose brain patterns more closely resembled those of Alzheimer's patients were more likely to experience cognitive decline, accumulate amyloid-beta plaques, and receive an Alzheimer's diagnosis during follow-up periods extending up to 12 years."
   - ""That's why identifying the super-ager brain resilience pattern is a critical component -- so we know what a good pattern should be." Depending on how they are defined, approximately 10% of older adults may qualify as super agers."
 
-## 17. A simple supplement could help your immune system fight cancer and viral infections
-- 점수 7 · CUT · ScienceDaily 전체 · 2026-11-15
-- https://www.sciencedaily.com/releases/2026/11/261113232000.htm
-- DOI: 10.1016/j.cell.2026.07.020
-- 주의: 동물 실험
-- 요약: A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing argin
-  - "In experiments involving mice, increasing dietary arginine reduced the formation of colon cancer tumors and lessened the severity of influenza and SARS-CoV-2 infections."
-  - "In 2023, the researchers discovered that depriving colon cancer cells of arginine caused them to accumulate more genetic mutations."
-  - "When arginine becomes scarce, cells struggle to produce enough of a crucial immune system protein known as MHC-1."
-  - "Without enough MHC-1, abnormal or infected cells may become harder for the immune system to recognize."
-  - "To investigate, Wu examined the effects of arginine availability across several disease models, including colon cancer, influenza, and SARS-CoV-2."
-
-## 18. City crows and country crows don't see the world the same way
+## 19. City crows and country crows don't see the world the same way
 - 점수 7 · SCALE · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-city-crows-country-dont-world.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A country crow hesitates upon seeing a takeout food box. A city crow pauses the first time it sees an ear of corn. Both are taken aback when they find a strange wooden object next to the expected peanuts.
 
-## 19. Astaxanthin supplements: What the science says about skin, exercise and your brain
+## 20. Astaxanthin supplements: What the science says about skin, exercise and your brain
 - 점수 7 · DOSE · MedicalXpress · 2026-11-17
 - https://medicalxpress.com/news/2026-11-astaxanthin-supplements-science-skin-brain.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Smoother skin, sharper eyesight, better memory, stronger joints, improved athletic performance and even protection against aging—astaxanthin is marketed as a supplement with an extraordinary range of health benefits. But how much of this promise is backed by evidence in people?
 
-## 20. Ending Medicaid coverage for weight-loss drugs linked to sharp drop in GLP-1 use
+## 21. Ending Medicaid coverage for weight-loss drugs linked to sharp drop in GLP-1 use
 - 점수 7 · DOSE · MedicalXpress · 2026-11-17
 - https://medicalxpress.com/news/2026-11-medicaid-coverage-weight-loss-drugs.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Medicaid prescriptions for weight loss–approved GLP-1 medications fell sharply after four states ended coverage of the drugs, according to a new study led by researchers at the University of Pittsburgh. The findings, published in JAMA, demonstrate how state coverage decisions can have an immediate a
 
-## 21. Intermittent fasting offers no additional benefits over the Mediterranean diet for reducing liver fat
+## 22. Intermittent fasting offers no additional benefits over the Mediterranean diet for reducing liver fat
 - 점수 7 · SCALE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-intermittent-fasting-additional-benefits-mediterranean.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A study led by the University of Granada and the Public University of Navarra has determined that, in the context of intermittent fasting, the time of day when one eats matters less than the amount of weight lost when it comes to reducing liver fat. The clinical trial, published in the journal JHEP 
 
-## 22. Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food
+## 23. Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food
 - 점수 7 · SCALE · The Conversation / MedicalXpress · 2026-11-17
 - https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323
 - 주의: 상관관계, DOI 못 찾음
@@ -196,23 +202,17 @@
   - "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles."
   - "Gut microbes convert dietary signals into molecules that intestinal cells use to synchronize nutrient absorption with feeding times."
 
-## 23. Is my child eating enough? Fathers want more support when it comes to young children's eating habits
+## 24. Is my child eating enough? Fathers want more support when it comes to young children's eating habits
 - 점수 7 · SCALE · MedicalXpress · 2026-11-19
 - https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Getting young children to eat can be a source of both joy and worry. First-time fathers may feel unsure about how to manage their child's appetite and mealtimes, according to a study led by Ylva Törner Le Priol, a doctoral student at the Department of Food Studies, Nutrition and Dietetics at Uppsala
 
-## 24. Milkshake study offers clues to diet's brain effects in young adults
+## 25. Milkshake study offers clues to diet's brain effects in young adults
 - 점수 7 · SCALE · MedicalXpress · 2026-11-19
 - https://medicalxpress.com/news/2026-11-milkshake-clues-diet-brain-effects.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Results from a Virginia Tech eating trial add to evidence that the developing brain responds differently to foods that have been through industrial processing or contain ingredients not found in a home kitchen.
-
-## 25. Rare eye condition prompts new FDA warning on popular GLP-1 drugs
-- 점수 6 · DOSE · MedicalXpress · 2026-11-11
-- https://medicalxpress.com/news/2026-11-rare-eye-condition-prompts-fda.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The U.S. Food and Drug Administration (FDA) is requiring makers of Ozempic, Wegovy and similar drugs to warn of a rare eye condition that can cause vision loss.
 
 ## 26. Even substitute PFAS cause metabolic stress in zebrafish embryos
 - 점수 6 · CUT · MedicalXpress · 2026-11-12
@@ -239,54 +239,54 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs 
 
-## 30. Ancient height trends show technological advances did not always improve living standards
+## 30. Precision RNA therapy offers hope for brain receptor disorders
+- 점수 6 · WEIGH · MedicalXpress · 2026-11-14
+- https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html
+- 주의: 동물 실험, 상관관계
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder an
+
+## 31. Ancient height trends show technological advances did not always improve living standards
 - 점수 6 · CUT · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: New research from the University of Tübingen and the Max Planck Institute of Geoanthropology in Jena gives valuable clues as to economic development in various regions across thousands of years. Researchers evaluated 18,457 skeletal remains and analyzed changes in height, estimated from thighbone le
 
-## 31. Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites
+## 32. Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites
 - 점수 6 · CUT · Phys.org · 2026-11-19
 - https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Phytosterols are plant-derived compounds found in vegetable oils, nuts and seeds. They are studied for their ability to reduce cholesterol absorption, yet only about 5% enter the circulation and most are excreted. How gut bacteria influence their metabolism and tissue distribution has remained uncle
 
-## 32. Asteroid mining will crash the platinum market, but that's good news for Earth
+## 33. Neutrons, death metal and a tiny prehistoric dragon: Scans reveal new horned reptile species from 156 million years ago
+- 점수 6 · CUT · Phys.org · 2026-11-20
+- https://phys.org/news/2026-11-neutrons-death-metal-tiny-prehistoric.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: An unassuming fossil discovery in Wyoming caused quite a stir: Was it a baby dinosaur, a prehistoric snake or perhaps an entirely new species? Neutron imaging at the Paul Scherrer Institute PSI and the trained eye of a paleontologist eventually provided the answer: the 156-million-year-old fossil is
+
+## 34. Black gobies are growing larger despite climate change
+- 점수 6 · CUT · Phys.org · 2026-11-20
+- https://phys.org/news/2026-11-black-gobies-larger-climate.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Researchers at the Department of Paleontology at the University of Vienna compared fossil and modern ear stones of the black goby (Gobius niger) from the northern Adriatic Sea to reconstruct its growth history over the past 8,000 years. The surprising result: while body size remained remarkably stab
+
+## 35. Asteroid mining will crash the platinum market, but that's good news for Earth
 - 점수 5 · PRESS · Phys.org · 2026-11-12
 - https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question—what happens to the prices of all those rare materi
 
-## 33. A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials
+## 36. A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials
 - 점수 5 · CUT · Phys.org · 2026-11-12
 - https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Scientists from the Physics Department and Organic Electroactive Materials research group at Durham University have made significant advances in understanding how materials absorb and release light in two recently published research papers in Nature Communications.
 
-## 34. Pumpkin seed protein puts a twist on nondairy coffee creamer
+## 37. Pumpkin seed protein puts a twist on nondairy coffee creamer
 - 점수 5 · SCALE · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based cof
-
-## 35. Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds
-- 점수 5 · SCALE · Phys.org · 2026-11-13
-- https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The alpine zone is located above the tree line in mountainous regions and is characterized by long winters and short growing seasons. Birds and other animals inhabiting these environments breed during a limited period extending from spring to summer. Arthropods, including insects and spiders, serve 
-
-## 36. Sensors track stress in plants in real time—without hurting them in the process
-- 점수 5 · CUT · Phys.org · 2026-11-13
-- https://phys.org/news/2026-11-sensors-track-stress-real.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Even plants, from towering palm trees to vegetables such as onions and eggplants, can get stressed. Now, a team of engineers has designed a new kind of sensor that attaches directly to plants and peers inside them to track how they respond to stressors such as drought and fires in real time.
-
-## 37. How populist leaders dismantle intelligence agencies from within: New study reveals the 'intelligence cyclone'
-- 점수 5 · 형식? · Phys.org · 2026-11-13
-- https://phys.org/news/2026-11-populist-leaders-dismantle-intelligence-agencies.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A new joint study from Ben-Gurion University of the Negev (BGU) and The Hebrew University of Jerusalem reveals how populist leaderships systematically undermine, discredit and ultimately capture intelligence agencies, transforming vital national security bodies into political echo chambers. The rese
 
 ## 38. Americans are eating way less turkey than we used to
 - 점수 5 · SCALE · The Conversation · 2026-11-16
@@ -312,14 +312,13 @@
   - "Super PACs do not receive the LUC, and thus they can pay two or three times as much per advertisement."
   - "Nearly two-thirds of super PAC spending in 2026 can be traced to only 100 people ."
 
-## 40. GLP-1 drugs carry risk of rare but serious eye condition – a physician studying these medicines explains the potential side effect
-- 점수 4 · DOSE · The Conversation · 2026-11-11
-- https://theconversation.com/glp-1-drugs-carry-risk-of-rare-but-serious-eye-condition-a-physician-studying-these-medicines-explains-the-potential-side-effect-296237
-- 대상: 100,000 patients, 100,000 people, 134,253 patients, 17,000 patients
+## 40. A convincing vegan meat alternative needs both taste and texture – here’s how food scientists manufacture them
+- 점수 5 · SCALE · The Conversation / MedicalXpress · 2026-11-19
+- https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038
 - 주의: DOI 못 찾음
-- 요약: Doctors often call the condition a stroke of the eye – and though the risk is small, patients should know the symptoms and seek immediate treatment if they occur.
-  - "GLP-1 drugs must now carry a warning label about a potential link to a rare eye condition that can result in vision loss, the U.S."
-  - "Food and Drug Administration announced on Nov. 9. 2026."
-  - "I am a clinician and epidemiologist who has studied GLP-1 drugs, and my colleagues and I published one of the studies that identified a link between GLP-1 drugs and NAION ."
-  - "Millions of people around the world take these medications – including 30 million in the U.S. – to treat diabetes and obesity and reduce the risk of cardiovascular disease."
-  - "The data on which the FDA’s warning is based suggests a real but low risk of NAION for people taking GLP-1 medications."
+- 요약: This Thanksgiving, you may sit down to a table laden with mashed potatoes, cranberry sauce, vegetables and a golden-brown turkey. And, if you have any vegetarians or vegans in your family, you may even see a plant-based meat alternative. But how do food scientists make something taste and look simil
+  - "One life-cycle assessment found that plant-based patties had a 77% lower climate impact than the Brazilian beef patties examined, although the results varied depending on the production systems and environmental measures considered."
+  - "Another emerging approach is 3D food printing."
+  - "Like a conventional 3D printer , a food printer builds an object layer by layer, depositing edible materials according to a digital design."
+  - "Instead of relying only on conventional manufacturing methods, 3D printing could allow researchers to control how different ingredients are arranged."
+  - "Recent research on the 3D-printing of plant-protein-based meat analogs highlights how the formulation of the food ink and printing conditions influence how accurately a product can be printed and whether it holds its shape."
