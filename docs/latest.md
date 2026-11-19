@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 929건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 993건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -202,43 +202,42 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Getting young children to eat can be a source of both joy and worry. First-time fathers may feel unsure about how to manage their child's appetite and mealtimes, according to a study led by Ylva Törner Le Priol, a doctoral student at the Department of Food Studies, Nutrition and Dietetics at Uppsala
 
-## 24. Rare eye condition prompts new FDA warning on popular GLP-1 drugs
+## 24. Milkshake study offers clues to diet's brain effects in young adults
+- 점수 7 · SCALE · MedicalXpress · 2026-11-19
+- https://medicalxpress.com/news/2026-11-milkshake-clues-diet-brain-effects.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Results from a Virginia Tech eating trial add to evidence that the developing brain responds differently to foods that have been through industrial processing or contain ingredients not found in a home kitchen.
+
+## 25. Rare eye condition prompts new FDA warning on popular GLP-1 drugs
 - 점수 6 · DOSE · MedicalXpress · 2026-11-11
 - https://medicalxpress.com/news/2026-11-rare-eye-condition-prompts-fda.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The U.S. Food and Drug Administration (FDA) is requiring makers of Ozempic, Wegovy and similar drugs to warn of a rare eye condition that can cause vision loss.
 
-## 25. Even substitute PFAS cause metabolic stress in zebrafish embryos
+## 26. Even substitute PFAS cause metabolic stress in zebrafish embryos
 - 점수 6 · CUT · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Publishing in the Journal of Hazardous Materials Advances, researchers from Kyushu University used zebrafish embryos to study the health effects of the PFAS called PFBS (perfluorobutanesulfonic acid), a substitute PFAS thought to be safer than traditional compounds. They found that while PFBS did no
 
-## 26. New clinical definition of obesity could help target care more effectively, saving time and money
+## 27. New clinical definition of obesity could help target care more effectively, saving time and money
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The traditional way of assessing whether someone is overweight using body mass index (BMI) may fail to capture whether excess body fat is harmful and could be supplemented with a second measure when assessing patients, a new UCL study suggests.
 
-## 27. Psychedelic aftereffects may offer a window into psychotic symptoms
+## 28. Psychedelic aftereffects may offer a window into psychotic symptoms
 - 점수 6 · DOSE · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Every night, as he fell asleep, a 25-year-old man saw an eye in his ceiling. It was huge and unblinking, and it felt as if the whole world was being sucked into it. He didn't have psychosis, and he wasn't on drugs. But he had taken psychedelics in the past, and he was worried enough to contact Max G
 
-## 28. Scientists identify protein driving age-related organ damage
+## 29. Scientists identify protein driving age-related organ damage
 - 점수 6 · CUT · MedicalXpress · 2026-11-13
 - https://medicalxpress.com/news/2026-11-scientists-protein-age.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs 
-
-## 29. Precision RNA therapy offers hope for brain receptor disorders
-- 점수 6 · WEIGH · MedicalXpress · 2026-11-14
-- https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html
-- 주의: 동물 실험, 상관관계
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder an
 
 ## 30. Ancient height trends show technological advances did not always improve living standards
 - 점수 6 · CUT · Phys.org · 2026-11-17
@@ -246,48 +245,48 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: New research from the University of Tübingen and the Max Planck Institute of Geoanthropology in Jena gives valuable clues as to economic development in various regions across thousands of years. Researchers evaluated 18,457 skeletal remains and analyzed changes in height, estimated from thighbone le
 
-## 31. Asteroid mining will crash the platinum market, but that's good news for Earth
+## 31. Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites
+- 점수 6 · CUT · Phys.org · 2026-11-19
+- https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Phytosterols are plant-derived compounds found in vegetable oils, nuts and seeds. They are studied for their ability to reduce cholesterol absorption, yet only about 5% enter the circulation and most are excreted. How gut bacteria influence their metabolism and tissue distribution has remained uncle
+
+## 32. Asteroid mining will crash the platinum market, but that's good news for Earth
 - 점수 5 · PRESS · Phys.org · 2026-11-12
 - https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question—what happens to the prices of all those rare materi
 
-## 32. A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials
+## 33. A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials
 - 점수 5 · CUT · Phys.org · 2026-11-12
 - https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Scientists from the Physics Department and Organic Electroactive Materials research group at Durham University have made significant advances in understanding how materials absorb and release light in two recently published research papers in Nature Communications.
 
-## 33. Pumpkin seed protein puts a twist on nondairy coffee creamer
+## 34. Pumpkin seed protein puts a twist on nondairy coffee creamer
 - 점수 5 · SCALE · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based cof
 
-## 34. Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds
+## 35. Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds
 - 점수 5 · SCALE · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The alpine zone is located above the tree line in mountainous regions and is characterized by long winters and short growing seasons. Birds and other animals inhabiting these environments breed during a limited period extending from spring to summer. Arthropods, including insects and spiders, serve 
 
-## 35. Sensors track stress in plants in real time—without hurting them in the process
+## 36. Sensors track stress in plants in real time—without hurting them in the process
 - 점수 5 · CUT · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-sensors-track-stress-real.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Even plants, from towering palm trees to vegetables such as onions and eggplants, can get stressed. Now, a team of engineers has designed a new kind of sensor that attaches directly to plants and peers inside them to track how they respond to stressors such as drought and fires in real time.
 
-## 36. How populist leaders dismantle intelligence agencies from within: New study reveals the 'intelligence cyclone'
+## 37. How populist leaders dismantle intelligence agencies from within: New study reveals the 'intelligence cyclone'
 - 점수 5 · 형식? · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-populist-leaders-dismantle-intelligence-agencies.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A new joint study from Ben-Gurion University of the Negev (BGU) and The Hebrew University of Jerusalem reveals how populist leaderships systematically undermine, discredit and ultimately capture intelligence agencies, transforming vital national security bodies into political echo chambers. The rese
-
-## 37. How Chinese brewers refined their booze 5,000 years ago
-- 점수 5 · DOSE · Phys.org · 2026-11-14
-- https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: More than 5,000 years ago, brewers in eastern China appear to have used red mold to make rice alcohol, then strained the drink through cloth. Microscopic residues on ancient pottery show evidence of both the fermentation method and the filtering process to separate the liquid from leftover grain.
 
 ## 38. Americans are eating way less turkey than we used to
 - 점수 5 · SCALE · The Conversation · 2026-11-16

@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 6
+   "span_days": 7
   }
  ],
  "top": [
@@ -436,6 +436,8 @@
    "date": "2026-11-19",
    "source": "Phys.org",
    "first_seen": "2026-11-19",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -449,8 +451,7 @@
     "형식 CUT",
     "훅: surpris, secret",
     "생활소재: bird"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html"
+   ]
   },
   {
    "title": "The hypothalamus is not a bystander in Alzheimer's disease",
@@ -460,6 +461,8 @@
    "date": "2026-11-19",
    "source": "MedicalXpress",
    "first_seen": "2026-11-19",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.htm",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -472,8 +475,7 @@
    "why": [
     "형식 DOSE",
     "생활소재: sleep, aging, memory"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.htm"
+   ]
   },
   {
    "title": "Walking and weight training may not be enough to keep your bones strong",
@@ -814,6 +816,8 @@
    "date": "2026-11-19",
    "source": "MedicalXpress",
    "first_seen": "2026-11-19",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -826,8 +830,30 @@
    "why": [
     "형식 SCALE",
     "생활소재: diet, children"
+   ]
+  },
+  {
+   "title": "Milkshake study offers clues to diet's brain effects in young adults",
+   "link": "https://medicalxpress.com/news/2026-11-milkshake-clues-diet-brain-effects.html",
+   "key": "https://medicalxpress.com/news/2026-11-milkshake-clues-diet-brain-effects.html",
+   "summary": "Results from a Virginia Tech eating trial add to evidence that the developing brain responds differently to foods that have been through industrial processing or contain ingredients not found in a home kitchen.",
+   "date": "2026-11-19",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-19",
+   "sources": [
+    "MedicalXpress"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html"
+   "links": [
+    "https://medicalxpress.com/news/2026-11-milkshake-clues-diet-brain-effects.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet, brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-milkshake-clues-diet-brain-effects.html"
   },
   {
    "title": "Rare eye condition prompts new FDA warning on popular GLP-1 drugs",
@@ -953,33 +979,6 @@
    ]
   },
   {
-   "title": "Precision RNA therapy offers hope for brain receptor disorders",
-   "link": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
-   "key": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
-   "summary": "Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder and intellectual disability.",
-   "date": "2026-11-14",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-14",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html"
-   ],
-   "format": "WEIGH",
-   "catch": [
-    "동물 실험",
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: memory, brain, mice"
-   ]
-  },
-  {
    "title": "Ancient height trends show technological advances did not always improve living standards",
    "link": "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html",
    "key": "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html",
@@ -1002,6 +1001,29 @@
     "형식 CUT",
     "훅: did not"
    ]
+  },
+  {
+   "title": "Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites",
+   "link": "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html",
+   "key": "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html",
+   "summary": "Phytosterols are plant-derived compounds found in vegetable oils, nuts and seeds. They are studied for their ability to reduce cholesterol absorption, yet only about 5% enter the circulation and most are excreted. How gut bacteria influence their metabolism and tissue distribution has remained unclear.",
+   "date": "2026-11-19",
+   "source": "Phys.org",
+   "first_seen": "2026-11-19",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: diet"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html"
   },
   {
    "title": "Asteroid mining will crash the platinum market, but that's good news for Earth",
@@ -1147,30 +1169,6 @@
    "why": [
     "훅: surpris, secret",
     "생활소재: cat"
-   ]
-  },
-  {
-   "title": "How Chinese brewers refined their booze 5,000 years ago",
-   "link": "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
-   "key": "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
-   "summary": "More than 5,000 years ago, brewers in eastern China appear to have used red mold to make rice alcohol, then strained the drink through cloth. Microscopic residues on ancient pottery show evidence of both the fermentation method and the filtering process to separate the liquid from leftover grain.",
-   "date": "2026-11-14",
-   "source": "Phys.org",
-   "first_seen": "2026-11-14",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html"
-   ],
-   "format": "DOSE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 DOSE",
-    "생활소재: alcohol"
    ]
   },
   {
