@@ -1,6 +1,6 @@
 {
  "week": "2026-11-16",
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -21,7 +21,7 @@
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 27
+   "span_days": 29
   },
   {
    "feed": "ScienceDaily 동식물",
@@ -35,7 +35,7 @@
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 11
+   "span_days": 12
   },
   {
    "feed": "Phys.org",
@@ -56,7 +56,7 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 7
+   "span_days": 5
   }
  ],
  "top": [
@@ -254,6 +254,22 @@
    "date": "2026-11-20",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-20",
+   "text": "A new approach to weight loss could help the body burn more fat while preserving muscle, potentially overcoming one of the major drawbacks of existing obesity treatments. Researchers at the University of California, Berkeley, have identified a compound that increases the amount of energy the body uses rather than simply reducing how much food a person eats. In experiments with mice, the compound improved blood sugar regulation, reduced harmful blood fats, and helped obese animals lose fat without a significant reduction in lean muscle mass. It also increased energy expenditure by up to 18%, even though the mice did not become more physically active or experience an increase in body temperature. The findings, published in Science Advances , suggest a promising new direction for treating obesity, diabetes, and fatty liver disease. The experimental compound also appeared to enhance the benefits of popular weight-loss medications such as Ozempic and Wegovy when the treatments were used together. However, its effectiveness and safety have not yet been established in humans. Over the past five years, medications known as GLP-1 drugs have transformed the treatment of obesity and other metabolic conditions, including diabetes and fatty liver disease. Drugs marketed as Ozempic, Wegovy, Mounjaro, and Zepbound have helped many patients achieve substantial weight loss while improving their ability to regulate blood sugar. Despite these benefits, the medications have important limitations. Nausea and other digestive problems can make treatment difficult for some patients. Because these drugs reduce appetite and food consumption, they can also increase the risk of inadequate nutrition and loss of muscle mass. Over time, losing too much muscle can contribute to weakness, frailty, and other health complications. Berkeley researchers wanted to investigate a fundamentally different strategy. Rather than focusing on reducing calorie intake, they explored whether it would be possible to increase the amount of energy the body burns. This process, known as energy expenditure, includes the calories used to maintain basic bodily functions, regulate metabolism, and support everyday activities. Increasing energy expenditure could potentially help people lose weight without relying exclusively on eating less. \"Body weight responds to two levers: taking in fewer calories, or spending more energy,\" said Anders Näär, a professor of metabolic biology and nutrition at UC Berkeley and senior author of the study. \"GLP-1s work almost entirely on the first, so we went after the second.\" The researchers focused on a molecule called 5-tetradecyloxy-2-furoic acid (TOFA), which has an unusual combination of effects on the body's metabolism. TOFA interferes with the production of lipids, a broad category of fatty substances that includes cholesterol and triglycerides. These molecules serve important functions, but excessive levels of certain lipids can contribute to metabolic disorders and cardiovascular disease. At the same time, TOFA activates genes involved in taking up and burning fat for energy. This combination allows the compound to influence both how the body produces fat and how it uses fat as fuel. In mice, treatment with TOFA produced several encouraging results. The animals became more sensitive to insulin, the hormone that helps move glucose from the bloodstream into cells. Improved insulin sensitivity makes it easier for the body to control blood sugar, an important benefit for people with diabetes or insulin resistance. The compound also lowered triglyceride levels and improved characteristics of fatty liver disease, a condition in which excess fat accumulates inside liver cells and can eventually interfere with liver function. Perhaps most notably, obese mice treated with TOFA lost weight primarily through reductions in body fat, without experiencing significant losses of lean muscle mass. This distinction could be especially valuable because maintaining muscle is important for strength, mobility, and long-term metabolic health. Although TOFA was originally discovered in the 1970s, the new research uncovered additional properties that could make it particularly useful for treating metabolic disease. The compound belongs to a group of substances known as ACC inhibitors. These compounds interfere with enzymes that help the body manufacture fatty acids, effectively slowing the production of certain fats. Other ACC inhibitors have previously advanced to mid-stage clinical trials, but none has been approved to treat metabolic diseases. One major obstacle has been an unexpected side effect: many of these compounds increase triglycerides in the blood, potentially raising the risk of heart problems. The Berkeley team discovered that TOFA does more than inhibit ACC. It also activates two cellular receptors called PPARα and PPARδ, which help regulate the genes responsible for fat metabolism. These receptors function as molecular switches. When activated, they stimulate processes that allow cells to absorb fatty acids and break them down to produce energy. In effect, TOFA simultaneously reduces the production of certain fats and encourages the body to burn fat that is already available. In mice, this activity increased energy expenditure by as much as 18%, without requiring additional physical activity or raising body temperature. Unlike other ACC inhibitors, TOFA also did not cause triglyceride levels to rise, potentially because of its additional effects on fat metabolism. \"TOFA appears to engage a coordinated metabolic response,\" said study first author Justin Y. Lee, a postdoctoral student at UCSF who conducted the research as a Ph.D. student at Berkeley. \"It is not simply blocking lipid synthesis. It is also activating energy expenditure pathways that may help the body handle excess lipid and glucose more effectively.\" To understand whether these effects could be reproduced with separate treatments, the scientists gave mice a combination of two different compounds. One blocked lipid production, while the other stimulated energy expenditure. Surprisingly, this two-compound approach was less effective at improving overall metabolic health than TOFA alone. The finding suggests that TOFA's ability to influence multiple metabolic processes through a single molecule may be an important part of its effectiveness. The researchers also investigated whether TOFA could improve the results of existing GLP-1 medications. They tested the compound alongside semaglutide, the active ingredient in Ozempic and Wegovy, as well as tirzepatide, which is marketed as Mounjaro and Zepbound. These medications primarily help people lose weight by reducing appetite and food intake. TOFA, by contrast, targets the other side of the energy balance equation by increasing how much energy the body expends. When the researchers combined TOFA with these medications in mice, the results were more favorable than those produced by either treatment alone. The combinations led to greater improvements in body weight, blood glucose regulation, insulin levels, and triglycerides. This suggests that treatments targeting calorie intake and energy expenditure could potentially work together to produce stronger metabolic benefits. \"In our combination experiments, TOFA worked additively or synergistically with the GLP-1 appetite-suppressing drugs, so we view it as complementary rather than as a replacement,\" Näär said. In other words, the researchers do not necessarily envision TOFA replacing medications such as Ozempic or Wegovy. Instead, it could eventually become an additional treatment that helps address obesity and related metabolic conditions through a different biological mechanism. Despite the encouraging results, the researchers emphasize that TOFA remains an experimental compound. All the findings so far come from animal studies, and scientists have not yet established whether it is safe or effective in humans. Furthe",
+   "facts": [
+    "It also increased energy expenditure by up to 18%, even though the mice did not become more physically active or experience an increase in body temperature.",
+    "Over the past five years, medications known as GLP-1 drugs have transformed the treatment of obesity and other metabolic conditions, including diabetes and fatty liver disease.",
+    "\"GLP-1s work almost entirely on the first, so we went after the second.\" The researchers focused on a molecule called 5-tetradecyloxy-2-furoic acid (TOFA), which has an unusual combination of effects on the body's metabolism.",
+    "Although TOFA was originally discovered in the 1970s, the new research uncovered additional properties that could make it particularly useful for treating metabolic disease.",
+    "In mice, this activity increased energy expenditure by as much as 18%, without requiring additional physical activity or raising body temperature.",
+    "The researchers also investigated whether TOFA could improve the results of existing GLP-1 medications.",
+    "\"In our combination experiments, TOFA worked additively or synergistically with the GLP-1 appetite-suppressing drugs, so we view it as complementary rather than as a replacement,\" Näär said."
+   ],
+   "doi": [
+    "10.1126/sciadv.aed3119"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Justin Y. Lee, Chi Zhu, Melissa A. Boldridge, Rachelle L. Stark, Gracia Bonilla, Kosuke Watari, Christina Papa, Lei Xu, Federico Gonzalez, Xin Tang, Kaitlyn T. Dang, Kook Son, Kashish Chetal, Prabha Ibrahim, Ruslan I. Sadreyev, Bilal N. Sheikh, Michael Karin, Anders M. Näär. A multi-functional oral small molecule targeting energy and lipid metabolism to treat obesity and relate",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -268,22 +284,7 @@
    "why": [
     "형식 DOSE",
     "생활소재: ozempic, weight loss, mice"
-   ],
-   "text": "A new approach to weight loss could help the body burn more fat while preserving muscle, potentially overcoming one of the major drawbacks of existing obesity treatments. Researchers at the University of California, Berkeley, have identified a compound that increases the amount of energy the body uses rather than simply reducing how much food a person eats. In experiments with mice, the compound improved blood sugar regulation, reduced harmful blood fats, and helped obese animals lose fat without a significant reduction in lean muscle mass. It also increased energy expenditure by up to 18%, even though the mice did not become more physically active or experience an increase in body temperature. The findings, published in Science Advances , suggest a promising new direction for treating obesity, diabetes, and fatty liver disease. The experimental compound also appeared to enhance the benefits of popular weight-loss medications such as Ozempic and Wegovy when the treatments were used together. However, its effectiveness and safety have not yet been established in humans. Over the past five years, medications known as GLP-1 drugs have transformed the treatment of obesity and other metabolic conditions, including diabetes and fatty liver disease. Drugs marketed as Ozempic, Wegovy, Mounjaro, and Zepbound have helped many patients achieve substantial weight loss while improving their ability to regulate blood sugar. Despite these benefits, the medications have important limitations. Nausea and other digestive problems can make treatment difficult for some patients. Because these drugs reduce appetite and food consumption, they can also increase the risk of inadequate nutrition and loss of muscle mass. Over time, losing too much muscle can contribute to weakness, frailty, and other health complications. Berkeley researchers wanted to investigate a fundamentally different strategy. Rather than focusing on reducing calorie intake, they explored whether it would be possible to increase the amount of energy the body burns. This process, known as energy expenditure, includes the calories used to maintain basic bodily functions, regulate metabolism, and support everyday activities. Increasing energy expenditure could potentially help people lose weight without relying exclusively on eating less. \"Body weight responds to two levers: taking in fewer calories, or spending more energy,\" said Anders Näär, a professor of metabolic biology and nutrition at UC Berkeley and senior author of the study. \"GLP-1s work almost entirely on the first, so we went after the second.\" The researchers focused on a molecule called 5-tetradecyloxy-2-furoic acid (TOFA), which has an unusual combination of effects on the body's metabolism. TOFA interferes with the production of lipids, a broad category of fatty substances that includes cholesterol and triglycerides. These molecules serve important functions, but excessive levels of certain lipids can contribute to metabolic disorders and cardiovascular disease. At the same time, TOFA activates genes involved in taking up and burning fat for energy. This combination allows the compound to influence both how the body produces fat and how it uses fat as fuel. In mice, treatment with TOFA produced several encouraging results. The animals became more sensitive to insulin, the hormone that helps move glucose from the bloodstream into cells. Improved insulin sensitivity makes it easier for the body to control blood sugar, an important benefit for people with diabetes or insulin resistance. The compound also lowered triglyceride levels and improved characteristics of fatty liver disease, a condition in which excess fat accumulates inside liver cells and can eventually interfere with liver function. Perhaps most notably, obese mice treated with TOFA lost weight primarily through reductions in body fat, without experiencing significant losses of lean muscle mass. This distinction could be especially valuable because maintaining muscle is important for strength, mobility, and long-term metabolic health. Although TOFA was originally discovered in the 1970s, the new research uncovered additional properties that could make it particularly useful for treating metabolic disease. The compound belongs to a group of substances known as ACC inhibitors. These compounds interfere with enzymes that help the body manufacture fatty acids, effectively slowing the production of certain fats. Other ACC inhibitors have previously advanced to mid-stage clinical trials, but none has been approved to treat metabolic diseases. One major obstacle has been an unexpected side effect: many of these compounds increase triglycerides in the blood, potentially raising the risk of heart problems. The Berkeley team discovered that TOFA does more than inhibit ACC. It also activates two cellular receptors called PPARα and PPARδ, which help regulate the genes responsible for fat metabolism. These receptors function as molecular switches. When activated, they stimulate processes that allow cells to absorb fatty acids and break them down to produce energy. In effect, TOFA simultaneously reduces the production of certain fats and encourages the body to burn fat that is already available. In mice, this activity increased energy expenditure by as much as 18%, without requiring additional physical activity or raising body temperature. Unlike other ACC inhibitors, TOFA also did not cause triglyceride levels to rise, potentially because of its additional effects on fat metabolism. \"TOFA appears to engage a coordinated metabolic response,\" said study first author Justin Y. Lee, a postdoctoral student at UCSF who conducted the research as a Ph.D. student at Berkeley. \"It is not simply blocking lipid synthesis. It is also activating energy expenditure pathways that may help the body handle excess lipid and glucose more effectively.\" To understand whether these effects could be reproduced with separate treatments, the scientists gave mice a combination of two different compounds. One blocked lipid production, while the other stimulated energy expenditure. Surprisingly, this two-compound approach was less effective at improving overall metabolic health than TOFA alone. The finding suggests that TOFA's ability to influence multiple metabolic processes through a single molecule may be an important part of its effectiveness. The researchers also investigated whether TOFA could improve the results of existing GLP-1 medications. They tested the compound alongside semaglutide, the active ingredient in Ozempic and Wegovy, as well as tirzepatide, which is marketed as Mounjaro and Zepbound. These medications primarily help people lose weight by reducing appetite and food intake. TOFA, by contrast, targets the other side of the energy balance equation by increasing how much energy the body expends. When the researchers combined TOFA with these medications in mice, the results were more favorable than those produced by either treatment alone. The combinations led to greater improvements in body weight, blood glucose regulation, insulin levels, and triglycerides. This suggests that treatments targeting calorie intake and energy expenditure could potentially work together to produce stronger metabolic benefits. \"In our combination experiments, TOFA worked additively or synergistically with the GLP-1 appetite-suppressing drugs, so we view it as complementary rather than as a replacement,\" Näär said. In other words, the researchers do not necessarily envision TOFA replacing medications such as Ozempic or Wegovy. Instead, it could eventually become an additional treatment that helps address obesity and related metabolic conditions through a different biological mechanism. Despite the encouraging results, the researchers emphasize that TOFA remains an experimental compound. All the findings so far come from animal studies, and scientists have not yet established whether it is safe or effective in humans. Furthe",
-   "doi": [
-    "10.1126/sciadv.aed3119"
-   ],
-   "journal_ref": "Journal Reference : Justin Y. Lee, Chi Zhu, Melissa A. Boldridge, Rachelle L. Stark, Gracia Bonilla, Kosuke Watari, Christina Papa, Lei Xu, Federico Gonzalez, Xin Tang, Kaitlyn T. Dang, Kook Son, Kashish Chetal, Prabha Ibrahim, Ruslan I. Sadreyev, Bilal N. Sheikh, Michael Karin, Anders M. Näär. A multi-functional oral small molecule targeting energy and lipid metabolism to treat obesity and relate",
-   "facts": [
-    "It also increased energy expenditure by up to 18%, even though the mice did not become more physically active or experience an increase in body temperature.",
-    "Over the past five years, medications known as GLP-1 drugs have transformed the treatment of obesity and other metabolic conditions, including diabetes and fatty liver disease.",
-    "\"GLP-1s work almost entirely on the first, so we went after the second.\" The researchers focused on a molecule called 5-tetradecyloxy-2-furoic acid (TOFA), which has an unusual combination of effects on the body's metabolism.",
-    "Although TOFA was originally discovered in the 1970s, the new research uncovered additional properties that could make it particularly useful for treating metabolic disease.",
-    "In mice, this activity increased energy expenditure by as much as 18%, without requiring additional physical activity or raising body temperature.",
-    "The researchers also investigated whether TOFA could improve the results of existing GLP-1 medications.",
-    "\"In our combination experiments, TOFA worked additively or synergistically with the GLP-1 appetite-suppressing drugs, so we view it as complementary rather than as a replacement,\" Näär said."
-   ],
-   "sample": []
+   ]
   },
   {
    "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
@@ -581,41 +582,38 @@
    ]
   },
   {
-   "title": "Walking and weight training may not be enough to keep your bones strong",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261110042601.htm",
-   "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball increased markers of bone formation by up to 46%, potentially revealing a better way to protect bones against aging and osteoporosis.",
-   "date": "2026-11-12",
+   "title": "A 3-million-year-old child just made human evolution far more complicated",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261118065531.htm",
+   "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dramatic climate changes helped shape a surprisingly complex story of human origins.",
+   "date": "2026-11-20",
    "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-13",
-   "text": "The type of exercise you do may be more important for your bones than how long you spend doing it. Researchers at Semmelweis University have found that intense physical activity involving sudden bursts of movement, quick changes in direction, and sharp turns appears especially effective at stimulating new bone formation. The findings, published in Sports Medicine - Open , suggest that certain fast-paced sports may provide greater benefits for bone metabolism than walking or conventional strength training. The research could help scientists develop more effective exercise recommendations for preserving bone health and reducing the risk of osteoporosis. To investigate how different forms of exercise affect bones, the Semmelweis University team reviewed 24 clinical studies involving 1,238 healthy adults. Instead of relying on bone mineral density measurements, which can take considerable time to reveal changes, the researchers examined blood markers associated with the production of new bone tissue. These biological indicators can reveal how bones respond to exercise within a matter of weeks, allowing scientists to detect changes much sooner. \"What makes our study unique is that we examined not only the type of exercise - whether endurance, resistance, or combined training - but also exercise intensity, frequency, and duration. Our goal was to determine which forms of exercise stimulate bone metabolism most effectively and which appear to be less beneficial from this perspective,\" said Dr. Péter Ferdinandy, Vice-Rector for Science and Innovations at Semmelweis University and senior author of the study. The strongest responses were associated with vigorous sports that repeatedly require players to accelerate, change direction, turn, and make powerful movements. Recreational football and handball stood out in particular. These activities were linked to increases of up to 45-46 percent in blood markers associated with bone formation, suggesting that they may provide a particularly strong stimulus for the body's bone-building processes. More conventional activities generally produced smaller responses. Walking, step aerobics, and standard resistance workouts performed in the gym were less effective at stimulating the measured indicators of bone formation. The findings were especially unexpected for resistance training, which is commonly recommended as a way to support skeletal health. \"The most surprising finding was that resistance training did not produce a significant effect on markers of bone metabolism, even though several professional guidelines recommend this type of exercise for maintaining bone health. Likewise, low- or moderate-intensity endurance exercise, such as walking or jogging, showed no meaningful long-term effect,\" explained Viktória Barna, PhD student at Semmelweis University and first author of the study. The results do not suggest that walking, jogging, or other less demanding activities should be abandoned. These forms of exercise continue to offer important health benefits, even if they do not stimulate the measured bone-building processes as strongly as more intense sports. Rather, the research indicates that maintaining healthy bones may require greater mechanical stimulation than many everyday activities provide. Movements that place more substantial forces on the skeleton appear to produce a stronger response in the biological processes involved in forming new bone. However, the researchers stress that people should not suddenly begin strenuous exercise without preparing appropriately. This is especially important for individuals with cardiovascular, musculoskeletal, or metabolic conditions, as well as those who already have osteoporosis. Anyone in these groups who is considering a new activity or a more physically demanding exercise routine should first speak with their treating physician, general practitioner, or a sports medicine specialist. Medical guidance can help determine whether the activity and its intensity are suitable for their health and physical capabilities. The findings offer a new perspective on how exercise could be used to maintain bone health as people age. While the analysis focused on markers of bone metabolism rather than direct changes in bone density, the results suggest that vigorous activity may encourage early biological changes that support bone formation. \"According to the World Health Organization, regular physical activity offers numerous health benefits. However, our findings suggest that low-intensity exercise alone is not sufficient to stimulate bone metabolism. High-intensity exercise may trigger early beneficial changes in bone formation, potentially helping to slow bone loss and support healthy aging,\" summarized Dr. Nóra Sydó, clinical specialist and co-author of the study. The researchers believe that understanding which movements most effectively stimulate bone formation could lead to better exercise programs designed to preserve skeletal strength and help prevent osteoporosis. For now, the findings highlight an important distinction: staying physically active is beneficial for overall health, but keeping bones healthy over the long term may depend not only on how much people move, but also on how powerfully and dynamically they move. Materials provided by Semmelweis University . Note: Content may be edited for style and length. A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago",
-   "facts": [
-    "To investigate how different forms of exercise affect bones, the Semmelweis University team reviewed 24 clinical studies involving 1,238 healthy adults.",
-    "These activities were linked to increases of up to 45-46 percent in blood markers associated with bone formation, suggesting that they may provide a particularly strong stimulus for the body's bone-building processes.",
-    "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
-   ],
-   "doi": [
-    "10.1186/s40798-026-00986-2"
-   ],
-   "sample": [
-    "1,238 adults"
-   ],
-   "journal_ref": "Journal Reference : Viktória Barna, Amir Makolli, Zsuzsanna Pásztorné Benyó, Marie Anne Engh, Ádám Zolcsák, Brigitta Teutsch, Vivienne Seymour, Péter Hegyi, Renáta Papp, Nora Sydo, Péter Ferdinandy. High-Intensity Training Increases Osteocalcin Levels: A Meta-Analysis of Effects of Exercise on Bone Remodeling biomarkers . Sports Medicine - Open , 2026; 12 (1) DOI: 10.1186/s40798-026-00986-2",
-   "catch_extra": [],
+   "first_seen": "2026-11-21",
    "sources": [
     "ScienceDaily 전체"
    ],
    "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261110042601.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261118065531.htm"
    ],
    "format": "CUT",
    "catch": [],
-   "score": 7,
+   "score": 8,
    "why": [
     "형식 CUT",
-    "훅: surpris",
-    "생활소재: aging"
-   ]
+    "훅: surpris, actually"
+   ],
+   "text": "A century after the Taung Child transformed our understanding of where humans came from, scientists are discovering that this famous fossil still has surprises to reveal. A new study published in Nature dates the ancient remains to between 2.96 and 3.03 million years ago and suggests that the human family tree in southern Africa was much more complicated than previously believed. The international study was led by Professor Gabriele Macho of the Archaeology, Environmental Changes and Geo-Chemistry (AMGC) research group at Vrije Universiteit Brussel (VUB). The findings challenge long-standing assumptions about how early human relatives evolved and how different species were related. First discovered in South Africa in 1924, the Taung Child provided the first concrete evidence supporting the African origins of humanity. It also became the original \"type specimen\" used to define the species Australopithecus africanus . However, scientists never established definitive criteria for assigning later fossil discoveries to this species. As a result, the Taung Child remains the only fossil that can be identified with certainty as Australopithecus africanus . \"For over 100 years, we assumed the Taung Child was just one of many similar fossils from the era,\" says Professor Gabriele Macho. \"Our findings turn that on its head. The human family tree wasn't a neat, straight trunk -- it was a chaotic, tangled bush driven by climate shifts.\" To investigate how the Taung Child compared with other early human relatives, researchers examined tooth structure and patterns of brain and dental development during growth. They found that several adult fossils traditionally classified as Australopithecus africanus followed developmental patterns that differed from those of the Taung Child. Differences in brain development were particularly revealing. They suggest that fossils previously grouped into a single species may actually represent several distinct hominin species that inhabited the Sterkfontein region, either at the same time or during different periods. These findings raise important questions about the diversity of our ancient ancestors and suggest that early human evolution followed a much more complicated path than scientists once assumed. The researchers believe that dramatic environmental changes played a major role in creating this evolutionary diversity. Millions of years ago, southern Africa experienced repeated shifts between wetter and drier climates, continually transforming the landscape and the habitats available to early human relatives. As suitable environments expanded and contracted, ancient hominin populations moved with them. Some groups became geographically isolated and evolved along different paths, while others eventually came back into contact and interbred. These changing conditions also exposed populations to different predators and pathogens, creating additional pressures that shaped their evolution. Southern Africa's position along the boundary between tropical and temperate ecosystems made it especially important in this process. Over thousands of years, shifting habitats may have repeatedly brought different hominin species together, creating opportunities for interbreeding and hybridization. The study also reveals a surprising picture of the environment in which the Taung Child lived. Evidence preserved in fossilized pollen indicates that the region was once considerably wetter and more heavily forested than it is today. Researchers identified evidence of tree species that are now found hundreds of kilometers to the northeast, suggesting that the landscape surrounding the Taung Child was dramatically different from modern South Africa. Together, these discoveries challenge the traditional view of human evolution as a relatively straightforward progression from one species to another. Instead, they point to a shifting network of populations that repeatedly separated, adapted, reunited, and sometimes interbred as environmental conditions changed. More than 100 years after its discovery, the Taung Child is once again transforming our understanding of human origins. Its latest secrets suggest that the emergence of our own genus, Homo , was preceded by a far more diverse and interconnected world of ancient human relatives than previously recognized. Materials provided by Vrije Universiteit Brussel . Note: Content may be edited for style and length. Scientists Uncover a Natural Molecule That Makes Muscles Stronger and More Resistant to Fatigue Scientists Find That Mice, Not Deer, Hold a Major Clue to Lyme Disease Risk What Is a Thought Made Of? Scientists Reveal Why Human Consciousness May Be Beyond the Reach of AI Scientists Discover Mysterious Toxic Chemicals Floating in the Air Above America",
+   "doi": [
+    "10.1038/s44513-026-00008-2"
+   ],
+   "journal_ref": "Journal Reference : Gabriele A. Macho, Simon Neubauer, Clement Zanolli, Pieter Vermeesch, Kevin L. Kuykendall, Andreas Koutsodendris, Laurin S. Kolb, Thibaut Caley. The Taung child and the biogeographic and palaeoclimatic drivers of southern African hominin diversity . npj Palaeoecosystems , 2026; 1 (1) DOI: 10.1038/s44513-026-00008-2",
+   "facts": [
+    "A new study published in Nature dates the ancient remains to between 2.96 and 3.03 million years ago and suggests that the human family tree in southern Africa was much more complicated than previously believed.",
+    "First discovered in South Africa in 1924, the Taung Child provided the first concrete evidence supporting the African origins of humanity.",
+    "\"For over 100 years, we assumed the Taung Child was just one of many similar fossils from the era,\" says Professor Gabriele Macho.",
+    "More than 100 years after its discovery, the Taung Child is once again transforming our understanding of human origins."
+   ],
+   "sample": []
   },
   {
    "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
@@ -873,6 +871,49 @@
    ]
   },
   {
+   "title": "A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP-1 medication",
+   "link": "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
+   "key": "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
+   "summary": "By minding your body’s fullness cues you can indulge in your favorite holiday foods and traditions while maintaining your progress with these drugs.",
+   "date": "2026-11-20",
+   "source": "The Conversation",
+   "first_seen": "2026-11-20",
+   "sources": [
+    "The Conversation",
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
+    "https://medicalxpress.com/news/2026-11-doctor-surviving-enjoying-holiday-feasting.html"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "2곳 보도"
+   ],
+   "text": "Thanksgiving and the winter holidays bring celebration, connection and plenty of opportunities to come together with family and friends. But the holiday season also brings something else: more food-centered gatherings, larger portions and richer foods than most people typically eat throughout the year. Think whipped sweet potatoes, mac and cheese, decadent side dishes and an abundance of desserts. For people taking GLP-1 medications for diabetes management, weight loss or other medical reasons, these celebrations can present unique challenges. Changes in appetite, smaller portion tolerance, limits on alcohol consumption, medication side effects and the desire to maintain progress can make navigating holiday traditions feel a little different. As a physician specializing in obesity medicine , I encourage my patients to view GLP-1 medications as an advantage during the holidays. These medications can help regulate appetite, improve awareness of fullness, and reinforce healthier eating behaviors during a season when food often takes center stage. However, these medications don’t eliminate the possibility of overindulgence. In fact, patients who previously experienced little or no nausea due to GLP-1s may suddenly develop significant nausea or even vomiting after eating beyond their new comfort level. Nothing can derail a holiday celebration quite like an upset stomach. Accounting for how these medications affect your body can help you avoid uncomfortable surprises while still enjoying the foods and traditions you love. Whether taken by injection or orally, GLP-1 medications have become increasingly popular worldwide for managing Type 2 diabetes , obesity and other chronic conditions. In the United States, approximately 1 in 10 adults used these drugs in 2025, and prescribing rates continue to climb. GLP-1 medications work by reducing hunger, slowing stomach emptying and helping patients feel full sooner and stay full longer . Many patients also report fewer cravings for high-calorie foods and even a reduced desire to drink alcohol . In many ways, these effects can make holiday food temptations easier to navigate. My patients often tell me that they already know which dietary changes they need to make, but GLP-1 medications help them put those changes into practice. They find it easier to stop eating when they’re satisfied, resist unnecessary snacking and avoid the constant thoughts about food that previously made weight management so challenging. One of the most important things you can do during the holidays is to learn to recognize your body’s changing fullness signals . Pay attention to nausea, bloating and early fullness rather than pushing yourself to finish everything on your plate. These symptoms can serve as reminders that you’ve reached your comfortable limit. The best plan is to enjoy smaller portions, eat slowly and pause between bites to give your body time to recognize fullness. Rich, high-fat foods in particular can worsen nausea and prolong the sensation of fullness. A few bites of your favorite dishes may be much more satisfying than an entire serving. GLP-1 medications don’t make these decisions for you – but they can reinforce healthier behaviors. Alcohol deserves special consideration during the holidays, when social gatherings and celebrations often revolve around drinking . Although you may have tolerated alcohol without difficulty in the past, GLP-1 medications can change your experience. Some patients report that GLP-1 medications reduce their desire for alcohol altogether. For them, the holidays may represent their first opportunity to drink since starting treatment. Alcohol can worsen nausea, acid reflux, dehydration and other gastrointestinal symptoms that some patients already experience while taking GLP-1 medications. If you choose to drink, consider these precautions: Limit your intake. Start with less than you might have consumed before starting your medication. Avoid drinking on an empty stomach. Eat beforehand, but avoid a particularly large or high-fat meal. Pay attention to how you feel. Stop drinking if you experience nausea, dizziness or other unpleasant symptoms. The safest approach is to be cautious and recognize that alcohol can aggravate medication-related gastrointestinal symptoms. Holiday travel can disrupt established routines, medication schedules and access to prescriptions. A little planning can help prevent unnecessary interruptions in treatment. Plan ahead for medication storage. Some injectable GLP-1 medications require refrigeration before use, while others allow room-temperature storage for a specified period after dispensing or first use. Storage requirements vary considerably by product. Check the prescribing information for your specific medication or ask your pharmacist before traveling. Don’t assume that all injectable medications can remain unrefrigerated for the same length of time. If you’re flying, keep your medication and supplies in your carry-on luggage. This helps protect them from extreme temperatures and prevents problems if your checked luggage gets delayed or lost. Keep in mind that you might also need to have a note from your prescribing provider to carry them on. Arrange prescription refills in advance. If you anticipate needing a refill while traveling, contact your pharmacy and prescribing clinician ahead of time. Prescribing and dispensing regulations can complicate obtaining medications in another state, so don’t wait until you run out. Stick to your regular dosing schedule. Don’t take an extra dose or double up on medication to accommodate a holiday meal or try to suppress your appetite further. Taking more medication than prescribed can increase the risk of significant side effects and potentially cause an overdose . If travel disrupts your dosing schedule or you miss a dose, follow the instructions for your specific medication, or contact your prescribing clinician or pharmacist. When in doubt, plan ahead and ask for guidance rather than making medication adjustments on your own. Perhaps the most important advice I give my patients is this: The holidays are not everyday life, and one large meal or dessert will not erase the progress you’ve made. You don’t need to skip Thanksgiving dinner, avoid your favorite dessert or feel guilty about enjoying a special meal. Maintaining a healthy relationship with food means allowing yourself flexibility while keeping your long-term goals in perspective. At the same time, don’t let one celebratory meal turn into several weeks of abandoning the habits that have helped you succeed. Enjoy the occasion, recognize when you’ve had enough, and return to your usual routine afterward.",
+   "doi": [],
+   "facts": [
+    "For people taking GLP-1 medications for diabetes management, weight loss or other medical reasons, these celebrations can present unique challenges.",
+    "As a physician specializing in obesity medicine , I encourage my patients to view GLP-1 medications as an advantage during the holidays.",
+    "In fact, patients who previously experienced little or no nausea due to GLP-1s may suddenly develop significant nausea or even vomiting after eating beyond their new comfort level.",
+    "Whether taken by injection or orally, GLP-1 medications have become increasingly popular worldwide for managing Type 2 diabetes , obesity and other chronic conditions.",
+    "In the United States, approximately 1 in 10 adults used these drugs in 2025, and prescribing rates continue to climb.",
+    "GLP-1 medications work by reducing hunger, slowing stomach emptying and helping patients feel full sooner and stay full longer .",
+    "My patients often tell me that they already know which dietary changes they need to make, but GLP-1 medications help them put those changes into practice.",
+    "GLP-1 medications don’t make these decisions for you – but they can reinforce healthier behaviors.",
+    "Although you may have tolerated alcohol without difficulty in the past, GLP-1 medications can change your experience.",
+    "Some patients report that GLP-1 medications reduce their desire for alcohol altogether."
+   ],
+   "sample": [
+    "10 adults"
+   ]
+  },
+  {
    "title": "The surprising cancer connection at the heart of Alzheimer's",
    "link": "https://medicalxpress.com/news/2026-11-cancer-heart-alzheimer.html",
    "key": "https://medicalxpress.com/news/2026-11-cancer-heart-alzheimer.html",
@@ -880,6 +921,8 @@
    "date": "2026-11-20",
    "source": "MedicalXpress",
    "first_seen": "2026-11-20",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-cancer-heart-alzheimer.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -893,82 +936,6 @@
     "형식 CUT",
     "훅: surpris",
     "생활소재: alzheimer"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-cancer-heart-alzheimer.html"
-  },
-  {
-   "title": "Even substitute PFAS cause metabolic stress in zebrafish embryos",
-   "link": "https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html",
-   "key": "https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html",
-   "summary": "Publishing in the Journal of Hazardous Materials Advances, researchers from Kyushu University used zebrafish embryos to study the health effects of the PFAS called PFBS (perfluorobutanesulfonic acid), a substitute PFAS thought to be safer than traditional compounds. They found that while PFBS did not generate any obvious external dysfunction, the compound still gets absorbed and accumulates in the zebrafish embryo. Results showed that PFBS caused disruptions in the metabolic pathways for sugars and fat, which led to oxidative stress. Embryos also showed physical impairments in heart function, facial development, nervous system development and visual response.",
-   "date": "2026-11-12",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-12",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.h",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html"
-   ],
-   "format": "CUT",
-   "catch": [
-    "동물 실험"
-   ],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "훅: did not",
-    "생활소재: stress"
-   ]
-  },
-  {
-   "title": "New clinical definition of obesity could help target care more effectively, saving time and money",
-   "link": "https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html",
-   "key": "https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html",
-   "summary": "The traditional way of assessing whether someone is overweight using body mass index (BMI) may fail to capture whether excess body fat is harmful and could be supplemented with a second measure when assessing patients, a new UCL study suggests.",
-   "date": "2026-11-12",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-12",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-mone",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html"
-   ],
-   "format": "WEIGH",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 WEIGH",
-    "생활소재: supplement, money"
-   ]
-  },
-  {
-   "title": "Psychedelic aftereffects may offer a window into psychotic symptoms",
-   "link": "https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html",
-   "key": "https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html",
-   "summary": "Every night, as he fell asleep, a 25-year-old man saw an eye in his ceiling. It was huge and unblinking, and it felt as if the whole world was being sucked into it. He didn't have psychosis, and he wasn't on drugs. But he had taken psychedelics in the past, and he was worried enough to contact Max Greenwald, an M.D.-Ph.D. student at Yale School of Medicine, with a question: Was he developing psychosis?",
-   "date": "2026-11-12",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-12",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-sy",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html"
-   ],
-   "format": "DOSE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 DOSE",
-    "훅: didn't"
    ]
   },
   {
@@ -993,6 +960,81 @@
    "why": [
     "형식 CUT",
     "생활소재: aging"
+   ]
+  },
+  {
+   "title": "Precision RNA therapy offers hope for brain receptor disorders",
+   "link": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
+   "key": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
+   "summary": "Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder and intellectual disability.",
+   "date": "2026-11-14",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-14",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
+   "catch_extra": [],
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "동물 실험",
+    "상관관계"
+   ],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: memory, brain, mice"
+   ]
+  },
+  {
+   "title": "Researchers trial AI coach for diabetes",
+   "link": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
+   "key": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
+   "summary": "For many people with type 2 diabetes, the challenge isn't understanding what they need to do to stay well. It's doing it consistently. Managing the condition often requires a long-term commitment to healthier eating patterns, regular exercise and medication. But unlike some illnesses, diabetes can progress quietly. Missing a dose or skipping exercise may not cause immediate consequences, making it easy for healthy intentions to slip amid the demands of work, family and everyday life.",
+   "date": "2026-11-14",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-14",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
+   "catch_extra": [],
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 DOSE",
+    "생활소재: exercise"
+   ]
+  },
+  {
+   "title": "Predator-like scent activates an anxiety-related brain circuit in mice",
+   "link": "https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html",
+   "key": "https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html",
+   "summary": "Anxiety disorders are some of the most common psychiatric conditions, estimated to affect around 4.4% of people worldwide, according to the World Health Organization. While neuroscientists have been studying these disorders for decades, their neural underpinnings are not yet fully understood.",
+   "date": "2026-11-14",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-15",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html",
+   "catch_extra": [],
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: brain, mice"
    ]
   },
   {
@@ -1092,54 +1134,6 @@
    ]
   },
   {
-   "title": "Asteroid mining will crash the platinum market, but that's good news for Earth",
-   "link": "https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html",
-   "key": "https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html",
-   "summary": "Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question—what happens to the prices of all those rare materials once someone actually brings them back? A pair of system dynamicists from MIT directly tackled that question with a new paper titled Will AstroForge Collapse the PGM Market?",
-   "date": "2026-11-12",
-   "source": "Phys.org",
-   "first_seen": "2026-11-12",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 PRESS",
-    "훅: actually"
-   ]
-  },
-  {
-   "title": "A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials",
-   "link": "https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html",
-   "key": "https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html",
-   "summary": "Scientists from the Physics Department and Organic Electroactive Materials research group at Durham University have made significant advances in understanding how materials absorb and release light in two recently published research papers in Nature Communications.",
-   "date": "2026-11-12",
-   "source": "Phys.org",
-   "first_seen": "2026-11-12",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "훅: unexpected"
-   ]
-  },
-  {
    "title": "Pumpkin seed protein puts a twist on nondairy coffee creamer",
    "link": "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
    "key": "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
@@ -1161,6 +1155,56 @@
    "why": [
     "형식 SCALE",
     "생활소재: coffee"
+   ]
+  },
+  {
+   "title": "Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds",
+   "link": "https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html",
+   "key": "https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html",
+   "summary": "The alpine zone is located above the tree line in mountainous regions and is characterized by long winters and short growing seasons. Birds and other animals inhabiting these environments breed during a limited period extending from spring to summer. Arthropods, including insects and spiders, serve as an essential food resource during this time.",
+   "date": "2026-11-13",
+   "source": "Phys.org",
+   "first_seen": "2026-11-13",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.ht",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html"
+   ],
+   "format": "SCALE",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "생활소재: bird, spider"
+   ]
+  },
+  {
+   "title": "Sensors track stress in plants in real time—without hurting them in the process",
+   "link": "https://phys.org/news/2026-11-sensors-track-stress-real.html",
+   "key": "https://phys.org/news/2026-11-sensors-track-stress-real.html",
+   "summary": "Even plants, from towering palm trees to vegetables such as onions and eggplants, can get stressed. Now, a team of engineers has designed a new kind of sensor that attaches directly to plants and peers inside them to track how they respond to stressors such as drought and fires in real time.",
+   "date": "2026-11-13",
+   "source": "Phys.org",
+   "first_seen": "2026-11-13",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-sensors-track-stress-real.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-sensors-track-stress-real.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 CUT",
+    "생활소재: stress"
    ]
   },
   {
@@ -1249,46 +1293,6 @@
    "why": [
     "형식 WEIGH",
     "훅: did not"
-   ]
-  },
-  {
-   "title": "A convincing vegan meat alternative needs both taste and texture – here’s how food scientists manufacture them",
-   "link": "https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038",
-   "key": "https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038",
-   "summary": "This Thanksgiving, you may sit down to a table laden with mashed potatoes, cranberry sauce, vegetables and a golden-brown turkey. And, if you have any vegetarians or vegans in your family, you may even see a plant-based meat alternative. But how do food scientists make something taste and look similar to turkey entirely from plants?",
-   "date": "2026-11-19",
-   "source": "The Conversation",
-   "first_seen": "2026-11-19",
-   "text": "This Thanksgiving, you may sit down to a table laden with mashed potatoes, cranberry sauce, vegetables and a golden-brown turkey. And, if you have any vegetarians or vegans in your family, you may even see a plant-based meat alternative. But how do food scientists make something taste and look similar to turkey entirely from plants? Plant-based meat alternatives have become an increasingly prominent part of the food industry , driven partly by concerns about the sustainability of conventional meat production and the search for additional protein sources. One life-cycle assessment found that plant-based patties had a 77% lower climate impact than the Brazilian beef patties examined, although the results varied depending on the production systems and environmental measures considered. But making a convincing meat alternative is not as simple as replacing animal protein with plant protein. How do you turn ingredients from peas, soybeans or wheat into something that looks, tastes and feels like meat? When people think about protein, foods such as chicken, beef, eggs and milk often come to mind. However, plants are also important sources of protein . Soybeans, peas, wheat, lentils and other legumes contain proteins that can be extracted and used in food products. Soy and pea proteins are widely used in plant-based meat alternatives . Wheat protein, or gluten , can also contribute to their structure and chewy texture. Researchers are also exploring other sources, including fava beans and mung beans, to expand the range of ingredients available. But plant proteins behave differently. Some absorb more water, while others bind fat or form structures that hold ingredients together. These properties influence how a food feels when you bite into it. Choosing a protein therefore involves understanding how it behaves during processing, not just its nutritional value. Think about biting into a piece of roasted turkey breast. Its texture comes from the arrangement of muscle fibers , along with connective tissue, water and fat. Together, these components create firmness, juiciness and the chewing experience you associate with meat. Plant proteins have structures that are different from animal muscle proteins. Mixing pea or soy protein with water does not automatically create meatlike fibers. Food scientists use processing methods that organize these proteins into structures that more closely resemble muscle. Flavor matters, too. Fat adds juiciness and carries flavor compounds, while heating creates familiar roasted and savory aromas. A convincing meat alternative must bring together the right ingredients and processing conditions to reproduce these qualities. One widely used method is extrusion . Protein-rich ingredients are mixed with water and pushed through a machine that applies heat and pressure while mixing the material. These forces unfold the proteins and help them interact. As the mixture cools, the proteins form aligned, fibrous structures that resemble some features of meat. High-moisture extrusion uses more water during processing, which produces fibrous products with a more meatlike texture. The final structure depends on factors such as the protein source, moisture content, temperature and processing conditions. These factors influence how proteins interact and form the fibrous structures found in plant-based meat alternatives . Manufacturers can also add fats, starches, flavorings and other ingredients to improve the eating experience. Small changes in formulation or processing can make a considerable difference, affecting whether a product is firmer, softer, chewier or better at retaining moisture. Another emerging approach is 3D food printing. Like a conventional 3D printer , a food printer builds an object layer by layer, depositing edible materials according to a digital design. Our research explores protein-based food inks: mixtures designed to flow through a printer nozzle and hold their shape once deposited. Developing the right formulation is challenging because the material must be fluid enough to print but still firm enough to retain its shape. Researchers are applying similar principles to explore printing plant-based meat alternatives. Instead of relying only on conventional manufacturing methods, 3D printing could allow researchers to control how different ingredients are arranged. For example, you could potentially deposit protein-rich materials and fat-containing ingredients in specific patterns to create different structures and textures. Recent research on the 3D-printing of plant-protein-based meat analogs highlights how the formulation of the food ink and printing conditions influence how accurately a product can be printed and whether it holds its shape. However, a printed product that looks like meat must still deliver the expected texture, flavor and eating experience. Plant-based meat alternatives are not necessarily intended to replace traditional meat. They offer consumers additional choices, but making them appealing, affordable and consistent remains a challenge. Scientists continue to study how proteins, ingredients and processing work together to create the textures and flavors people enjoy. The next time you see a plant-based burger or turkey alternative, remember that making it involves much more than replacing animal protein with plant protein. Technologies such as extrusion and 3D food printing are helping scientists explore new ways to turn plant ingredients into meatlike foods.",
-   "facts": [
-    "One life-cycle assessment found that plant-based patties had a 77% lower climate impact than the Brazilian beef patties examined, although the results varied depending on the production systems and environmental measures considered.",
-    "Another emerging approach is 3D food printing.",
-    "Like a conventional 3D printer , a food printer builds an object layer by layer, depositing edible materials according to a digital design.",
-    "Instead of relying only on conventional manufacturing methods, 3D printing could allow researchers to control how different ingredients are arranged.",
-    "Recent research on the 3D-printing of plant-protein-based meat analogs highlights how the formulation of the food ink and printing conditions influence how accurately a product can be printed and whether it holds its shape.",
-    "Technologies such as extrusion and 3D food printing are helping scientists explore new ways to turn plant ingredients into meatlike foods."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation",
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038",
-    "https://medicalxpress.com/news/2026-11-convincing-vegan-meat-alternative-texture.html"
-   ],
-   "format": "SCALE",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "2곳 보도"
    ]
   }
  ]

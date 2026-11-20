@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 999건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 946건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -141,15 +141,15 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For more than 15 years, the Italian duck-billed dinosaur Tethyshadros insularis has been reconstructed with one of the most unusual mouth structures among hadrosauroids. The tip of its upper jaw featured three forward-pointing bony projections on each side, long interpreted as exposed "spikes" or to
 
-## 16. Walking and weight training may not be enough to keep your bones strong
-- 점수 7 · CUT · ScienceDaily 전체 · 2026-11-12
-- https://www.sciencedaily.com/releases/2026/11/261110042601.htm
-- DOI: 10.1186/s40798-026-00986-2
-- 대상: 1,238 adults
-- 요약: A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball in
-  - "To investigate how different forms of exercise affect bones, the Semmelweis University team reviewed 24 clinical studies involving 1,238 healthy adults."
-  - "These activities were linked to increases of up to 45-46 percent in blood markers associated with bone formation, suggesting that they may provide a particularly strong stimulus for the body's bone-building processes."
-  - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
+## 16. A 3-million-year-old child just made human evolution far more complicated
+- 점수 8 · CUT · ScienceDaily 전체 · 2026-11-20
+- https://www.sciencedaily.com/releases/2026/11/261118065531.htm
+- DOI: 10.1038/s44513-026-00008-2
+- 요약: A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dr
+  - "A new study published in Nature dates the ancient remains to between 2.96 and 3.03 million years ago and suggests that the human family tree in southern Africa was much more complicated than previously believed."
+  - "First discovered in South Africa in 1924, the Taung Child provided the first concrete evidence supporting the African origins of humanity."
+  - ""For over 100 years, we assumed the Taung Child was just one of many similar fossils from the era," says Professor Gabriele Macho."
+  - "More than 100 years after its discovery, the Taung Child is once again transforming our understanding of human origins."
 
 ## 17. Scientists discover a hidden danger of viral infections that vaccines may prevent
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-13
@@ -214,80 +214,93 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Results from a Virginia Tech eating trial add to evidence that the developing brain responds differently to foods that have been through industrial processing or contain ingredients not found in a home kitchen.
 
-## 26. The surprising cancer connection at the heart of Alzheimer's
+## 26. A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP-1 medication
+- 점수 7 · DOSE · The Conversation / MedicalXpress · 2026-11-20
+- https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301
+- 대상: 10 adults
+- 주의: DOI 못 찾음
+- 요약: By minding your body’s fullness cues you can indulge in your favorite holiday foods and traditions while maintaining your progress with these drugs.
+  - "For people taking GLP-1 medications for diabetes management, weight loss or other medical reasons, these celebrations can present unique challenges."
+  - "As a physician specializing in obesity medicine , I encourage my patients to view GLP-1 medications as an advantage during the holidays."
+  - "In fact, patients who previously experienced little or no nausea due to GLP-1s may suddenly develop significant nausea or even vomiting after eating beyond their new comfort level."
+  - "Whether taken by injection or orally, GLP-1 medications have become increasingly popular worldwide for managing Type 2 diabetes , obesity and other chronic conditions."
+  - "In the United States, approximately 1 in 10 adults used these drugs in 2025, and prescribing rates continue to climb."
+
+## 27. The surprising cancer connection at the heart of Alzheimer's
 - 점수 7 · CUT · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-cancer-heart-alzheimer.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People say "the body keeps score"—but it might be more accurate to say our neurons do. In healthy people, neurons accumulate about 17 single-nucleotide variants each year, a pattern that holds from birth through a person's final years, according to research from HHMI investigator Chris Walsh and oth
 
-## 27. Even substitute PFAS cause metabolic stress in zebrafish embryos
-- 점수 6 · CUT · MedicalXpress · 2026-11-12
-- https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Publishing in the Journal of Hazardous Materials Advances, researchers from Kyushu University used zebrafish embryos to study the health effects of the PFAS called PFBS (perfluorobutanesulfonic acid), a substitute PFAS thought to be safer than traditional compounds. They found that while PFBS did no
-
-## 28. New clinical definition of obesity could help target care more effectively, saving time and money
-- 점수 6 · WEIGH · MedicalXpress · 2026-11-12
-- https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The traditional way of assessing whether someone is overweight using body mass index (BMI) may fail to capture whether excess body fat is harmful and could be supplemented with a second measure when assessing patients, a new UCL study suggests.
-
-## 29. Psychedelic aftereffects may offer a window into psychotic symptoms
-- 점수 6 · DOSE · MedicalXpress · 2026-11-12
-- https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Every night, as he fell asleep, a 25-year-old man saw an eye in his ceiling. It was huge and unblinking, and it felt as if the whole world was being sucked into it. He didn't have psychosis, and he wasn't on drugs. But he had taken psychedelics in the past, and he was worried enough to contact Max G
-
-## 30. Scientists identify protein driving age-related organ damage
+## 28. Scientists identify protein driving age-related organ damage
 - 점수 6 · CUT · MedicalXpress · 2026-11-13
 - https://medicalxpress.com/news/2026-11-scientists-protein-age.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs 
 
-## 31. Ancient height trends show technological advances did not always improve living standards
+## 29. Precision RNA therapy offers hope for brain receptor disorders
+- 점수 6 · WEIGH · MedicalXpress · 2026-11-14
+- https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html
+- 주의: 동물 실험, 상관관계
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder an
+
+## 30. Researchers trial AI coach for diabetes
+- 점수 6 · DOSE · MedicalXpress · 2026-11-14
+- https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: For many people with type 2 diabetes, the challenge isn't understanding what they need to do to stay well. It's doing it consistently. Managing the condition often requires a long-term commitment to healthier eating patterns, regular exercise and medication. But unlike some illnesses, diabetes can p
+
+## 31. Predator-like scent activates an anxiety-related brain circuit in mice
+- 점수 6 · CUT · MedicalXpress · 2026-11-14
+- https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Anxiety disorders are some of the most common psychiatric conditions, estimated to affect around 4.4% of people worldwide, according to the World Health Organization. While neuroscientists have been studying these disorders for decades, their neural underpinnings are not yet fully understood.
+
+## 32. Ancient height trends show technological advances did not always improve living standards
 - 점수 6 · CUT · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: New research from the University of Tübingen and the Max Planck Institute of Geoanthropology in Jena gives valuable clues as to economic development in various regions across thousands of years. Researchers evaluated 18,457 skeletal remains and analyzed changes in height, estimated from thighbone le
 
-## 32. Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites
+## 33. Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites
 - 점수 6 · CUT · Phys.org · 2026-11-19
 - https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Phytosterols are plant-derived compounds found in vegetable oils, nuts and seeds. They are studied for their ability to reduce cholesterol absorption, yet only about 5% enter the circulation and most are excreted. How gut bacteria influence their metabolism and tissue distribution has remained uncle
 
-## 33. Neutrons, death metal and a tiny prehistoric dragon: Scans reveal new horned reptile species from 156 million years ago
+## 34. Neutrons, death metal and a tiny prehistoric dragon: Scans reveal new horned reptile species from 156 million years ago
 - 점수 6 · CUT · Phys.org · 2026-11-20
 - https://phys.org/news/2026-11-neutrons-death-metal-tiny-prehistoric.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: An unassuming fossil discovery in Wyoming caused quite a stir: Was it a baby dinosaur, a prehistoric snake or perhaps an entirely new species? Neutron imaging at the Paul Scherrer Institute PSI and the trained eye of a paleontologist eventually provided the answer: the 156-million-year-old fossil is
 
-## 34. Black gobies are growing larger despite climate change
+## 35. Black gobies are growing larger despite climate change
 - 점수 6 · CUT · Phys.org · 2026-11-20
 - https://phys.org/news/2026-11-black-gobies-larger-climate.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers at the Department of Paleontology at the University of Vienna compared fossil and modern ear stones of the black goby (Gobius niger) from the northern Adriatic Sea to reconstruct its growth history over the past 8,000 years. The surprising result: while body size remained remarkably stab
 
-## 35. Asteroid mining will crash the platinum market, but that's good news for Earth
-- 점수 5 · PRESS · Phys.org · 2026-11-12
-- https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question—what happens to the prices of all those rare materi
-
-## 36. A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials
-- 점수 5 · CUT · Phys.org · 2026-11-12
-- https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Scientists from the Physics Department and Organic Electroactive Materials research group at Durham University have made significant advances in understanding how materials absorb and release light in two recently published research papers in Nature Communications.
-
-## 37. Pumpkin seed protein puts a twist on nondairy coffee creamer
+## 36. Pumpkin seed protein puts a twist on nondairy coffee creamer
 - 점수 5 · SCALE · Phys.org · 2026-11-13
 - https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based cof
 
-## 38. Americans are eating way less turkey than we used to
+## 37. Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds
+- 점수 5 · SCALE · Phys.org · 2026-11-13
+- https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: The alpine zone is located above the tree line in mountainous regions and is characterized by long winters and short growing seasons. Birds and other animals inhabiting these environments breed during a limited period extending from spring to summer. Arthropods, including insects and spiders, serve 
+
+## 38. Sensors track stress in plants in real time—without hurting them in the process
+- 점수 5 · CUT · Phys.org · 2026-11-13
+- https://phys.org/news/2026-11-sensors-track-stress-real.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Even plants, from towering palm trees to vegetables such as onions and eggplants, can get stressed. Now, a team of engineers has designed a new kind of sensor that attaches directly to plants and peers inside them to track how they respond to stressors such as drought and fires in real time.
+
+## 39. Americans are eating way less turkey than we used to
 - 점수 5 · SCALE · The Conversation · 2026-11-16
 - https://theconversation.com/americans-are-eating-way-less-turkey-than-we-used-to-295921
 - 대상: 5 people
@@ -299,7 +312,7 @@
   - "By 2025, consumption had fallen to just 13.2 pounds (6 kg)."
   - "While turkey consumption started to recede in the late 1990s, it began accelerating around 2008, when the Great Recession was underway ."
 
-## 39. Massive super PAC spending did not secure Republican victories in 2026, but it remains a pernicious influence – in both parties
+## 40. Massive super PAC spending did not secure Republican victories in 2026, but it remains a pernicious influence – in both parties
 - 점수 5 · WEIGH · The Conversation · 2026-11-17
 - https://theconversation.com/massive-super-pac-spending-did-not-secure-republican-victories-in-2026-but-it-remains-a-pernicious-influence-in-both-parties-296028
 - 대상: 100 people
@@ -310,14 +323,3 @@
   - "In each election cycle, approximately 90% of voters vote for the same party they did in the previous election."
   - "Super PACs do not receive the LUC, and thus they can pay two or three times as much per advertisement."
   - "Nearly two-thirds of super PAC spending in 2026 can be traced to only 100 people ."
-
-## 40. A convincing vegan meat alternative needs both taste and texture – here’s how food scientists manufacture them
-- 점수 5 · SCALE · The Conversation / MedicalXpress · 2026-11-19
-- https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038
-- 주의: DOI 못 찾음
-- 요약: This Thanksgiving, you may sit down to a table laden with mashed potatoes, cranberry sauce, vegetables and a golden-brown turkey. And, if you have any vegetarians or vegans in your family, you may even see a plant-based meat alternative. But how do food scientists make something taste and look simil
-  - "One life-cycle assessment found that plant-based patties had a 77% lower climate impact than the Brazilian beef patties examined, although the results varied depending on the production systems and environmental measures considered."
-  - "Another emerging approach is 3D food printing."
-  - "Like a conventional 3D printer , a food printer builds an object layer by layer, depositing edible materials according to a digital design."
-  - "Instead of relying only on conventional manufacturing methods, 3D printing could allow researchers to control how different ingredients are arranged."
-  - "Recent research on the 3D-printing of plant-protein-based meat analogs highlights how the formulation of the food ink and printing conditions influence how accurately a product can be printed and whether it holds its shape."
