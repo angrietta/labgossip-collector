@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 938건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 999건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -53,7 +53,19 @@
   - "Benites-Palomino first encountered the specimen in 2015 while preparing his Bachelor's thesis at the Museo de Historia Natural in Lima."
   - "Its snout also pointed downward at an angle of 31 degrees relative to the rest of its skull."
 
-## 6. 5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings
+## 6. Experimental compound burns fat without sacrificing muscle
+- 점수 9 · DOSE · ScienceDaily 전체 · 2026-11-20
+- https://www.sciencedaily.com/releases/2026/11/261118073918.htm
+- DOI: 10.1126/sciadv.aed3119
+- 주의: 동물 실험
+- 요약: Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fa
+  - "It also increased energy expenditure by up to 18%, even though the mice did not become more physically active or experience an increase in body temperature."
+  - "Over the past five years, medications known as GLP-1 drugs have transformed the treatment of obesity and other metabolic conditions, including diabetes and fatty liver disease."
+  - ""GLP-1s work almost entirely on the first, so we went after the second." The researchers focused on a molecule called 5-tetradecyloxy-2-furoic acid (TOFA), which has an unusual combination of effects on the body's metabolism."
+  - "Although TOFA was originally discovered in the 1970s, the new research uncovered additional properties that could make it particularly useful for treating metabolic disease."
+  - "In mice, this activity increased energy expenditure by as much as 18%, without requiring additional physical activity or raising body temperature."
+
+## 7. 5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112025540.htm
 - DOI: 10.3389/fearc.2026.1858940
@@ -64,7 +76,7 @@
   - ""Who were these people and how did they view the ruler and their own role in his or her life and death?" Around 3000 BCE, the earliest kings of a unified Egypt constructed elaborate burial complexes at Abydos."
   - "Campbell located 46 of these skulls in the Duckworth Collection at Cambridge University and examined them using contemporary forensic knowledge."
 
-## 7. Uranus and Neptune’s bizarre magnetic fields may finally be explained
+## 8. Uranus and Neptune’s bizarre magnetic fields may finally be explained
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261114202204.htm
 - DOI: 10.1038/s42005-026-02841-y
@@ -76,7 +88,7 @@
   - "Each is approximately four times wider than Earth, and scientists believe their interiors contain substantial amounts of hydrogen, helium, water, ammonia, methane, and rocky material."
   - "To investigate this possibility, the researchers developed computer simulations designed to reproduce the strange magnetic fields recorded by Voyager 2."
 
-## 8. New wearable ultrasound patch boosts REM sleep without drugs or surgery
+## 9. New wearable ultrasound patch boosts REM sleep without drugs or surgery
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-16
 - https://www.sciencedaily.com/releases/2026/11/261116014842.htm
 - DOI: 10.1038/s41467-026-73787-6
@@ -86,19 +98,19 @@
   - "In a study involving 28 participants, published in Nature Communications , people using the patch entered REM sleep an average of 43 minutes sooner and spent approximately 16 additional minutes in that stage."
   - "Scientists Just Challenged a 50-Year-Old Theory About How Evolution Work “A Magnetar Is Born”: Supercomputer Simulates One of the Universe’s Most Violent Collisions Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down"
 
-## 9. Catching AI's mistakes is a mental burden—and a drag on productivity
+## 10. Catching AI's mistakes is a mental burden—and a drag on productivity
 - 점수 8 · WEIGH · Phys.org / The Conversation · 2026-11-16
 - https://phys.org/news/2026-11-ai-mental-burden-productivity.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: By now, almost everyone has asked an AI agent a question, only to realize that the answer seems not quite right. Something might be missing or wrong or out of date. An executive assistant told me she uses AI tools for drafting itineraries and briefings, but she's caught enough issues that she now bu
 
-## 10. Daily iron supplements reduce iron deficiency anemia in children and adolescents
+## 11. Daily iron supplements reduce iron deficiency anemia in children and adolescents
 - 점수 8 · DOSE · MedicalXpress · 2026-11-17
 - https://medicalxpress.com/news/2026-11-daily-iron-supplements-deficiency-anemia.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Giving children and adolescents a daily iron tablet significantly reduces the risk of iron deficiency anemia with little to no effect on several common illnesses, according to a review published in Cochrane Database of Systematic Reviews that included 114 studies involving more than 50,000 participa
 
-## 11. Wine, beer, or spirits? Massive study reveals a surprising health divide
+## 12. Wine, beer, or spirits? Massive study reveals a surprising health divide
 - 점수 8 · WEIGH · ScienceDaily 전체 · 2026-11-17
 - https://www.sciencedaily.com/releases/2026/11/261116015104.htm
 - 대상: 340,000 adults, 340,924 adults
@@ -110,26 +122,26 @@
   - "For comparison, a 12-ounce can of beer, a 5-ounce glass of wine, and a 1.5-ounce shot of spirits each provide approximately 14 grams of pure alcohol."
   - "People consuming fewer than 20 g (about 1.5 standard drinks) per week were placed in the never or occasional drinking group."
 
-## 12. DNA reveals the secret lives of Hawaiʻi's aeʻo (Hawaiian stilt)
+## 13. DNA reveals the secret lives of Hawaiʻi's aeʻo (Hawaiian stilt)
 - 점수 8 · CUT · Phys.org · 2026-11-19
 - https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Long-legged, tuxedo-clad and famously noisy, the aeʻo, or Hawaiian stilt (Himantopus mexicanus knudseni), has a family life as complicated as any reality TV show. A new study led by University of Hawaiʻi at Mānoa researchers, published in Ecology and Evolution, paired a decade of birdwatching with D
 
-## 13. The hypothalamus is not a bystander in Alzheimer's disease
+## 14. The hypothalamus is not a bystander in Alzheimer's disease
 - 점수 8 · DOSE · MedicalXpress · 2026-11-19
 - https://medicalxpress.com/news/2026-11-hypothalamus-bystander-alzheimer-disease.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Alzheimer's disease is well known as a disease of memory. But long before memory fades, many patients have trouble sleeping, lose their daily rhythms and show changes in metabolism and stress hormones. All of these functions are regulated by the hypothalamus, a structure at the base of the brain. A 
 
-## 14. Duck-billed dinosaur discovered in Italy had a birdlike beak hidden among its bizarre 'spikes'
+## 15. Duck-billed dinosaur discovered in Italy had a birdlike beak hidden among its bizarre 'spikes'
 - 점수 8 · PRESS · Phys.org · 2026-11-20
 - https://phys.org/news/2026-11-duck-billed-dinosaur-italy-birdlike.html
 - 주의: 모델·시뮬레이션
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For more than 15 years, the Italian duck-billed dinosaur Tethyshadros insularis has been reconstructed with one of the most unusual mouth structures among hadrosauroids. The tip of its upper jaw featured three forward-pointing bony projections on each side, long interpreted as exposed "spikes" or to
 
-## 15. Walking and weight training may not be enough to keep your bones strong
+## 16. Walking and weight training may not be enough to keep your bones strong
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-12
 - https://www.sciencedaily.com/releases/2026/11/261110042601.htm
 - DOI: 10.1186/s40798-026-00986-2
@@ -139,7 +151,7 @@
   - "These activities were linked to increases of up to 45-46 percent in blood markers associated with bone formation, suggesting that they may provide a particularly strong stimulus for the body's bone-building processes."
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 16. Scientists discover a hidden danger of viral infections that vaccines may prevent
+## 17. Scientists discover a hidden danger of viral infections that vaccines may prevent
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-13
 - https://www.sciencedaily.com/releases/2026/11/261112025531.htm
 - DOI: 10.1038/s41419-026-09253-4
@@ -147,7 +159,7 @@
 - 요약: A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulner
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
 
-## 17. Yale scientists reveal what really slows aging and what doesn't
+## 18. Yale scientists reveal what really slows aging and what doesn't
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112230452.htm
 - DOI: 10.1038/s41591-026-04562-9
@@ -156,18 +168,6 @@
   - "The researchers brought together findings from 51 clinical studies investigating different anti-aging strategies."
   - "Across those studies, the team examined more than 110 DNA methylation biomarkers (including 16 major epigenetic clocks)."
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
-
-## 18. Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms
-- 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-14
-- https://www.sciencedaily.com/releases/2026/11/261112230444.htm
-- DOI: 10.1126/sciadv.aed9351
-- 대상: 110 people
-- 요약: Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hope
-  - "The same approach can also identify people whose brains show exceptional resistance to cognitive decline, suggesting they may eventually become "super agers." The study, published November 4 in Science Advances , points to a potentially powerful new way to detect early warning signs of cognitive decline."
-  - "To investigate, the research team examined brain activity in adults aged 75 and older who represented opposite ends of the cognitive aging spectrum."
-  - "Using the differences between these groups, the scientists created a scoring system to evaluate brain activity in cognitively healthy adults between 55 and 70."
-  - "People whose brain patterns more closely resembled those of Alzheimer's patients were more likely to experience cognitive decline, accumulate amyloid-beta plaques, and receive an Alzheimer's diagnosis during follow-up periods extending up to 12 years."
-  - ""That's why identifying the super-ager brain resilience pattern is a critical component -- so we know what a good pattern should be." Depending on how they are defined, approximately 10% of older adults may qualify as super agers."
 
 ## 19. City crows and country crows don't see the world the same way
 - 점수 7 · SCALE · Phys.org · 2026-11-17
@@ -214,37 +214,36 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Results from a Virginia Tech eating trial add to evidence that the developing brain responds differently to foods that have been through industrial processing or contain ingredients not found in a home kitchen.
 
-## 26. Even substitute PFAS cause metabolic stress in zebrafish embryos
+## 26. The surprising cancer connection at the heart of Alzheimer's
+- 점수 7 · CUT · MedicalXpress · 2026-11-20
+- https://medicalxpress.com/news/2026-11-cancer-heart-alzheimer.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: People say "the body keeps score"—but it might be more accurate to say our neurons do. In healthy people, neurons accumulate about 17 single-nucleotide variants each year, a pattern that holds from birth through a person's final years, according to research from HHMI investigator Chris Walsh and oth
+
+## 27. Even substitute PFAS cause metabolic stress in zebrafish embryos
 - 점수 6 · CUT · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-substitute-pfas-metabolic-stress-zebrafish.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Publishing in the Journal of Hazardous Materials Advances, researchers from Kyushu University used zebrafish embryos to study the health effects of the PFAS called PFBS (perfluorobutanesulfonic acid), a substitute PFAS thought to be safer than traditional compounds. They found that while PFBS did no
 
-## 27. New clinical definition of obesity could help target care more effectively, saving time and money
+## 28. New clinical definition of obesity could help target care more effectively, saving time and money
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The traditional way of assessing whether someone is overweight using body mass index (BMI) may fail to capture whether excess body fat is harmful and could be supplemented with a second measure when assessing patients, a new UCL study suggests.
 
-## 28. Psychedelic aftereffects may offer a window into psychotic symptoms
+## 29. Psychedelic aftereffects may offer a window into psychotic symptoms
 - 점수 6 · DOSE · MedicalXpress · 2026-11-12
 - https://medicalxpress.com/news/2026-11-psychedelic-aftereffects-window-psychotic-symptoms.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Every night, as he fell asleep, a 25-year-old man saw an eye in his ceiling. It was huge and unblinking, and it felt as if the whole world was being sucked into it. He didn't have psychosis, and he wasn't on drugs. But he had taken psychedelics in the past, and he was worried enough to contact Max G
 
-## 29. Scientists identify protein driving age-related organ damage
+## 30. Scientists identify protein driving age-related organ damage
 - 점수 6 · CUT · MedicalXpress · 2026-11-13
 - https://medicalxpress.com/news/2026-11-scientists-protein-age.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs 
-
-## 30. Precision RNA therapy offers hope for brain receptor disorders
-- 점수 6 · WEIGH · MedicalXpress · 2026-11-14
-- https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html
-- 주의: 동물 실험, 상관관계
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder an
 
 ## 31. Ancient height trends show technological advances did not always improve living standards
 - 점수 6 · CUT · Phys.org · 2026-11-17
