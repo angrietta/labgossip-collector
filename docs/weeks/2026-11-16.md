@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 987건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 850건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -151,15 +151,7 @@
   - ""For over 100 years, we assumed the Taung Child was just one of many similar fossils from the era," says Professor Gabriele Macho."
   - "More than 100 years after its discovery, the Taung Child is once again transforming our understanding of human origins."
 
-## 17. Scientists discover a hidden danger of viral infections that vaccines may prevent
-- 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-13
-- https://www.sciencedaily.com/releases/2026/11/261112025531.htm
-- DOI: 10.1038/s41419-026-09253-4
-- 주의: 동물 실험
-- 요약: A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulner
-  - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
-
-## 18. Yale scientists reveal what really slows aging and what doesn't
+## 17. Yale scientists reveal what really slows aging and what doesn't
 - 점수 7 · DOSE · ScienceDaily 전체 · 2026-11-14
 - https://www.sciencedaily.com/releases/2026/11/261112230452.htm
 - DOI: 10.1038/s41591-026-04562-9
@@ -168,6 +160,18 @@
   - "The researchers brought together findings from 51 clinical studies investigating different anti-aging strategies."
   - "Across those studies, the team examined more than 110 DNA methylation biomarkers (including 16 major epigenetic clocks)."
   - "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
+
+## 18. Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms
+- 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-14
+- https://www.sciencedaily.com/releases/2026/11/261112230444.htm
+- DOI: 10.1126/sciadv.aed9351
+- 대상: 110 people
+- 요약: Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hope
+  - "The same approach can also identify people whose brains show exceptional resistance to cognitive decline, suggesting they may eventually become "super agers." The study, published November 4 in Science Advances , points to a potentially powerful new way to detect early warning signs of cognitive decline."
+  - "To investigate, the research team examined brain activity in adults aged 75 and older who represented opposite ends of the cognitive aging spectrum."
+  - "Using the differences between these groups, the scientists created a scoring system to evaluate brain activity in cognitively healthy adults between 55 and 70."
+  - "People whose brain patterns more closely resembled those of Alzheimer's patients were more likely to experience cognitive decline, accumulate amyloid-beta plaques, and receive an Alzheimer's diagnosis during follow-up periods extending up to 12 years."
+  - ""That's why identifying the super-ager brain resilience pattern is a critical component -- so we know what a good pattern should be." Depending on how they are defined, approximately 10% of older adults may qualify as super agers."
 
 ## 19. City crows and country crows don't see the world the same way
 - 점수 7 · SCALE · Phys.org · 2026-11-17
@@ -232,36 +236,36 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People say "the body keeps score"—but it might be more accurate to say our neurons do. In healthy people, neurons accumulate about 17 single-nucleotide variants each year, a pattern that holds from birth through a person's final years, according to research from HHMI investigator Chris Walsh and oth
 
-## 28. Scientists identify protein driving age-related organ damage
-- 점수 6 · CUT · MedicalXpress · 2026-11-13
-- https://medicalxpress.com/news/2026-11-scientists-protein-age.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs 
-
-## 29. Precision RNA therapy offers hope for brain receptor disorders
+## 28. Precision RNA therapy offers hope for brain receptor disorders
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-14
 - https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html
 - 주의: 동물 실험, 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Scientists at Johns Hopkins University School of Medicine and Academia Sinica in Taiwan have developed an experimental RNA-based treatment that prevents brain damage and improves learning, memory and social behavior in mice carrying a rare genetic mutation associated with autism spectrum disorder an
 
-## 30. Researchers trial AI coach for diabetes
+## 29. Researchers trial AI coach for diabetes
 - 점수 6 · DOSE · MedicalXpress · 2026-11-14
 - https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For many people with type 2 diabetes, the challenge isn't understanding what they need to do to stay well. It's doing it consistently. Managing the condition often requires a long-term commitment to healthier eating patterns, regular exercise and medication. But unlike some illnesses, diabetes can p
 
-## 31. Predator-like scent activates an anxiety-related brain circuit in mice
+## 30. Predator-like scent activates an anxiety-related brain circuit in mice
 - 점수 6 · CUT · MedicalXpress · 2026-11-14
 - https://medicalxpress.com/news/2026-11-predator-scent-anxiety-brain-circuit.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Anxiety disorders are some of the most common psychiatric conditions, estimated to affect around 4.4% of people worldwide, according to the World Health Organization. While neuroscientists have been studying these disorders for decades, their neural underpinnings are not yet fully understood.
 
-## 32. Ancient height trends show technological advances did not always improve living standards
+## 31. Ancient height trends show technological advances did not always improve living standards
 - 점수 6 · CUT · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: New research from the University of Tübingen and the Max Planck Institute of Geoanthropology in Jena gives valuable clues as to economic development in various regions across thousands of years. Researchers evaluated 18,457 skeletal remains and analyzed changes in height, estimated from thighbone le
+
+## 32. Research finds a pop void in studies tracking how the brain and heart respond to music
+- 점수 6 · CUT · MedicalXpress · 2026-11-17
+- https://medicalxpress.com/news/2026-11-void-tracking-brain-heart-music.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: We all know the joy of hearing a song we love. It can be a physical experience, as we tap our toes or sing at the top of our lungs. Or it can be emotional, lifting our mood or conjuring long-buried memories.
 
 ## 33. Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites
 - 점수 6 · CUT · Phys.org · 2026-11-19
@@ -281,24 +285,23 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers at the Department of Paleontology at the University of Vienna compared fossil and modern ear stones of the black goby (Gobius niger) from the northern Adriatic Sea to reconstruct its growth history over the past 8,000 years. The surprising result: while body size remained remarkably stab
 
-## 36. Pumpkin seed protein puts a twist on nondairy coffee creamer
-- 점수 5 · SCALE · Phys.org · 2026-11-13
-- https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html
+## 36. How Chinese brewers refined their booze 5,000 years ago
+- 점수 5 · DOSE · Phys.org · 2026-11-14
+- https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based cof
+- 요약: More than 5,000 years ago, brewers in eastern China appear to have used red mold to make rice alcohol, then strained the drink through cloth. Microscopic residues on ancient pottery show evidence of both the fermentation method and the filtering process to separate the liquid from leftover grain.
 
-## 37. Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds
-- 점수 5 · SCALE · Phys.org · 2026-11-13
-- https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html
-- 주의: 동물 실험
+## 37. Happy face, angry voice: Human–dog interaction study tracks conflicting cues
+- 점수 5 · CUT · Phys.org · 2026-11-14
+- https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The alpine zone is located above the tree line in mountainous regions and is characterized by long winters and short growing seasons. Birds and other animals inhabiting these environments breed during a limited period extending from spring to summer. Arthropods, including insects and spiders, serve 
+- 요약: Dogs, having lived alongside humans for tens of thousands of years, are keenly tuned in to our emotions. Behavioral experiments, brain studies and even measurements of heart rate all suggest dogs respond differently depending on the emotional expressions they encounter in humans.
 
-## 38. Sensors track stress in plants in real time—without hurting them in the process
-- 점수 5 · CUT · Phys.org · 2026-11-13
-- https://phys.org/news/2026-11-sensors-track-stress-real.html
+## 38. A newly discovered South African dinosaur was a heavyweight even as a youngster
+- 점수 5 · WEIGH · Phys.org · 2026-11-14
+- https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Even plants, from towering palm trees to vegetables such as onions and eggplants, can get stressed. Now, a team of engineers has designed a new kind of sensor that attaches directly to plants and peers inside them to track how they respond to stressors such as drought and fires in real time.
+- 요약: It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 million years ago in what is now South Africa.
 
 ## 39. Americans are eating way less turkey than we used to
 - 점수 5 · SCALE · The Conversation · 2026-11-16

@@ -1,6 +1,6 @@
 {
  "week": "2026-11-16",
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "status": [
   {
    "feed": "ScienceDaily 전체",
@@ -14,21 +14,21 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 28
+   "span_days": 29
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 29
+   "span_days": 28
   },
   {
    "feed": "ScienceDaily 동식물",
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 37
+   "span_days": 38
   },
   {
    "feed": "ScienceDaily 건강",
@@ -617,41 +617,6 @@
    ]
   },
   {
-   "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261112025531.htm",
-   "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats. Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model.",
-   "date": "2026-11-13",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-14",
-   "text": "Vaccines may do more than protect people from the immediate effects of a viral infection. New research suggests they could also help prevent lasting damage to the immune system that remains even after the virus has disappeared. Scientists at Pompeu Fabra University discovered that mice recovering from an acute viral infection experienced prolonged problems with their immune defenses. Although the animals had successfully fought off the virus, their immune systems remained impaired, making it harder to respond to new threats. Remarkably, mice vaccinated before infection did not develop these problems, suggesting that vaccination may provide an additional layer of protection beyond preventing illness. Most people think of common viral infections, such as colds or stomach viruses, as temporary illnesses. A virus enters the body, multiplies, causes symptoms, and is eventually brought under control by the immune system. Once symptoms disappear, recovery is generally considered complete. The immune response also creates protection against future encounters with the same virus. But what if the immune system continues to experience harmful effects long after the infection appears to be over? Researchers from Pompeu Fabra University's Infection Biology Laboratory investigated this possibility in a study published in Cell Death & Disease . Using mice with acute viral infections, the team examined what happened to their immune systems after the animals had recovered. They found that eliminating the virus did not necessarily restore normal immune function. Instead, the infection left behind changes that persisted well beyond the initial illness. According to Andreas Meyerhans, an ICREA research professor at UPF, who led the research, \"there is a general perception that an acute viral infection is a relatively minor and transient event: once the virus is controlled and the symptoms have resolved, the body has fully recovered and is back to normal. But this view may underestimate consequences that are not immediately visible and can persist long after the infection itself has resolved.\" The researchers traced these lingering effects to significant changes in the spleen, an organ that plays an important role in coordinating immune defenses. As the immune system fought to eliminate the virus, the spleen developed fibrosis, a condition involving the buildup of scar-like tissue. The arrangement and positioning of immune cells within the organ also became disrupted. These structural changes interfered with the interactions between immune cells that are necessary to activate T cells. These specialized cells are essential to adaptive immunity because they help recognize and destroy infected cells. As a result, the mice remained less capable of launching effective immune responses when exposed to new challenges. Even though the original infection had been brought under control, their immune defenses continued to function poorly. \"The infection can be controlled, but that does not necessarily mean that the host has fully recovered,\" says Dr. Paula Cebollada Rica, first author of the study. \"Our findings show that the immune-related consequences of an acute viral infection can persist beyond the period in which the virus is detectable, leaving the animals in an immunocompromised state.\" After identifying these long-term effects, the scientists investigated whether they could be avoided. They focused on vaccination, which prepares the immune system to recognize and fight a pathogen before an infection occurs. The results revealed a striking difference between vaccinated and unvaccinated animals. Mice that received vaccination before infection did not develop the spleen damage or immune dysfunction seen in the other group. Their spleens maintained their normal structure, and their T cells continued to function at levels comparable to those of mice that had never been infected. This finding suggests that vaccination can protect the immune system itself from some of the harmful consequences of fighting a viral infection. In the mouse model, vaccination not only protected against the disease caused by the virus but also preserved the animals' ability to respond to future immune challenges. \"Vaccinated animals did not experience T-cell dysfunction or splenic alterations after recovering from an acute viral infection. This means that vaccination not only prevented the disease resulting from the acute infection but also preserved the immune system's ability to cope with new challenges,\" Cebollada Rica explains. The findings broaden the potential benefits of vaccination by highlighting a form of protection that may not be immediately apparent. Beyond reducing the immediate effects of an infection, vaccines may also help prevent persistent changes that weaken immune defenses. Although these results were obtained in mice and do not establish that the same effects occur in humans, they raise important questions about how viral infections influence long-term immune health and how vaccination might help protect it. The research also comes at a time when vaccination policies and infectious disease prevention efforts are increasingly influenced by political decisions. The researchers emphasize the importance of scientific evidence in understanding the full consequences of infections, particularly when policy choices can undermine coordinated efforts to prevent infectious diseases. Understanding the broader benefits of vaccination could therefore influence not only medical care but also how public health officials explain the value of vaccines to the public. \"The benefits of vaccination highlighted by this research are important not only for healthcare, but also for how we communicate the value of vaccination to the population at large,\" Meyerhans states. \"It is important that people are aware of the broader protection that vaccination can provide and continue to trust in vaccines as one of the most effective tools to prevent diseases. Put simply, vaccines provide strong health benefits at a relatively low cost to society.\" Materials provided by Universitat Pompeu Fabra - Barcelona . Note: Content may be edited for style and length. A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago",
-   "facts": [
-    "A Simple Pill Could Cure a Common Cause of High Blood Pressure A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago"
-   ],
-   "doi": [
-    "10.1038/s41419-026-09253-4"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Paula Cebollada Rica, Sergi López-Serrano, Yannick O. Alexandre, Stefanya Padilla Illescas, Raúl Gómez-Riera, Marta Sisteré-Oró, Marta E. Camarena, Nadia Halidi, Deng-Yu Wu, Joan Repullés, Beatriz Martin-Mur, Anna Esteve-Codina, Roberto Güerri-Fernandez, Montserrat Plana, Valentina Casella, Nicole Ludwig, Eckart Meese, Scott N. Mueller, Gennady Bocharov, Jordi Argilaguet, Andre",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
-   ],
-   "format": "DOSE",
-   "catch": [
-    "동물 실험"
-   ],
-   "score": 7,
-   "why": [
-    "형식 DOSE",
-    "훅: surpris",
-    "생활소재: mouse, mice"
-   ]
-  },
-  {
    "title": "Yale scientists reveal what really slows aging and what doesn't",
    "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
    "key": "https://sciencedaily.com/releases/2026/11/261112230452.htm",
@@ -686,6 +651,49 @@
     "훅: actually",
     "생활소재: diet, aging, exercise",
     "이미 본 소재(2026-11-09)"
+   ]
+  },
+  {
+   "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261112230444.htm",
+   "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+   "date": "2026-11-14",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-15",
+   "text": "Subtle patterns of brain activity may reveal the risk of Alzheimer's disease years before memory problems develop or harmful proteins begin accumulating in the brain, according to new research led by Stanford Medicine. The same approach can also identify people whose brains show exceptional resistance to cognitive decline, suggesting they may eventually become \"super agers.\" The study, published November 4 in Science Advances , points to a potentially powerful new way to detect early warning signs of cognitive decline. Unlike conventional biomarkers, these patterns of brain activity might eventually be possible to change through targeted interventions. To investigate, the research team examined brain activity in adults aged 75 and older who represented opposite ends of the cognitive aging spectrum. One group had Alzheimer's disease, while the other consisted of super agers, older individuals whose memories remained comparable to those of people decades younger. Using the differences between these groups, the scientists created a scoring system to evaluate brain activity in cognitively healthy adults between 55 and 70. The results revealed a striking connection between brain activity and future cognitive health. People whose brain patterns more closely resembled those of Alzheimer's patients were more likely to experience cognitive decline, accumulate amyloid-beta plaques, and receive an Alzheimer's diagnosis during follow-up periods extending up to 12 years. Those with activity patterns resembling super agers were more likely to maintain their cognitive abilities and avoid these outcomes. The new scoring system predicted future cognitive decline more effectively than several established indicators, including demographic characteristics, genetic risk factors, and amyloid-beta and tau biomarkers. This suggests that examining how different regions of the brain communicate could reveal Alzheimer's risk earlier than existing approaches. \"We want to address a major challenge in the Alzheimer's field nowadays -- most studies are looking at well-known Alzheimer's disease biomarkers, such as amyloid-beta or tau. But those are observable at relatively late stages of the disease,\" said Yu Zhang, PhD, assistant professor of psychiatry and behavioral sciences and senior author of the study. \"What we really care about is defining early markers that can detect earlier signs of cognitive decline and potentially help us deliver timely interventions to people.\" Zhang envisions a future in which treatments could potentially move someone's brain activity toward the patterns associated with greater cognitive resilience. Possible approaches include cognitive training and transcranial magnetic stimulation, which uses magnetic pulses to influence brain activity. Transcranial magnetic stimulation has already demonstrated potential for changing brain activity in people being treated for depression. However, neither of these proposed approaches has been tested in this context for preventing cognitive decline, and researchers do not yet know whether changing brain activity would alter the course of Alzheimer's disease. The new findings provide a starting point for identifying which brain regions might be useful treatment targets. \"There are two main components: One is to know which part of the brain to target, the other is how we should change it,\" Zhang said. \"That's why identifying the super-ager brain resilience pattern is a critical component -- so we know what a good pattern should be.\" Depending on how they are defined, approximately 10% of older adults may qualify as super agers. For this research, the term referred to people at least 75 years old who performed on memory tests at a level typical of a 45-year-old while maintaining normal executive function for their age. Scientists have become increasingly interested in these unusually resilient individuals. Most earlier studies, however, compared super-agers with other older adults who performed normally on cognitive assessments. Zhang recognized that this approach could overlook important biological differences. Two people might receive similar scores on memory tests despite having very different underlying brain health. One might already be developing amyloid-beta plaques or showing other biological changes associated with aging, while the other might not. \"Normal, cognitively unimpaired individuals are pretty heterogeneous in terms of their biological abnormalities,\" he said. \"Simply comparing super agers with such a heterogeneous population makes it challenging to define what is critical in terms of resilient or vulnerable brain patterns.\" In other words, comparing super agers with a broad mixture of seemingly healthy older adults makes it difficult to determine which brain characteristics actually protect against decline. The Stanford team took a different approach. Rather than using typical older adults as the comparison group, they examined people with Alzheimer's disease who were approximately the same age as the super agers. This created two more clearly defined groups at opposite ends of the cognitive spectrum. The researchers drew on imaging information collected through several major research initiatives, including the Open Access Series of Imaging Studies, the Harvard Aging Brain Study, and the Alzheimer's Disease Neuroimaging Initiative. They examined resting-state functional MRI scans from 180 super agers and 110 people diagnosed with Alzheimer's disease. This imaging technique records patterns of brain activity while a person lies quietly inside a scanner. The comparison uncovered distinctive differences in activity across multiple brain regions. Some areas showed greater activity while others showed reduced activity, producing recognizable patterns that distinguished the two groups. Scientists refer to the relationships among these regions as functional connectivity, or the functional connectome. Using these patterns, the team developed a measurement called the Alzheimer's resilience-vulnerability connectome, or ARC score. This scoring method distinguished super agers from Alzheimer's patients with approximately 85% accuracy. The researchers then investigated whether the same brain signature could help predict what would happen to people who had not yet developed any noticeable cognitive problems. The team applied the ARC scoring system to more than 1,300 cognitively healthy adults between the ages of 55 and 70. Their scores fell across a broad range, with lower values reflecting brain activity more similar to super agers and higher values indicating patterns closer to those observed in Alzheimer's patients. At the beginning of the study, people with high and low ARC scores showed no obvious differences in cognitive performance. As researchers examined follow-up data collected over subsequent years, however, important differences became apparent. \"We used the ARC score to make a prediction of how likely this patient will convert into mild cognitive impairment or Alzheimer's disease,\" said Kanhao (Alex) Zhao, PhD, a postdoctoral scholar in psychiatry and lead author of the study. The available follow-up periods differed across the datasets. Some participants had records extending as long as 12 years, although most were tracked for approximately five to six years. Even within these shorter periods, the initial ARC scores helped predict subsequent changes in cognitive abilities. People whose scores indicated more Alzheimer's-like brain activity experienced more rapid declines on standard tests of memory, attention, and executive function. In contrast, those with patterns most similar to super agers generally experienced the slowest cognitive decline. \"We compared the ARC score with existing biomarkers in predicting people converting to Alzheimer's disease,\" Zhao said. \"Our model shows comparable or better prediction ability, and it can do so at an earlier time point. And if we combine our score with the e",
+   "facts": [
+    "The same approach can also identify people whose brains show exceptional resistance to cognitive decline, suggesting they may eventually become \"super agers.\" The study, published November 4 in Science Advances , points to a potentially powerful new way to detect early warning signs of cognitive decline.",
+    "To investigate, the research team examined brain activity in adults aged 75 and older who represented opposite ends of the cognitive aging spectrum.",
+    "Using the differences between these groups, the scientists created a scoring system to evaluate brain activity in cognitively healthy adults between 55 and 70.",
+    "People whose brain patterns more closely resembled those of Alzheimer's patients were more likely to experience cognitive decline, accumulate amyloid-beta plaques, and receive an Alzheimer's diagnosis during follow-up periods extending up to 12 years.",
+    "\"That's why identifying the super-ager brain resilience pattern is a critical component -- so we know what a good pattern should be.\" Depending on how they are defined, approximately 10% of older adults may qualify as super agers.",
+    "For this research, the term referred to people at least 75 years old who performed on memory tests at a level typical of a 45-year-old while maintaining normal executive function for their age.",
+    "They examined resting-state functional MRI scans from 180 super agers and 110 people diagnosed with Alzheimer's disease.",
+    "This scoring method distinguished super agers from Alzheimer's patients with approximately 85% accuracy.",
+    "The team applied the ARC scoring system to more than 1,300 cognitively healthy adults between the ages of 55 and 70.",
+    "Some participants had records extending as long as 12 years, although most were tracked for approximately five to six years."
+   ],
+   "doi": [
+    "10.1126/sciadv.aed9351"
+   ],
+   "sample": [
+    "110 people"
+   ],
+   "journal_ref": "Journal Reference : Kanhao Zhao, Hua Xie, Gregory A. Fonzo, Nancy B. Carlisle, Tovia Jacobs, Ricardo S. Osorio, Arpana Church, Feng Vankee Lin, Yu Zhang. A functional connectome identifies vulnerability to cognitive decline and Alzheimer’s disease progression . Science Advances , 2026; 12 (45) DOI: 10.1126/sciadv.aed9351",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+   ],
+   "format": "PRESS",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "형식 PRESS",
+    "생활소재: aging, memory, alzheimer"
    ]
   },
   {
@@ -943,30 +951,6 @@
    ]
   },
   {
-   "title": "Scientists identify protein driving age-related organ damage",
-   "link": "https://medicalxpress.com/news/2026-11-scientists-protein-age.html",
-   "key": "https://medicalxpress.com/news/2026-11-scientists-protein-age.html",
-   "summary": "Monash University researchers have identified a protein that drives age-related damage in vital organs, opening a potential new avenue for treatments that could help people stay healthier as they get older. Published in Immunity, the research revealed a link between the protein granzyme K and signs of aging in the heart, liver and kidneys.",
-   "date": "2026-11-13",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-13",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-scientists-protein-age.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-scientists-protein-age.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "생활소재: aging"
-   ]
-  },
-  {
    "title": "Precision RNA therapy offers hope for brain receptor disorders",
    "link": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
    "key": "https://medicalxpress.com/news/2026-11-precision-rna-therapy-brain-receptor.html",
@@ -1066,6 +1050,29 @@
    ]
   },
   {
+   "title": "Research finds a pop void in studies tracking how the brain and heart respond to music",
+   "link": "https://medicalxpress.com/news/2026-11-void-tracking-brain-heart-music.html",
+   "key": "https://medicalxpress.com/news/2026-11-void-tracking-brain-heart-music.html",
+   "summary": "We all know the joy of hearing a song we love. It can be a physical experience, as we tap our toes or sing at the top of our lungs. Or it can be emotional, lifting our mood or conjuring long-buried memories.",
+   "date": "2026-11-17",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-17",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-void-tracking-brain-heart-music.html"
+   ],
+   "format": "CUT",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: love, music, brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-void-tracking-brain-heart-music.html"
+  },
+  {
    "title": "Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites",
    "link": "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html",
    "key": "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html",
@@ -1138,77 +1145,75 @@
    ]
   },
   {
-   "title": "Pumpkin seed protein puts a twist on nondairy coffee creamer",
-   "link": "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
-   "key": "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
-   "summary": "Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based coffee creamer. In initial taste tests, participants preferred the new creamer to a commercial nondairy option because it preserved the flavor and aroma of coffee better.",
-   "date": "2026-11-13",
+   "title": "How Chinese brewers refined their booze 5,000 years ago",
+   "link": "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
+   "key": "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
+   "summary": "More than 5,000 years ago, brewers in eastern China appear to have used red mold to make rice alcohol, then strained the drink through cloth. Microscopic residues on ancient pottery show evidence of both the fermentation method and the filtering process to separate the liquid from leftover grain.",
+   "date": "2026-11-14",
    "source": "Phys.org",
-   "first_seen": "2026-11-13",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
+   "first_seen": "2026-11-14",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
    "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html"
+    "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html"
    ],
-   "format": "SCALE",
+   "format": "DOSE",
    "catch": [],
    "score": 5,
    "why": [
-    "형식 SCALE",
-    "생활소재: coffee"
+    "형식 DOSE",
+    "생활소재: alcohol"
    ]
   },
   {
-   "title": "Sequential peaks in arthropod availability across snow and vegetation help sustain alpine birds",
-   "link": "https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html",
-   "key": "https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html",
-   "summary": "The alpine zone is located above the tree line in mountainous regions and is characterized by long winters and short growing seasons. Birds and other animals inhabiting these environments breed during a limited period extending from spring to summer. Arthropods, including insects and spiders, serve as an essential food resource during this time.",
-   "date": "2026-11-13",
+   "title": "Happy face, angry voice: Human–dog interaction study tracks conflicting cues",
+   "link": "https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html",
+   "key": "https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html",
+   "summary": "Dogs, having lived alongside humans for tens of thousands of years, are keenly tuned in to our emotions. Behavioral experiments, brain studies and even measurements of heart rate all suggest dogs respond differently depending on the emotional expressions they encounter in humans.",
+   "date": "2026-11-14",
    "source": "Phys.org",
-   "first_seen": "2026-11-13",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.ht",
+   "first_seen": "2026-11-14",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html",
    "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-11-sequential-peaks-arthropod-availability-vegetation.html"
-   ],
-   "format": "SCALE",
-   "catch": [
-    "동물 실험"
-   ],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "생활소재: bird, spider"
-   ]
-  },
-  {
-   "title": "Sensors track stress in plants in real time—without hurting them in the process",
-   "link": "https://phys.org/news/2026-11-sensors-track-stress-real.html",
-   "key": "https://phys.org/news/2026-11-sensors-track-stress-real.html",
-   "summary": "Even plants, from towering palm trees to vegetables such as onions and eggplants, can get stressed. Now, a team of engineers has designed a new kind of sensor that attaches directly to plants and peers inside them to track how they respond to stressors such as drought and fires in real time.",
-   "date": "2026-11-13",
-   "source": "Phys.org",
-   "first_seen": "2026-11-13",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-sensors-track-stress-real.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-sensors-track-stress-real.html"
+    "https://phys.org/news/2026-11-happy-angry-voice-humandog-interaction.html"
    ],
    "format": "CUT",
    "catch": [],
    "score": 5,
    "why": [
     "형식 CUT",
-    "생활소재: stress"
+    "생활소재: dog, brain"
+   ]
+  },
+  {
+   "title": "A newly discovered South African dinosaur was a heavyweight even as a youngster",
+   "link": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
+   "key": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
+   "summary": "It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 million years ago in what is now South Africa.",
+   "date": "2026-11-14",
+   "source": "Phys.org",
+   "first_seen": "2026-11-14",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: dinosaur"
    ]
   },
   {
