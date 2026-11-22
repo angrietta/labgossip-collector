@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-16
 
-최근 8일 누적 850건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 856건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 14 · DOSE · ScienceDaily 전체 · 2026-11-17

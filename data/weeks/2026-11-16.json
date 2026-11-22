@@ -42,14 +42,14 @@
    "url": "https://phys.org/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 1
+   "span_days": 2
   },
   {
    "feed": "MedicalXpress",
    "url": "https://medicalxpress.com/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 1
+   "span_days": 2
   },
   {
    "feed": "The Conversation",
@@ -1057,6 +1057,8 @@
    "date": "2026-11-17",
    "source": "MedicalXpress",
    "first_seen": "2026-11-17",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-void-tracking-brain-heart-music.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -1069,8 +1071,7 @@
    "why": [
     "형식 CUT",
     "생활소재: love, music, brain"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-void-tracking-brain-heart-music.html"
+   ]
   },
   {
    "title": "Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites",
