@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 757건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 773건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -14,7 +14,17 @@
   - "Despite the disappointing Alzheimer's results, researchers believe GLP-1 medications could still offer cognitive benefits to certain groups of patients."
   - "People living with obesity or type 2 diabetes sometimes experience difficulties with attention, planning, and the speed at which they process information."
 
-## 2. Dinosaurs may have been eating seaweed 100 million years ago
+## 2. Common medications may secretly rewire your gut, with effects lasting for years
+- 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-23
+- https://www.sciencedaily.com/releases/2026/11/261120071501.htm
+- DOI: 10.1128/msystems.00541-25
+- 대상: 2,500 participants
+- 요약: Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long 
+  - "To investigate these connections, researchers examined stool samples and prescription histories from more than 2,500 participants in the Estonian Biobank's Estonian Microbiome cohort."
+  - "Just 2 Weeks of Ultraprocessed Foods May Change How Your Brains Respond to Food A Chemical Signature Suddenly Disappeared From Earth’s Rocks."
+  - "Scientists Think They Know Why Scientists Discover Bizarre Deep-Sea Creature That Survives Without Most of Its Digestive System New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial"
+
+## 3. Dinosaurs may have been eating seaweed 100 million years ago
 - 점수 7 · SCALE · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261112230502.htm
 - DOI: 10.3389/fevo.2026.1895247
@@ -26,7 +36,7 @@
   - "These readings also exceed what scientists would expect from animals that ate only plants growing on land, which generally have lower δ13C values than most marine plants."
   - "Around 100 million years ago, the Western Interior Seaway was an enormous inland sea that divided North America into two separate landmasses."
 
-## 3. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
+## 4. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
 - 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-19
 - https://www.sciencedaily.com/releases/2026/11/261117033925.htm
 - DOI: 10.1126/science.aee0658
@@ -37,7 +47,7 @@
   - "And once the cliff height reaches the critical threshold, usually 100 meters, it should initiate this runaway effect of ice sheet retreat." Needell and her colleagues wanted to test those predictions against a much larger collection of real-world measurements."
   - "To investigate, the researchers turned to NASA's Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2)."
 
-## 4. Too much exercise could leave your brain stuck in overdrive
+## 5. Too much exercise could leave your brain stuck in overdrive
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-19
 - https://www.sciencedaily.com/releases/2026/11/261117033923.htm
 - DOI: 10.1016/j.neuroscience.2026.08.006
@@ -47,7 +57,7 @@
   - "In this group, both dopamine and TyrH remained elevated for 48 hours after the performance test, even though the mice were in their recovery period."
   - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
-## 5. Two massive stars may be secretly feeding the Milky Way’s supermassive black hole
+## 6. Two massive stars may be secretly feeding the Milky Way’s supermassive black hole
 - 점수 7 · WEIGH · ScienceDaily 전체 · 2026-11-20
 - https://www.sciencedaily.com/releases/2026/11/261119194605.htm
 - DOI: 10.1051/0004-6361/202555808
@@ -58,7 +68,7 @@
   - "Soon afterward, researchers examining older observations recognized another similar object, G1, traveling along a closely related path."
   - "The similarities suggested that G1, G2, and G2t might not be independent objects."
 
-## 6. This simple habit is linked to a 33% lower risk of Alzheimer's
+## 7. This simple habit is linked to a 33% lower risk of Alzheimer's
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-20
 - https://www.sciencedaily.com/releases/2026/11/261118065536.htm
 - DOI: 10.1017/S0033291726105625
@@ -71,7 +81,27 @@
   - "Reading ranks as the most popular approach to stress relief, with nearly two in five adults (38%) identifying it as their preferred way to relax."
   - "A neuroscience study commissioned by The Queen's Reading Room in 2024 found that spending just five minutes reading fiction could lower stress by as much as 20%."
 
-## 7. Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses
+## 8. Interstellar solar sails hit a bizarre problem at 75% of light speed
+- 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-22
+- https://www.sciencedaily.com/releases/2026/11/261120071305.htm
+- DOI: 10.48550/arXiv.2606.04052
+- 요약: Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed of light, some scattered light starts producing drag, potentially complicating hu
+  - "Their findings reveal a surprising source of resistance that emerges as the spacecraft approaches 75% of the speed of light."
+  - "The researchers identified an especially unusual effect once the sail reaches approximately 75% of the speed of light."
+  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
+
+## 9. A common blood pressure drug has a surprising effect on calorie-burning brown fat
+- 점수 7 · CUT · ScienceDaily 전체 · 2026-11-22
+- https://www.sciencedaily.com/releases/2026/11/261119194558.htm
+- DOI: 10.1038/s41586-026-11162-7
+- 대상: 100,000 patients, 50,000 patients
+- 요약: Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, 
+  - "After examining data from more than 100,000 patients, researchers discovered that people with detectable brown fat had lower rates of several medical conditions, including anxiety and depression."
+  - "It expands on research published in 2021 , when Cohen's team analyzed approximately 50,000 patients and found that those with more brown fat had substantially lower odds of developing cardiometabolic conditions such as coronary artery disease and type II diabetes."
+  - "We doubled our number of patients and considered more than 500 codes, which allowed us to unearth many new insights." To investigate brown fat's relationship with human health, the researchers examined PET/CT scans from more than 100,000 patients who had undergone imaging as part of their cancer monitoring."
+  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
+
+## 10. Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses
 - 점수 6 · WEIGH · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261114202136.htm
 - DOI: 10.1038/s41550-026-03016-z
@@ -83,7 +113,7 @@
   - "To confirm the findings and examine the white dwarf's orbital motion, the researchers analyzed more than 100 hours of radio observations using computing resources at the Pawsey Supercomputing Research Centre."
   - ""It's amazing that by using radio wavelengths we can detect the storms on a star over 5000 light-years away." ICRAR researchers have played a leading role in identifying long-period transients, and the latest discovery relied on observations from several major astronomical facilities around the world."
 
-## 8. Physicists use laser light to unlock a crystal's hidden electrical powers
+## 11. Physicists use laser light to unlock a crystal's hidden electrical powers
 - 점수 6 · CUT · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261112230500.htm
 - DOI: 10.1103/nx3d-1mqf
@@ -93,7 +123,7 @@
   - ""The breakthrough came in 2025, when Mohamed finally observed the disordered polar regions becoming aligned under laser illumination," Jin said."
   - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
-## 9. Scientists discover a bizarre paradox among endangered penguins
+## 12. Scientists discover a bizarre paradox among endangered penguins
 - 점수 6 · PRESS · ScienceDaily 전체 · 2026-11-15
 - https://www.sciencedaily.com/releases/2026/11/261112230458.htm
 - DOI: 10.1371/journal.pone.0359075
@@ -105,64 +135,30 @@
   - ""The tiny Bounty Islands, at just 50 hectares, were found to hold almost as many breeding pairs (about 27,800) as the Antipodes Islands (about 29,800), even though the latter is 40 times larger and historically considered the species' stronghold." The difference in population trends was even more unexpected."
   - ""Comparing the new counts with historical records going back to the mid-1990s, the Bounty Islands population has remained essentially unchanged for at least 25 years."
 
-## 10. Scientists discover that the heart doesn't age the way we thought
-- 점수 6 · CUT · ScienceDaily 전체 · 2026-11-16
-- https://www.sciencedaily.com/releases/2026/11/261115085550.htm
-- DOI: 10.1111/acel.70768
-- 요약: Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-standing assumptions about cardiac aging and could help researchers develop new 
-  - "Among them were Ccl8, which helps transmit inflammatory signals, and Cdkn1a (also known as p21), a gene widely used as an indicator of cellular senescence."
-  - "The research received funding from the NIH Common Fund through The Jackson Laboratory Senescence Tissue Mapping Center (JAX-Sen TMC U54 AG079753)."
-  - "Additional support came from JAX's National Cancer Institute-designated Cancer Center (P30 CA034196)."
-  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
-
-## 11. MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system
-- 점수 6 · 형식? · ScienceDaily 전체 · 2026-11-16
-- https://www.sciencedaily.com/releases/2026/11/261115085533.htm
-- DOI: 10.1126/scitranslmed.aea5469
-- 대상: 14 volunteers
-- 주의: 상관관계, 과장 의심 단어
-- 요약: MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially red
-  - "In 2019, Lewis demonstrated that functional magnetic resonance imaging (fMRI) could be used to observe the movement of CSF into and out of the brain during sleep."
-  - ""The challenge is: How do you find just the right time?" To test the idea, the team used extremely short bursts of pink noise, each lasting just 50 milliseconds."
-  - "The team addressed this problem by creating a method that removes interference from EEG signals in less than 100 milliseconds."
-  - "The researchers tested their approach in 14 healthy volunteers."
-  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
-
-## 12. Wildfire smoke damages the airway's defenses, blocking one signal can shield them
+## 13. Wildfire smoke damages the airway's defenses, blocking one signal can shield them
 - 점수 6 · SCALE · MedicalXpress · 2026-11-17
 - https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: When the Palisades and Eaton wildfires tore through Los Angeles in January 2025, smoke blanketed the region and air quality plunged into the hazardous range. It was a vivid example of a growing problem: After years of improvement, wildfire smoke is pulling air quality back in the wrong direction, an
 
-## 13. Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?
+## 14. Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-alcohol-drug-abuse-suicide-europe.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In the United States, life expectancy diverged from Europe before it stopped rising during the 2010s, even before the COVID-19 pandemic. The economists Anne Case and Angus Deaton gave a name to a phenomenon that was then booming, partly explaining this trend: "deaths of despair," which have soared s
 
-## 14. For military veterans with PTSD and alcohol use disorder, MDMA-assisted therapy may be safe, effective
+## 15. For military veterans with PTSD and alcohol use disorder, MDMA-assisted therapy may be safe, effective
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-military-veterans-ptsd-alcohol-disorder.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The first study of a program that uses the drug MDMA to treat post-traumatic stress disorder (PTSD) plus alcohol use disorder in military veterans has concluded with promising results.
 
-## 15. Brain clock gene influences alcohol consumption differently in female and male mice, study shows
+## 16. Brain clock gene influences alcohol consumption differently in female and male mice, study shows
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-brain-clock-gene-alcohol-consumption.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A gene that helps regulate the body's internal clock may influence alcohol consumption differently in males and females, according to new Concordia research.
-
-## 16. Scientists create a remarkable new rechargeable battery using vitamin B12
-- 점수 6 · SCALE · ScienceDaily 전체 · 2026-11-18
-- https://www.sciencedaily.com/releases/2026/11/261117033909.htm
-- DOI: 10.1039/d6ta02773c
-- 요약: Scientists have found a surprising new use for vitamin B12, developing a rechargeable battery that uses the essential nutrient to help generate and store electricity. The prototype survived up to 250 charging cycles and could open the door to safer, cheaper, and more environmentally friendly alterna
-  - "Scientists have found an unexpected new use for vitamin B12, a nutrient best known for its importance to human health."
-  - "Vitamin B12 is essential for normal bodily function and is naturally present in animal products."
-  - "In addition to its established applications in medicine, nutrition, and veterinary care, B12 is used to address certain nutritional deficiencies."
-  - "By using the vitamin to support the chemical reactions inside a battery, they have developed a prototype capable of completing up to 250 charging and discharging cycles."
-  - "The new battery was developed by the Physical Chemistry research group (FQM-204) at the University of Córdoba's Chemical Institute for Energy and the Environment (IQUEMA)."
 
 ## 17. Two measures to help prevent obesity in young people
 - 점수 6 · PRESS · MedicalXpress · 2026-11-19
