@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 838건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 889건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -117,15 +117,11 @@
   - "We doubled our number of patients and considered more than 500 codes, which allowed us to unearth many new insights." To investigate brown fat's relationship with human health, the researchers examined PET/CT scans from more than 100,000 patients who had undergone imaging as part of their cancer monitoring."
   - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
-## 12. Scientists discover that the heart doesn't age the way we thought
-- 점수 6 · CUT · ScienceDaily 전체 · 2026-11-16
-- https://www.sciencedaily.com/releases/2026/11/261115085550.htm
-- DOI: 10.1111/acel.70768
-- 요약: Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-standing assumptions about cardiac aging and could help researchers develop new 
-  - "Among them were Ccl8, which helps transmit inflammatory signals, and Cdkn1a (also known as p21), a gene widely used as an indicator of cellular senescence."
-  - "The research received funding from the NIH Common Fund through The Jackson Laboratory Senescence Tissue Mapping Center (JAX-Sen TMC U54 AG079753)."
-  - "Additional support came from JAX's National Cancer Institute-designated Cancer Center (P30 CA034196)."
-  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
+## 12. An unexpected link: More coarse particles in indoor air, lower odds of Kawasaki disease
+- 점수 7 · CUT · MedicalXpress · 2026-11-25
+- https://medicalxpress.com/news/2026-11-unexpected-link-coarse-particles-indoor.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Kawasaki disease (KD) is an acute inflammatory condition that primarily affects children under 5. It causes inflammation of blood vessels throughout the body and can lead to serious complications, particularly affecting the coronary arteries that supply blood to the heart. Although Kawasaki disease 
 
 ## 13. Wildfire smoke damages the airway's defenses, blocking one signal can shield them
 - 점수 6 · SCALE · MedicalXpress · 2026-11-17
@@ -152,57 +148,61 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A gene that helps regulate the body's internal clock may influence alcohol consumption differently in males and females, according to new Concordia research.
 
-## 17. Two measures to help prevent obesity in young people
+## 17. Scientists create a remarkable new rechargeable battery using vitamin B12
+- 점수 6 · SCALE · ScienceDaily 전체 · 2026-11-18
+- https://www.sciencedaily.com/releases/2026/11/261117033909.htm
+- DOI: 10.1039/d6ta02773c
+- 요약: Scientists have found a surprising new use for vitamin B12, developing a rechargeable battery that uses the essential nutrient to help generate and store electricity. The prototype survived up to 250 charging cycles and could open the door to safer, cheaper, and more environmentally friendly alterna
+  - "Scientists have found an unexpected new use for vitamin B12, a nutrient best known for its importance to human health."
+  - "Vitamin B12 is essential for normal bodily function and is naturally present in animal products."
+  - "In addition to its established applications in medicine, nutrition, and veterinary care, B12 is used to address certain nutritional deficiencies."
+  - "By using the vitamin to support the chemical reactions inside a battery, they have developed a prototype capable of completing up to 250 charging and discharging cycles."
+  - "The new battery was developed by the Physical Chemistry research group (FQM-204) at the University of Córdoba's Chemical Institute for Energy and the Environment (IQUEMA)."
+
+## 18. Two measures to help prevent obesity in young people
 - 점수 6 · PRESS · MedicalXpress · 2026-11-19
 - https://medicalxpress.com/news/2026-11-obesity-young-people.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important, both for individuals and for the population as a whole. The condition is generally linked to diet and lifestyle. A new study including almost 125,000 children exa
 
-## 18. When's a new organ not really new? Two anatomists explain
+## 19. When's a new organ not really new? Two anatomists explain
 - 점수 6 · CUT · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-anatomists.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People have been dissecting the human body for more than 2,500 years. In recent times, we've been over every nanometer with high-resolution medical imaging. So you'd think we know all there is to know about human anatomy. Surely, there are no new organs left to discover.
 
-## 19. The child development 'sweet spot' that affects adult taste preference
+## 20. The child development 'sweet spot' that affects adult taste preference
 - 점수 6 · SCALE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-child-sweet-affects-adult.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A baby's transition from breast milk or formula to a range of solid foods is the likely "sweet spot" for introducing nutritional variety that influences lifelong taste preferences by rewiring circuits in the brain, new research in mice suggests.
 
-## 20. Adolescent and teen depression linked to heavier substance use
+## 21. Adolescent and teen depression linked to heavier substance use
 - 점수 6 · DOSE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-adolescent-teen-depression-linked-heavier.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Adolescents and teenagers who drink more alcohol or use multiple forms of marijuana are much more likely to experience major depression. In addition, girls, older teens and multiracial teens are more likely to experience major depression, regardless of drug or alcohol use.
 
-## 21. Resistance training could help boost brain health and confidence in older adults
+## 22. Resistance training could help boost brain health and confidence in older adults
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-resistance-boost-brain-health-confidence.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Think about the last time you stood up from a chair or lifted a heavy shopping bag from the floor. These movements might feel automatic, but they take a surprising amount of coordination between your brain and your muscles.
 
-## 22. New liver model for studying alpha-1-antitrypsin deficiency
+## 23. New liver model for studying alpha-1-antitrypsin deficiency
 - 점수 6 · CUT · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-liver-alpha-antitrypsin-deficiency.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: AATD is a rare genetic metabolic disorder that affects the liver and lungs. A mutation causes liver cells (hepatocytes) to form misfolded alpha-1-antitrypsin (AAT). This misfolding results in reduced secretion of AAT into the blood plasma. AAT plays an important role in controlling inflammatory proc
 
-## 23. A protein in the brain's immune cells may accelerate damage in Alzheimer's disease
+## 24. A protein in the brain's immune cells may accelerate damage in Alzheimer's disease
 - 점수 6 · CUT · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers at Lund University in Sweden have identified a key role for the protein galectin-3 in Alzheimer's disease. The study shows that galectin-3 not only influences how the brain's immune cells, known as microglia, react to the disease's characteristic amyloid plaques but also shapes the plaqu
-
-## 24. Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss
-- 점수 6 · DOSE · MedicalXpress · 2026-11-21
-- https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html
-- 주의: 과장 의심 단어
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not 
 
 ## 25. Some people claim to speak many languages. But what does it really mean to be a polyglot?
 - 점수 6 · PRESS · Phys.org / The Conversation · 2026-11-23
@@ -216,7 +216,13 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Deep inside the Chernobyl exclusion zone, where radiation levels have remained unsafe for people for the past 40 years, black molds climb the walls of the damaged former nuclear plant in Ukraine. They're entirely undeterred by the radiation—in fact, some fungi even grow toward it.
 
-## 27. Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve
+## 27. California raised minimum wages for fast‑food workers—here's how it played out 2 years later
+- 점수 6 · SCALE · Phys.org / The Conversation · 2026-11-24
+- https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Even before the 2026 midterm elections delivered a clear message about cost-of-living concerns, many states had been raising their minimum wage on their own as one way to increase workers' purchasing power. And some have taken a more targeted approach, setting wage floors for specific industries.
+
+## 28. Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve
 - 점수 5 · PRESS · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html
 - 주의: 동물 실험
@@ -224,59 +230,53 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A highly lethal pathogen is responsible for the mass death of tadpoles and the rapid decline of amphibian populations in the Atlantic Forest. A group of researchers demonstrate for the first time in South America that recurring ranavirus outbreaks caused an 83% drop in monkey frog (Phyllomedusa dist
 
-## 28. Capping nanovials that trap cells and their secretions for analysis enables new bioscience experiments
+## 29. Capping nanovials that trap cells and their secretions for analysis enables new bioscience experiments
 - 점수 5 · CUT · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-capping-nanovials-cells-secretions-analysis.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A UCLA-developed technology that is like a test tube but on the cellular scale has led to a number of biomedical discoveries in recent years, including revelations about cancer, heart disease and the genetic levers that push cells to release proteins.
 
-## 29. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
+## 30. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-boys-girls-unsurprising.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The holiday season is a time for gatherings with family and friends—as well as for less festive but necessary duties: organizing, preparing for and cleaning up after these gatherings. These are examples of service tasks that, according to previous research, women and girls are expected to perform.
 
-## 30. Cooking Thanksgiving dinner could create an indoor air quality problem inside your home, expert says
+## 31. Cooking Thanksgiving dinner could create an indoor air quality problem inside your home, expert says
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-cooking-thanksgiving-dinner-indoor-air.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The Thanksgiving turkey may be the centerpiece of the holiday meal, but cooking it, along with all the sides and other dishes, can invite an unexpected guest: indoor air pollution.
 
-## 31. Tiny parasite holds big clues to help protect threatened estuarine turtles
+## 32. Tiny parasite holds big clues to help protect threatened estuarine turtles
 - 점수 5 · PRESS · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-tiny-parasite-big-clues-threatened.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The diamondback terrapin is North America's only turtle species that lives exclusively in brackish coastal waters, such as salt marshes and estuaries. Its populations face threats from historical overharvesting and contemporary habitat loss, coastal development and accidental capture in crab traps.
 
-## 32. How restaurants can make sustainable dining choices easier while still making a profit
+## 33. How restaurants can make sustainable dining choices easier while still making a profit
 - 점수 5 · SCALE · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-restaurants-sustainable-dining-choices-easier.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Canadians are eating out less. A 2025 survey found 57% of them are cooking at home more often to save money, while 69% of restaurant operators say customers are dining out less because of affordability. According to Restaurants Canada, 41% of operators are either losing money or breaking even.
 
-## 33. How do human lifestyles affect the gut microbiome of our canine companions?
+## 34. How do human lifestyles affect the gut microbiome of our canine companions?
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-human-lifestyles-affect-gut-microbiome.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Dogs have been living side by side with humans for millennia, but a new study underscores how much we have yet to learn about man's best friend. The study, which looked at hundreds of dogs across four nations, found that the lifestyles of pet owners appear to play a significant role in determining w
 
-## 34. Strange radio signals from space could come from a dead star
+## 35. Strange radio signals from space could come from a dead star
 - 점수 5 · 형식? · Phys.org · 2026-11-19
 - https://phys.org/news/2026-11-strange-radio-space-dead-star.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappe
 
-## 35. Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice
+## 36. Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice
 - 점수 5 · SCALE · Phys.org · 2026-11-19
 - https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.
-
-## 36. A 115 million‑year‑old 'algae rebellion' in Portugal's sea cliffs pushes back evolutionary timeline
-- 점수 5 · CUT · Phys.org · 2026-11-19
-- https://phys.org/news/2026-11-millionyearold-algae-rebellion-portugal-sea.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Quite a few scientific discoveries are a product of chance. You set out looking for one thing, but often end up finding something totally unexpected. In micropaleontology, the study of microscopic fossils, this is especially common. You never know what you're going to find until you start examining 
 
 ## 37. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
 - 점수 5 · WEIGH · The Conversation · 2026-11-21
