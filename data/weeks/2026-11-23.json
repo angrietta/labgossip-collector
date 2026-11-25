@@ -1,20 +1,20 @@
 {
  "week": "2026-11-23",
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 7
+   "span_days": 6
   },
   {
    "feed": "ScienceDaily 별난연구",
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 30
+   "span_days": 29
   },
   {
    "feed": "ScienceDaily 뇌·마음",
@@ -35,7 +35,7 @@
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 12
+   "span_days": 11
   },
   {
    "feed": "Phys.org",
@@ -56,52 +56,10 @@
    "url": "https://theconversation.com/us/articles.atom",
    "ok": true,
    "items": 50,
-   "span_days": 7
+   "span_days": 6
   }
  ],
  "top": [
-  {
-   "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261116023401.htm",
-   "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Scientists suspect these drugs may be more effective at preserving memory and thinking abilities in people with obesity or diabetes, especially before cognitive problems appear.",
-   "date": "2026-11-17",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-18",
-   "text": "Popular medications used to treat obesity and type 2 diabetes, including semaglutide and tirzepatide, may have effects that extend beyond weight loss and blood sugar control. These drugs also influence biological processes involved in brain function, raising questions about whether they could help preserve memory and thinking abilities. To examine this possibility, researchers from the University of Gothenburg and the University of Copenhagen reviewed the existing scientific evidence at the invitation of the journal Science . Studies involving animals suggest that GLP-1 medications can influence learning and memory. However, research involving humans has produced less consistent findings. Analyses of patient health records have found an association between GLP-1 treatment and a reduced risk of dementia among people with type 2 diabetes. These observational findings are encouraging, but they cannot determine whether the medications themselves are responsible for the lower risk. More definitive results have also raised questions. In Novo Nordisk's EVOKE and EVOKE+ clinical trials, semaglutide failed to slow the progression of early Alzheimer's disease. Although the treatment affected several biological markers associated with Alzheimer's, those changes did not translate into a measurable slowing of the disease. Despite the disappointing Alzheimer's results, researchers believe GLP-1 medications could still offer cognitive benefits to certain groups of patients. People living with obesity or type 2 diabetes sometimes experience difficulties with attention, planning, and the speed at which they process information. These cognitive problems are often associated with metabolic health and blood vessel function, suggesting they may respond differently to treatment than the changes caused by Alzheimer's disease. Improving blood sugar regulation, metabolism, or vascular health could potentially help preserve cognitive abilities, even if the same medications cannot slow an established neurodegenerative disease. Stina Börchers, the review's first author and a researcher affiliated with both the University of Gothenburg and the University of Copenhagen, emphasizes the need to determine whether starting treatment earlier could make a difference. \"We need to find out whether these treatments can help people with obesity or diabetes preserve their cognitive abilities, particularly if treatment begins before cognitive problems become established. It is also important to identify which patients might benefit,\" says Stina Börchers. A central unanswered question is how GLP-1 medications might influence the brain. Their potential cognitive effects could result from improvements in metabolic health, direct actions within the brain, or a combination of both. Understanding these mechanisms could help researchers identify which patients are most likely to benefit and potentially lead to medications designed specifically to support memory and other thinking abilities. Christoffer Clemmensen, the review's senior author and a research group leader at the University of Copenhagen, sees an opportunity to use increasingly advanced obesity treatments to explore the connection between metabolism and the brain. \"Obesity medicines are becoming increasingly sophisticated, offering new opportunities to understand how metabolic regulation influences brain function. By disentangling the direct and indirect effects of these drugs on the brain, we may ultimately be able to develop treatments specifically aimed at preserving cognitive function,\" says Christoffer Clemmensen. The researchers are calling for clinical trials that evaluate memory, attention, and other cognitive abilities beginning when patients first start treatment. Following these changes over time could help establish whether GLP-1 drugs genuinely protect brain function and clarify who might benefit most. They also stress that treatment is not without potential drawbacks, particularly for older adults and people who are physically frail. Rapid weight loss can lead to a reduction in muscle mass, which may weaken physical function and offset some of the possible benefits. Careful monitoring will therefore be essential as researchers investigate whether today's weight loss and diabetes medications could eventually provide new ways to protect the brain. Materials provided by University of Gothenburg . Note: Content may be edited for style and length. Not All Physical Activity Protects Your Brain, Scientists Warn Earth’s Ancient Oceans May Have Fooled Scientists About the Rise of Oxygen A Strange Black Hole Gap Could Reveal Stars That Died Without Exploding A Deadly Blood Cancer May Begin More Than 50 Years Before Symptoms Appear",
-   "facts": [
-    "Popular medications used to treat obesity and type 2 diabetes, including semaglutide and tirzepatide, may have effects that extend beyond weight loss and blood sugar control.",
-    "Studies involving animals suggest that GLP-1 medications can influence learning and memory.",
-    "Analyses of patient health records have found an association between GLP-1 treatment and a reduced risk of dementia among people with type 2 diabetes.",
-    "Despite the disappointing Alzheimer's results, researchers believe GLP-1 medications could still offer cognitive benefits to certain groups of patients.",
-    "People living with obesity or type 2 diabetes sometimes experience difficulties with attention, planning, and the speed at which they process information.",
-    "A central unanswered question is how GLP-1 medications might influence the brain.",
-    "Following these changes over time could help establish whether GLP-1 drugs genuinely protect brain function and clarify who might benefit most.",
-    "Not All Physical Activity Protects Your Brain, Scientists Warn Earth’s Ancient Oceans May Have Fooled Scientists About the Rise of Oxygen A Strange Black Hole Gap Could Reveal Stars That Died Without Exploding A Deadly Blood Cancer May Begin More Than 50 Years Before Symptoms Appear"
-   ],
-   "doi": [
-    "10.1126/science.aek9987"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Stina Börchers, Giulia Mazzini, Henrik Zetterberg, Christoffer Clemmensen. Obesity pharmacotherapies and cognition . Science , 2026; 394 (6824): 633 DOI: 10.1126/science.aek9987",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261116023401.htm"
-   ],
-   "format": "DOSE",
-   "seen": "2026-11-16",
-   "catch": [],
-   "score": 10,
-   "why": [
-    "형식 DOSE",
-    "훅: surpris, did not",
-    "생활소재: ozempic, memory, dementia",
-    "이미 본 소재(2026-11-16)"
-   ]
-  },
   {
    "title": "Common medications may secretly rewire your gut, with effects lasting for years",
    "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
@@ -259,6 +217,22 @@
    "date": "2026-11-25",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-25",
+   "text": "Researchers at the University of Sydney have created experimental nose drops that significantly improved learning and memory in older mice, bringing their performance back to levels seen in younger animals. The treatment also prevented severe memory decline in mice genetically engineered to develop Alzheimer's-like disease. Remarkably, the approach relies on mRNA technology similar to that used in COVID-19 vaccines. The discovery, led by Professor Greg Neely at the University of Sydney's Charles Perkins Centre, could open a new path toward treating conditions that affect the brain. Potential applications extend beyond Alzheimer's disease to other neurodegenerative disorders, stroke, traumatic brain injury, and rare genetic and developmental conditions. \"If we can proceed quickly to clinical trials in humans, this approach could represent a world-first non-invasive delivery system to treat Alzheimer's that bypasses the blood-brain barrier,\" Professor Neely said. The idea behind the research has an unusual origin. The team drew inspiration from Daniel Keyes' science fiction story Flowers for Algernon , which explores the limits of human intelligence through experiments designed to increase intelligence in laboratory mice and people. The treatment works by delivering messenger RNA (mRNA), a type of genetic instruction that tells cells how to produce specific proteins. These instructions are enclosed in tiny fat-based particles called lipid nanoparticles (LNPs), which protect the mRNA and help it enter cells. Once delivered through the nose, the mRNA instructs cells to manufacture therapeutic proteins capable of reaching the brain. In effect, the nasal tissue becomes a small drug-producing factory, creating substances that can support brain function. \"In aged mice, we saw learning and memory significantly increased, returning animal cognition to its youthful prime,\" Professor Neely said. \"What's exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic.\" The study, published in Advanced Science , used mRNA to stimulate production of brain-derived neurotrophic factor (BDNF). This naturally occurring protein helps neurons survive, form connections, and adapt as the brain learns and stores memories. Levels of BDNF tend to decline with aging and are also associated with Alzheimer's disease. The results were striking. Older mice that received the nose drops performed about as well as young mice in standardized tests of working memory, spatial memory, and object recognition. These tests measure abilities such as remembering recently encountered information, navigating surroundings, and recognizing familiar objects. Untreated older animals showed the expected age-related deterioration in cognitive performance. To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice. These animals carry genetic mutations that cause them to develop Alzheimer's-like brain changes and memory problems unusually early in life. In this model, signs of Alzheimer's-related brain pathology can typically be detected by two months of age, with measurable cognitive decline appearing around four months. The researchers began administering the BDNF-producing mRNA nose drops when the mice were two months old, around the time the disease-related changes first appeared. Treatment continued twice a week. By four months of age, the treated mice showed no further cognitive decline, unlike the severe deterioration normally seen in this model. The findings suggest that supporting brain cells early in the disease process may help preserve cognitive abilities. One of the most intriguing results was what the treatment did not do. Although memory and learning were protected, the researchers found no reduction in amyloid plaques, the abnormal protein deposits that accumulate in the brains of people with Alzheimer's disease. That distinction could be important because many existing Alzheimer's treatments aim to remove amyloid. The new approach instead appears to help neurons remain healthy and functional despite the presence of these deposits. If the same effect can eventually be demonstrated in people, the two treatment strategies might be used together. \"Current Alzheimer's treatments largely focus on clearing these amyloid plaques,\" Professor Neely said. \"However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology.\" \"Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves. It raises the possibility these therapies could eventually work alongside each other.\" Getting medicines into the brain is one of the biggest obstacles in developing treatments for neurological diseases. The blood-brain barrier acts as a protective filter, preventing many potentially harmful substances in the bloodstream from entering delicate brain tissue. Unfortunately, it also blocks numerous drugs that scientists would like to use to treat brain disorders. The nose offers a possible alternative route. Connections between the nasal cavity and the central nervous system may allow certain therapeutic substances to reach the brain without requiring surgery or injections directly into the brain or spinal cord. \"This is a very exciting proof of concept for a method to deliver mRNA-encoded cargo to the nervous system directly through the nose,\" Professor Neely said. The team adapted mRNA technology built on the same clinically validated BioNTech platform used for COVID-19 vaccination. Instead of delivering instructions that prompt an immune response, the modified system provides instructions for producing proteins intended to benefit the brain. First author Dr. Maria Bergamasco, from the University of Sydney's School of Life and Environmental Sciences, explained that the findings illustrate how mRNA technology could be used for purposes far beyond preventing infectious diseases. \"The success of mRNA vaccines showed these systems can safely deliver genetic instructions to cells,\" Dr. Bergamasco said. \"We wanted to see whether we could adapt that technology to deliver beneficial proteins to the brain in a completely non-invasive way.\" The researchers also detected increased neurogenesis, the process through which new neurons are formed, in the hippocampus. This part of the brain plays an essential role in learning and memory and is particularly vulnerable to damage associated with Alzheimer's disease. The increase in new neurons provides another possible explanation for the improvements in cognitive performance. By promoting the health and adaptability of brain cells, BDNF may help maintain the neural networks needed for learning and remembering information. The nose drops also appeared to be well tolerated. Researchers reported no major side effects in the mice during the study, although further testing will be needed to establish long-term safety. Despite the encouraging results, Professor Neely emphasized that the treatment remains experimental. So far, its effectiveness has been demonstrated only in mice, and additional animal safety studies are required before clinical testing can begin. \"Before we can trial this therapy in patients, we need to perform a series of safety studies in animals,\" he said. \"It is a very promising pathway, but human noses are different from mouse noses, so we will need to test our drugs in humans before we know whether it will work.\" That anatomical difference is a significant consideration. A delivery method that successfully transports therapeutic substances from the nasal cavity to the brain in mice ",
+   "facts": [
+    "Remarkably, the approach relies on mRNA technology similar to that used in COVID-19 vaccines.",
+    "\"What's exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic.\" The study, published in Advanced Science , used mRNA to stimulate production of brain-derived neurotrophic factor (BDNF).",
+    "To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice.",
+    "Treatment continued twice a week.",
+    "\"However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology.\" \"Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves.",
+    "The team adapted mRNA technology built on the same clinically validated BioNTech platform used for COVID-19 vaccination.",
+    "Researchers Just Sent an Unblockable Message Through a Solid Wall Using Gravity Your Personality May Be Partly Written in Your DNA, Massive Study of 1 Million People Reveals A Tiny Region of the Brain Could Hold the Key to Understanding Early Alzheimer’s Symptoms Two Overlooked “Forever Chemicals” Linked To More Than Double the Risk of Liver Cancer"
+   ],
+   "doi": [
+    "10.1002/ADVS.78225"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Maria Bergamasco, Hannah Scarborough, Anna Ponta, Teleri Clark, Scott B. Cohen, Lipin Loo, Kazuma Fujikake, Rebecca Carr, R.M. Damian Holsinger, G.Gregory. Neely. Bdnf mRNA‐LNP Drives Nasal Epithelial BDNF Production and Improves Cognition in Aged and Alzheimer\\'s Disease Mouse Models . Advanced Science , 2026; DOI: 10.1002/ADVS.78225",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -274,22 +248,49 @@
    "why": [
     "형식 CUT",
     "생활소재: aging, memory, alzheimer"
+   ]
+  },
+  {
+   "title": "Common sleep and anxiety drugs could be harming aging brains",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261124055854.htm",
+   "summary": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death. Despite encouraging progress over the past decade, researchers warn that medication-related harm remains a major and potentially preventable threat to healthy aging.",
+   "date": "2026-11-25",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-26",
+   "sources": [
+    "ScienceDaily 전체"
    ],
-   "text": "Researchers at the University of Sydney have created experimental nose drops that significantly improved learning and memory in older mice, bringing their performance back to levels seen in younger animals. The treatment also prevented severe memory decline in mice genetically engineered to develop Alzheimer's-like disease. Remarkably, the approach relies on mRNA technology similar to that used in COVID-19 vaccines. The discovery, led by Professor Greg Neely at the University of Sydney's Charles Perkins Centre, could open a new path toward treating conditions that affect the brain. Potential applications extend beyond Alzheimer's disease to other neurodegenerative disorders, stroke, traumatic brain injury, and rare genetic and developmental conditions. \"If we can proceed quickly to clinical trials in humans, this approach could represent a world-first non-invasive delivery system to treat Alzheimer's that bypasses the blood-brain barrier,\" Professor Neely said. The idea behind the research has an unusual origin. The team drew inspiration from Daniel Keyes' science fiction story Flowers for Algernon , which explores the limits of human intelligence through experiments designed to increase intelligence in laboratory mice and people. The treatment works by delivering messenger RNA (mRNA), a type of genetic instruction that tells cells how to produce specific proteins. These instructions are enclosed in tiny fat-based particles called lipid nanoparticles (LNPs), which protect the mRNA and help it enter cells. Once delivered through the nose, the mRNA instructs cells to manufacture therapeutic proteins capable of reaching the brain. In effect, the nasal tissue becomes a small drug-producing factory, creating substances that can support brain function. \"In aged mice, we saw learning and memory significantly increased, returning animal cognition to its youthful prime,\" Professor Neely said. \"What's exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic.\" The study, published in Advanced Science , used mRNA to stimulate production of brain-derived neurotrophic factor (BDNF). This naturally occurring protein helps neurons survive, form connections, and adapt as the brain learns and stores memories. Levels of BDNF tend to decline with aging and are also associated with Alzheimer's disease. The results were striking. Older mice that received the nose drops performed about as well as young mice in standardized tests of working memory, spatial memory, and object recognition. These tests measure abilities such as remembering recently encountered information, navigating surroundings, and recognizing familiar objects. Untreated older animals showed the expected age-related deterioration in cognitive performance. To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice. These animals carry genetic mutations that cause them to develop Alzheimer's-like brain changes and memory problems unusually early in life. In this model, signs of Alzheimer's-related brain pathology can typically be detected by two months of age, with measurable cognitive decline appearing around four months. The researchers began administering the BDNF-producing mRNA nose drops when the mice were two months old, around the time the disease-related changes first appeared. Treatment continued twice a week. By four months of age, the treated mice showed no further cognitive decline, unlike the severe deterioration normally seen in this model. The findings suggest that supporting brain cells early in the disease process may help preserve cognitive abilities. One of the most intriguing results was what the treatment did not do. Although memory and learning were protected, the researchers found no reduction in amyloid plaques, the abnormal protein deposits that accumulate in the brains of people with Alzheimer's disease. That distinction could be important because many existing Alzheimer's treatments aim to remove amyloid. The new approach instead appears to help neurons remain healthy and functional despite the presence of these deposits. If the same effect can eventually be demonstrated in people, the two treatment strategies might be used together. \"Current Alzheimer's treatments largely focus on clearing these amyloid plaques,\" Professor Neely said. \"However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology.\" \"Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves. It raises the possibility these therapies could eventually work alongside each other.\" Getting medicines into the brain is one of the biggest obstacles in developing treatments for neurological diseases. The blood-brain barrier acts as a protective filter, preventing many potentially harmful substances in the bloodstream from entering delicate brain tissue. Unfortunately, it also blocks numerous drugs that scientists would like to use to treat brain disorders. The nose offers a possible alternative route. Connections between the nasal cavity and the central nervous system may allow certain therapeutic substances to reach the brain without requiring surgery or injections directly into the brain or spinal cord. \"This is a very exciting proof of concept for a method to deliver mRNA-encoded cargo to the nervous system directly through the nose,\" Professor Neely said. The team adapted mRNA technology built on the same clinically validated BioNTech platform used for COVID-19 vaccination. Instead of delivering instructions that prompt an immune response, the modified system provides instructions for producing proteins intended to benefit the brain. First author Dr. Maria Bergamasco, from the University of Sydney's School of Life and Environmental Sciences, explained that the findings illustrate how mRNA technology could be used for purposes far beyond preventing infectious diseases. \"The success of mRNA vaccines showed these systems can safely deliver genetic instructions to cells,\" Dr. Bergamasco said. \"We wanted to see whether we could adapt that technology to deliver beneficial proteins to the brain in a completely non-invasive way.\" The researchers also detected increased neurogenesis, the process through which new neurons are formed, in the hippocampus. This part of the brain plays an essential role in learning and memory and is particularly vulnerable to damage associated with Alzheimer's disease. The increase in new neurons provides another possible explanation for the improvements in cognitive performance. By promoting the health and adaptability of brain cells, BDNF may help maintain the neural networks needed for learning and remembering information. The nose drops also appeared to be well tolerated. Researchers reported no major side effects in the mice during the study, although further testing will be needed to establish long-term safety. Despite the encouraging results, Professor Neely emphasized that the treatment remains experimental. So far, its effectiveness has been demonstrated only in mice, and additional animal safety studies are required before clinical testing can begin. \"Before we can trial this therapy in patients, we need to perform a series of safety studies in animals,\" he said. \"It is a very promising pathway, but human noses are different from mouse noses, so we will need to test our drugs in humans before we know whether it will work.\" That anatomical difference is a significant consideration. A delivery method that successfully transports therapeutic substances from the nasal cavity to the brain in mice ",
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261124055854.htm"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 DOSE",
+    "생활소재: sleep, aging, dementia"
+   ],
+   "text": "Adults age 65 and older who have dementia or other cognitive disorders are particularly vulnerable to the harmful effects of medications used to treat anxiety, sleep disturbances, psychosis, and other conditions affecting the central nervous system. Potential consequences include more emergency room visits, longer and more frequent hospital stays, declining mental health, and an increased risk of premature death. New research from the University at Buffalo (UB) offers some encouraging news, however. Between 2011 and 2022, the proportion of older adults with cognitive disorders taking medications that could impair their cognitive function decreased significantly. After analyzing data from 2,796 older adults with cognitive disorders who lived independently, researchers found that exposure to potentially inappropriate medications fell from 39.3% in 2011 to 29.3% in 2022. \"This is a population with some mental issues that relate to the central nervous system. These drugs also act on the central nervous system, so they can be too much for older adults if inappropriately used,\" says Haowen Hsu, PharmD, a postdoctoral fellow in the Department of Pharmacy Practice at the School of Pharmacy and Pharmaceutical Sciences and first author of the study, published in the Journal of the American Geriatrics Society . Older adults who have spent years taking benzodiazepines such as Xanax for anxiety or sleep medications such as Ambien may benefit from a medically supervised reduction in dosage or gradual discontinuation. These medications can negatively affect cognitive function, balance, and coordination. \"A central word for patients in this age group is 'deprescribing,' which means, for example, removing inappropriate medications and decreasing the frequency or the dosage. In some cases, it means replacing the current medication with a milder alternative,\" Hsu says. \"This is why it's so important for health care providers to work closely with community pharmacists and homecare nurses to optimize medication safety.\" To identify potentially problematic drugs, the research team consulted the American Geriatrics Society's Beers Criteria, which identifies approximately 100 medications that may pose risks to older adults. The researchers then concentrated specifically on medications that could present additional dangers for people with diagnosed cognitive disorders. Using data from the Medical Expenditure Panel Survey, the team examined a sample representing approximately 29.7 million older Americans with cognitive disorders over the period from 2011 to 2022. They compared individuals prescribed at least one potentially inappropriate medication with those who had not received any of these drugs. Although the study did not examine what caused the decline in exposure to potentially harmful medications, Hsu points to growing awareness among researchers and clinicians over the past two decades. The gradual but sustained improvement may reflect broader advances in geriatric medicine and efforts to make prescription drug use safer. \"We were happy to see the percentages of harm decline over that 11-year period,\" he says. \"However, one-third of our target population is still exposed to these harmful medications, which isn't good.\" Older adults, even those without cognitive disorders, are particularly susceptible to harmful drug interactions and inappropriate prescriptions. In some cases, these complications can increase the risk of death. These dangers are a central focus of Team Alice, an ongoing interdisciplinary research initiative at the University at Buffalo dedicated to medication safety. Team Alice takes its name from Alice Brennan, who died in 2009 following a prescription for a muscle relaxant identified as potentially inappropriate under the Beers Criteria. The prescribing error went unrecognized within the health care system, and Brennan died following six weeks of preventable complications. Her daughter, Mary Brennan-Taylor, shared her mother's experience with University at Buffalo researchers in the hope of bringing about systemic changes that would spare other patients and families from similar harm. Hsu began the new study shortly after joining the university's pharmacy school and Team Alice, where he works in the UB Patient Safety Learning Laboratory. \"This work extends a series of national analyses our group has published on potentially inappropriate medications, quality of life, and health care use in older adults,\" says David Jacobs, PharmD, PhD, associate professor of pharmacy practice and a principal investigator on Team Alice. \"It is especially important as older adults with cognitive disorders are the least able to tolerate medications that worsen memory or thinking, yet nearly one in three are still receiving them. Most of these patients have a regular source of care so these medications can be identified and addressed with their care team.\" Other contributors to the study included Team Alice's fellow principal investigators Ranjit Singh, MD, associate professor and interim chair of the Department of Family Medicine at UB's Jacobs School of Medicine and Biomedical Sciences, and Robert Wahler, PharmD, clinical associate professor of pharmacy practice. Collin Clark, PharmD, clinical associate professor of pharmacy practice, and Steven Feuerstein, an information systems analyst at the Jacobs School, also contributed to the research. The findings underscore the value of thorough medication reviews during routine outpatient appointments. The researchers also suggest incorporating clinical assessment tools such as the Drug Burden Index into acute and outpatient care. Such tools can help health care professionals assess the combined effects of medications that act on the central nervous system and potentially prevent avoidable complications. Further research is needed to establish whether improving medication use can enhance quality of life and reduce hospital admissions and emergency room visits among older adults experiencing cognitive difficulties. The findings arrive at a significant moment in global demographic history. According to a recent report from the U.S. Census Bureau, adults age 65 and older now outnumber children from birth through age 5 worldwide for the first time in human history. However, greater longevity does not necessarily translate into more years of good health. The same report indicates that nearly 75% of adults age 65 and older have at least two chronic health conditions. Managing multiple illnesses often requires taking more medications, some of which may have detrimental effects on the aging body and brain. \"This is an issue that has been building for decades, but the growth of the older adult population has arrived sooner than we expected,\" Hsu says. \"This means that health care professionals need to pay closer attention than ever to medication safety, especially for older adults experiencing cognitive decline or other complex health concerns.\" Materials provided by University at Buffalo . Note: Content may be edited for style and length. Researchers Just Sent an Unblockable Message Through a Solid Wall Using Gravity Your Personality May Be Partly Written in Your DNA, Massive Study of 1 Million People Reveals A Tiny Region of the Brain Could Hold the Key to Understanding Early Alzheimer’s Symptoms Two Overlooked “Forever Chemicals” Linked To More Than Double the Risk of Liver Cancer",
    "doi": [
-    "10.1002/ADVS.78225"
+    "10.1111/jgs.70607"
    ],
-   "journal_ref": "Journal Reference : Maria Bergamasco, Hannah Scarborough, Anna Ponta, Teleri Clark, Scott B. Cohen, Lipin Loo, Kazuma Fujikake, Rebecca Carr, R.M. Damian Holsinger, G.Gregory. Neely. Bdnf mRNA‐LNP Drives Nasal Epithelial BDNF Production and Improves Cognition in Aged and Alzheimer\\'s Disease Mouse Models . Advanced Science , 2026; DOI: 10.1002/ADVS.78225",
+   "journal_ref": "Journal Reference : Haowen Hsu, Collin M. Clark, Steven Feuerstein, Robert G. Wahler, Ranjit Singh, David M. Jacobs. Cognitive Potentially Inappropriate Medications, Quality of Life, and Healthcare Use in Older Adults With Cognitive Disorders . Journal of the American Geriatrics Society , 2026; 74 (10): 2888 DOI: 10.1111/jgs.70607",
    "facts": [
-    "Remarkably, the approach relies on mRNA technology similar to that used in COVID-19 vaccines.",
-    "\"What's exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic.\" The study, published in Advanced Science , used mRNA to stimulate production of brain-derived neurotrophic factor (BDNF).",
-    "To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice.",
-    "Treatment continued twice a week.",
-    "\"However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology.\" \"Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves.",
-    "The team adapted mRNA technology built on the same clinically validated BioNTech platform used for COVID-19 vaccination.",
-    "Researchers Just Sent an Unblockable Message Through a Solid Wall Using Gravity Your Personality May Be Partly Written in Your DNA, Massive Study of 1 Million People Reveals A Tiny Region of the Brain Could Hold the Key to Understanding Early Alzheimer’s Symptoms Two Overlooked “Forever Chemicals” Linked To More Than Double the Risk of Liver Cancer"
+    "Adults age 65 and older who have dementia or other cognitive disorders are particularly vulnerable to the harmful effects of medications used to treat anxiety, sleep disturbances, psychosis, and other conditions affecting the central nervous system.",
+    "Between 2011 and 2022, the proportion of older adults with cognitive disorders taking medications that could impair their cognitive function decreased significantly.",
+    "After analyzing data from 2,796 older adults with cognitive disorders who lived independently, researchers found that exposure to potentially inappropriate medications fell from 39.3% in 2011 to 29.3% in 2022.",
+    "\"This is why it's so important for health care providers to work closely with community pharmacists and homecare nurses to optimize medication safety.\" To identify potentially problematic drugs, the research team consulted the American Geriatrics Society's Beers Criteria, which identifies approximately 100 medications that may pose risks to older adults.",
+    "Using data from the Medical Expenditure Panel Survey, the team examined a sample representing approximately 29.7 million older Americans with cognitive disorders over the period from 2011 to 2022.",
+    "\"We were happy to see the percentages of harm decline over that 11-year period,\" he says.",
+    "\"However, one-third of our target population is still exposed to these harmful medications, which isn't good.\" Older adults, even those without cognitive disorders, are particularly susceptible to harmful drug interactions and inappropriate prescriptions.",
+    "Team Alice takes its name from Alice Brennan, who died in 2009 following a prescription for a muscle relaxant identified as potentially inappropriate under the Beers Criteria.",
+    "Census Bureau, adults age 65 and older now outnumber children from birth through age 5 worldwide for the first time in human history.",
+    "The same report indicates that nearly 75% of adults age 65 and older have at least two chronic health conditions."
    ],
-   "sample": []
+   "sample": [
+    "2,796 adults"
+   ]
   },
   {
    "title": "Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist",
@@ -555,28 +556,50 @@
    ]
   },
   {
-   "title": "Wildfire smoke damages the airway's defenses, blocking one signal can shield them",
-   "link": "https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.html",
-   "key": "https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.html",
-   "summary": "When the Palisades and Eaton wildfires tore through Los Angeles in January 2025, smoke blanketed the region and air quality plunged into the hazardous range. It was a vivid example of a growing problem: After years of improvement, wildfire smoke is pulling air quality back in the wrong direction, and fire season, once confined to hot, dry summers, now stretches across the year.",
-   "date": "2026-11-17",
+   "title": "Frontal brain regions reveal an unexpected eye for detail outside the visual cortex",
+   "link": "https://medicalxpress.com/news/2026-11-frontal-brain-regions-reveal-unexpected.html",
+   "key": "https://medicalxpress.com/news/2026-11-frontal-brain-regions-reveal-unexpected.html",
+   "summary": "The first time Bilal Haider saw the recordings, he thought something had gone wrong. Haider has spent his career studying vision, trying to understand how the brain transforms light hitting the retina into the rich visual world we experience: a face, a tree, an object moving across a room.",
+   "date": "2026-11-26",
    "source": "MedicalXpress",
-   "first_seen": "2026-11-18",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.htm",
-   "catch_extra": [],
+   "first_seen": "2026-11-26",
    "sources": [
     "MedicalXpress"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.html"
+    "https://medicalxpress.com/news/2026-11-frontal-brain-regions-reveal-unexpected.html"
+   ],
+   "format": "",
+   "catch": [],
+   "score": 7,
+   "why": [
+    "훅: unexpected, first time, wrong",
+    "생활소재: brain"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-frontal-brain-regions-reveal-unexpected.html"
+  },
+  {
+   "title": "Trial finds no benefit from prehospital antibiotics for sepsis",
+   "link": "https://medicalxpress.com/news/2026-11-trial-benefit-prehospital-antibiotics-sepsis.html",
+   "key": "https://medicalxpress.com/news/2026-11-trial-benefit-prehospital-antibiotics-sepsis.html",
+   "summary": "For patients with suspected sepsis, early antibiotic treatment is considered critical for reducing mortality. But a new study has found that earlier treatment with antibiotics in an ambulance did not reduce mortality compared with standard sepsis care in the emergency department (ED), researchers reported in JAMA.",
+   "date": "2026-11-26",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-26",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-trial-benefit-prehospital-antibiotics-sepsis.html"
    ],
    "format": "SCALE",
    "catch": [],
-   "score": 6,
+   "score": 7,
    "why": [
     "형식 SCALE",
-    "훅: wrong"
-   ]
+    "훅: did not"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-trial-benefit-prehospital-antibiotics-sepsis"
   },
   {
    "title": "Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?",
@@ -803,30 +826,6 @@
    ]
   },
   {
-   "title": "A protein in the brain's immune cells may accelerate damage in Alzheimer's disease",
-   "link": "https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html",
-   "key": "https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html",
-   "summary": "Researchers at Lund University in Sweden have identified a key role for the protein galectin-3 in Alzheimer's disease. The study shows that galectin-3 not only influences how the brain's immune cells, known as microglia, react to the disease's characteristic amyloid plaques but also shapes the plaques themselves—and may contribute to the nerve damage that develops around them.",
-   "date": "2026-11-20",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-21",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "생활소재: alzheimer, brain"
-   ]
-  },
-  {
    "title": "Some people claim to speak many languages. But what does it really mean to be a polyglot?",
    "link": "https://phys.org/news/2026-11-people-languages-polyglot.html",
    "key": "https://phys.org/news/2026-11-people-languages-polyglot.html",
@@ -912,6 +911,8 @@
    "date": "2026-11-25",
    "source": "Phys.org",
    "first_seen": "2026-11-25",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org"
    ],
@@ -926,61 +927,78 @@
    "why": [
     "형식 CUT",
     "생활소재: mouse, mice"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html"
+   ]
   },
   {
-   "title": "Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve",
-   "link": "https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html",
-   "key": "https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html",
-   "summary": "A highly lethal pathogen is responsible for the mass death of tadpoles and the rapid decline of amphibian populations in the Atlantic Forest. A group of researchers demonstrate for the first time in South America that recurring ranavirus outbreaks caused an 83% drop in monkey frog (Phyllomedusa distincta) reproduction in a pond in the Brazilian state of Santa Catarina. The disease is caused by a virus that affects reptiles and fish as well.",
-   "date": "2026-11-17",
-   "source": "Phys.org",
-   "first_seen": "2026-11-17",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html",
-   "catch_extra": [],
+   "title": "Mpox cases are on the rise again in Brazil – just as an antiviral drug fails in trials",
+   "link": "https://theconversation.com/mpox-cases-are-on-the-rise-again-in-brazil-just-as-an-antiviral-drug-fails-in-trials-297434",
+   "key": "https://theconversation.com/mpox-cases-are-on-the-rise-again-in-brazil-just-as-an-antiviral-drug-fails-in-trials-297434",
+   "summary": "The mpox curve has started to rise again, with cases concentrated in Rio and São Paulo. There is no available treatment for this virus strain, which is different from the one in the 2022 outbreak.",
+   "date": "2026-11-25",
+   "source": "The Conversation",
+   "first_seen": "2026-11-25",
    "sources": [
-    "Phys.org"
+    "The Conversation",
+    "MedicalXpress"
    ],
    "links": [
-    "https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html"
+    "https://theconversation.com/mpox-cases-are-on-the-rise-again-in-brazil-just-as-an-antiviral-drug-fails-in-trials-297434",
+    "https://medicalxpress.com/news/2026-11-mpox-cases-brazil-antiviral-drug.html"
    ],
-   "format": "PRESS",
-   "seen": "2026-11-16",
+   "format": "DOSE",
    "catch": [
-    "동물 실험"
+    "DOI 못 찾음"
    ],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 PRESS",
-    "훅: first time",
-    "생활소재: cat, fish, monkey",
-    "이미 본 소재(2026-11-16)"
+    "형식 DOSE",
+    "2곳 보도"
+   ],
+   "text": "The city of Rio de Janeiro has reported 180 confirmed cases of mpox , an infectious disease caused by the monkeypox virus, MPXV, from Oct. 1 through Nov. 24, 2026. Skin lesions are the most common sign of the disease. They can also appear in the mouth, on the genitals or in the anal region. Other symptoms include fever, swollen glands, headache, body aches, chills and weakness. The number of cases in the capital of Rio de Janeiro is more than 22 times higher than the number reported during the same period in 2025. In the state of São Paulo, 128 cases have been identified from Oct.1 through Nov. 17 , which represents almost half of all cases of the disease that the state has reported this year. The national figures are not alarming: 1,429 confirmed cases and one death as of Nov. 23 , compared to about 10,500 cases and 14 deaths in 2022. The average, however, hides what really matters: The curve began to rise again in September, concentrated in two state capitals, with a new strain of the virus circulating that is different from the one identified in the previous outbreak. In virology, a clade is a group of viral lineages that share a common ancestor. Currently, clade Ib predominates among the samples analyzed. The 2022 mpox outbreak was caused by clade IIb. In response, the Ministry of Health purchased 25,000 doses of the vaccine against the disease and instructed states and municipalities to administer it intradermally – that is, just into the top layer of skin. This technique can increase the number of people vaccinated with the same vial fivefold. The vaccine has become even more important in the fight against mpox, because the only antiviral drug available to treat the disease has just failed two clinical trials . Clade Ib was identified in 2023 in the eastern Democratic Republic of Congo and led the World Health Organization to declare an international public health emergency in August 2024. Following a sustained decline in reported cases in Central and East Africa, the WHO declared the end of this international public health emergency. It was then that prevention, surveillance and control of the disease became part of long-term public health programs. At the Fiocruz National Institute of Infectious Diseases, or INI/Fiocruz, a leading center for the disease in Rio, 43 of the 62 samples identified between September and October 2026 were from clade Ib. Of the total, only 19 were from clade IIb. Clade Ib was first detected in Rio in March 2026. The spike in diagnoses did not occur until September. In October, the institute treated 130 people with suspected cases of the disease and confirmed 89 cases. Clade Ib arrived in Brazil via travelers. INI/Fiocruz identified the first cases with evidence of community transmission – people infected locally, with no recent travel history – in early 2026. The question is whether clade Ib would cause more severe illness. In Central Africa, it has been associated with a higher case fatality rate than that observed with clade IIb, but this difference is also linked to factors such as malnutrition, co-infections and lack of access to care. In Rio, INI/Fiocruz has not yet found any clinically significant difference between the two clades in the group of patients being monitored, which they call the Rio cohort. The profile of the most vulnerable individuals remains the same – those with severe immunosuppression, pregnant women and young children. About 45% of the patients in the Rio cohort are living with HIV. During the 2022 outbreak, the antiviral drug tecovirimat was distributed as a treatment for mpox. The drug had been approved in the U.S. for smallpox based on animal studies, since there was no way to test it on people, as smallpox had been eradicated from the planet since 1980 . But the emergence of mpox has made it possible to approve the drug for people. An April 2025 trial compared the drug tecovirimat with a placebo in 597 patients with clade I in the Democratic Republic of Congo. The time to lesions clearing up was seven days in the group that received tecovirimat and eight days in the placebo group. This difference is not considered statistically significant. In February 2026, a second trial settled the question regarding clade II . The study followed more than 400 adults divided into two groups, one that received the antiviral and another that received a placebo. Through Day 29, the estimated rates of lesion resolution were similar in the two groups – 83% with tecovirimat and 84% with the placebo. The study found no evidence that tecovirimat was able to accelerate lesion resolution in adults with clade II mpox. Thus, mpox remains a disease without a proven specific treatment, which shifts the focus of the response to early diagnosis, isolation and vaccination. The medication remains reserved for patients with severe cases and immunosuppressed patients, even though there is no evidence that it alters the course of the disease in these patients. The only vaccine for mpox is MVA-BN, also known as Jynneos , a third-generation, nonreplicating smallpox vaccine produced by Bavarian Nordic in Denmark. It has not been tested in randomized trials to assess its efficacy against mpox. There are, however, observational studies conducted in the context of the 2022 outbreak, all involving clade IIb. In these studies, researchers do not determine who receives the vaccine, but simply monitor patient outcomes. Based on these observational studies, the WHO estimates that this vaccine reduces the risk of mpox by 76% with one dose and by 82% with two , compared to unvaccinated individuals. Results varied from one study to another, particularly with a single dose. Estimates of risk reduction ranged from 35% to 86% with one dose and from 66% to 90% with two doses . In the U.S., a cohort of at-risk transgender men and women estimated 89% protection with the full vaccination series and 70% with a single dose. In another study in Germany, the effectiveness of a single dose was 58% overall, but only 35% among people living with HIV – a relevant finding for Brazil, given that nearly half of Brazilian cases occur in patients with HIV. This study also found that in those who have already been exposed, the vaccine reduces the risk of becoming ill by about 20% and appears to lessen the severity of the illness even when it does not prevent infection. There are two weaknesses in these studies. The first concerns the duration of protection: Antibody levels drop sharply between six and 12 months after the second dose, although the cellular response persists. It is not yet known which of these indicators is a better predictor of protection. The second is that there is no data on clinical efficacy against clade Ib, though there are laboratory studies. A British group showed in April 2026 that serum from 25 vaccinated healthcare workers neutralizes clade Ib , but at levels consistently lower than those observed against clade IIb. Cross-protection is likely, based on animal models challenged with clade I. The extent of this protection in humans, however, is unknown. The intradermal injection method, now recommended by Brazil’s Ministry of Health, was adopted in the United States and Europe in 2022 – this method allows the use of one-fifth of the dose – and produced an immune response comparable to that of the subcutaneous method. The costs associated with the vaccine include personnel training and vials of the vaccine that, once thawed, must be used within four weeks. The purchase of vaccines for Brazil was made through the Pan American Health Organization Revolving Fund. The initial order of 20,000 doses was increased to 25,000 following negotiations with the manufacturer, with distribution scheduled to begin Nov. 23 . Prior to that, 3,650 doses from the national stockpile had already been shipped to nine states, including Rio de Janeiro, Ceará and the Federal District. The Unified Health System is limiting vaccination to specific groups: pe",
+   "doi": [],
+   "facts": [
+    "The city of Rio de Janeiro has reported 180 confirmed cases of mpox , an infectious disease caused by the monkeypox virus, MPXV, from Oct. 1 through Nov. 24, 2026.",
+    "The number of cases in the capital of Rio de Janeiro is more than 22 times higher than the number reported during the same period in 2025.",
+    "In the state of São Paulo, 128 cases have been identified from Oct.1 through Nov. 17 , which represents almost half of all cases of the disease that the state has reported this year.",
+    "The national figures are not alarming: 1,429 confirmed cases and one death as of Nov. 23 , compared to about 10,500 cases and 14 deaths in 2022.",
+    "The 2022 mpox outbreak was caused by clade IIb.",
+    "In response, the Ministry of Health purchased 25,000 doses of the vaccine against the disease and instructed states and municipalities to administer it intradermally – that is, just into the top layer of skin.",
+    "Clade Ib was identified in 2023 in the eastern Democratic Republic of Congo and led the World Health Organization to declare an international public health emergency in August 2024.",
+    "At the Fiocruz National Institute of Infectious Diseases, or INI/Fiocruz, a leading center for the disease in Rio, 43 of the 62 samples identified between September and October 2026 were from clade Ib.",
+    "Of the total, only 19 were from clade IIb.",
+    "Clade Ib was first detected in Rio in March 2026."
+   ],
+   "sample": [
+    "130 people",
+    "400 adults",
+    "597 patients",
+    "9,500 people"
    ]
   },
   {
-   "title": "Capping nanovials that trap cells and their secretions for analysis enables new bioscience experiments",
-   "link": "https://phys.org/news/2026-11-capping-nanovials-cells-secretions-analysis.html",
-   "key": "https://phys.org/news/2026-11-capping-nanovials-cells-secretions-analysis.html",
-   "summary": "A UCLA-developed technology that is like a test tube but on the cellular scale has led to a number of biomedical discoveries in recent years, including revelations about cancer, heart disease and the genetic levers that push cells to release proteins.",
-   "date": "2026-11-17",
+   "title": "Ancient Cahokia transformed amid droughts and flooding—climate change is reshaping modern communities in similar ways",
+   "link": "https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html",
+   "key": "https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html",
+   "summary": "More than 800 years ago, a combination of environmental and societal challenges led some Mississippian people to leave Cahokia, a massive archaeological site that was once home to 20,000 people near modern-day St. Louis. Just south of Cahokia, another archaeological site is taking shape at Centreville, Illinois, as modern-day people abandon their homes in the face of 21st-century climate and cultural changes.",
+   "date": "2026-11-25",
    "source": "Phys.org",
-   "first_seen": "2026-11-17",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-capping-nanovials-cells-secretions-analysis.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-26",
    "sources": [
-    "Phys.org"
+    "Phys.org",
+    "The Conversation"
    ],
    "links": [
-    "https://phys.org/news/2026-11-capping-nanovials-cells-secretions-analysis.html"
+    "https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html",
+    "https://theconversation.com/ancient-cahokia-was-transformed-amid-droughts-and-flooding-climate-change-is-reshaping-modern-communities-in-similar-ways-294435"
    ],
-   "format": "CUT",
+   "format": "WEIGH",
    "catch": [],
-   "score": 5,
+   "score": 6,
    "why": [
-    "형식 CUT",
-    "훅: secret"
-   ]
+    "형식 WEIGH",
+    "2곳 보도"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html"
   },
   {
    "title": "Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers",
@@ -1126,6 +1144,30 @@
    ]
   },
   {
+   "title": "Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice",
+   "link": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
+   "key": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
+   "summary": "In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.",
+   "date": "2026-11-19",
+   "source": "Phys.org",
+   "first_seen": "2026-11-19",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
+   "catch_extra": [],
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 SCALE",
+    "생활소재: mice"
+   ]
+  },
+  {
    "title": "Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke",
    "link": "https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041",
    "key": "https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041",
@@ -1167,42 +1209,6 @@
    "why": [
     "형식 WEIGH",
     "생활소재: aging"
-   ]
-  },
-  {
-   "title": "Forms, phone calls and portals: The hidden work that keeps American institutions functioning burdens parents most",
-   "link": "https://theconversation.com/forms-phone-calls-and-portals-the-hidden-work-that-keeps-american-institutions-functioning-burdens-parents-most-288255",
-   "key": "https://theconversation.com/forms-phone-calls-and-portals-the-hidden-work-that-keeps-american-institutions-functioning-burdens-parents-most-288255",
-   "summary": "Insurers, schools, doctors, benefits agencies – each has its own rules, databases, deadlines and definitions. Subtle misalignments compound over time, and the hassle falls heaviest on some groups.",
-   "date": "2026-11-17",
-   "source": "The Conversation",
-   "first_seen": "2026-11-18",
-   "text": "As a working mom of three kids, I spend a lot of time parenting. I also spend a lot of time coordinating insurance, physician and school forms and remembering passwords to six different school and sports portals. None of that is really parenting, and it’s not paid work either, but it takes time away from both. I’m also a political theorist who studies how institutional design affects people’s daily lives. What many people characterize as unavoidable aspects of modern life actually provide important lessons about how various institutions are set up and who does the work to keep them functional. Most American families deal with multiple complex institutions every week: a personalized mix of health insurers and medical providers, schools, tax authorities, Social Security and benefits agencies, daycares and camps and other kid activities, and state and federal programs such as Medicaid or SNAP. Each of these programs has its own logic, including specific rules, portals, databases, forms, deadlines and definitions. This variation creates subtle misalignments across programs that compound over time. The physician needs prior authorization from the insurer, but the insurer claims the doctor needs a specific form. Meanwhile, the school needs the doctor’s document, and a benefits office might need proof that another agency already has in its system. The people working to align all these systems are parents , often people with the least time and cognitive availability to handle the burden. Political scientists Pamela Herd and Donald Moynihan of the Better Government Lab call this load administrative burden ; that burden includes learning all the rules, figuring out how to comply with them, and then handling all the rippling demands that each individual task creates. These burdens are not natural or inevitable. Instead, they’re the result of the way people have designed our institutions. The good news is that it’s possible to do things differently. Most institutions weren’t intentionally designed with the user experience in mind. Instead, they’re the result of piecemeal decisions over decades, often the result of a complex interplay of interest-group lobbying, political jockeying and public demands. Employer-based health insurance resulted, in part, from fear of socialized medicine during World War II. Public schools grew out of local communities and then had layers of state and federal regulations piled on top. Bureaucracies at different levels and of different types rarely talk to each other or bother coordinating their rules and processes. And most of these rules and processes aren’t usually nefarious in intent . Documentation can prevent fraud, eligibility rules help allocate scarce resources, regulations can protect patients, and institutions have a vested interest in protecting themselves from mistakes and liability. But each operates in isolation. The cracks are visible only to the person who has to navigate these silos – and that’s often an overextended parent. It might seem like everyone bears the same administrative burdens, but they don’t. Life administration hits some groups harder than others; women , people with disabilities and lower-income people all interact more frequently with these fragmented systems and are less able to absorb the costs of those interactions. For a middle-class American on salary, an hour on hold is a nuisance. For a waitress working for tips, it’s lost earnings or even lost employment. For many Americans, the administrative burden of applying for and proving eligibility for benefits is dramatic; the people who need these programs the most struggle to access them . This is what researchers call a regressive effect in public policy, meaning that the costs hit hardest for those who can least afford it. Many institutions are effectively means-tested in reverse: The most vulnerable pay the most in terms of time, energy and money. While there is no easy fix with institutions as complex as healthcare, education or public benefits, there are some options. One useful model is universal design : the idea that we should build our environments – in this case, institutions – for people of different abilities from the start. On the institutional front, this would mean more flexible hours to accommodate a range of users; a combination of email, phone and platform access; automatic enrollment or renewal when eligibility is already known; various plain language rules; and agencies sharing information, with permission, and working together to resolve conflicts between policies and rules so families aren’t forced into the role of unpaid institutional coordinators. Much of this will require not just language rewrites but significant investment in new systems . Michigan provides an example of reform working at scale. In 2018 the state consolidated benefit application forms across five programs, reducing length and complexity. The original combined application packet was an overwhelming 1,000 questions and over 64 pages long. The streamlined application process, which could be completed in about 20 minutes, not only improved the process for those applying. It reduced errors, cut down worker processing time and saved caseworkers 200,000 hours per year, presumably saving tax dollars along the way. Reducing administrative burden across programs is one of the few policy reforms with almost no downside. For now, many Americans are like fish swimming in polluted water. We know something’s wrong, but we can’t see the cause. The next time you’re stuck on hold trying to fix a paperwork error with one agency before you can submit additional paperwork to another, it’s worthwhile to remember that this experience isn’t an inevitability of modern life. It’s the result of design choices – or failure to make choices – that can be changed.",
-   "facts": [
-    "In 2018 the state consolidated benefit application forms across five programs, reducing length and complexity.",
-    "The original combined application packet was an overwhelming 1,000 questions and over 64 pages long.",
-    "The streamlined application process, which could be completed in about 20 minutes, not only improved the process for those applying.",
-    "It reduced errors, cut down worker processing time and saved caseworkers 200,000 hours per year, presumably saving tax dollars along the way."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation"
-   ],
-   "links": [
-    "https://theconversation.com/forms-phone-calls-and-portals-the-hidden-work-that-keeps-american-institutions-functioning-burdens-parents-most-288255"
-   ],
-   "format": "PRESS",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 4,
-   "why": [
-    "형식 PRESS",
-    "생활소재: phone"
    ]
   },
   {

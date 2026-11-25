@@ -1,20 +1,8 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 942건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 892건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
-## 1. Ozempic and Mounjaro may have a surprising effect on your brain
-- 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-17
-- https://www.sciencedaily.com/releases/2026/11/261116023401.htm
-- DOI: 10.1126/science.aek9987
-- 이미 본 소재: 2026-11-16 보드에 있었음
-- 요약: Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzh
-  - "Popular medications used to treat obesity and type 2 diabetes, including semaglutide and tirzepatide, may have effects that extend beyond weight loss and blood sugar control."
-  - "Studies involving animals suggest that GLP-1 medications can influence learning and memory."
-  - "Analyses of patient health records have found an association between GLP-1 treatment and a reduced risk of dementia among people with type 2 diabetes."
-  - "Despite the disappointing Alzheimer's results, researchers believe GLP-1 medications could still offer cognitive benefits to certain groups of patients."
-  - "People living with obesity or type 2 diabetes sometimes experience difficulties with attention, planning, and the speed at which they process information."
-
-## 2. Common medications may secretly rewire your gut, with effects lasting for years
+## 1. Common medications may secretly rewire your gut, with effects lasting for years
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261120071501.htm
 - DOI: 10.1128/msystems.00541-25
@@ -24,7 +12,7 @@
   - "Just 2 Weeks of Ultraprocessed Foods May Change How Your Brains Respond to Food A Chemical Signature Suddenly Disappeared From Earth’s Rocks."
   - "Scientists Think They Know Why Scientists Discover Bizarre Deep-Sea Creature That Survives Without Most of Its Digestive System New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial"
 
-## 3. U.S. loses measles elimination status after 25 years as vaccine myths persist
+## 2. U.S. loses measles elimination status after 25 years as vaccine myths persist
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261122060323.htm
 - 주의: DOI 못 찾음
@@ -35,14 +23,14 @@
   - "However, on Nov. 17, 2026, the Pan American Health Organization confirmed that the United States no longer qualified for that status."
   - "According to the Centers for Disease Control and Prevention (CDC), the United States had recorded 5,412 confirmed cases in 2026 as of Nov. 12."
 
-## 4. A galactic shock wave could rewrite the map of the Milky Way
+## 3. A galactic shock wave could rewrite the map of the Milky Way
 - 점수 9 · WEIGH · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261122060329.htm
 - DOI: 10.1038/s41550-026-03010-5
 - 요약: A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it. Even more unexpectedly, p
   - "The team's analysis indicates that the bar extends approximately 4.3 kiloparsecs, equivalent to about 14,000 light-years, outward from the galactic center along its long axis."
 
-## 5. Scientists discover a surprising link between weak bones and faster brain aging
+## 4. Scientists discover a surprising link between weak bones and faster brain aging
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261121221132.htm
 - DOI: 10.1148/radiol.260656
@@ -52,7 +40,7 @@
   - "Of those participants, 715 had the required bone density measurements along with brain MRI results and cognitive testing, making them eligible for the final study group."
   - "Follow-up imaging data were available for 408 participants for white matter hyperintensities and 405 participants for fractional anisotropy, allowing researchers to examine how these brain changes progressed over time."
 
-## 6. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
+## 5. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-25
 - https://www.sciencedaily.com/releases/2026/11/261123005337.htm
 - DOI: 10.1002/ADVS.78225
@@ -63,6 +51,18 @@
   - "To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice."
   - "Treatment continued twice a week."
   - ""However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology." "Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves."
+
+## 6. Common sleep and anxiety drugs could be harming aging brains
+- 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-25
+- https://www.sciencedaily.com/releases/2026/11/261124055854.htm
+- DOI: 10.1111/jgs.70607
+- 대상: 2,796 adults
+- 요약: Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death. Despite encouraging progress over the past decade, researchers warn that medication-related h
+  - "Adults age 65 and older who have dementia or other cognitive disorders are particularly vulnerable to the harmful effects of medications used to treat anxiety, sleep disturbances, psychosis, and other conditions affecting the central nervous system."
+  - "Between 2011 and 2022, the proportion of older adults with cognitive disorders taking medications that could impair their cognitive function decreased significantly."
+  - "After analyzing data from 2,796 older adults with cognitive disorders who lived independently, researchers found that exposure to potentially inappropriate medications fell from 39.3% in 2011 to 29.3% in 2022."
+  - ""This is why it's so important for health care providers to work closely with community pharmacists and homecare nurses to optimize medication safety." To identify potentially problematic drugs, the research team consulted the American Geriatrics Society's Beers Criteria, which identifies approximately 100 medications that may pose risks to older adults."
+  - "Using data from the Medical Expenditure Panel Survey, the team examined a sample representing approximately 29.7 million older Americans with cognitive disorders over the period from 2011 to 2022."
 
 ## 7. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
 - 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-19
@@ -135,75 +135,75 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Kawasaki disease (KD) is an acute inflammatory condition that primarily affects children under 5. It causes inflammation of blood vessels throughout the body and can lead to serious complications, particularly affecting the coronary arteries that supply blood to the heart. Although Kawasaki disease 
 
-## 14. Wildfire smoke damages the airway's defenses, blocking one signal can shield them
-- 점수 6 · SCALE · MedicalXpress · 2026-11-17
-- https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.html
+## 14. Frontal brain regions reveal an unexpected eye for detail outside the visual cortex
+- 점수 7 · 형식? · MedicalXpress · 2026-11-26
+- https://medicalxpress.com/news/2026-11-frontal-brain-regions-reveal-unexpected.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: When the Palisades and Eaton wildfires tore through Los Angeles in January 2025, smoke blanketed the region and air quality plunged into the hazardous range. It was a vivid example of a growing problem: After years of improvement, wildfire smoke is pulling air quality back in the wrong direction, an
+- 요약: The first time Bilal Haider saw the recordings, he thought something had gone wrong. Haider has spent his career studying vision, trying to understand how the brain transforms light hitting the retina into the rich visual world we experience: a face, a tree, an object moving across a room.
 
-## 15. Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?
+## 15. Trial finds no benefit from prehospital antibiotics for sepsis
+- 점수 7 · SCALE · MedicalXpress · 2026-11-26
+- https://medicalxpress.com/news/2026-11-trial-benefit-prehospital-antibiotics-sepsis.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: For patients with suspected sepsis, early antibiotic treatment is considered critical for reducing mortality. But a new study has found that earlier treatment with antibiotics in an ambulance did not reduce mortality compared with standard sepsis care in the emergency department (ED), researchers re
+
+## 16. Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-alcohol-drug-abuse-suicide-europe.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In the United States, life expectancy diverged from Europe before it stopped rising during the 2010s, even before the COVID-19 pandemic. The economists Anne Case and Angus Deaton gave a name to a phenomenon that was then booming, partly explaining this trend: "deaths of despair," which have soared s
 
-## 16. For military veterans with PTSD and alcohol use disorder, MDMA-assisted therapy may be safe, effective
+## 17. For military veterans with PTSD and alcohol use disorder, MDMA-assisted therapy may be safe, effective
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-military-veterans-ptsd-alcohol-disorder.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The first study of a program that uses the drug MDMA to treat post-traumatic stress disorder (PTSD) plus alcohol use disorder in military veterans has concluded with promising results.
 
-## 17. Brain clock gene influences alcohol consumption differently in female and male mice, study shows
+## 18. Brain clock gene influences alcohol consumption differently in female and male mice, study shows
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-brain-clock-gene-alcohol-consumption.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A gene that helps regulate the body's internal clock may influence alcohol consumption differently in males and females, according to new Concordia research.
 
-## 18. Two measures to help prevent obesity in young people
+## 19. Two measures to help prevent obesity in young people
 - 점수 6 · PRESS · MedicalXpress · 2026-11-19
 - https://medicalxpress.com/news/2026-11-obesity-young-people.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important, both for individuals and for the population as a whole. The condition is generally linked to diet and lifestyle. A new study including almost 125,000 children exa
 
-## 19. When's a new organ not really new? Two anatomists explain
+## 20. When's a new organ not really new? Two anatomists explain
 - 점수 6 · CUT · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-anatomists.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People have been dissecting the human body for more than 2,500 years. In recent times, we've been over every nanometer with high-resolution medical imaging. So you'd think we know all there is to know about human anatomy. Surely, there are no new organs left to discover.
 
-## 20. The child development 'sweet spot' that affects adult taste preference
+## 21. The child development 'sweet spot' that affects adult taste preference
 - 점수 6 · SCALE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-child-sweet-affects-adult.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A baby's transition from breast milk or formula to a range of solid foods is the likely "sweet spot" for introducing nutritional variety that influences lifelong taste preferences by rewiring circuits in the brain, new research in mice suggests.
 
-## 21. Adolescent and teen depression linked to heavier substance use
+## 22. Adolescent and teen depression linked to heavier substance use
 - 점수 6 · DOSE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-adolescent-teen-depression-linked-heavier.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Adolescents and teenagers who drink more alcohol or use multiple forms of marijuana are much more likely to experience major depression. In addition, girls, older teens and multiracial teens are more likely to experience major depression, regardless of drug or alcohol use.
 
-## 22. Resistance training could help boost brain health and confidence in older adults
+## 23. Resistance training could help boost brain health and confidence in older adults
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-resistance-boost-brain-health-confidence.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Think about the last time you stood up from a chair or lifted a heavy shopping bag from the floor. These movements might feel automatic, but they take a surprising amount of coordination between your brain and your muscles.
 
-## 23. New liver model for studying alpha-1-antitrypsin deficiency
+## 24. New liver model for studying alpha-1-antitrypsin deficiency
 - 점수 6 · CUT · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-liver-alpha-antitrypsin-deficiency.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: AATD is a rare genetic metabolic disorder that affects the liver and lungs. A mutation causes liver cells (hepatocytes) to form misfolded alpha-1-antitrypsin (AAT). This misfolding results in reduced secretion of AAT into the blood plasma. AAT plays an important role in controlling inflammatory proc
-
-## 24. A protein in the brain's immune cells may accelerate damage in Alzheimer's disease
-- 점수 6 · CUT · MedicalXpress · 2026-11-20
-- https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Researchers at Lund University in Sweden have identified a key role for the protein galectin-3 in Alzheimer's disease. The study shows that galectin-3 not only influences how the brain's immune cells, known as microglia, react to the disease's characteristic amyloid plaques but also shapes the plaqu
 
 ## 25. Some people claim to speak many languages. But what does it really mean to be a polyglot?
 - 점수 6 · PRESS · Phys.org / The Conversation · 2026-11-23
@@ -230,19 +230,23 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A self-assembling supramolecular nanocarrier protects Cas9 RNPs from degradation, enhances systemic delivery and preferential tumor accumulation, and enables pH-responsive intracellular release. Developed by researchers at the Institute of Science Tokyo, this platform achieved a 37.2% indel frequenc
 
-## 29. Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve
-- 점수 5 · PRESS · Phys.org · 2026-11-17
-- https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html
-- 주의: 동물 실험
-- 이미 본 소재: 2026-11-16 보드에 있었음
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A highly lethal pathogen is responsible for the mass death of tadpoles and the rapid decline of amphibian populations in the Atlantic Forest. A group of researchers demonstrate for the first time in South America that recurring ranavirus outbreaks caused an 83% drop in monkey frog (Phyllomedusa dist
+## 29. Mpox cases are on the rise again in Brazil – just as an antiviral drug fails in trials
+- 점수 6 · DOSE · The Conversation / MedicalXpress · 2026-11-25
+- https://theconversation.com/mpox-cases-are-on-the-rise-again-in-brazil-just-as-an-antiviral-drug-fails-in-trials-297434
+- 대상: 130 people, 400 adults, 597 patients, 9,500 people
+- 주의: DOI 못 찾음
+- 요약: The mpox curve has started to rise again, with cases concentrated in Rio and São Paulo. There is no available treatment for this virus strain, which is different from the one in the 2022 outbreak.
+  - "The city of Rio de Janeiro has reported 180 confirmed cases of mpox , an infectious disease caused by the monkeypox virus, MPXV, from Oct. 1 through Nov. 24, 2026."
+  - "The number of cases in the capital of Rio de Janeiro is more than 22 times higher than the number reported during the same period in 2025."
+  - "In the state of São Paulo, 128 cases have been identified from Oct.1 through Nov. 17 , which represents almost half of all cases of the disease that the state has reported this year."
+  - "The national figures are not alarming: 1,429 confirmed cases and one death as of Nov. 23 , compared to about 10,500 cases and 14 deaths in 2022."
+  - "The 2022 mpox outbreak was caused by clade IIb."
 
-## 30. Capping nanovials that trap cells and their secretions for analysis enables new bioscience experiments
-- 점수 5 · CUT · Phys.org · 2026-11-17
-- https://phys.org/news/2026-11-capping-nanovials-cells-secretions-analysis.html
+## 30. Ancient Cahokia transformed amid droughts and flooding—climate change is reshaping modern communities in similar ways
+- 점수 6 · WEIGH · Phys.org / The Conversation · 2026-11-25
+- https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A UCLA-developed technology that is like a test tube but on the cellular scale has led to a number of biomedical discoveries in recent years, including revelations about cancer, heart disease and the genetic levers that push cells to release proteins.
+- 요약: More than 800 years ago, a combination of environmental and societal challenges led some Mississippian people to leave Cahokia, a massive archaeological site that was once home to 20,000 people near modern-day St. Louis. Just south of Cahokia, another archaeological site is taking shape at Centrevil
 
 ## 31. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
 - 점수 5 · CUT · Phys.org · 2026-11-18
@@ -280,7 +284,13 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappe
 
-## 37. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
+## 37. Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice
+- 점수 5 · SCALE · Phys.org · 2026-11-19
+- https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.
+
+## 38. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
 - 점수 5 · WEIGH · The Conversation · 2026-11-21
 - https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041
 - 대상: 4 adults
@@ -291,16 +301,6 @@
   - "That number has since risen to 63 million – about 1 in 4 adults."
   - "The care family members provide today, as it was in 2018, is mostly unpaid."
   - "That doesn’t mean it’s not valuable work – estimates put its value at about US$1 trillion ."
-
-## 38. Forms, phone calls and portals: The hidden work that keeps American institutions functioning burdens parents most
-- 점수 4 · PRESS · The Conversation · 2026-11-17
-- https://theconversation.com/forms-phone-calls-and-portals-the-hidden-work-that-keeps-american-institutions-functioning-burdens-parents-most-288255
-- 주의: DOI 못 찾음
-- 요약: Insurers, schools, doctors, benefits agencies – each has its own rules, databases, deadlines and definitions. Subtle misalignments compound over time, and the hassle falls heaviest on some groups.
-  - "In 2018 the state consolidated benefit application forms across five programs, reducing length and complexity."
-  - "The original combined application packet was an overwhelming 1,000 questions and over 64 pages long."
-  - "The streamlined application process, which could be completed in about 20 minutes, not only improved the process for those applying."
-  - "It reduced errors, cut down worker processing time and saved caseworkers 200,000 hours per year, presumably saving tax dollars along the way."
 
 ## 39. Florida’s flooding déjà vu is a sign of things to come – so, who is most at risk and how can they prepare?
 - 점수 4 · PRESS · The Conversation · 2026-11-19
