@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 889건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 942건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Ozempic and Mounjaro may have a surprising effect on your brain
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-17
@@ -52,7 +52,19 @@
   - "Of those participants, 715 had the required bone density measurements along with brain MRI results and cognitive testing, making them eligible for the final study group."
   - "Follow-up imaging data were available for 408 participants for white matter hyperintensities and 405 participants for fractional anisotropy, allowing researchers to examine how these brain changes progressed over time."
 
-## 6. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
+## 6. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
+- 점수 8 · CUT · ScienceDaily 전체 · 2026-11-25
+- https://www.sciencedaily.com/releases/2026/11/261123005337.htm
+- DOI: 10.1002/ADVS.78225
+- 주의: 동물 실험, 과장 의심 단어
+- 요약: A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protec
+  - "Remarkably, the approach relies on mRNA technology similar to that used in COVID-19 vaccines."
+  - ""What's exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic." The study, published in Advanced Science , used mRNA to stimulate production of brain-derived neurotrophic factor (BDNF)."
+  - "To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice."
+  - "Treatment continued twice a week."
+  - ""However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology." "Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves."
+
+## 7. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
 - 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-19
 - https://www.sciencedaily.com/releases/2026/11/261117033925.htm
 - DOI: 10.1126/science.aee0658
@@ -63,7 +75,7 @@
   - "And once the cliff height reaches the critical threshold, usually 100 meters, it should initiate this runaway effect of ice sheet retreat." Needell and her colleagues wanted to test those predictions against a much larger collection of real-world measurements."
   - "To investigate, the researchers turned to NASA's Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2)."
 
-## 7. Too much exercise could leave your brain stuck in overdrive
+## 8. Too much exercise could leave your brain stuck in overdrive
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-19
 - https://www.sciencedaily.com/releases/2026/11/261117033923.htm
 - DOI: 10.1016/j.neuroscience.2026.08.006
@@ -73,7 +85,7 @@
   - "In this group, both dopamine and TyrH remained elevated for 48 hours after the performance test, even though the mice were in their recovery period."
   - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
-## 8. Two massive stars may be secretly feeding the Milky Way’s supermassive black hole
+## 9. Two massive stars may be secretly feeding the Milky Way’s supermassive black hole
 - 점수 7 · WEIGH · ScienceDaily 전체 · 2026-11-20
 - https://www.sciencedaily.com/releases/2026/11/261119194605.htm
 - DOI: 10.1051/0004-6361/202555808
@@ -84,7 +96,7 @@
   - "Soon afterward, researchers examining older observations recognized another similar object, G1, traveling along a closely related path."
   - "The similarities suggested that G1, G2, and G2t might not be independent objects."
 
-## 9. This simple habit is linked to a 33% lower risk of Alzheimer's
+## 10. This simple habit is linked to a 33% lower risk of Alzheimer's
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-20
 - https://www.sciencedaily.com/releases/2026/11/261118065536.htm
 - DOI: 10.1017/S0033291726105625
@@ -97,7 +109,7 @@
   - "Reading ranks as the most popular approach to stress relief, with nearly two in five adults (38%) identifying it as their preferred way to relax."
   - "A neuroscience study commissioned by The Queen's Reading Room in 2024 found that spending just five minutes reading fiction could lower stress by as much as 20%."
 
-## 10. Interstellar solar sails hit a bizarre problem at 75% of light speed
+## 11. Interstellar solar sails hit a bizarre problem at 75% of light speed
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-22
 - https://www.sciencedaily.com/releases/2026/11/261120071305.htm
 - DOI: 10.48550/arXiv.2606.04052
@@ -106,7 +118,7 @@
   - "The researchers identified an especially unusual effect once the sail reaches approximately 75% of the speed of light."
   - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
-## 11. A common blood pressure drug has a surprising effect on calorie-burning brown fat
+## 12. A common blood pressure drug has a surprising effect on calorie-burning brown fat
 - 점수 7 · CUT · ScienceDaily 전체 · 2026-11-22
 - https://www.sciencedaily.com/releases/2026/11/261119194558.htm
 - DOI: 10.1038/s41586-026-11162-7
@@ -117,47 +129,36 @@
   - "We doubled our number of patients and considered more than 500 codes, which allowed us to unearth many new insights." To investigate brown fat's relationship with human health, the researchers examined PET/CT scans from more than 100,000 patients who had undergone imaging as part of their cancer monitoring."
   - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
-## 12. An unexpected link: More coarse particles in indoor air, lower odds of Kawasaki disease
+## 13. An unexpected link: More coarse particles in indoor air, lower odds of Kawasaki disease
 - 점수 7 · CUT · MedicalXpress · 2026-11-25
 - https://medicalxpress.com/news/2026-11-unexpected-link-coarse-particles-indoor.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Kawasaki disease (KD) is an acute inflammatory condition that primarily affects children under 5. It causes inflammation of blood vessels throughout the body and can lead to serious complications, particularly affecting the coronary arteries that supply blood to the heart. Although Kawasaki disease 
 
-## 13. Wildfire smoke damages the airway's defenses, blocking one signal can shield them
+## 14. Wildfire smoke damages the airway's defenses, blocking one signal can shield them
 - 점수 6 · SCALE · MedicalXpress · 2026-11-17
 - https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: When the Palisades and Eaton wildfires tore through Los Angeles in January 2025, smoke blanketed the region and air quality plunged into the hazardous range. It was a vivid example of a growing problem: After years of improvement, wildfire smoke is pulling air quality back in the wrong direction, an
 
-## 14. Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?
+## 15. Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-alcohol-drug-abuse-suicide-europe.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In the United States, life expectancy diverged from Europe before it stopped rising during the 2010s, even before the COVID-19 pandemic. The economists Anne Case and Angus Deaton gave a name to a phenomenon that was then booming, partly explaining this trend: "deaths of despair," which have soared s
 
-## 15. For military veterans with PTSD and alcohol use disorder, MDMA-assisted therapy may be safe, effective
+## 16. For military veterans with PTSD and alcohol use disorder, MDMA-assisted therapy may be safe, effective
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-military-veterans-ptsd-alcohol-disorder.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The first study of a program that uses the drug MDMA to treat post-traumatic stress disorder (PTSD) plus alcohol use disorder in military veterans has concluded with promising results.
 
-## 16. Brain clock gene influences alcohol consumption differently in female and male mice, study shows
+## 17. Brain clock gene influences alcohol consumption differently in female and male mice, study shows
 - 점수 6 · DOSE · MedicalXpress · 2026-11-18
 - https://medicalxpress.com/news/2026-11-brain-clock-gene-alcohol-consumption.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A gene that helps regulate the body's internal clock may influence alcohol consumption differently in males and females, according to new Concordia research.
-
-## 17. Scientists create a remarkable new rechargeable battery using vitamin B12
-- 점수 6 · SCALE · ScienceDaily 전체 · 2026-11-18
-- https://www.sciencedaily.com/releases/2026/11/261117033909.htm
-- DOI: 10.1039/d6ta02773c
-- 요약: Scientists have found a surprising new use for vitamin B12, developing a rechargeable battery that uses the essential nutrient to help generate and store electricity. The prototype survived up to 250 charging cycles and could open the door to safer, cheaper, and more environmentally friendly alterna
-  - "Scientists have found an unexpected new use for vitamin B12, a nutrient best known for its importance to human health."
-  - "Vitamin B12 is essential for normal bodily function and is naturally present in animal products."
-  - "In addition to its established applications in medicine, nutrition, and veterinary care, B12 is used to address certain nutritional deficiencies."
-  - "By using the vitamin to support the chemical reactions inside a battery, they have developed a prototype capable of completing up to 250 charging and discharging cycles."
-  - "The new battery was developed by the Physical Chemistry research group (FQM-204) at the University of Córdoba's Chemical Institute for Energy and the Environment (IQUEMA)."
 
 ## 18. Two measures to help prevent obesity in young people
 - 점수 6 · PRESS · MedicalXpress · 2026-11-19
@@ -222,7 +223,14 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Even before the 2026 midterm elections delivered a clear message about cost-of-living concerns, many states had been raising their minimum wage on their own as one way to increase workers' purchasing power. And some have taken a more targeted approach, setting wage floors for specific industries.
 
-## 28. Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve
+## 28. Self-assembling nanocarriers show promise for delivering CRISPR to tumors and slowing growth
+- 점수 6 · CUT · Phys.org · 2026-11-25
+- https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A self-assembling supramolecular nanocarrier protects Cas9 RNPs from degradation, enhances systemic delivery and preferential tumor accumulation, and enables pH-responsive intracellular release. Developed by researchers at the Institute of Science Tokyo, this platform achieved a 37.2% indel frequenc
+
+## 29. Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve
 - 점수 5 · PRESS · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html
 - 주의: 동물 실험
@@ -230,53 +238,47 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A highly lethal pathogen is responsible for the mass death of tadpoles and the rapid decline of amphibian populations in the Atlantic Forest. A group of researchers demonstrate for the first time in South America that recurring ranavirus outbreaks caused an 83% drop in monkey frog (Phyllomedusa dist
 
-## 29. Capping nanovials that trap cells and their secretions for analysis enables new bioscience experiments
+## 30. Capping nanovials that trap cells and their secretions for analysis enables new bioscience experiments
 - 점수 5 · CUT · Phys.org · 2026-11-17
 - https://phys.org/news/2026-11-capping-nanovials-cells-secretions-analysis.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A UCLA-developed technology that is like a test tube but on the cellular scale has led to a number of biomedical discoveries in recent years, including revelations about cancer, heart disease and the genetic levers that push cells to release proteins.
 
-## 30. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
+## 31. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-boys-girls-unsurprising.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The holiday season is a time for gatherings with family and friends—as well as for less festive but necessary duties: organizing, preparing for and cleaning up after these gatherings. These are examples of service tasks that, according to previous research, women and girls are expected to perform.
 
-## 31. Cooking Thanksgiving dinner could create an indoor air quality problem inside your home, expert says
+## 32. Cooking Thanksgiving dinner could create an indoor air quality problem inside your home, expert says
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-cooking-thanksgiving-dinner-indoor-air.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The Thanksgiving turkey may be the centerpiece of the holiday meal, but cooking it, along with all the sides and other dishes, can invite an unexpected guest: indoor air pollution.
 
-## 32. Tiny parasite holds big clues to help protect threatened estuarine turtles
+## 33. Tiny parasite holds big clues to help protect threatened estuarine turtles
 - 점수 5 · PRESS · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-tiny-parasite-big-clues-threatened.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The diamondback terrapin is North America's only turtle species that lives exclusively in brackish coastal waters, such as salt marshes and estuaries. Its populations face threats from historical overharvesting and contemporary habitat loss, coastal development and accidental capture in crab traps.
 
-## 33. How restaurants can make sustainable dining choices easier while still making a profit
+## 34. How restaurants can make sustainable dining choices easier while still making a profit
 - 점수 5 · SCALE · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-restaurants-sustainable-dining-choices-easier.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Canadians are eating out less. A 2025 survey found 57% of them are cooking at home more often to save money, while 69% of restaurant operators say customers are dining out less because of affordability. According to Restaurants Canada, 41% of operators are either losing money or breaking even.
 
-## 34. How do human lifestyles affect the gut microbiome of our canine companions?
+## 35. How do human lifestyles affect the gut microbiome of our canine companions?
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-human-lifestyles-affect-gut-microbiome.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Dogs have been living side by side with humans for millennia, but a new study underscores how much we have yet to learn about man's best friend. The study, which looked at hundreds of dogs across four nations, found that the lifestyles of pet owners appear to play a significant role in determining w
 
-## 35. Strange radio signals from space could come from a dead star
+## 36. Strange radio signals from space could come from a dead star
 - 점수 5 · 형식? · Phys.org · 2026-11-19
 - https://phys.org/news/2026-11-strange-radio-space-dead-star.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappe
-
-## 36. Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice
-- 점수 5 · SCALE · Phys.org · 2026-11-19
-- https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.
 
 ## 37. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
 - 점수 5 · WEIGH · The Conversation · 2026-11-21

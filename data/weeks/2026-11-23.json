@@ -7,21 +7,21 @@
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 6
+   "span_days": 7
   },
   {
    "feed": "ScienceDaily 별난연구",
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 29
+   "span_days": 30
   },
   {
    "feed": "ScienceDaily 뇌·마음",
    "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
    "ok": true,
    "items": 60,
-   "span_days": 28
+   "span_days": 27
   },
   {
    "feed": "ScienceDaily 동식물",
@@ -250,6 +250,46 @@
     "훅: surpris",
     "생활소재: aging, dementia, brain"
    ]
+  },
+  {
+   "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261123005337.htm",
+   "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+   "date": "2026-11-25",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-25",
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
+   ],
+   "format": "CUT",
+   "catch": [
+    "동물 실험",
+    "과장 의심 단어"
+   ],
+   "score": 8,
+   "why": [
+    "형식 CUT",
+    "생활소재: aging, memory, alzheimer"
+   ],
+   "text": "Researchers at the University of Sydney have created experimental nose drops that significantly improved learning and memory in older mice, bringing their performance back to levels seen in younger animals. The treatment also prevented severe memory decline in mice genetically engineered to develop Alzheimer's-like disease. Remarkably, the approach relies on mRNA technology similar to that used in COVID-19 vaccines. The discovery, led by Professor Greg Neely at the University of Sydney's Charles Perkins Centre, could open a new path toward treating conditions that affect the brain. Potential applications extend beyond Alzheimer's disease to other neurodegenerative disorders, stroke, traumatic brain injury, and rare genetic and developmental conditions. \"If we can proceed quickly to clinical trials in humans, this approach could represent a world-first non-invasive delivery system to treat Alzheimer's that bypasses the blood-brain barrier,\" Professor Neely said. The idea behind the research has an unusual origin. The team drew inspiration from Daniel Keyes' science fiction story Flowers for Algernon , which explores the limits of human intelligence through experiments designed to increase intelligence in laboratory mice and people. The treatment works by delivering messenger RNA (mRNA), a type of genetic instruction that tells cells how to produce specific proteins. These instructions are enclosed in tiny fat-based particles called lipid nanoparticles (LNPs), which protect the mRNA and help it enter cells. Once delivered through the nose, the mRNA instructs cells to manufacture therapeutic proteins capable of reaching the brain. In effect, the nasal tissue becomes a small drug-producing factory, creating substances that can support brain function. \"In aged mice, we saw learning and memory significantly increased, returning animal cognition to its youthful prime,\" Professor Neely said. \"What's exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic.\" The study, published in Advanced Science , used mRNA to stimulate production of brain-derived neurotrophic factor (BDNF). This naturally occurring protein helps neurons survive, form connections, and adapt as the brain learns and stores memories. Levels of BDNF tend to decline with aging and are also associated with Alzheimer's disease. The results were striking. Older mice that received the nose drops performed about as well as young mice in standardized tests of working memory, spatial memory, and object recognition. These tests measure abilities such as remembering recently encountered information, navigating surroundings, and recognizing familiar objects. Untreated older animals showed the expected age-related deterioration in cognitive performance. To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice. These animals carry genetic mutations that cause them to develop Alzheimer's-like brain changes and memory problems unusually early in life. In this model, signs of Alzheimer's-related brain pathology can typically be detected by two months of age, with measurable cognitive decline appearing around four months. The researchers began administering the BDNF-producing mRNA nose drops when the mice were two months old, around the time the disease-related changes first appeared. Treatment continued twice a week. By four months of age, the treated mice showed no further cognitive decline, unlike the severe deterioration normally seen in this model. The findings suggest that supporting brain cells early in the disease process may help preserve cognitive abilities. One of the most intriguing results was what the treatment did not do. Although memory and learning were protected, the researchers found no reduction in amyloid plaques, the abnormal protein deposits that accumulate in the brains of people with Alzheimer's disease. That distinction could be important because many existing Alzheimer's treatments aim to remove amyloid. The new approach instead appears to help neurons remain healthy and functional despite the presence of these deposits. If the same effect can eventually be demonstrated in people, the two treatment strategies might be used together. \"Current Alzheimer's treatments largely focus on clearing these amyloid plaques,\" Professor Neely said. \"However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology.\" \"Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves. It raises the possibility these therapies could eventually work alongside each other.\" Getting medicines into the brain is one of the biggest obstacles in developing treatments for neurological diseases. The blood-brain barrier acts as a protective filter, preventing many potentially harmful substances in the bloodstream from entering delicate brain tissue. Unfortunately, it also blocks numerous drugs that scientists would like to use to treat brain disorders. The nose offers a possible alternative route. Connections between the nasal cavity and the central nervous system may allow certain therapeutic substances to reach the brain without requiring surgery or injections directly into the brain or spinal cord. \"This is a very exciting proof of concept for a method to deliver mRNA-encoded cargo to the nervous system directly through the nose,\" Professor Neely said. The team adapted mRNA technology built on the same clinically validated BioNTech platform used for COVID-19 vaccination. Instead of delivering instructions that prompt an immune response, the modified system provides instructions for producing proteins intended to benefit the brain. First author Dr. Maria Bergamasco, from the University of Sydney's School of Life and Environmental Sciences, explained that the findings illustrate how mRNA technology could be used for purposes far beyond preventing infectious diseases. \"The success of mRNA vaccines showed these systems can safely deliver genetic instructions to cells,\" Dr. Bergamasco said. \"We wanted to see whether we could adapt that technology to deliver beneficial proteins to the brain in a completely non-invasive way.\" The researchers also detected increased neurogenesis, the process through which new neurons are formed, in the hippocampus. This part of the brain plays an essential role in learning and memory and is particularly vulnerable to damage associated with Alzheimer's disease. The increase in new neurons provides another possible explanation for the improvements in cognitive performance. By promoting the health and adaptability of brain cells, BDNF may help maintain the neural networks needed for learning and remembering information. The nose drops also appeared to be well tolerated. Researchers reported no major side effects in the mice during the study, although further testing will be needed to establish long-term safety. Despite the encouraging results, Professor Neely emphasized that the treatment remains experimental. So far, its effectiveness has been demonstrated only in mice, and additional animal safety studies are required before clinical testing can begin. \"Before we can trial this therapy in patients, we need to perform a series of safety studies in animals,\" he said. \"It is a very promising pathway, but human noses are different from mouse noses, so we will need to test our drugs in humans before we know whether it will work.\" That anatomical difference is a significant consideration. A delivery method that successfully transports therapeutic substances from the nasal cavity to the brain in mice ",
+   "doi": [
+    "10.1002/ADVS.78225"
+   ],
+   "journal_ref": "Journal Reference : Maria Bergamasco, Hannah Scarborough, Anna Ponta, Teleri Clark, Scott B. Cohen, Lipin Loo, Kazuma Fujikake, Rebecca Carr, R.M. Damian Holsinger, G.Gregory. Neely. Bdnf mRNA‐LNP Drives Nasal Epithelial BDNF Production and Improves Cognition in Aged and Alzheimer\\'s Disease Mouse Models . Advanced Science , 2026; DOI: 10.1002/ADVS.78225",
+   "facts": [
+    "Remarkably, the approach relies on mRNA technology similar to that used in COVID-19 vaccines.",
+    "\"What's exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic.\" The study, published in Advanced Science , used mRNA to stimulate production of brain-derived neurotrophic factor (BDNF).",
+    "To investigate whether the treatment might also protect against Alzheimer's disease, researchers turned to a widely used laboratory model known as 5XFAD mice.",
+    "Treatment continued twice a week.",
+    "\"However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology.\" \"Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves.",
+    "The team adapted mRNA technology built on the same clinically validated BioNTech platform used for COVID-19 vaccination.",
+    "Researchers Just Sent an Unblockable Message Through a Solid Wall Using Gravity Your Personality May Be Partly Written in Your DNA, Massive Study of 1 Million People Reveals A Tiny Region of the Brain Could Hold the Key to Understanding Early Alzheimer’s Symptoms Two Overlooked “Forever Chemicals” Linked To More Than Double the Risk of Liver Cancer"
+   ],
+   "sample": []
   },
   {
    "title": "Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist",
@@ -497,6 +537,8 @@
    "date": "2026-11-25",
    "source": "MedicalXpress",
    "first_seen": "2026-11-25",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-unexpected-link-coarse-particles-indoor.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -510,8 +552,7 @@
     "형식 CUT",
     "훅: unexpected",
     "생활소재: children"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-unexpected-link-coarse-particles-indoor.html"
+   ]
   },
   {
    "title": "Wildfire smoke damages the airway's defenses, blocking one signal can shield them",
@@ -609,47 +650,6 @@
    "why": [
     "형식 DOSE",
     "생활소재: alcohol, brain, mice"
-   ]
-  },
-  {
-   "title": "Scientists create a remarkable new rechargeable battery using vitamin B12",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261117033909.htm",
-   "summary": "Scientists have found a surprising new use for vitamin B12, developing a rechargeable battery that uses the essential nutrient to help generate and store electricity. The prototype survived up to 250 charging cycles and could open the door to safer, cheaper, and more environmentally friendly alternatives to lithium-ion batteries.",
-   "date": "2026-11-18",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-19",
-   "text": "Scientists have found an unexpected new use for vitamin B12, a nutrient best known for its importance to human health. Researchers at the University of Córdoba have incorporated the vitamin into a rechargeable battery, demonstrating for the first time that it can serve as a catalyst in this type of energy storage system. Vitamin B12 is essential for normal bodily function and is naturally present in animal products. The vitamin is produced by certain bacteria, which occur in nature and are also grown commercially to supply the food and pharmaceutical industries. In addition to its established applications in medicine, nutrition, and veterinary care, B12 is used to address certain nutritional deficiencies. It has also become popular alongside other B vitamins as a hangover remedy because of its potential to help reduce fatigue. Now, scientists are exploring an entirely different application. By using the vitamin to support the chemical reactions inside a battery, they have developed a prototype capable of completing up to 250 charging and discharging cycles. The new battery was developed by the Physical Chemistry research group (FQM-204) at the University of Córdoba's Chemical Institute for Energy and the Environment (IQUEMA). It uses zinc and oxygen from the surrounding air to produce electricity, with vitamin B12, also called cobalamin, playing a crucial role in the process. To make the design work, the researchers attached vitamin B12 molecules to single-walled carbon nanotubes. The vitamin contains cobalt (III) at its center, which helps drive the electrochemical reactions needed for the battery to function. The team has previously experimented with natural molecules as battery catalysts, including hemoglobin and catalase. These substances contain iron (II) and iron (III), respectively. Vitamin B12 represents the group's third effort to use a biological molecule for this purpose, but it has delivered an important advance: a battery that can be recharged repeatedly, completing as many as 250 cycles. One of the biggest obstacles was keeping vitamin B12 inside the battery. Because the vitamin dissolves readily in water, it would normally be difficult to retain in a system that relies on a water-based electrolyte. The researchers overcame this problem by securing the vitamin to carbon nanotubes, using an approach inspired by how amino acids connect to form proteins. Manuel Cano Luna, one of the study's authors, explained that \"we looked at the properties we can find in naturally occurring materials to use them in new batteries,\" while describing the team's search for useful biological compounds. Their attachment technique imitates \"the process by which amino acids bind together in proteins.\" Alongside Cano Luna, the research team included Valentín García Caballero, Miguel López León, Pablo Gómez Argudo, Luis Camacho Delgado, José Miguel Rodríguez Mellado, María Teresa Martín Romero, José Abad López, and Antonio Jesús Fernández Romero. The findings, published in the Journal of Materials Chemistry A , could contribute to the development of battery technologies that depend less on the materials used in conventional lithium-ion batteries. Although lithium-ion batteries are widely used, obtaining their raw materials can involve significant economic, environmental, and social challenges. Zinc-air batteries offer a potential alternative because they can store substantial amounts of energy relative to their weight while relying on materials that are more readily available. Zinc is abundant and recyclable, and these batteries use oxygen from the surrounding atmosphere as part of their energy-producing reactions. Because they draw oxygen from the air rather than storing all the necessary reactants internally, they can also be lighter than other battery designs. This advantage has helped make zinc-air batteries increasingly useful in compact electronic devices, particularly hearing aids. Another benefit is their use of non-flammable, water-based electrolytes, which can reduce fire risks and improve safety. A major challenge in developing rechargeable zinc-air batteries is finding a catalyst that can efficiently support the chemical reactions involved in both producing and storing electricity. During discharge, the battery converts chemical energy into electrical energy. Recharging requires the relevant chemical reactions to proceed in the opposite direction. A suitable catalyst must therefore be effective in both processes. According to researcher Antonio Jesús Fernández Romero, vitamin B12 \"has proven to meet the necessary conditions to act as a good catalyst because, during discharge, it catalyzes the reduction of oxygen to water and, during recharging, it promotes the production of oxygen.\" This ability to support both reactions is what makes the vitamin particularly promising for rechargeable zinc-air battery technology. The successful prototype offers a new direction for researchers seeking affordable, sustainable alternatives to existing energy storage technologies. If the approach can be developed further, batteries using vitamin B12 catalysts could eventually help address one of the biggest challenges facing renewable energy: storing excess electricity generated by sources such as solar and wind power for use when production falls. Although the technology remains at the research stage, demonstrating up to 250 charge and discharge cycles shows that a familiar biological molecule can play an unexpected role in rechargeable battery design. The discovery adds to growing efforts to use naturally occurring substances to create safer, lighter, and more sustainable ways to store energy. Materials provided by University of Córdoba . Note: Content may be edited for style and length. New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion? A Controversial Theory Could Explain Earth’s Mass Extinctions Heart Stents May Not Prevent Heart Attacks or Early Death, Landmark Study Finds",
-   "facts": [
-    "Scientists have found an unexpected new use for vitamin B12, a nutrient best known for its importance to human health.",
-    "Vitamin B12 is essential for normal bodily function and is naturally present in animal products.",
-    "In addition to its established applications in medicine, nutrition, and veterinary care, B12 is used to address certain nutritional deficiencies.",
-    "By using the vitamin to support the chemical reactions inside a battery, they have developed a prototype capable of completing up to 250 charging and discharging cycles.",
-    "The new battery was developed by the Physical Chemistry research group (FQM-204) at the University of Córdoba's Chemical Institute for Energy and the Environment (IQUEMA).",
-    "It uses zinc and oxygen from the surrounding air to produce electricity, with vitamin B12, also called cobalamin, playing a crucial role in the process.",
-    "To make the design work, the researchers attached vitamin B12 molecules to single-walled carbon nanotubes.",
-    "Vitamin B12 represents the group's third effort to use a biological molecule for this purpose, but it has delivered an important advance: a battery that can be recharged repeatedly, completing as many as 250 cycles.",
-    "One of the biggest obstacles was keeping vitamin B12 inside the battery.",
-    "If the approach can be developed further, batteries using vitamin B12 catalysts could eventually help address one of the biggest challenges facing renewable energy: storing excess electricity generated by sources such as solar and wind power for use when production falls."
-   ],
-   "doi": [
-    "10.1039/d6ta02773c"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Valentín García-Caballero, Miguel López-León, Pablo G. Argudo, Luis Camacho, José M. Rodríguez Mellado, Maria T. Martín-Romero, José Abad, Antonio J. Fernández Romero, Manuel Cano. A vitamin B12-based air electrode for high-performance rechargeable zinc–air batteries . Journal of Materials Chemistry A , 2026; 14 (50): 34201 DOI: 10.1039/d6ta02773c",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261117033909.htm"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 6,
-   "why": [
-    "형식 SCALE",
-    "훅: surpris"
    ]
   },
   {
@@ -886,6 +886,8 @@
    "date": "2026-11-24",
    "source": "Phys.org",
    "first_seen": "2026-11-25",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org",
     "The Conversation"
@@ -900,8 +902,32 @@
    "why": [
     "형식 SCALE",
     "2곳 보도"
+   ]
+  },
+  {
+   "title": "Self-assembling nanocarriers show promise for delivering CRISPR to tumors and slowing growth",
+   "link": "https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html",
+   "key": "https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html",
+   "summary": "A self-assembling supramolecular nanocarrier protects Cas9 RNPs from degradation, enhances systemic delivery and preferential tumor accumulation, and enables pH-responsive intracellular release. Developed by researchers at the Institute of Science Tokyo, this platform achieved a 37.2% indel frequency at the luciferase target locus in HeLa-Luc tumor tissue in mice, compared with 1.5% with free RNPs, and suppressed tumor growth in separate mouse models. These findings support the further development of systemic CRISPR-based cancer therapies.",
+   "date": "2026-11-25",
+   "source": "Phys.org",
+   "first_seen": "2026-11-25",
+   "sources": [
+    "Phys.org"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html"
+   "links": [
+    "https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html"
+   ],
+   "format": "CUT",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 6,
+   "why": [
+    "형식 CUT",
+    "생활소재: mouse, mice"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html"
   },
   {
    "title": "Deadly virus reduces tree frog population by 83% in Atlantic Forest reserve",
@@ -1097,30 +1123,6 @@
    "score": 5,
    "why": [
     "훅: strange, mystery"
-   ]
-  },
-  {
-   "title": "Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice",
-   "link": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "key": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "summary": "In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.",
-   "date": "2026-11-19",
-   "source": "Phys.org",
-   "first_seen": "2026-11-19",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "생활소재: mice"
    ]
   },
   {
