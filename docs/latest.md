@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 892건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 940건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common medications may secretly rewire your gut, with effects lasting for years
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-23
@@ -248,47 +248,47 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: More than 800 years ago, a combination of environmental and societal challenges led some Mississippian people to leave Cahokia, a massive archaeological site that was once home to 20,000 people near modern-day St. Louis. Just south of Cahokia, another archaeological site is taking shape at Centrevil
 
-## 31. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
+## 31. Artificial photosynthesis uses waste CO₂ to grow protein-rich edible fungus in seven days
+- 점수 6 · SCALE · Phys.org · 2026-11-26
+- https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: While many people think first of meat when they think about dietary protein, most protein ultimately depends on plants, since livestock feed on grass, hay and other plants. Meeting the demand for protein is taxing on the environment, requiring massive amounts of land and water while creating greenho
+
+## 32. Certain fungi turn specialized plant cells into water-carrying cells using one protein
+- 점수 6 · WEIGH · Phys.org · 2026-11-26
+- https://phys.org/news/2026-11-fungi-specialized-cells-protein.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Can a pathogen that causes damage to a plant also make that plant more resilient to drought? An international research team led by the University of Göttingen has investigated this apparent paradox. The researchers discovered how certain fungi promote the formation of new water-conducting cells in p
+
+## 33. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-boys-girls-unsurprising.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The holiday season is a time for gatherings with family and friends—as well as for less festive but necessary duties: organizing, preparing for and cleaning up after these gatherings. These are examples of service tasks that, according to previous research, women and girls are expected to perform.
 
-## 32. Cooking Thanksgiving dinner could create an indoor air quality problem inside your home, expert says
+## 34. Cooking Thanksgiving dinner could create an indoor air quality problem inside your home, expert says
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-cooking-thanksgiving-dinner-indoor-air.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The Thanksgiving turkey may be the centerpiece of the holiday meal, but cooking it, along with all the sides and other dishes, can invite an unexpected guest: indoor air pollution.
 
-## 33. Tiny parasite holds big clues to help protect threatened estuarine turtles
+## 35. Tiny parasite holds big clues to help protect threatened estuarine turtles
 - 점수 5 · PRESS · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-tiny-parasite-big-clues-threatened.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: The diamondback terrapin is North America's only turtle species that lives exclusively in brackish coastal waters, such as salt marshes and estuaries. Its populations face threats from historical overharvesting and contemporary habitat loss, coastal development and accidental capture in crab traps.
 
-## 34. How restaurants can make sustainable dining choices easier while still making a profit
+## 36. How restaurants can make sustainable dining choices easier while still making a profit
 - 점수 5 · SCALE · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-restaurants-sustainable-dining-choices-easier.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Canadians are eating out less. A 2025 survey found 57% of them are cooking at home more often to save money, while 69% of restaurant operators say customers are dining out less because of affordability. According to Restaurants Canada, 41% of operators are either losing money or breaking even.
 
-## 35. How do human lifestyles affect the gut microbiome of our canine companions?
+## 37. How do human lifestyles affect the gut microbiome of our canine companions?
 - 점수 5 · CUT · Phys.org · 2026-11-18
 - https://phys.org/news/2026-11-human-lifestyles-affect-gut-microbiome.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Dogs have been living side by side with humans for millennia, but a new study underscores how much we have yet to learn about man's best friend. The study, which looked at hundreds of dogs across four nations, found that the lifestyles of pet owners appear to play a significant role in determining w
-
-## 36. Strange radio signals from space could come from a dead star
-- 점수 5 · 형식? · Phys.org · 2026-11-19
-- https://phys.org/news/2026-11-strange-radio-space-dead-star.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappe
-
-## 37. Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice
-- 점수 5 · SCALE · Phys.org · 2026-11-19
-- https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.
 
 ## 38. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
 - 점수 5 · WEIGH · The Conversation · 2026-11-21

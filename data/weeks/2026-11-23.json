@@ -14,7 +14,7 @@
    "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
    "ok": true,
    "items": 60,
-   "span_days": 29
+   "span_days": 30
   },
   {
    "feed": "ScienceDaily 뇌·마음",
@@ -28,14 +28,14 @@
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 39
+   "span_days": 41
   },
   {
    "feed": "ScienceDaily 건강",
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 11
+   "span_days": 12
   },
   {
    "feed": "Phys.org",
@@ -258,24 +258,7 @@
    "date": "2026-11-25",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-26",
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261124055854.htm"
-   ],
-   "format": "DOSE",
-   "catch": [],
-   "score": 8,
-   "why": [
-    "형식 DOSE",
-    "생활소재: sleep, aging, dementia"
-   ],
    "text": "Adults age 65 and older who have dementia or other cognitive disorders are particularly vulnerable to the harmful effects of medications used to treat anxiety, sleep disturbances, psychosis, and other conditions affecting the central nervous system. Potential consequences include more emergency room visits, longer and more frequent hospital stays, declining mental health, and an increased risk of premature death. New research from the University at Buffalo (UB) offers some encouraging news, however. Between 2011 and 2022, the proportion of older adults with cognitive disorders taking medications that could impair their cognitive function decreased significantly. After analyzing data from 2,796 older adults with cognitive disorders who lived independently, researchers found that exposure to potentially inappropriate medications fell from 39.3% in 2011 to 29.3% in 2022. \"This is a population with some mental issues that relate to the central nervous system. These drugs also act on the central nervous system, so they can be too much for older adults if inappropriately used,\" says Haowen Hsu, PharmD, a postdoctoral fellow in the Department of Pharmacy Practice at the School of Pharmacy and Pharmaceutical Sciences and first author of the study, published in the Journal of the American Geriatrics Society . Older adults who have spent years taking benzodiazepines such as Xanax for anxiety or sleep medications such as Ambien may benefit from a medically supervised reduction in dosage or gradual discontinuation. These medications can negatively affect cognitive function, balance, and coordination. \"A central word for patients in this age group is 'deprescribing,' which means, for example, removing inappropriate medications and decreasing the frequency or the dosage. In some cases, it means replacing the current medication with a milder alternative,\" Hsu says. \"This is why it's so important for health care providers to work closely with community pharmacists and homecare nurses to optimize medication safety.\" To identify potentially problematic drugs, the research team consulted the American Geriatrics Society's Beers Criteria, which identifies approximately 100 medications that may pose risks to older adults. The researchers then concentrated specifically on medications that could present additional dangers for people with diagnosed cognitive disorders. Using data from the Medical Expenditure Panel Survey, the team examined a sample representing approximately 29.7 million older Americans with cognitive disorders over the period from 2011 to 2022. They compared individuals prescribed at least one potentially inappropriate medication with those who had not received any of these drugs. Although the study did not examine what caused the decline in exposure to potentially harmful medications, Hsu points to growing awareness among researchers and clinicians over the past two decades. The gradual but sustained improvement may reflect broader advances in geriatric medicine and efforts to make prescription drug use safer. \"We were happy to see the percentages of harm decline over that 11-year period,\" he says. \"However, one-third of our target population is still exposed to these harmful medications, which isn't good.\" Older adults, even those without cognitive disorders, are particularly susceptible to harmful drug interactions and inappropriate prescriptions. In some cases, these complications can increase the risk of death. These dangers are a central focus of Team Alice, an ongoing interdisciplinary research initiative at the University at Buffalo dedicated to medication safety. Team Alice takes its name from Alice Brennan, who died in 2009 following a prescription for a muscle relaxant identified as potentially inappropriate under the Beers Criteria. The prescribing error went unrecognized within the health care system, and Brennan died following six weeks of preventable complications. Her daughter, Mary Brennan-Taylor, shared her mother's experience with University at Buffalo researchers in the hope of bringing about systemic changes that would spare other patients and families from similar harm. Hsu began the new study shortly after joining the university's pharmacy school and Team Alice, where he works in the UB Patient Safety Learning Laboratory. \"This work extends a series of national analyses our group has published on potentially inappropriate medications, quality of life, and health care use in older adults,\" says David Jacobs, PharmD, PhD, associate professor of pharmacy practice and a principal investigator on Team Alice. \"It is especially important as older adults with cognitive disorders are the least able to tolerate medications that worsen memory or thinking, yet nearly one in three are still receiving them. Most of these patients have a regular source of care so these medications can be identified and addressed with their care team.\" Other contributors to the study included Team Alice's fellow principal investigators Ranjit Singh, MD, associate professor and interim chair of the Department of Family Medicine at UB's Jacobs School of Medicine and Biomedical Sciences, and Robert Wahler, PharmD, clinical associate professor of pharmacy practice. Collin Clark, PharmD, clinical associate professor of pharmacy practice, and Steven Feuerstein, an information systems analyst at the Jacobs School, also contributed to the research. The findings underscore the value of thorough medication reviews during routine outpatient appointments. The researchers also suggest incorporating clinical assessment tools such as the Drug Burden Index into acute and outpatient care. Such tools can help health care professionals assess the combined effects of medications that act on the central nervous system and potentially prevent avoidable complications. Further research is needed to establish whether improving medication use can enhance quality of life and reduce hospital admissions and emergency room visits among older adults experiencing cognitive difficulties. The findings arrive at a significant moment in global demographic history. According to a recent report from the U.S. Census Bureau, adults age 65 and older now outnumber children from birth through age 5 worldwide for the first time in human history. However, greater longevity does not necessarily translate into more years of good health. The same report indicates that nearly 75% of adults age 65 and older have at least two chronic health conditions. Managing multiple illnesses often requires taking more medications, some of which may have detrimental effects on the aging body and brain. \"This is an issue that has been building for decades, but the growth of the older adult population has arrived sooner than we expected,\" Hsu says. \"This means that health care professionals need to pay closer attention than ever to medication safety, especially for older adults experiencing cognitive decline or other complex health concerns.\" Materials provided by University at Buffalo . Note: Content may be edited for style and length. Researchers Just Sent an Unblockable Message Through a Solid Wall Using Gravity Your Personality May Be Partly Written in Your DNA, Massive Study of 1 Million People Reveals A Tiny Region of the Brain Could Hold the Key to Understanding Early Alzheimer’s Symptoms Two Overlooked “Forever Chemicals” Linked To More Than Double the Risk of Liver Cancer",
-   "doi": [
-    "10.1111/jgs.70607"
-   ],
-   "journal_ref": "Journal Reference : Haowen Hsu, Collin M. Clark, Steven Feuerstein, Robert G. Wahler, Ranjit Singh, David M. Jacobs. Cognitive Potentially Inappropriate Medications, Quality of Life, and Healthcare Use in Older Adults With Cognitive Disorders . Journal of the American Geriatrics Society , 2026; 74 (10): 2888 DOI: 10.1111/jgs.70607",
    "facts": [
     "Adults age 65 and older who have dementia or other cognitive disorders are particularly vulnerable to the harmful effects of medications used to treat anxiety, sleep disturbances, psychosis, and other conditions affecting the central nervous system.",
     "Between 2011 and 2022, the proportion of older adults with cognitive disorders taking medications that could impair their cognitive function decreased significantly.",
@@ -288,8 +271,26 @@
     "Census Bureau, adults age 65 and older now outnumber children from birth through age 5 worldwide for the first time in human history.",
     "The same report indicates that nearly 75% of adults age 65 and older have at least two chronic health conditions."
    ],
+   "doi": [
+    "10.1111/jgs.70607"
+   ],
    "sample": [
     "2,796 adults"
+   ],
+   "journal_ref": "Journal Reference : Haowen Hsu, Collin M. Clark, Steven Feuerstein, Robert G. Wahler, Ranjit Singh, David M. Jacobs. Cognitive Potentially Inappropriate Medications, Quality of Life, and Healthcare Use in Older Adults With Cognitive Disorders . Journal of the American Geriatrics Society , 2026; 74 (10): 2888 DOI: 10.1111/jgs.70607",
+   "catch_extra": [],
+   "sources": [
+    "ScienceDaily 전체"
+   ],
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261124055854.htm"
+   ],
+   "format": "DOSE",
+   "catch": [],
+   "score": 8,
+   "why": [
+    "형식 DOSE",
+    "생활소재: sleep, aging, dementia"
    ]
   },
   {
@@ -563,6 +564,8 @@
    "date": "2026-11-26",
    "source": "MedicalXpress",
    "first_seen": "2026-11-26",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-frontal-brain-regions-reveal-unexpected.html",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -575,8 +578,7 @@
    "why": [
     "훅: unexpected, first time, wrong",
     "생활소재: brain"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-frontal-brain-regions-reveal-unexpected.html"
+   ]
   },
   {
    "title": "Trial finds no benefit from prehospital antibiotics for sepsis",
@@ -586,6 +588,8 @@
    "date": "2026-11-26",
    "source": "MedicalXpress",
    "first_seen": "2026-11-26",
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-trial-benefit-prehospital-antibiotics-sepsis",
+   "catch_extra": [],
    "sources": [
     "MedicalXpress"
    ],
@@ -598,8 +602,7 @@
    "why": [
     "형식 SCALE",
     "훅: did not"
-   ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-trial-benefit-prehospital-antibiotics-sepsis"
+   ]
   },
   {
    "title": "Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?",
@@ -937,6 +940,29 @@
    "date": "2026-11-25",
    "source": "The Conversation",
    "first_seen": "2026-11-25",
+   "text": "The city of Rio de Janeiro has reported 180 confirmed cases of mpox , an infectious disease caused by the monkeypox virus, MPXV, from Oct. 1 through Nov. 24, 2026. Skin lesions are the most common sign of the disease. They can also appear in the mouth, on the genitals or in the anal region. Other symptoms include fever, swollen glands, headache, body aches, chills and weakness. The number of cases in the capital of Rio de Janeiro is more than 22 times higher than the number reported during the same period in 2025. In the state of São Paulo, 128 cases have been identified from Oct.1 through Nov. 17 , which represents almost half of all cases of the disease that the state has reported this year. The national figures are not alarming: 1,429 confirmed cases and one death as of Nov. 23 , compared to about 10,500 cases and 14 deaths in 2022. The average, however, hides what really matters: The curve began to rise again in September, concentrated in two state capitals, with a new strain of the virus circulating that is different from the one identified in the previous outbreak. In virology, a clade is a group of viral lineages that share a common ancestor. Currently, clade Ib predominates among the samples analyzed. The 2022 mpox outbreak was caused by clade IIb. In response, the Ministry of Health purchased 25,000 doses of the vaccine against the disease and instructed states and municipalities to administer it intradermally – that is, just into the top layer of skin. This technique can increase the number of people vaccinated with the same vial fivefold. The vaccine has become even more important in the fight against mpox, because the only antiviral drug available to treat the disease has just failed two clinical trials . Clade Ib was identified in 2023 in the eastern Democratic Republic of Congo and led the World Health Organization to declare an international public health emergency in August 2024. Following a sustained decline in reported cases in Central and East Africa, the WHO declared the end of this international public health emergency. It was then that prevention, surveillance and control of the disease became part of long-term public health programs. At the Fiocruz National Institute of Infectious Diseases, or INI/Fiocruz, a leading center for the disease in Rio, 43 of the 62 samples identified between September and October 2026 were from clade Ib. Of the total, only 19 were from clade IIb. Clade Ib was first detected in Rio in March 2026. The spike in diagnoses did not occur until September. In October, the institute treated 130 people with suspected cases of the disease and confirmed 89 cases. Clade Ib arrived in Brazil via travelers. INI/Fiocruz identified the first cases with evidence of community transmission – people infected locally, with no recent travel history – in early 2026. The question is whether clade Ib would cause more severe illness. In Central Africa, it has been associated with a higher case fatality rate than that observed with clade IIb, but this difference is also linked to factors such as malnutrition, co-infections and lack of access to care. In Rio, INI/Fiocruz has not yet found any clinically significant difference between the two clades in the group of patients being monitored, which they call the Rio cohort. The profile of the most vulnerable individuals remains the same – those with severe immunosuppression, pregnant women and young children. About 45% of the patients in the Rio cohort are living with HIV. During the 2022 outbreak, the antiviral drug tecovirimat was distributed as a treatment for mpox. The drug had been approved in the U.S. for smallpox based on animal studies, since there was no way to test it on people, as smallpox had been eradicated from the planet since 1980 . But the emergence of mpox has made it possible to approve the drug for people. An April 2025 trial compared the drug tecovirimat with a placebo in 597 patients with clade I in the Democratic Republic of Congo. The time to lesions clearing up was seven days in the group that received tecovirimat and eight days in the placebo group. This difference is not considered statistically significant. In February 2026, a second trial settled the question regarding clade II . The study followed more than 400 adults divided into two groups, one that received the antiviral and another that received a placebo. Through Day 29, the estimated rates of lesion resolution were similar in the two groups – 83% with tecovirimat and 84% with the placebo. The study found no evidence that tecovirimat was able to accelerate lesion resolution in adults with clade II mpox. Thus, mpox remains a disease without a proven specific treatment, which shifts the focus of the response to early diagnosis, isolation and vaccination. The medication remains reserved for patients with severe cases and immunosuppressed patients, even though there is no evidence that it alters the course of the disease in these patients. The only vaccine for mpox is MVA-BN, also known as Jynneos , a third-generation, nonreplicating smallpox vaccine produced by Bavarian Nordic in Denmark. It has not been tested in randomized trials to assess its efficacy against mpox. There are, however, observational studies conducted in the context of the 2022 outbreak, all involving clade IIb. In these studies, researchers do not determine who receives the vaccine, but simply monitor patient outcomes. Based on these observational studies, the WHO estimates that this vaccine reduces the risk of mpox by 76% with one dose and by 82% with two , compared to unvaccinated individuals. Results varied from one study to another, particularly with a single dose. Estimates of risk reduction ranged from 35% to 86% with one dose and from 66% to 90% with two doses . In the U.S., a cohort of at-risk transgender men and women estimated 89% protection with the full vaccination series and 70% with a single dose. In another study in Germany, the effectiveness of a single dose was 58% overall, but only 35% among people living with HIV – a relevant finding for Brazil, given that nearly half of Brazilian cases occur in patients with HIV. This study also found that in those who have already been exposed, the vaccine reduces the risk of becoming ill by about 20% and appears to lessen the severity of the illness even when it does not prevent infection. There are two weaknesses in these studies. The first concerns the duration of protection: Antibody levels drop sharply between six and 12 months after the second dose, although the cellular response persists. It is not yet known which of these indicators is a better predictor of protection. The second is that there is no data on clinical efficacy against clade Ib, though there are laboratory studies. A British group showed in April 2026 that serum from 25 vaccinated healthcare workers neutralizes clade Ib , but at levels consistently lower than those observed against clade IIb. Cross-protection is likely, based on animal models challenged with clade I. The extent of this protection in humans, however, is unknown. The intradermal injection method, now recommended by Brazil’s Ministry of Health, was adopted in the United States and Europe in 2022 – this method allows the use of one-fifth of the dose – and produced an immune response comparable to that of the subcutaneous method. The costs associated with the vaccine include personnel training and vials of the vaccine that, once thawed, must be used within four weeks. The purchase of vaccines for Brazil was made through the Pan American Health Organization Revolving Fund. The initial order of 20,000 doses was increased to 25,000 following negotiations with the manufacturer, with distribution scheduled to begin Nov. 23 . Prior to that, 3,650 doses from the national stockpile had already been shipped to nine states, including Rio de Janeiro, Ceará and the Federal District. The Unified Health System is limiting vaccination to specific groups: pe",
+   "facts": [
+    "The city of Rio de Janeiro has reported 180 confirmed cases of mpox , an infectious disease caused by the monkeypox virus, MPXV, from Oct. 1 through Nov. 24, 2026.",
+    "The number of cases in the capital of Rio de Janeiro is more than 22 times higher than the number reported during the same period in 2025.",
+    "In the state of São Paulo, 128 cases have been identified from Oct.1 through Nov. 17 , which represents almost half of all cases of the disease that the state has reported this year.",
+    "The national figures are not alarming: 1,429 confirmed cases and one death as of Nov. 23 , compared to about 10,500 cases and 14 deaths in 2022.",
+    "The 2022 mpox outbreak was caused by clade IIb.",
+    "In response, the Ministry of Health purchased 25,000 doses of the vaccine against the disease and instructed states and municipalities to administer it intradermally – that is, just into the top layer of skin.",
+    "Clade Ib was identified in 2023 in the eastern Democratic Republic of Congo and led the World Health Organization to declare an international public health emergency in August 2024.",
+    "At the Fiocruz National Institute of Infectious Diseases, or INI/Fiocruz, a leading center for the disease in Rio, 43 of the 62 samples identified between September and October 2026 were from clade Ib.",
+    "Of the total, only 19 were from clade IIb.",
+    "Clade Ib was first detected in Rio in March 2026."
+   ],
+   "doi": [],
+   "sample": [
+    "130 people",
+    "400 adults",
+    "597 patients",
+    "9,500 people"
+   ],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
    "sources": [
     "The Conversation",
     "MedicalXpress"
@@ -953,26 +979,6 @@
    "why": [
     "형식 DOSE",
     "2곳 보도"
-   ],
-   "text": "The city of Rio de Janeiro has reported 180 confirmed cases of mpox , an infectious disease caused by the monkeypox virus, MPXV, from Oct. 1 through Nov. 24, 2026. Skin lesions are the most common sign of the disease. They can also appear in the mouth, on the genitals or in the anal region. Other symptoms include fever, swollen glands, headache, body aches, chills and weakness. The number of cases in the capital of Rio de Janeiro is more than 22 times higher than the number reported during the same period in 2025. In the state of São Paulo, 128 cases have been identified from Oct.1 through Nov. 17 , which represents almost half of all cases of the disease that the state has reported this year. The national figures are not alarming: 1,429 confirmed cases and one death as of Nov. 23 , compared to about 10,500 cases and 14 deaths in 2022. The average, however, hides what really matters: The curve began to rise again in September, concentrated in two state capitals, with a new strain of the virus circulating that is different from the one identified in the previous outbreak. In virology, a clade is a group of viral lineages that share a common ancestor. Currently, clade Ib predominates among the samples analyzed. The 2022 mpox outbreak was caused by clade IIb. In response, the Ministry of Health purchased 25,000 doses of the vaccine against the disease and instructed states and municipalities to administer it intradermally – that is, just into the top layer of skin. This technique can increase the number of people vaccinated with the same vial fivefold. The vaccine has become even more important in the fight against mpox, because the only antiviral drug available to treat the disease has just failed two clinical trials . Clade Ib was identified in 2023 in the eastern Democratic Republic of Congo and led the World Health Organization to declare an international public health emergency in August 2024. Following a sustained decline in reported cases in Central and East Africa, the WHO declared the end of this international public health emergency. It was then that prevention, surveillance and control of the disease became part of long-term public health programs. At the Fiocruz National Institute of Infectious Diseases, or INI/Fiocruz, a leading center for the disease in Rio, 43 of the 62 samples identified between September and October 2026 were from clade Ib. Of the total, only 19 were from clade IIb. Clade Ib was first detected in Rio in March 2026. The spike in diagnoses did not occur until September. In October, the institute treated 130 people with suspected cases of the disease and confirmed 89 cases. Clade Ib arrived in Brazil via travelers. INI/Fiocruz identified the first cases with evidence of community transmission – people infected locally, with no recent travel history – in early 2026. The question is whether clade Ib would cause more severe illness. In Central Africa, it has been associated with a higher case fatality rate than that observed with clade IIb, but this difference is also linked to factors such as malnutrition, co-infections and lack of access to care. In Rio, INI/Fiocruz has not yet found any clinically significant difference between the two clades in the group of patients being monitored, which they call the Rio cohort. The profile of the most vulnerable individuals remains the same – those with severe immunosuppression, pregnant women and young children. About 45% of the patients in the Rio cohort are living with HIV. During the 2022 outbreak, the antiviral drug tecovirimat was distributed as a treatment for mpox. The drug had been approved in the U.S. for smallpox based on animal studies, since there was no way to test it on people, as smallpox had been eradicated from the planet since 1980 . But the emergence of mpox has made it possible to approve the drug for people. An April 2025 trial compared the drug tecovirimat with a placebo in 597 patients with clade I in the Democratic Republic of Congo. The time to lesions clearing up was seven days in the group that received tecovirimat and eight days in the placebo group. This difference is not considered statistically significant. In February 2026, a second trial settled the question regarding clade II . The study followed more than 400 adults divided into two groups, one that received the antiviral and another that received a placebo. Through Day 29, the estimated rates of lesion resolution were similar in the two groups – 83% with tecovirimat and 84% with the placebo. The study found no evidence that tecovirimat was able to accelerate lesion resolution in adults with clade II mpox. Thus, mpox remains a disease without a proven specific treatment, which shifts the focus of the response to early diagnosis, isolation and vaccination. The medication remains reserved for patients with severe cases and immunosuppressed patients, even though there is no evidence that it alters the course of the disease in these patients. The only vaccine for mpox is MVA-BN, also known as Jynneos , a third-generation, nonreplicating smallpox vaccine produced by Bavarian Nordic in Denmark. It has not been tested in randomized trials to assess its efficacy against mpox. There are, however, observational studies conducted in the context of the 2022 outbreak, all involving clade IIb. In these studies, researchers do not determine who receives the vaccine, but simply monitor patient outcomes. Based on these observational studies, the WHO estimates that this vaccine reduces the risk of mpox by 76% with one dose and by 82% with two , compared to unvaccinated individuals. Results varied from one study to another, particularly with a single dose. Estimates of risk reduction ranged from 35% to 86% with one dose and from 66% to 90% with two doses . In the U.S., a cohort of at-risk transgender men and women estimated 89% protection with the full vaccination series and 70% with a single dose. In another study in Germany, the effectiveness of a single dose was 58% overall, but only 35% among people living with HIV – a relevant finding for Brazil, given that nearly half of Brazilian cases occur in patients with HIV. This study also found that in those who have already been exposed, the vaccine reduces the risk of becoming ill by about 20% and appears to lessen the severity of the illness even when it does not prevent infection. There are two weaknesses in these studies. The first concerns the duration of protection: Antibody levels drop sharply between six and 12 months after the second dose, although the cellular response persists. It is not yet known which of these indicators is a better predictor of protection. The second is that there is no data on clinical efficacy against clade Ib, though there are laboratory studies. A British group showed in April 2026 that serum from 25 vaccinated healthcare workers neutralizes clade Ib , but at levels consistently lower than those observed against clade IIb. Cross-protection is likely, based on animal models challenged with clade I. The extent of this protection in humans, however, is unknown. The intradermal injection method, now recommended by Brazil’s Ministry of Health, was adopted in the United States and Europe in 2022 – this method allows the use of one-fifth of the dose – and produced an immune response comparable to that of the subcutaneous method. The costs associated with the vaccine include personnel training and vials of the vaccine that, once thawed, must be used within four weeks. The purchase of vaccines for Brazil was made through the Pan American Health Organization Revolving Fund. The initial order of 20,000 doses was increased to 25,000 following negotiations with the manufacturer, with distribution scheduled to begin Nov. 23 . Prior to that, 3,650 doses from the national stockpile had already been shipped to nine states, including Rio de Janeiro, Ceará and the Federal District. The Unified Health System is limiting vaccination to specific groups: pe",
-   "doi": [],
-   "facts": [
-    "The city of Rio de Janeiro has reported 180 confirmed cases of mpox , an infectious disease caused by the monkeypox virus, MPXV, from Oct. 1 through Nov. 24, 2026.",
-    "The number of cases in the capital of Rio de Janeiro is more than 22 times higher than the number reported during the same period in 2025.",
-    "In the state of São Paulo, 128 cases have been identified from Oct.1 through Nov. 17 , which represents almost half of all cases of the disease that the state has reported this year.",
-    "The national figures are not alarming: 1,429 confirmed cases and one death as of Nov. 23 , compared to about 10,500 cases and 14 deaths in 2022.",
-    "The 2022 mpox outbreak was caused by clade IIb.",
-    "In response, the Ministry of Health purchased 25,000 doses of the vaccine against the disease and instructed states and municipalities to administer it intradermally – that is, just into the top layer of skin.",
-    "Clade Ib was identified in 2023 in the eastern Democratic Republic of Congo and led the World Health Organization to declare an international public health emergency in August 2024.",
-    "At the Fiocruz National Institute of Infectious Diseases, or INI/Fiocruz, a leading center for the disease in Rio, 43 of the 62 samples identified between September and October 2026 were from clade Ib.",
-    "Of the total, only 19 were from clade IIb.",
-    "Clade Ib was first detected in Rio in March 2026."
-   ],
-   "sample": [
-    "130 people",
-    "400 adults",
-    "597 patients",
-    "9,500 people"
    ]
   },
   {
@@ -983,6 +989,8 @@
    "date": "2026-11-25",
    "source": "Phys.org",
    "first_seen": "2026-11-26",
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html",
+   "catch_extra": [],
    "sources": [
     "Phys.org",
     "The Conversation"
@@ -997,8 +1005,54 @@
    "why": [
     "형식 WEIGH",
     "2곳 보도"
+   ]
+  },
+  {
+   "title": "Artificial photosynthesis uses waste CO₂ to grow protein-rich edible fungus in seven days",
+   "link": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html",
+   "key": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html",
+   "summary": "While many people think first of meat when they think about dietary protein, most protein ultimately depends on plants, since livestock feed on grass, hay and other plants. Meeting the demand for protein is taxing on the environment, requiring massive amounts of land and water while creating greenhouse gas emissions. And that demand is expected to require nearly 50% more agricultural production by 2050 than in 2012, according to the U.N. Food and Agriculture Organization.",
+   "date": "2026-11-26",
+   "source": "Phys.org",
+   "first_seen": "2026-11-26",
+   "sources": [
+    "Phys.org"
    ],
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html"
+   "links": [
+    "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html"
+   ],
+   "format": "SCALE",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 SCALE",
+    "생활소재: diet"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html"
+  },
+  {
+   "title": "Certain fungi turn specialized plant cells into water-carrying cells using one protein",
+   "link": "https://phys.org/news/2026-11-fungi-specialized-cells-protein.html",
+   "key": "https://phys.org/news/2026-11-fungi-specialized-cells-protein.html",
+   "summary": "Can a pathogen that causes damage to a plant also make that plant more resilient to drought? An international research team led by the University of Göttingen has investigated this apparent paradox. The researchers discovered how certain fungi promote the formation of new water-conducting cells in plants. At the same time, infected plants showed increased tolerance to drought stress. The results were published in the journal Cell Host & Microbe.",
+   "date": "2026-11-26",
+   "source": "Phys.org",
+   "first_seen": "2026-11-26",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-fungi-specialized-cells-protein.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 6,
+   "why": [
+    "형식 WEIGH",
+    "훅: paradox",
+    "생활소재: stress"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-fungi-specialized-cells-protein.html"
   },
   {
    "title": "Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers",
@@ -1118,53 +1172,6 @@
    "why": [
     "형식 CUT",
     "생활소재: dog, pet owner"
-   ]
-  },
-  {
-   "title": "Strange radio signals from space could come from a dead star",
-   "link": "https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
-   "key": "https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
-   "summary": "The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappeared. Despite years of searching, there was no sign of their return.",
-   "date": "2026-11-19",
-   "source": "Phys.org",
-   "first_seen": "2026-11-19",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-strange-radio-space-dead-star.html"
-   ],
-   "format": "",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "훅: strange, mystery"
-   ]
-  },
-  {
-   "title": "Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice",
-   "link": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "key": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "summary": "In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.",
-   "date": "2026-11-19",
-   "source": "Phys.org",
-   "first_seen": "2026-11-19",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
-   ],
-   "links": [
-    "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html"
-   ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 SCALE",
-    "생활소재: mice"
    ]
   },
   {
