@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 940건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 841건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. Common medications may secretly rewire your gut, with effects lasting for years
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-23
@@ -30,7 +30,30 @@
 - 요약: A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it. Even more unexpectedly, p
   - "The team's analysis indicates that the bar extends approximately 4.3 kiloparsecs, equivalent to about 14,000 light-years, outward from the galactic center along its long axis."
 
-## 4. Scientists discover a surprising link between weak bones and faster brain aging
+## 4. Common supplements rival antibiotics in treating severe gum disease
+- 점수 9 · DOSE · ScienceDaily 전체 · 2026-11-26
+- https://www.sciencedaily.com/releases/2026/11/261126033031.htm
+- DOI: 10.1002/jper.70081, 10.1038/s41598-025-90029-9
+- 대상: 109 patients
+- 요약: A combination of omega-3 and low-dose aspirin produced results comparable to antibiotics when used alongside standard treatment for severe gum disease, with benefits persisting long after supplementation ended. The surprising discovery could offer an alternative for some patients while reducing reli
+  - "In a year-long clinical trial, patients who received omega-3 and aspirin alongside conventional periodontal treatment experienced nearly identical clinical benefits to those who received antibiotics."
+  - "The study suggests that combining omega-3 with low-dose acetylsalicylic acid (ASA), better known as aspirin, could reduce the need for antibiotics in certain patients."
+  - "Researchers monitored 109 patients with advanced periodontitis over 12 months."
+  - "Patients in the control group received inactive substitutes for the antibiotics, omega-3, and aspirin, supplied in capsules that looked identical to those containing the active treatments."
+  - "A second group received metronidazole and amoxicillin three times daily for 14 days."
+
+## 5. Deep beneath Australia, hidden caves could unlock the secrets of alien worlds
+- 점수 9 · PRESS · ScienceDaily 전체 · 2026-11-26
+- https://www.sciencedaily.com/releases/2026/11/261124055901.htm
+- 주의: DOI 못 찾음
+- 요약: Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery co
+  - "Stretching over 200,000 square kilometers across southern Australia, the vast, flat plains of the Nullarbor mark one of the world’s largest regions of limestone."
+  - "It formed when an ancient shallow sea retreated some 14 million years ago ."
+  - "They have watched the landscapes change and sea levels fall and rise with the build-up and collapse of the last ice age about 20,000 years ago."
+  - "But there are also structures of previously unknown origin and significance: long (up to 20 km), shallow (a few meters) trenches that trend roughly north-south."
+  - "Pockmarked karst landscapes (where rocks are dissolved by water, resulting in caves and sinkholes) represent 15% of the ice-free Earth’s surface and supply water to 10–25% of the global population ."
+
+## 6. Scientists discover a surprising link between weak bones and faster brain aging
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261121221132.htm
 - DOI: 10.1148/radiol.260656
@@ -40,7 +63,7 @@
   - "Of those participants, 715 had the required bone density measurements along with brain MRI results and cognitive testing, making them eligible for the final study group."
   - "Follow-up imaging data were available for 408 participants for white matter hyperintensities and 405 participants for fractional anisotropy, allowing researchers to examine how these brain changes progressed over time."
 
-## 5. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
+## 7. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-25
 - https://www.sciencedaily.com/releases/2026/11/261123005337.htm
 - DOI: 10.1002/ADVS.78225
@@ -52,7 +75,7 @@
   - "Treatment continued twice a week."
   - ""However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology." "Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves."
 
-## 6. Common sleep and anxiety drugs could be harming aging brains
+## 8. Common sleep and anxiety drugs could be harming aging brains
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-25
 - https://www.sciencedaily.com/releases/2026/11/261124055854.htm
 - DOI: 10.1111/jgs.70607
@@ -64,7 +87,19 @@
   - ""This is why it's so important for health care providers to work closely with community pharmacists and homecare nurses to optimize medication safety." To identify potentially problematic drugs, the research team consulted the American Geriatrics Society's Beers Criteria, which identifies approximately 100 medications that may pose risks to older adults."
   - "Using data from the Medical Expenditure Panel Survey, the team examined a sample representing approximately 29.7 million older Americans with cognitive disorders over the period from 2011 to 2022."
 
-## 7. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
+## 9. This 345-million-year-old fossil had scientists fooled for decades
+- 점수 8 · CUT · ScienceDaily 전체 · 2026-11-26
+- https://www.sciencedaily.com/releases/2026/11/261125045307.htm
+- DOI: 10.1038/s41586-026-11090-6
+- 주의: 상관관계
+- 요약: A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery 
+  - "The 345-million-year-old fossil, discovered in 1984, belongs to a species called Westlothiana lizziae ."
+  - "Following its scientific description in 1990, Westlothiana became an important reference point for researchers investigating when and how these animals first evolved."
+  - "Recently discovered trackways have been used as evidence that amniotes first appeared during the Devonian Period, more than 359 million years ago."
+  - "The research received funding from the National Science Foundation (grant number EAR-PF 2518154), the National Environment Research Council (grant numbers NE/S000739/1, NE/W007576/1, and NE/L002507/1), and the Biotechnology and Biological Sciences Research Council (grant number BB/X014819/1)."
+  - "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
+
+## 10. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
 - 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-19
 - https://www.sciencedaily.com/releases/2026/11/261117033925.htm
 - DOI: 10.1126/science.aee0658
@@ -75,7 +110,7 @@
   - "And once the cliff height reaches the critical threshold, usually 100 meters, it should initiate this runaway effect of ice sheet retreat." Needell and her colleagues wanted to test those predictions against a much larger collection of real-world measurements."
   - "To investigate, the researchers turned to NASA's Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2)."
 
-## 8. Too much exercise could leave your brain stuck in overdrive
+## 11. Too much exercise could leave your brain stuck in overdrive
 - 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-19
 - https://www.sciencedaily.com/releases/2026/11/261117033923.htm
 - DOI: 10.1016/j.neuroscience.2026.08.006
@@ -85,7 +120,7 @@
   - "In this group, both dopamine and TyrH remained elevated for 48 hours after the performance test, even though the mice were in their recovery period."
   - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
-## 9. Two massive stars may be secretly feeding the Milky Way’s supermassive black hole
+## 12. Two massive stars may be secretly feeding the Milky Way’s supermassive black hole
 - 점수 7 · WEIGH · ScienceDaily 전체 · 2026-11-20
 - https://www.sciencedaily.com/releases/2026/11/261119194605.htm
 - DOI: 10.1051/0004-6361/202555808
@@ -95,39 +130,6 @@
   - "It follows a highly elongated orbit around Sagittarius A* and has a faint extension trailing behind it, known as G2t."
   - "Soon afterward, researchers examining older observations recognized another similar object, G1, traveling along a closely related path."
   - "The similarities suggested that G1, G2, and G2t might not be independent objects."
-
-## 10. This simple habit is linked to a 33% lower risk of Alzheimer's
-- 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-20
-- https://www.sciencedaily.com/releases/2026/11/261118065536.htm
-- DOI: 10.1017/S0033291726105625
-- 대상: 10,000 people, 11 children, 5,500 adults
-- 주의: 상관관계
-- 요약: Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading h
-  - "Christelle Langley began exploring the subject while writing their 2025 book, Brain Boost: Healthy Habits for a Happier Life ."
-  - "Nearly half acknowledge that books and other reading materials can introduce them to unfamiliar words or teach them something new."
-  - "One of the most compelling studies examined more than 10,000 young people."
-  - "Reading ranks as the most popular approach to stress relief, with nearly two in five adults (38%) identifying it as their preferred way to relax."
-  - "A neuroscience study commissioned by The Queen's Reading Room in 2024 found that spending just five minutes reading fiction could lower stress by as much as 20%."
-
-## 11. Interstellar solar sails hit a bizarre problem at 75% of light speed
-- 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-22
-- https://www.sciencedaily.com/releases/2026/11/261120071305.htm
-- DOI: 10.48550/arXiv.2606.04052
-- 요약: Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed of light, some scattered light starts producing drag, potentially complicating hu
-  - "Their findings reveal a surprising source of resistance that emerges as the spacecraft approaches 75% of the speed of light."
-  - "The researchers identified an especially unusual effect once the sail reaches approximately 75% of the speed of light."
-  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
-
-## 12. A common blood pressure drug has a surprising effect on calorie-burning brown fat
-- 점수 7 · CUT · ScienceDaily 전체 · 2026-11-22
-- https://www.sciencedaily.com/releases/2026/11/261119194558.htm
-- DOI: 10.1038/s41586-026-11162-7
-- 대상: 100,000 patients, 50,000 patients
-- 요약: Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, 
-  - "After examining data from more than 100,000 patients, researchers discovered that people with detectable brown fat had lower rates of several medical conditions, including anxiety and depression."
-  - "It expands on research published in 2021 , when Cohen's team analyzed approximately 50,000 patients and found that those with more brown fat had substantially lower odds of developing cardiometabolic conditions such as coronary artery disease and type II diabetes."
-  - "We doubled our number of patients and considered more than 500 codes, which allowed us to unearth many new insights." To investigate brown fat's relationship with human health, the researchers examined PET/CT scans from more than 100,000 patients who had undergone imaging as part of their cancer monitoring."
-  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
 
 ## 13. An unexpected link: More coarse particles in indoor air, lower odds of Kawasaki disease
 - 점수 7 · CUT · MedicalXpress · 2026-11-25
@@ -147,75 +149,76 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For patients with suspected sepsis, early antibiotic treatment is considered critical for reducing mortality. But a new study has found that earlier treatment with antibiotics in an ambulance did not reduce mortality compared with standard sepsis care in the emergency department (ED), researchers re
 
-## 16. Alcohol, drug abuse, suicide: Is Europe really safe from America's 'deaths of despair' epidemic?
-- 점수 6 · DOSE · MedicalXpress · 2026-11-18
-- https://medicalxpress.com/news/2026-11-alcohol-drug-abuse-suicide-europe.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In the United States, life expectancy diverged from Europe before it stopped rising during the 2010s, even before the COVID-19 pandemic. The economists Anne Case and Angus Deaton gave a name to a phenomenon that was then booming, partly explaining this trend: "deaths of despair," which have soared s
-
-## 17. For military veterans with PTSD and alcohol use disorder, MDMA-assisted therapy may be safe, effective
-- 점수 6 · DOSE · MedicalXpress · 2026-11-18
-- https://medicalxpress.com/news/2026-11-military-veterans-ptsd-alcohol-disorder.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The first study of a program that uses the drug MDMA to treat post-traumatic stress disorder (PTSD) plus alcohol use disorder in military veterans has concluded with promising results.
-
-## 18. Brain clock gene influences alcohol consumption differently in female and male mice, study shows
-- 점수 6 · DOSE · MedicalXpress · 2026-11-18
-- https://medicalxpress.com/news/2026-11-brain-clock-gene-alcohol-consumption.html
-- 주의: 동물 실험
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A gene that helps regulate the body's internal clock may influence alcohol consumption differently in males and females, according to new Concordia research.
-
-## 19. Two measures to help prevent obesity in young people
+## 16. Two measures to help prevent obesity in young people
 - 점수 6 · PRESS · MedicalXpress · 2026-11-19
 - https://medicalxpress.com/news/2026-11-obesity-young-people.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important, both for individuals and for the population as a whole. The condition is generally linked to diet and lifestyle. A new study including almost 125,000 children exa
 
-## 20. When's a new organ not really new? Two anatomists explain
+## 17. When's a new organ not really new? Two anatomists explain
 - 점수 6 · CUT · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-anatomists.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People have been dissecting the human body for more than 2,500 years. In recent times, we've been over every nanometer with high-resolution medical imaging. So you'd think we know all there is to know about human anatomy. Surely, there are no new organs left to discover.
 
-## 21. The child development 'sweet spot' that affects adult taste preference
+## 18. The child development 'sweet spot' that affects adult taste preference
 - 점수 6 · SCALE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-child-sweet-affects-adult.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A baby's transition from breast milk or formula to a range of solid foods is the likely "sweet spot" for introducing nutritional variety that influences lifelong taste preferences by rewiring circuits in the brain, new research in mice suggests.
 
-## 22. Adolescent and teen depression linked to heavier substance use
+## 19. Adolescent and teen depression linked to heavier substance use
 - 점수 6 · DOSE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-adolescent-teen-depression-linked-heavier.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Adolescents and teenagers who drink more alcohol or use multiple forms of marijuana are much more likely to experience major depression. In addition, girls, older teens and multiracial teens are more likely to experience major depression, regardless of drug or alcohol use.
 
-## 23. Resistance training could help boost brain health and confidence in older adults
+## 20. Resistance training could help boost brain health and confidence in older adults
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-resistance-boost-brain-health-confidence.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Think about the last time you stood up from a chair or lifted a heavy shopping bag from the floor. These movements might feel automatic, but they take a surprising amount of coordination between your brain and your muscles.
 
-## 24. New liver model for studying alpha-1-antitrypsin deficiency
+## 21. New liver model for studying alpha-1-antitrypsin deficiency
 - 점수 6 · CUT · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-liver-alpha-antitrypsin-deficiency.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: AATD is a rare genetic metabolic disorder that affects the liver and lungs. A mutation causes liver cells (hepatocytes) to form misfolded alpha-1-antitrypsin (AAT). This misfolding results in reduced secretion of AAT into the blood plasma. AAT plays an important role in controlling inflammatory proc
 
-## 25. Some people claim to speak many languages. But what does it really mean to be a polyglot?
+## 22. A protein in the brain's immune cells may accelerate damage in Alzheimer's disease
+- 점수 6 · CUT · MedicalXpress · 2026-11-20
+- https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Researchers at Lund University in Sweden have identified a key role for the protein galectin-3 in Alzheimer's disease. The study shows that galectin-3 not only influences how the brain's immune cells, known as microglia, react to the disease's characteristic amyloid plaques but also shapes the plaqu
+
+## 23. Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss
+- 점수 6 · DOSE · MedicalXpress · 2026-11-21
+- https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html
+- 주의: 과장 의심 단어
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not 
+
+## 24. Some people claim to speak many languages. But what does it really mean to be a polyglot?
 - 점수 6 · PRESS · Phys.org / The Conversation · 2026-11-23
 - https://phys.org/news/2026-11-people-languages-polyglot.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Roughly half of the world's population speaks more than one language. But speaking two or three languages is very different from claiming proficiency in five, 10 or more.
 
-## 26. A fungus that can survive in Chernobyl could help create materials that trap and break down nerve agents and pesticides
+## 25. A fungus that can survive in Chernobyl could help create materials that trap and break down nerve agents and pesticides
 - 점수 6 · CUT · Phys.org / The Conversation · 2026-11-23
 - https://phys.org/news/2026-11-fungus-survive-chernobyl-materials-nerve.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Deep inside the Chernobyl exclusion zone, where radiation levels have remained unsafe for people for the past 40 years, black molds climb the walls of the damaged former nuclear plant in Ukraine. They're entirely undeterred by the radiation—in fact, some fungi even grow toward it.
+
+## 26. Childhood diet high in fruit and fish linked to lower Crohn's disease risk
+- 점수 6 · CUT · MedicalXpress · 2026-11-24
+- https://medicalxpress.com/news/2026-11-childhood-diet-high-fruit-fish.html
+- 주의: 동물 실험, 상관관계
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A high intake of salty snacks during the teenage years is linked to a heightened risk of inflammatory bowel disease (IBD)—Crohn's disease, ulcerative colitis or a mix of both—in young adulthood, finds a large long-term study published online in the journal Gut.
 
 ## 27. California raised minimum wages for fast‑food workers—here's how it played out 2 years later
 - 점수 6 · SCALE · Phys.org / The Conversation · 2026-11-24
@@ -260,35 +263,35 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Can a pathogen that causes damage to a plant also make that plant more resilient to drought? An international research team led by the University of Göttingen has investigated this apparent paradox. The researchers discovered how certain fungi promote the formation of new water-conducting cells in p
 
-## 33. Whom do we expect to put others ahead of themselves: Boys or girls? New study has surprising, and unsurprising, answers
-- 점수 5 · CUT · Phys.org · 2026-11-18
-- https://phys.org/news/2026-11-boys-girls-unsurprising.html
+## 33. Strange radio signals from space could come from a dead star
+- 점수 5 · 형식? · Phys.org · 2026-11-19
+- https://phys.org/news/2026-11-strange-radio-space-dead-star.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The holiday season is a time for gatherings with family and friends—as well as for less festive but necessary duties: organizing, preparing for and cleaning up after these gatherings. These are examples of service tasks that, according to previous research, women and girls are expected to perform.
+- 요약: The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappe
 
-## 34. Cooking Thanksgiving dinner could create an indoor air quality problem inside your home, expert says
-- 점수 5 · CUT · Phys.org · 2026-11-18
-- https://phys.org/news/2026-11-cooking-thanksgiving-dinner-indoor-air.html
+## 34. Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice
+- 점수 5 · SCALE · Phys.org · 2026-11-19
+- https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The Thanksgiving turkey may be the centerpiece of the holiday meal, but cooking it, along with all the sides and other dishes, can invite an unexpected guest: indoor air pollution.
+- 요약: In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.
 
-## 35. Tiny parasite holds big clues to help protect threatened estuarine turtles
-- 점수 5 · PRESS · Phys.org · 2026-11-18
-- https://phys.org/news/2026-11-tiny-parasite-big-clues-threatened.html
+## 35. A 115 million‑year‑old 'algae rebellion' in Portugal's sea cliffs pushes back evolutionary timeline
+- 점수 5 · CUT · Phys.org · 2026-11-19
+- https://phys.org/news/2026-11-millionyearold-algae-rebellion-portugal-sea.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The diamondback terrapin is North America's only turtle species that lives exclusively in brackish coastal waters, such as salt marshes and estuaries. Its populations face threats from historical overharvesting and contemporary habitat loss, coastal development and accidental capture in crab traps.
+- 요약: Quite a few scientific discoveries are a product of chance. You set out looking for one thing, but often end up finding something totally unexpected. In micropaleontology, the study of microscopic fossils, this is especially common. You never know what you're going to find until you start examining 
 
-## 36. How restaurants can make sustainable dining choices easier while still making a profit
-- 점수 5 · SCALE · Phys.org · 2026-11-18
-- https://phys.org/news/2026-11-restaurants-sustainable-dining-choices-easier.html
+## 36. Climate communication that resonates must be based on empathy
+- 점수 5 · SCALE · Phys.org · 2026-11-20
+- https://phys.org/news/2026-11-climate-communication-resonates-based-empathy.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Canadians are eating out less. A 2025 survey found 57% of them are cooking at home more often to save money, while 69% of restaurant operators say customers are dining out less because of affordability. According to Restaurants Canada, 41% of operators are either losing money or breaking even.
+- 요약: Climate change is a global reality, but people often encounter it through different local realities. For some, it enters everyday life through social media feeds, news reports, scientific findings and public discussion. For others, it is through water scarcity, food insecurity, floods, heat waves, w
 
-## 37. How do human lifestyles affect the gut microbiome of our canine companions?
-- 점수 5 · CUT · Phys.org · 2026-11-18
-- https://phys.org/news/2026-11-human-lifestyles-affect-gut-microbiome.html
+## 37. Putting Google's AI hurricane model to the test
+- 점수 5 · PRESS · Phys.org · 2026-11-20
+- https://phys.org/news/2026-11-google-ai-hurricane.html
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Dogs have been living side by side with humans for millennia, but a new study underscores how much we have yet to learn about man's best friend. The study, which looked at hundreds of dogs across four nations, found that the lifestyles of pet owners appear to play a significant role in determining w
+- 요약: A week before Hurricane Melissa slammed into Jamaica last fall, the forecast models couldn't agree on where it was headed or how strong it would get. One got it right—an AI model from Google DeepMind, which called both the storm's path and its Category 5 strength.
 
 ## 38. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
 - 점수 5 · WEIGH · The Conversation · 2026-11-21
