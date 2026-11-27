@@ -1,8 +1,18 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 841건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 853건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
-## 1. Common medications may secretly rewire your gut, with effects lasting for years
+## 1. This dietary supplement may have an unexpected benefit for the brain
+- 점수 11 · SCALE · ScienceDaily 전체 · 2026-11-27
+- https://www.sciencedaily.com/releases/2026/11/261125045311.htm
+- DOI: 10.1001/jamanetworkopen.2026.38047
+- 대상: 50 adults
+- 요약: A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with obesity, researchers found that taking the supplement daily for four weeks increased blood flow to t
+  - "To investigate whether urolithin A could help counter these effects, the research team recruited 50 adults with obesity between the ages of 40 and 64 for a randomized clinical trial."
+  - "For four weeks, participants took either 1,000 milligrams of urolithin A each day or a placebo."
+  - "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
+
+## 2. Common medications may secretly rewire your gut, with effects lasting for years
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261120071501.htm
 - DOI: 10.1128/msystems.00541-25
@@ -12,7 +22,7 @@
   - "Just 2 Weeks of Ultraprocessed Foods May Change How Your Brains Respond to Food A Chemical Signature Suddenly Disappeared From Earth’s Rocks."
   - "Scientists Think They Know Why Scientists Discover Bizarre Deep-Sea Creature That Survives Without Most of Its Digestive System New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial"
 
-## 2. U.S. loses measles elimination status after 25 years as vaccine myths persist
+## 3. U.S. loses measles elimination status after 25 years as vaccine myths persist
 - 점수 10 · DOSE · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261122060323.htm
 - 주의: DOI 못 찾음
@@ -23,14 +33,14 @@
   - "However, on Nov. 17, 2026, the Pan American Health Organization confirmed that the United States no longer qualified for that status."
   - "According to the Centers for Disease Control and Prevention (CDC), the United States had recorded 5,412 confirmed cases in 2026 as of Nov. 12."
 
-## 3. A galactic shock wave could rewrite the map of the Milky Way
+## 4. A galactic shock wave could rewrite the map of the Milky Way
 - 점수 9 · WEIGH · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261122060329.htm
 - DOI: 10.1038/s41550-026-03010-5
 - 요약: A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it. Even more unexpectedly, p
   - "The team's analysis indicates that the bar extends approximately 4.3 kiloparsecs, equivalent to about 14,000 light-years, outward from the galactic center along its long axis."
 
-## 4. Common supplements rival antibiotics in treating severe gum disease
+## 5. Common supplements rival antibiotics in treating severe gum disease
 - 점수 9 · DOSE · ScienceDaily 전체 · 2026-11-26
 - https://www.sciencedaily.com/releases/2026/11/261126033031.htm
 - DOI: 10.1002/jper.70081, 10.1038/s41598-025-90029-9
@@ -42,7 +52,7 @@
   - "Patients in the control group received inactive substitutes for the antibiotics, omega-3, and aspirin, supplied in capsules that looked identical to those containing the active treatments."
   - "A second group received metronidazole and amoxicillin three times daily for 14 days."
 
-## 5. Deep beneath Australia, hidden caves could unlock the secrets of alien worlds
+## 6. Deep beneath Australia, hidden caves could unlock the secrets of alien worlds
 - 점수 9 · PRESS · ScienceDaily 전체 · 2026-11-26
 - https://www.sciencedaily.com/releases/2026/11/261124055901.htm
 - 주의: DOI 못 찾음
@@ -53,7 +63,19 @@
   - "But there are also structures of previously unknown origin and significance: long (up to 20 km), shallow (a few meters) trenches that trend roughly north-south."
   - "Pockmarked karst landscapes (where rocks are dissolved by water, resulting in caves and sinkholes) represent 15% of the ice-free Earth’s surface and supply water to 10–25% of the global population ."
 
-## 6. Scientists discover a surprising link between weak bones and faster brain aging
+## 7. A fat-burning molecule has an unexpected benefit for your muscles
+- 점수 9 · DOSE · ScienceDaily 전체 · 2026-11-27
+- https://www.sciencedaily.com/releases/2026/11/261126063315.htm
+- DOI: 10.1038/s41467-026-76307-8
+- 주의: 상관관계
+- 요약: Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues for treating muscle deterioration associated with type 2 diabe
+  - "Released during exercise, the molecule could also provide the basis for future treatments to protect against muscle damage associated with type 2 diabetes."
+  - "A research team led by Professor Lee Roberts at the University of Leeds investigated whether these processes could reveal new ways to treat chronic conditions such as type 2 diabetes."
+  - "In research published in 2014, Roberts demonstrated that the molecule has beneficial effects on metabolism, helping to enhance the body's ability to burn fat in response to exercise."
+  - ""This gives us exciting new insight into how exercise benefits the body and highlights a promising target for future therapies aimed at preserving muscle function in chronic conditions such as diabetes." The researchers also discovered that L-BAIBA protects muscles against damage associated with type 2 diabetes."
+  - "Because regular physical activity is an important part of managing type 2 diabetes, finding ways to improve muscle function and reduce fatigue could make a substantial difference for people who struggle to exercise."
+
+## 8. Scientists discover a surprising link between weak bones and faster brain aging
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261121221132.htm
 - DOI: 10.1148/radiol.260656
@@ -63,7 +85,7 @@
   - "Of those participants, 715 had the required bone density measurements along with brain MRI results and cognitive testing, making them eligible for the final study group."
   - "Follow-up imaging data were available for 408 participants for white matter hyperintensities and 405 participants for fractional anisotropy, allowing researchers to examine how these brain changes progressed over time."
 
-## 7. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
+## 9. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-25
 - https://www.sciencedaily.com/releases/2026/11/261123005337.htm
 - DOI: 10.1002/ADVS.78225
@@ -75,7 +97,7 @@
   - "Treatment continued twice a week."
   - ""However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology." "Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves."
 
-## 8. Common sleep and anxiety drugs could be harming aging brains
+## 10. Common sleep and anxiety drugs could be harming aging brains
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-25
 - https://www.sciencedaily.com/releases/2026/11/261124055854.htm
 - DOI: 10.1111/jgs.70607
@@ -87,7 +109,7 @@
   - ""This is why it's so important for health care providers to work closely with community pharmacists and homecare nurses to optimize medication safety." To identify potentially problematic drugs, the research team consulted the American Geriatrics Society's Beers Criteria, which identifies approximately 100 medications that may pose risks to older adults."
   - "Using data from the Medical Expenditure Panel Survey, the team examined a sample representing approximately 29.7 million older Americans with cognitive disorders over the period from 2011 to 2022."
 
-## 9. This 345-million-year-old fossil had scientists fooled for decades
+## 11. This 345-million-year-old fossil had scientists fooled for decades
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-26
 - https://www.sciencedaily.com/releases/2026/11/261125045307.htm
 - DOI: 10.1038/s41586-026-11090-6
@@ -99,7 +121,7 @@
   - "The research received funding from the National Science Foundation (grant number EAR-PF 2518154), the National Environment Research Council (grant numbers NE/S000739/1, NE/W007576/1, and NE/L002507/1), and the Biotechnology and Biological Sciences Research Council (grant number BB/X014819/1)."
   - "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
 
-## 10. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
+## 12. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
 - 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-19
 - https://www.sciencedaily.com/releases/2026/11/261117033925.htm
 - DOI: 10.1126/science.aee0658
@@ -109,27 +131,6 @@
   - "These studies suggested that cliffs taller than approximately 100 meters were particularly vulnerable to collapse."
   - "And once the cliff height reaches the critical threshold, usually 100 meters, it should initiate this runaway effect of ice sheet retreat." Needell and her colleagues wanted to test those predictions against a much larger collection of real-world measurements."
   - "To investigate, the researchers turned to NASA's Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2)."
-
-## 11. Too much exercise could leave your brain stuck in overdrive
-- 점수 7 · 형식? · ScienceDaily 전체 · 2026-11-19
-- https://www.sciencedaily.com/releases/2026/11/261117033923.htm
-- DOI: 10.1016/j.neuroscience.2026.08.006
-- 주의: 동물 실험, 상관관계
-- 요약: Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help exp
-  - "These included tyrosine hydroxylase (TyrH), an enzyme needed for dopamine production, and vesicular monoamine transporter 2 (VMAT2), which helps package neurotransmitters for release."
-  - "In this group, both dopamine and TyrH remained elevated for 48 hours after the performance test, even though the mice were in their recovery period."
-  - "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
-
-## 12. Two massive stars may be secretly feeding the Milky Way’s supermassive black hole
-- 점수 7 · WEIGH · ScienceDaily 전체 · 2026-11-20
-- https://www.sciencedaily.com/releases/2026/11/261119194605.htm
-- DOI: 10.1051/0004-6361/202555808
-- 요약: Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity a
-  - "One of the first major discoveries came in 2012, when astronomers identified a compact cloud of ionized gas called G2."
-  - "Containing several times Earth's mass, the cloud produces emissions from hydrogen and helium, consistent with hot gas mixed with dust."
-  - "It follows a highly elongated orbit around Sagittarius A* and has a faint extension trailing behind it, known as G2t."
-  - "Soon afterward, researchers examining older observations recognized another similar object, G1, traveling along a closely related path."
-  - "The similarities suggested that G1, G2, and G2t might not be independent objects."
 
 ## 13. An unexpected link: More coarse particles in indoor air, lower odds of Kawasaki disease
 - 점수 7 · CUT · MedicalXpress · 2026-11-25
