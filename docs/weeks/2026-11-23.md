@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 853건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 773건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. This dietary supplement may have an unexpected benefit for the brain
 - 점수 11 · SCALE · ScienceDaily 전체 · 2026-11-27
@@ -75,7 +75,19 @@
   - ""This gives us exciting new insight into how exercise benefits the body and highlights a promising target for future therapies aimed at preserving muscle function in chronic conditions such as diabetes." The researchers also discovered that L-BAIBA protects muscles against damage associated with type 2 diabetes."
   - "Because regular physical activity is an important part of managing type 2 diabetes, finding ways to improve muscle function and reduce fatigue could make a substantial difference for people who struggle to exercise."
 
-## 8. Scientists discover a surprising link between weak bones and faster brain aging
+## 8. One type of physical activity is linked to a 20% higher dementia risk
+- 점수 9 · WEIGH · ScienceDaily 전체 · 2026-11-27
+- https://www.sciencedaily.com/releases/2026/11/261125045246.htm
+- DOI: 10.1016/S2468-2667
+- 주의: 상관관계
+- 요약: A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health. While recreational exercise was linked to a 24% lower dementia risk, physically demanding work was associated with a 20% higher risk, suggest
+  - "An analysis involving more than 4.2 million people found that recreational activities such as walking, cycling, running, swimming, and playing sports were associated with a significantly lower risk of dementia."
+  - "Led by David Raichlen, professor of biological sciences and anthropology at the USC Dornsife College of Letters, Arts and Sciences, the research team examined data from 74 cohort and case-control studies."
+  - "Together, the studies included more than 4.2 million people between the ages of 45 and 93 from 30 countries."
+  - "Over a median follow-up period of 10 years, researchers monitored diagnoses of all-cause dementia, Alzheimer's disease, and vascular dementia."
+  - "Participants who engaged in higher levels of recreational physical activity had a 24% lower risk of dementia compared with the least active individuals."
+
+## 9. Scientists discover a surprising link between weak bones and faster brain aging
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-23
 - https://www.sciencedaily.com/releases/2026/11/261121221132.htm
 - DOI: 10.1148/radiol.260656
@@ -85,7 +97,7 @@
   - "Of those participants, 715 had the required bone density measurements along with brain MRI results and cognitive testing, making them eligible for the final study group."
   - "Follow-up imaging data were available for 408 participants for white matter hyperintensities and 405 participants for fractional anisotropy, allowing researchers to examine how these brain changes progressed over time."
 
-## 9. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
+## 10. New nose drops restore youthful memory and fight Alzheimer’s in aging mice
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-25
 - https://www.sciencedaily.com/releases/2026/11/261123005337.htm
 - DOI: 10.1002/ADVS.78225
@@ -97,7 +109,7 @@
   - "Treatment continued twice a week."
   - ""However, just under a third of Alzheimer's patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer's disease pathology." "Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves."
 
-## 10. Common sleep and anxiety drugs could be harming aging brains
+## 11. Common sleep and anxiety drugs could be harming aging brains
 - 점수 8 · DOSE · ScienceDaily 전체 · 2026-11-25
 - https://www.sciencedaily.com/releases/2026/11/261124055854.htm
 - DOI: 10.1111/jgs.70607
@@ -109,7 +121,7 @@
   - ""This is why it's so important for health care providers to work closely with community pharmacists and homecare nurses to optimize medication safety." To identify potentially problematic drugs, the research team consulted the American Geriatrics Society's Beers Criteria, which identifies approximately 100 medications that may pose risks to older adults."
   - "Using data from the Medical Expenditure Panel Survey, the team examined a sample representing approximately 29.7 million older Americans with cognitive disorders over the period from 2011 to 2022."
 
-## 11. This 345-million-year-old fossil had scientists fooled for decades
+## 12. This 345-million-year-old fossil had scientists fooled for decades
 - 점수 8 · CUT · ScienceDaily 전체 · 2026-11-26
 - https://www.sciencedaily.com/releases/2026/11/261125045307.htm
 - DOI: 10.1038/s41586-026-11090-6
@@ -120,17 +132,6 @@
   - "Recently discovered trackways have been used as evidence that amniotes first appeared during the Devonian Period, more than 359 million years ago."
   - "The research received funding from the National Science Foundation (grant number EAR-PF 2518154), the National Environment Research Council (grant numbers NE/S000739/1, NE/W007576/1, and NE/L002507/1), and the Biotechnology and Biological Sciences Research Council (grant number BB/X014819/1)."
   - "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
-
-## 12. Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist
-- 점수 7 · PRESS · ScienceDaily 전체 · 2026-11-19
-- https://www.sciencedaily.com/releases/2026/11/261117033925.htm
-- DOI: 10.1126/science.aee0658
-- 요약: A surprising new study suggests Antarctica's towering ice cliffs may be less vulnerable to catastrophic collapse than scientists once feared. After tracking more than 15,000 ice cliffs, researchers discovered that even the tallest cliffs, which can collapse at alarming speeds, often stabilize rather
-  - "For years, scientists have believed that ice cliffs become unstable once they exceed 100 meters in height, roughly as tall as the Statue of Liberty."
-  - "Published in the journal Science , the study examined satellite observations of more than 15,000 Antarctic ice cliffs collected over four years."
-  - "These studies suggested that cliffs taller than approximately 100 meters were particularly vulnerable to collapse."
-  - "And once the cliff height reaches the critical threshold, usually 100 meters, it should initiate this runaway effect of ice sheet retreat." Needell and her colleagues wanted to test those predictions against a much larger collection of real-world measurements."
-  - "To investigate, the researchers turned to NASA's Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2)."
 
 ## 13. An unexpected link: More coarse particles in indoor air, lower odds of Kawasaki disease
 - 점수 7 · CUT · MedicalXpress · 2026-11-25
@@ -150,76 +151,76 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: For patients with suspected sepsis, early antibiotic treatment is considered critical for reducing mortality. But a new study has found that earlier treatment with antibiotics in an ambulance did not reduce mortality compared with standard sepsis care in the emergency department (ED), researchers re
 
-## 16. Two measures to help prevent obesity in young people
-- 점수 6 · PRESS · MedicalXpress · 2026-11-19
-- https://medicalxpress.com/news/2026-11-obesity-young-people.html
-- 주의: 상관관계
+## 16. No, eating celery won't make you lose weight. How we fell for the myth of negative calories
+- 점수 7 · SCALE · MedicalXpress · 2026-11-28
+- https://medicalxpress.com/news/2026-11-celery-wont-weight-fell-myth.html
+- 주의: 과장 의심 단어
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important, both for individuals and for the population as a whole. The condition is generally linked to diet and lifestyle. A new study including almost 125,000 children exa
+- 요약: Back in my early days as a dietitian, I used to hear about the miracle properties of celery.
 
-## 17. When's a new organ not really new? Two anatomists explain
+## 17. Existing drug helps mice clear blood through meningeal lymphatic system after stroke
+- 점수 7 · DOSE · MedicalXpress · 2026-11-28
+- https://medicalxpress.com/news/2026-11-drug-mice-blood-meningeal-lymphatic.html
+- 주의: 동물 실험
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: A drug already used to improve blood circulation and prevent certain types of stroke could have an unexpected new role in promoting recovery after bleeding in the brain. In a study published in Stroke, a team led by researchers at National Taiwan University found that cilostazol helped mice recover 
+
+## 18. When's a new organ not really new? Two anatomists explain
 - 점수 6 · CUT · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-anatomists.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: People have been dissecting the human body for more than 2,500 years. In recent times, we've been over every nanometer with high-resolution medical imaging. So you'd think we know all there is to know about human anatomy. Surely, there are no new organs left to discover.
 
-## 18. The child development 'sweet spot' that affects adult taste preference
+## 19. The child development 'sweet spot' that affects adult taste preference
 - 점수 6 · SCALE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-child-sweet-affects-adult.html
 - 주의: 동물 실험
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A baby's transition from breast milk or formula to a range of solid foods is the likely "sweet spot" for introducing nutritional variety that influences lifelong taste preferences by rewiring circuits in the brain, new research in mice suggests.
 
-## 19. Adolescent and teen depression linked to heavier substance use
+## 20. Adolescent and teen depression linked to heavier substance use
 - 점수 6 · DOSE · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-adolescent-teen-depression-linked-heavier.html
 - 주의: 상관관계
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Adolescents and teenagers who drink more alcohol or use multiple forms of marijuana are much more likely to experience major depression. In addition, girls, older teens and multiracial teens are more likely to experience major depression, regardless of drug or alcohol use.
 
-## 20. Resistance training could help boost brain health and confidence in older adults
+## 21. Resistance training could help boost brain health and confidence in older adults
 - 점수 6 · WEIGH · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-resistance-boost-brain-health-confidence.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Think about the last time you stood up from a chair or lifted a heavy shopping bag from the floor. These movements might feel automatic, but they take a surprising amount of coordination between your brain and your muscles.
 
-## 21. New liver model for studying alpha-1-antitrypsin deficiency
+## 22. New liver model for studying alpha-1-antitrypsin deficiency
 - 점수 6 · CUT · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-liver-alpha-antitrypsin-deficiency.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: AATD is a rare genetic metabolic disorder that affects the liver and lungs. A mutation causes liver cells (hepatocytes) to form misfolded alpha-1-antitrypsin (AAT). This misfolding results in reduced secretion of AAT into the blood plasma. AAT plays an important role in controlling inflammatory proc
 
-## 22. A protein in the brain's immune cells may accelerate damage in Alzheimer's disease
+## 23. A protein in the brain's immune cells may accelerate damage in Alzheimer's disease
 - 점수 6 · CUT · MedicalXpress · 2026-11-20
 - https://medicalxpress.com/news/2026-11-protein-brain-immune-cells-alzheimer.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Researchers at Lund University in Sweden have identified a key role for the protein galectin-3 in Alzheimer's disease. The study shows that galectin-3 not only influences how the brain's immune cells, known as microglia, react to the disease's characteristic amyloid plaques but also shapes the plaqu
 
-## 23. Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss
+## 24. Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss
 - 점수 6 · DOSE · MedicalXpress · 2026-11-21
 - https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html
 - 주의: 과장 의심 단어
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not 
 
-## 24. Some people claim to speak many languages. But what does it really mean to be a polyglot?
+## 25. Some people claim to speak many languages. But what does it really mean to be a polyglot?
 - 점수 6 · PRESS · Phys.org / The Conversation · 2026-11-23
 - https://phys.org/news/2026-11-people-languages-polyglot.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Roughly half of the world's population speaks more than one language. But speaking two or three languages is very different from claiming proficiency in five, 10 or more.
 
-## 25. A fungus that can survive in Chernobyl could help create materials that trap and break down nerve agents and pesticides
+## 26. A fungus that can survive in Chernobyl could help create materials that trap and break down nerve agents and pesticides
 - 점수 6 · CUT · Phys.org / The Conversation · 2026-11-23
 - https://phys.org/news/2026-11-fungus-survive-chernobyl-materials-nerve.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Deep inside the Chernobyl exclusion zone, where radiation levels have remained unsafe for people for the past 40 years, black molds climb the walls of the damaged former nuclear plant in Ukraine. They're entirely undeterred by the radiation—in fact, some fungi even grow toward it.
-
-## 26. Childhood diet high in fruit and fish linked to lower Crohn's disease risk
-- 점수 6 · CUT · MedicalXpress · 2026-11-24
-- https://medicalxpress.com/news/2026-11-childhood-diet-high-fruit-fish.html
-- 주의: 동물 실험, 상관관계
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: A high intake of salty snacks during the teenage years is linked to a heightened risk of inflammatory bowel disease (IBD)—Crohn's disease, ulcerative colitis or a mix of both—in young adulthood, finds a large long-term study published online in the journal Gut.
 
 ## 27. California raised minimum wages for fast‑food workers—here's how it played out 2 years later
 - 점수 6 · SCALE · Phys.org / The Conversation · 2026-11-24
@@ -264,35 +265,37 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Can a pathogen that causes damage to a plant also make that plant more resilient to drought? An international research team led by the University of Göttingen has investigated this apparent paradox. The researchers discovered how certain fungi promote the formation of new water-conducting cells in p
 
-## 33. Strange radio signals from space could come from a dead star
-- 점수 5 · 형식? · Phys.org · 2026-11-19
-- https://phys.org/news/2026-11-strange-radio-space-dead-star.html
+## 33. The dark matter puzzle deepens: Nearby galaxies challenge cosmic simulations
+- 점수 6 · PRESS · Phys.org · 2026-11-28
+- https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html
+- 주의: 모델·시뮬레이션
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappe
+- 요약: Galaxies appear to hold a surprise beneath their visible stars: Their inner regions contain less dark matter than some of our most advanced simulations predict. Dark matter is invisible, but its gravitational pull helps govern the motions of stars and gas. By measuring these movements, astronomers c
 
-## 34. Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice
-- 점수 5 · SCALE · Phys.org · 2026-11-19
-- https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html
+## 34. 3D modeling questions Viking 'fast fashion'
+- 점수 6 · WEIGH · Phys.org · 2026-11-28
+- https://phys.org/news/2026-11-3d-viking-fast-fashion.html
+- 주의: 모델·시뮬레이션
 - 원문 페이지를 못 받음 (요약만 있음)
-- 요약: In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.
+- 요약: High-resolution 3D modeling of Viking brooches and the molds used to make them identifies surprisingly few matches between them, indicating the brooches were not mass-produced, as previously thought, but instead made by individual, creative artisans.
 
-## 35. A 115 million‑year‑old 'algae rebellion' in Portugal's sea cliffs pushes back evolutionary timeline
-- 점수 5 · CUT · Phys.org · 2026-11-19
-- https://phys.org/news/2026-11-millionyearold-algae-rebellion-portugal-sea.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Quite a few scientific discoveries are a product of chance. You set out looking for one thing, but often end up finding something totally unexpected. In micropaleontology, the study of microscopic fossils, this is especially common. You never know what you're going to find until you start examining 
-
-## 36. Climate communication that resonates must be based on empathy
+## 35. Climate communication that resonates must be based on empathy
 - 점수 5 · SCALE · Phys.org · 2026-11-20
 - https://phys.org/news/2026-11-climate-communication-resonates-based-empathy.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Climate change is a global reality, but people often encounter it through different local realities. For some, it enters everyday life through social media feeds, news reports, scientific findings and public discussion. For others, it is through water scarcity, food insecurity, floods, heat waves, w
 
-## 37. Putting Google's AI hurricane model to the test
+## 36. Putting Google's AI hurricane model to the test
 - 점수 5 · PRESS · Phys.org · 2026-11-20
 - https://phys.org/news/2026-11-google-ai-hurricane.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A week before Hurricane Melissa slammed into Jamaica last fall, the forecast models couldn't agree on where it was headed or how strong it would get. One got it right—an AI model from Google DeepMind, which called both the storm's path and its Category 5 strength.
+
+## 37. Lonely shoppers demonstrate less compassion in their purchases than others, study shows
+- 점수 5 · WEIGH · Phys.org · 2026-11-20
+- https://phys.org/news/2026-11-lonely-shoppers-compassion.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: Chronically lonely people are less likely to buy products that benefit others, such as fair-trade or child-labor-free goods, according to a new study by researchers at Concordia and the University of the Fraser Valley. The team ran four studies involving more than 1,400 participants across North Ame
 
 ## 38. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
 - 점수 5 · WEIGH · The Conversation · 2026-11-21
@@ -306,18 +309,7 @@
   - "The care family members provide today, as it was in 2018, is mostly unpaid."
   - "That doesn’t mean it’s not valuable work – estimates put its value at about US$1 trillion ."
 
-## 39. Florida’s flooding déjà vu is a sign of things to come – so, who is most at risk and how can they prepare?
-- 점수 4 · PRESS · The Conversation · 2026-11-19
-- https://theconversation.com/floridas-flooding-deja-vu-is-a-sign-of-things-to-come-so-who-is-most-at-risk-and-how-can-they-prepare-297006
-- 주의: DOI 못 찾음
-- 요약: More than a foot of rain flooded streets in the already saturated region in mid-November 2026, with more forecast in the days ahead.
-  - "Floodwater filled the streets and crept into homes across Florida’s Atlantic coast as an intense storm dumped more than a foot of rain in 24 hours starting Nov. 17, 2026."
-  - "In April 2023, more than 25 inches of rain fell in Fort Lauderdale in 24 hours."
-  - "These risks are especially high as the effects of a strong 2026-27 El Niño set in ."
-  - "Overall, we found in a 2023 study that 57% of the population, among 29,070 housing units surveyed nationwide, reported they were not prepared with food, water, emergency funds and transportation in case disaster struck."
-  - "This article updates a story published April 27, 2023 , about flood risk in South Florida."
-
-## 40. How to protect your retirement savings if the AI boom fizzles
+## 39. How to protect your retirement savings if the AI boom fizzles
 - 점수 4 · WEIGH · The Conversation · 2026-11-23
 - https://theconversation.com/how-to-protect-your-retirement-savings-if-the-ai-boom-fizzles-296649
 - 주의: DOI 못 찾음
@@ -327,3 +319,16 @@
   - "The broad-based S&P 500 also took a beating and had shed all its gains for the year."
   - "But I can explain how the default model that most 401(k) plans use works, where it protects you, and what you might consider changing."
   - "Most 401(k) savers hold a target-date fund , which is named for the year of your “target” retirement and is often chosen as a default option by the employer."
+
+## 40. A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP-1 medication
+- 점수 3 · DOSE · The Conversation / MedicalXpress · 2026-11-20
+- https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301
+- 대상: 10 adults
+- 주의: DOI 못 찾음
+- 이미 본 소재: 2026-11-16 보드에 있었음
+- 요약: By minding your body’s fullness cues you can indulge in your favorite holiday foods and traditions while maintaining your progress with these drugs.
+  - "For people taking GLP-1 medications for diabetes management, weight loss or other medical reasons, these celebrations can present unique challenges."
+  - "As a physician specializing in obesity medicine , I encourage my patients to view GLP-1 medications as an advantage during the holidays."
+  - "In fact, patients who previously experienced little or no nausea due to GLP-1s may suddenly develop significant nausea or even vomiting after eating beyond their new comfort level."
+  - "Whether taken by injection or orally, GLP-1 medications have become increasingly popular worldwide for managing Type 2 diabetes , obesity and other chronic conditions."
+  - "In the United States, approximately 1 in 10 adults used these drugs in 2025, and prescribing rates continue to climb."

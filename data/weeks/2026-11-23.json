@@ -1,13 +1,13 @@
 {
  "week": "2026-11-23",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "status": [
   {
    "feed": "ScienceDaily 전체",
    "url": "https://www.sciencedaily.com/rss/all.xml",
    "ok": true,
    "items": 60,
-   "span_days": 7
+   "span_days": 6
   },
   {
    "feed": "ScienceDaily 별난연구",
@@ -28,14 +28,14 @@
    "url": "https://www.sciencedaily.com/rss/plants_animals.xml",
    "ok": true,
    "items": 60,
-   "span_days": 39
+   "span_days": 38
   },
   {
    "feed": "ScienceDaily 건강",
    "url": "https://www.sciencedaily.com/rss/top/health.xml",
    "ok": true,
    "items": 60,
-   "span_days": 12
+   "span_days": 11
   },
   {
    "feed": "Phys.org",
@@ -49,7 +49,7 @@
    "url": "https://medicalxpress.com/rss-feed/",
    "ok": true,
    "items": 30,
-   "span_days": 2
+   "span_days": 1
   },
   {
    "feed": "The Conversation",
@@ -68,6 +68,20 @@
    "date": "2026-11-27",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-27",
+   "text": "A dietary supplement known as urolithin A may help the brain meet its increased demand for oxygen and nutrients during mentally challenging activities. In a clinical trial led by researchers at the University of Oklahoma, middle-aged adults with obesity who took the supplement experienced increased blood flow to the brain while performing a memory task. The findings, published in JAMA Network Open , could shed new light on how urolithin A influences blood vessel function and brain health. Obesity can affect how blood vessels function, potentially disrupting circulation throughout the body and brain. To investigate whether urolithin A could help counter these effects, the research team recruited 50 adults with obesity between the ages of 40 and 64 for a randomized clinical trial. For four weeks, participants took either 1,000 milligrams of urolithin A each day or a placebo. During a demanding memory exercise, participants who received urolithin A showed a greater increase in brain blood flow than those in the placebo group. The difference was especially noticeable in the left dorsolateral prefrontal cortex, an area that plays an important role in working memory, the ability to temporarily hold and process information. However, the researchers observed no significant improvement in blood vessel function in the arm or in participants' performance on memory tests. According to the research team, this is the first study in humans to document an effect of urolithin A on the function of blood vessels in the brain. \"The brain needs an adequate supply of blood to meet the demands of mental activity,\" said the study's first author, Ana Clara da Costa Pinaffi Langley, Ph.D., an assistant professor in the Department of Nutritional Sciences at the OU College of Allied Health on the OU Harold Hamm Health Campus. \"We found that urolithin A increased blood flow to the brain during a memory task, suggesting the supplement may help the brain meet its increased need for oxygen and nutrients when it is working harder. We plan to conduct more research to understand what this finding means for brain health.\" The human body can produce urolithin A with the help of certain gut bacteria. These microorganisms generate the substance by breaking down naturally occurring compounds in foods such as pomegranates, strawberries, and walnuts. Not everyone produces the same amount of urolithin A. Previous research suggests that the ability to generate the compound naturally tends to diminish as people grow older and their body mass index increases, Langley explained. Urolithin A can also be obtained directly through dietary supplements. Participants tolerated the supplement well throughout the trial. However, the researchers cautioned that the study involved a relatively small number of people at a single research site. Larger, longer clinical trials will be necessary to better understand the supplement's effects. Although the increase in brain blood flow is encouraging, it remains unclear whether this change could translate into lasting improvements in cognitive health. \"These findings offer an interesting starting point for understanding how urolithin A affects the brain,\" said study co-author Andriy Yabluchanskiy, M.D., Ph.D., an associate professor in the Department of Neurosurgery at the OU College of Medicine. \"Although we saw increased blood flow to the brain during mental activity, participants did not demonstrate measurable improvements in memory or attention. Future studies will need to determine whether taking the supplement for a longer period leads to meaningful improvements in cognitive function or other health benefits.\" For Langley, the broader aim is to extend healthspan, the portion of a person's life spent in good health. \"The idea is to mitigate cognitive decline,\" she said. \"We want to expand the time that people are living healthier lives.\" Materials provided by University of Oklahoma . Note: Content may be edited for style and length. Losing Weight but Getting Less Healthy? Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required",
+   "facts": [
+    "To investigate whether urolithin A could help counter these effects, the research team recruited 50 adults with obesity between the ages of 40 and 64 for a randomized clinical trial.",
+    "For four weeks, participants took either 1,000 milligrams of urolithin A each day or a placebo.",
+    "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
+   ],
+   "doi": [
+    "10.1001/jamanetworkopen.2026.38047"
+   ],
+   "sample": [
+    "50 adults"
+   ],
+   "journal_ref": "Journal Reference : Ana Clara da Costa Pinaffi-Langley, Rafal Gulej, Zalan Kaposzta, Zsofia Szarvas, Ali Shahriari, Henry Kinnard, Bryan Ticer, Camila B. Pinto, Peter Mukli, Mihaly Muranyi, Cheryl Adams, Jeng Kong, Leah Anderson, Stefano Tarantini, Yan Daniel Zhao, Norman G. Hord, Andriy Yabluchanskiy. Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity . JA",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -81,19 +95,6 @@
     "형식 SCALE",
     "훅: unexpected",
     "생활소재: diet, supplement, memory"
-   ],
-   "text": "A dietary supplement known as urolithin A may help the brain meet its increased demand for oxygen and nutrients during mentally challenging activities. In a clinical trial led by researchers at the University of Oklahoma, middle-aged adults with obesity who took the supplement experienced increased blood flow to the brain while performing a memory task. The findings, published in JAMA Network Open , could shed new light on how urolithin A influences blood vessel function and brain health. Obesity can affect how blood vessels function, potentially disrupting circulation throughout the body and brain. To investigate whether urolithin A could help counter these effects, the research team recruited 50 adults with obesity between the ages of 40 and 64 for a randomized clinical trial. For four weeks, participants took either 1,000 milligrams of urolithin A each day or a placebo. During a demanding memory exercise, participants who received urolithin A showed a greater increase in brain blood flow than those in the placebo group. The difference was especially noticeable in the left dorsolateral prefrontal cortex, an area that plays an important role in working memory, the ability to temporarily hold and process information. However, the researchers observed no significant improvement in blood vessel function in the arm or in participants' performance on memory tests. According to the research team, this is the first study in humans to document an effect of urolithin A on the function of blood vessels in the brain. \"The brain needs an adequate supply of blood to meet the demands of mental activity,\" said the study's first author, Ana Clara da Costa Pinaffi Langley, Ph.D., an assistant professor in the Department of Nutritional Sciences at the OU College of Allied Health on the OU Harold Hamm Health Campus. \"We found that urolithin A increased blood flow to the brain during a memory task, suggesting the supplement may help the brain meet its increased need for oxygen and nutrients when it is working harder. We plan to conduct more research to understand what this finding means for brain health.\" The human body can produce urolithin A with the help of certain gut bacteria. These microorganisms generate the substance by breaking down naturally occurring compounds in foods such as pomegranates, strawberries, and walnuts. Not everyone produces the same amount of urolithin A. Previous research suggests that the ability to generate the compound naturally tends to diminish as people grow older and their body mass index increases, Langley explained. Urolithin A can also be obtained directly through dietary supplements. Participants tolerated the supplement well throughout the trial. However, the researchers cautioned that the study involved a relatively small number of people at a single research site. Larger, longer clinical trials will be necessary to better understand the supplement's effects. Although the increase in brain blood flow is encouraging, it remains unclear whether this change could translate into lasting improvements in cognitive health. \"These findings offer an interesting starting point for understanding how urolithin A affects the brain,\" said study co-author Andriy Yabluchanskiy, M.D., Ph.D., an associate professor in the Department of Neurosurgery at the OU College of Medicine. \"Although we saw increased blood flow to the brain during mental activity, participants did not demonstrate measurable improvements in memory or attention. Future studies will need to determine whether taking the supplement for a longer period leads to meaningful improvements in cognitive function or other health benefits.\" For Langley, the broader aim is to extend healthspan, the portion of a person's life spent in good health. \"The idea is to mitigate cognitive decline,\" she said. \"We want to expand the time that people are living healthier lives.\" Materials provided by University of Oklahoma . Note: Content may be edited for style and length. Losing Weight but Getting Less Healthy? Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required",
-   "doi": [
-    "10.1001/jamanetworkopen.2026.38047"
-   ],
-   "journal_ref": "Journal Reference : Ana Clara da Costa Pinaffi-Langley, Rafal Gulej, Zalan Kaposzta, Zsofia Szarvas, Ali Shahriari, Henry Kinnard, Bryan Ticer, Camila B. Pinto, Peter Mukli, Mihaly Muranyi, Cheryl Adams, Jeng Kong, Leah Anderson, Stefano Tarantini, Yan Daniel Zhao, Norman G. Hord, Andriy Yabluchanskiy. Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity . JA",
-   "facts": [
-    "To investigate whether urolithin A could help counter these effects, the research team recruited 50 adults with obesity between the ages of 40 and 64 for a randomized clinical trial.",
-    "For four weeks, participants took either 1,000 milligrams of urolithin A each day or a placebo.",
-    "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
-   ],
-   "sample": [
-    "50 adults"
    ]
   },
   {
@@ -298,6 +299,25 @@
    "date": "2026-11-27",
    "source": "ScienceDaily 전체",
    "first_seen": "2026-11-27",
+   "text": "Researchers have identified a naturally occurring molecule that plays a crucial role in building muscle strength and improving physical performance. Released during exercise, the molecule could also provide the basis for future treatments to protect against muscle damage associated with type 2 diabetes. The molecule, known as L-β-aminoisobutyric acid (L-BAIBA), is essential for muscles to adapt to physical activity. It helps muscles become stronger, improves their resistance to fatigue, and protects against damage and weakness. The study, published in Nature Communications and funded by Diabetes UK and the Biotechnology and Biological Sciences Research Council (BBSRC), reveals that L-BAIBA is a central regulator of the biological changes that allow muscles to improve their strength, structure, and endurance in response to exercise training. Although the health benefits of exercise are well established, scientists still do not fully understand the biological processes that allow the body to adapt to physical demands. A research team led by Professor Lee Roberts at the University of Leeds investigated whether these processes could reveal new ways to treat chronic conditions such as type 2 diabetes. L-BAIBA has attracted scientific interest for more than a decade. In research published in 2014, Roberts demonstrated that the molecule has beneficial effects on metabolism, helping to enhance the body's ability to burn fat in response to exercise. L-BAIBA is now commercially available as a dietary supplement. The latest findings reveal another important function of the molecule. L-BAIBA acts as a chemical messenger that connects physical activity with beneficial changes in muscle structure and metabolism, helping muscles adapt to the demands placed on them. Lee Roberts, Professor of Molecular Physiology and Metabolism at the University of Leeds, said: \"Our research identifies L-BAIBA as an exercise-induced signal that helps muscles adapt, improve their metabolic capacity and ability to contract, and ultimately enhances physical performance. \"This gives us exciting new insight into how exercise benefits the body and highlights a promising target for future therapies aimed at preserving muscle function in chronic conditions such as diabetes.\" The researchers also discovered that L-BAIBA protects muscles against damage associated with type 2 diabetes. The condition can negatively affect muscle health, leading to a decline in muscle mass and strength, as well as disruptions in the way muscles process and use energy. These complications can significantly reduce a person's quality of life. Because regular physical activity is an important part of managing type 2 diabetes, finding ways to improve muscle function and reduce fatigue could make a substantial difference for people who struggle to exercise. Type 2 diabetes is a serious chronic condition that increases the risk of potentially life-threatening complications, including heart attacks and strokes. Its development is influenced by a complex combination of factors, including age, ethnicity, genetics, and living with overweight or obesity. Although type 2 diabetes has traditionally been more common among older adults, diagnoses in people younger than 40 have been rising in recent years. Cases in this younger age group are now increasing more rapidly than among adults over 40. Anna Morris, Assistant Director of Research Strategy and Partnership at Diabetes UK, said: \"Exercise plays an important role in managing type 2 diabetes, but for many people muscle weakness and fatigue can make staying active a real challenge. This research helps us better understand how muscles adapt to exercise and identifies a potential new target for improving muscle health. While these findings are still at an early stage, they could help shape future approaches that support people with type 2 diabetes to remain active and live healthier, longer lives.\" Although the discovery opens promising avenues for future treatments, further research is needed to determine whether L-BAIBA supplementation can produce meaningful therapeutic benefits in people with type 2 diabetes. The research was led by the University of Leeds in collaboration with: Materials provided by University of Leeds . Note: Content may be edited for style and length. Losing Weight but Getting Less Healthy? Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required",
+   "facts": [
+    "Released during exercise, the molecule could also provide the basis for future treatments to protect against muscle damage associated with type 2 diabetes.",
+    "A research team led by Professor Lee Roberts at the University of Leeds investigated whether these processes could reveal new ways to treat chronic conditions such as type 2 diabetes.",
+    "In research published in 2014, Roberts demonstrated that the molecule has beneficial effects on metabolism, helping to enhance the body's ability to burn fat in response to exercise.",
+    "\"This gives us exciting new insight into how exercise benefits the body and highlights a promising target for future therapies aimed at preserving muscle function in chronic conditions such as diabetes.\" The researchers also discovered that L-BAIBA protects muscles against damage associated with type 2 diabetes.",
+    "Because regular physical activity is an important part of managing type 2 diabetes, finding ways to improve muscle function and reduce fatigue could make a substantial difference for people who struggle to exercise.",
+    "Type 2 diabetes is a serious chronic condition that increases the risk of potentially life-threatening complications, including heart attacks and strokes.",
+    "Although type 2 diabetes has traditionally been more common among older adults, diagnoses in people younger than 40 have been rising in recent years.",
+    "Cases in this younger age group are now increasing more rapidly than among adults over 40.",
+    "Anna Morris, Assistant Director of Research Strategy and Partnership at Diabetes UK, said: \"Exercise plays an important role in managing type 2 diabetes, but for many people muscle weakness and fatigue can make staying active a real challenge.",
+    "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
+   ],
+   "doi": [
+    "10.1038/s41467-026-76307-8"
+   ],
+   "sample": [],
+   "journal_ref": "Journal Reference : Helene N. Daou, Nicole T. Watt, Shaimaa A. Gad, Amanda DV MacCannell, Aysha Ali, Chew Cheng, Raquel L. Fernando, T. Simon Futers, Sumeet A. Khetarpal, Harrison Gallagher, Luis D. Chinait, Anselmo S. Moriscot, Pim Knuiman, Koen Manusama, Marco Mensink, Irvin Teh, Jurgen E. Schneider, Richard Cubbon, Guy S. Taylor, Daniel J. West, David J. Beech, T. Scott Bowen, Lee D. Roberts. T",
+   "catch_extra": [],
    "sources": [
     "ScienceDaily 전체"
    ],
@@ -313,23 +333,46 @@
     "형식 DOSE",
     "훅: unexpected",
     "생활소재: diet, exercise, supplement"
+   ]
+  },
+  {
+   "title": "One type of physical activity is linked to a 20% higher dementia risk",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+   "key": "https://sciencedaily.com/releases/2026/11/261125045246.htm",
+   "summary": "A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health. While recreational exercise was linked to a 24% lower dementia risk, physically demanding work was associated with a 20% higher risk, suggesting that the context of movement matters.",
+   "date": "2026-11-27",
+   "source": "ScienceDaily 전체",
+   "first_seen": "2026-11-28",
+   "sources": [
+    "ScienceDaily 전체"
    ],
-   "text": "Researchers have identified a naturally occurring molecule that plays a crucial role in building muscle strength and improving physical performance. Released during exercise, the molecule could also provide the basis for future treatments to protect against muscle damage associated with type 2 diabetes. The molecule, known as L-β-aminoisobutyric acid (L-BAIBA), is essential for muscles to adapt to physical activity. It helps muscles become stronger, improves their resistance to fatigue, and protects against damage and weakness. The study, published in Nature Communications and funded by Diabetes UK and the Biotechnology and Biological Sciences Research Council (BBSRC), reveals that L-BAIBA is a central regulator of the biological changes that allow muscles to improve their strength, structure, and endurance in response to exercise training. Although the health benefits of exercise are well established, scientists still do not fully understand the biological processes that allow the body to adapt to physical demands. A research team led by Professor Lee Roberts at the University of Leeds investigated whether these processes could reveal new ways to treat chronic conditions such as type 2 diabetes. L-BAIBA has attracted scientific interest for more than a decade. In research published in 2014, Roberts demonstrated that the molecule has beneficial effects on metabolism, helping to enhance the body's ability to burn fat in response to exercise. L-BAIBA is now commercially available as a dietary supplement. The latest findings reveal another important function of the molecule. L-BAIBA acts as a chemical messenger that connects physical activity with beneficial changes in muscle structure and metabolism, helping muscles adapt to the demands placed on them. Lee Roberts, Professor of Molecular Physiology and Metabolism at the University of Leeds, said: \"Our research identifies L-BAIBA as an exercise-induced signal that helps muscles adapt, improve their metabolic capacity and ability to contract, and ultimately enhances physical performance. \"This gives us exciting new insight into how exercise benefits the body and highlights a promising target for future therapies aimed at preserving muscle function in chronic conditions such as diabetes.\" The researchers also discovered that L-BAIBA protects muscles against damage associated with type 2 diabetes. The condition can negatively affect muscle health, leading to a decline in muscle mass and strength, as well as disruptions in the way muscles process and use energy. These complications can significantly reduce a person's quality of life. Because regular physical activity is an important part of managing type 2 diabetes, finding ways to improve muscle function and reduce fatigue could make a substantial difference for people who struggle to exercise. Type 2 diabetes is a serious chronic condition that increases the risk of potentially life-threatening complications, including heart attacks and strokes. Its development is influenced by a complex combination of factors, including age, ethnicity, genetics, and living with overweight or obesity. Although type 2 diabetes has traditionally been more common among older adults, diagnoses in people younger than 40 have been rising in recent years. Cases in this younger age group are now increasing more rapidly than among adults over 40. Anna Morris, Assistant Director of Research Strategy and Partnership at Diabetes UK, said: \"Exercise plays an important role in managing type 2 diabetes, but for many people muscle weakness and fatigue can make staying active a real challenge. This research helps us better understand how muscles adapt to exercise and identifies a potential new target for improving muscle health. While these findings are still at an early stage, they could help shape future approaches that support people with type 2 diabetes to remain active and live healthier, longer lives.\" Although the discovery opens promising avenues for future treatments, further research is needed to determine whether L-BAIBA supplementation can produce meaningful therapeutic benefits in people with type 2 diabetes. The research was led by the University of Leeds in collaboration with: Materials provided by University of Leeds . Note: Content may be edited for style and length. Losing Weight but Getting Less Healthy? Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required",
+   "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261125045246.htm"
+   ],
+   "format": "WEIGH",
+   "catch": [
+    "상관관계"
+   ],
+   "score": 9,
+   "why": [
+    "형식 WEIGH",
+    "훅: surpris",
+    "생활소재: exercise, dementia, brain"
+   ],
+   "text": "Regular physical activity has long been recognized as a way to help protect against dementia. However, new research from the University of Southern California (USC) suggests that the circumstances in which people are physically active may be just as important as the amount of activity they get. An analysis involving more than 4.2 million people found that recreational activities such as walking, cycling, running, swimming, and playing sports were associated with a significantly lower risk of dementia. Surprisingly, people who engaged in higher levels of physical activity at work appeared to face an increased risk of developing the condition. Published in The Lancet Public Health , the study is the first systematic investigation into whether a phenomenon known as the \"physical activity paradox\" also applies to dementia. Already well established in cardiovascular research, this paradox refers to the observation that physical labor does not necessarily offer the same health advantages as recreational exercise and may even be associated with a greater risk of disease. Led by David Raichlen, professor of biological sciences and anthropology at the USC Dornsife College of Letters, Arts and Sciences, the research team examined data from 74 cohort and case-control studies. Together, the studies included more than 4.2 million people between the ages of 45 and 93 from 30 countries. Over a median follow-up period of 10 years, researchers monitored diagnoses of all-cause dementia, Alzheimer's disease, and vascular dementia. Participants who engaged in higher levels of recreational physical activity had a 24% lower risk of dementia compared with the least active individuals. Physical activity associated with household chores also appeared to offer benefits, although this finding was supported by only one study. In contrast, higher levels of physical activity at work were linked to a 20% greater risk of dementia. Physically active commuting was also associated with a modest increase in risk, but evidence for this relationship came from just two studies. \"The findings challenge the long-held assumption that 'every move counts' for brain health,\" said Natan Feter, the study's first author, a postdoctoral fellow in Raichlen's Evolutionary Biology of Physical Activity Lab at USC and a researcher in the Graduate Program of Epidemiology at Universidade Federal do Rio Grande do Sul (Brazil). Why Exercise and Physical Labor May Affect the Brain Differently Researchers often group recreational exercise, manual labor, household chores, and active commuting together when measuring \"Physical activity.\" However, the authors suggest that the circumstances surrounding these activities vary considerably and could influence their long-term health effects. People who exercise during their free time generally have greater control over the intensity and nature of their activities. Recreational exercise can also provide opportunities to socialize and relieve stress. In comparison, physically demanding occupations may require repeated movements, extended periods of standing, heavy lifting, and insufficient time to recover, along with exposure to potentially harmful workplace conditions. The researchers do not believe that physical movement itself is likely to explain the elevated dementia risk associated with occupational activity. Instead, the relationship may arise from the social and environmental factors commonly associated with manual labor. Physically demanding occupations are more likely to expose workers to psychological and social stress, limited control over their work, unsafe conditions, and higher levels of air and noise pollution. Each of these factors has independently been associated with dementia risk. Workers may also struggle to participate in recreational exercise because of exhaustion, limited free time, or a lack of access to safe spaces for physical activity. The researchers also discovered that the relationship between physical activity and dementia risk was not linear and followed opposite patterns depending on the type of activity. As recreational exercise increased, dementia risk gradually declined until the apparent benefits leveled off. Occupational physical activity showed the reverse pattern, with dementia risk increasing at higher activity levels before eventually reaching a plateau. The authors emphasize that there is still too little research on physical activity related to household chores and commuting to draw definitive conclusions about either. Most of the available evidence also comes from high-income countries, despite projections that low- and middle-income nations will experience the greatest increases in dementia cases in the coming decades. Another limitation is that almost all the studies depended on participants reporting their own physical activity. This approach can introduce errors if people do not accurately remember their activity levels. Nevertheless, Feter said the consistency of the findings across several additional statistical analyses suggests that the observed relationships warrant serious attention. The researchers stress that their findings should not discourage people from pursuing physically active occupations. Since the analysis relied on observational research, it cannot establish that occupational physical activity causes dementia. Instead, the results underscore the importance of examining the conditions under which people are physically active. Recreational exercise continued to be associated with a lower risk of dementia, while occupational activity remained linked to a higher risk even after researchers accounted for differences in age, education, and chronic health conditions. The importance of context may extend beyond physical activity. Separate research by Raichlen, Feter, and their colleagues, published recently in the journal Alzheimer's & Dementia , suggests that different types of sedentary behavior may also be associated with differences in brain structure. In that study, mentally stimulating activities performed while sitting, such as working at a desk, were associated with greater volume in certain regions of the cerebral cortex than more passive activities, such as watching television. These differences included brain regions involved in executive function. Together, the findings could have important implications for public health strategies aimed at reducing dementia risk. The authors suggest that encouraging people to \"move more\" may not be sufficient without also addressing the circumstances in which physical activity takes place. \"In other words, when it comes to protecting the brain, the context of physical activity may matter just as much as movement itself,\" Raichlen said. \"Improving access to safe parks, walking trails and recreational facilities, ensuring people have adequate leisure time for exercise, and reducing harmful workplace exposures may ultimately prove as important as promoting physical activity itself.\" Raichlen and Feter's co-authors include Tiladia Markarian, Dylan M. Luong, Jack Gunnink, Anamika Nanda, Sarah Hourihan and Ashley Ventura of USC; Eduardo Caputo, Jayne Feter, Gustavo S. Silva and Airton José Rombaldi of Universidade Federal de Pelotas (Brazil); Paula Iso-Markku of the University of Helsinki (Finland); Daniela Benzano Bumaguin of Fundação Universitária de Cardiologia (Brazil); Yann C. Klimentidis and Gene E. Alexander of the University of Arizona; Daniel Umpierre and Natália Schröder of Universidade Federal do Rio Grande do Sul (Brazil); and Pedro C. Hallal of University of Illinois Urbana-Champaign. Funding for the research included National Institutes of Health grants P30AG072980, P30AG019610, R56AG067200, R01AG064587 and R01AG072445, along with support from the state of Arizona, the Arizona Department of Health Services and the McKnight Brain Research Foundation. Additional financial support was provided in part by the Fundação de Amparo à Pesquisa do Estado do Rio G",
    "doi": [
-    "10.1038/s41467-026-76307-8"
+    "10.1016/S2468-2667"
    ],
-   "journal_ref": "Journal Reference : Helene N. Daou, Nicole T. Watt, Shaimaa A. Gad, Amanda DV MacCannell, Aysha Ali, Chew Cheng, Raquel L. Fernando, T. Simon Futers, Sumeet A. Khetarpal, Harrison Gallagher, Luis D. Chinait, Anselmo S. Moriscot, Pim Knuiman, Koen Manusama, Marco Mensink, Irvin Teh, Jurgen E. Schneider, Richard Cubbon, Guy S. Taylor, Daniel J. West, David J. Beech, T. Scott Bowen, Lee D. Roberts. T",
+   "journal_ref": "Journal Reference : Natan Feter, Paula Iso-Markku, Tiladia Markarian, Dylan M Luong, Jack Gunnink, Natália Schröder, Eduardo Lucia Caputo, Jayne Feter, Anamika Nanda, Sarah Hourihan, Gustavo S da Silva, Ashley Ventura, Daniela Benzano Bumaguin, Yann C Klimentidis, Gene E Alexander, Daniel Umpierre, Pedro C Hallal, Airton José Rombaldi, David A Raichlen. Domain-specific physical activity levels and",
    "facts": [
-    "Released during exercise, the molecule could also provide the basis for future treatments to protect against muscle damage associated with type 2 diabetes.",
-    "A research team led by Professor Lee Roberts at the University of Leeds investigated whether these processes could reveal new ways to treat chronic conditions such as type 2 diabetes.",
-    "In research published in 2014, Roberts demonstrated that the molecule has beneficial effects on metabolism, helping to enhance the body's ability to burn fat in response to exercise.",
-    "\"This gives us exciting new insight into how exercise benefits the body and highlights a promising target for future therapies aimed at preserving muscle function in chronic conditions such as diabetes.\" The researchers also discovered that L-BAIBA protects muscles against damage associated with type 2 diabetes.",
-    "Because regular physical activity is an important part of managing type 2 diabetes, finding ways to improve muscle function and reduce fatigue could make a substantial difference for people who struggle to exercise.",
-    "Type 2 diabetes is a serious chronic condition that increases the risk of potentially life-threatening complications, including heart attacks and strokes.",
-    "Although type 2 diabetes has traditionally been more common among older adults, diagnoses in people younger than 40 have been rising in recent years.",
-    "Cases in this younger age group are now increasing more rapidly than among adults over 40.",
-    "Anna Morris, Assistant Director of Research Strategy and Partnership at Diabetes UK, said: \"Exercise plays an important role in managing type 2 diabetes, but for many people muscle weakness and fatigue can make staying active a real challenge.",
-    "Study Reveals a Dark Side of Keto Scientists Discover 130-Year-Old Fish Still Swimming in an American River America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required"
+    "An analysis involving more than 4.2 million people found that recreational activities such as walking, cycling, running, swimming, and playing sports were associated with a significantly lower risk of dementia.",
+    "Led by David Raichlen, professor of biological sciences and anthropology at the USC Dornsife College of Letters, Arts and Sciences, the research team examined data from 74 cohort and case-control studies.",
+    "Together, the studies included more than 4.2 million people between the ages of 45 and 93 from 30 countries.",
+    "Over a median follow-up period of 10 years, researchers monitored diagnoses of all-cause dementia, Alzheimer's disease, and vascular dementia.",
+    "Participants who engaged in higher levels of recreational physical activity had a 24% lower risk of dementia compared with the least active individuals.",
+    "In contrast, higher levels of physical activity at work were linked to a 20% greater risk of dementia.",
+    "Funding for the research included National Institutes of Health grants P30AG072980, P30AG019610, R56AG067200, R01AG064587 and R01AG072445, along with support from the state of Arizona, the Arizona Department of Health Services and the McKnight Brain Research Foundation.",
+    "Additional financial support was provided in part by the Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul (FAPERGS) (25/2551-0002834-5) and the National Council for Scientific and Technological Development - CNPq and Department of Science and Technology of Secretariat of Science, Technology, Innovation and Health Complex of Ministry of Health of Brazil - MoH (445538/2023-6)."
    ],
    "sample": []
   },
@@ -494,47 +537,6 @@
    ]
   },
   {
-   "title": "Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm",
-   "key": "https://sciencedaily.com/releases/2026/11/261117033925.htm",
-   "summary": "A surprising new study suggests Antarctica's towering ice cliffs may be less vulnerable to catastrophic collapse than scientists once feared. After tracking more than 15,000 ice cliffs, researchers discovered that even the tallest cliffs, which can collapse at alarming speeds, often stabilize rather than triggering an unstoppable chain reaction. Underwater ridges, surrounding water, and broken ice appear to provide natural defenses against further collapse.",
-   "date": "2026-11-19",
-   "source": "ScienceDaily 전체",
-   "first_seen": "2026-11-20",
-   "text": "As temperatures rise, the floating ice shelves that help hold Antarctica's massive ice sheet in place are melting and breaking apart at record rates. As these protective barriers disappear, they expose towering walls of solid ice. Whether these cliffs remain standing or collapse could play a major role in Antarctica's future ice loss and its contribution to rising sea levels worldwide. For years, scientists have believed that ice cliffs become unstable once they exceed 100 meters in height, roughly as tall as the Statue of Liberty. According to this theory, a cliff that grows too tall will collapse under its own weight, exposing an even taller wall of ice farther inland. That new cliff would then collapse, potentially setting off a chain reaction that causes the ice sheet to retreat rapidly. But new research from MIT and the Woods Hole Oceanographic Institution (WHOI) challenges this long-standing assumption. The findings suggest that the fate of an Antarctic ice cliff depends on much more than its height, and that even dramatic collapses do not necessarily lead to an unstoppable retreat. Published in the journal Science , the study examined satellite observations of more than 15,000 Antarctic ice cliffs collected over four years. Researchers discovered a surprising pattern: When the cliffs collapsed, they sometimes retreated much faster than existing models predicted. Yet rather than continuing to disintegrate, the affected glaciers soon stabilized. \"We found that when the cliffs were retreating, they were doing so faster than what has been modeled, which would mean more ice loss and higher contributions of sea level rise,\" says study author Caroline Needell, a graduate student in the MIT-WHOI Joint Program. \"But because we found that the retreat was short-lived, and all the glaciers eventually stabilized, that would suggest that things won't be so bad. We don't see this runaway effect.\" The study's co-authors are Catherine Walker, an assistant scientist at WHOI, and Jeremy Bassis, an associate professor at the University of Michigan. The possibility of runaway ice cliff collapse is described by a theory called marine ice cliff instability (MICI). It proposes that when an exposed ice wall reaches a critical height, its own weight makes it structurally unstable. If the cliff falls and reveals an even taller wall behind it, the process could repeat, progressively eating away at the Antarctic ice sheet. Earlier research investigated this possibility primarily through computer models. Scientists used the physical properties of ice to estimate how enormous frozen cliffs should behave, then compared those calculations with a limited number of observations from Antarctica. These studies suggested that cliffs taller than approximately 100 meters were particularly vulnerable to collapse. \"Predictive ice-sheet models that have been used so far to represent ice cliff instability just take into account cliff height,\" Needell notes. \"That's the only variable that matters. And once the cliff height reaches the critical threshold, usually 100 meters, it should initiate this runaway effect of ice sheet retreat.\" Needell and her colleagues wanted to test those predictions against a much larger collection of real-world measurements. They sought to determine how tall Antarctica's ice cliffs actually become and whether their collapse consistently triggers the destructive chain reactions predicted by existing models. To investigate, the researchers turned to NASA's Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2). This spacecraft repeatedly travels over Earth's polar regions, using a laser-based instrument called an altimeter to measure elevations with great precision. Its observations track the heights of glaciers, ice sheets, and sea ice, as well as ocean levels in and around Antarctica. The team analyzed measurements gathered between 2019 and 2023, examining more than 15,000 ice cliffs at three-month intervals. Most were far shorter than the height considered dangerous by earlier models. The average cliff stood approximately 30 meters tall, although a small number exceeded the proposed 100-meter instability threshold. The researchers also searched for characteristics that might explain why some cliffs remained stable while others retreated. One important clue came from the broken ice accumulating in front of the cliffs. Known as mélange, this material consists of a slushy mixture of sea ice and fragments of icebergs. Cliffs that remained relatively stationary tended to have thicker accumulations of mélange, suggesting that the debris could help support the towering ice walls. \"We measured mélange height and found taller cliffs have thicker mélange, which could be a built-in stabilizing effect,\" Needell explains. Surrounding seawater provided another possible source of stability. The observations indicated that deeper water can exert greater supporting pressure against an ice cliff, helping counteract the forces that might otherwise cause it to collapse. Together, these findings suggest that the stability of Antarctica's ice cliffs cannot be predicted by height alone. Conditions in the water surrounding the ice may also determine whether a cliff remains standing. \"After we did that global analysis, we thought, ok, let's zoom in on the tallest cliffs and see how they're behaving,\" Needell says. The researchers selected four locations around Antarctica where satellites had recorded some of the tallest ice cliffs. Each stood approximately 100 meters high, with the tallest reaching 127 meters. The team then reconstructed how these cliffs changed at three-month intervals throughout the four-year study. The results initially appeared to support the idea that extremely tall cliffs are unstable. These towering walls did collapse, and the glaciers behind them retreated at speeds substantially greater than those anticipated by existing MICI models. Instead of retreating farther inland in a continuous series of collapses, the glaciers stabilized and eventually advanced outward toward the ocean again. \"It's this rapid retreat, punctuated by periods of stabilization,\" Needell says. \"That was puzzling to us. Then, we thought: We need to look at all the things that affect cliff height.\" The unexpected pattern suggested that some overlooked physical processes were interrupting the collapse before it could develop into a sustained chain reaction. To understand what was stopping the retreat, the team examined the shape of the land beneath Antarctica's ice sheet. This underlying terrain, known as bed topography, can strongly influence the height and stability of the ice above it. When the ground is relatively flat, the visible slope of the ice more closely reflects the thickness of the ice itself. But when the terrain rises into a ridge or bump, the ice resting on that elevated ground is thinner than its overall surface elevation might suggest. These buried rises can function like natural speed bumps. By reducing the thickness of the overlying ice, they can make exposed cliffs shorter and less vulnerable to collapse. When the scientists compared the locations of stabilizing ice cliffs with measurements of Antarctica's underlying terrain, they found that the cliffs frequently stopped retreating where the ground rose beneath them. The researchers identified another important process. Taller cliffs tended to \"thin out\" more rapidly as they collapsed. Rather than remaining towering, unstable walls, they could quickly shrink into shorter cliffs that were better able to withstand further collapse. These effects help explain why the researchers observed rapid initial ice loss followed by periods of stability, rather than the continuous retreat anticipated by earlier models. The findings could help scientists improve predictions of how Antarctica's ice sheet will respond to continued warming. Although the researchers observed some cliffs collapsing faster than expected, the rapid retreat",
-   "facts": [
-    "For years, scientists have believed that ice cliffs become unstable once they exceed 100 meters in height, roughly as tall as the Statue of Liberty.",
-    "Published in the journal Science , the study examined satellite observations of more than 15,000 Antarctic ice cliffs collected over four years.",
-    "These studies suggested that cliffs taller than approximately 100 meters were particularly vulnerable to collapse.",
-    "And once the cliff height reaches the critical threshold, usually 100 meters, it should initiate this runaway effect of ice sheet retreat.\" Needell and her colleagues wanted to test those predictions against a much larger collection of real-world measurements.",
-    "To investigate, the researchers turned to NASA's Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2).",
-    "The team analyzed measurements gathered between 2019 and 2023, examining more than 15,000 ice cliffs at three-month intervals.",
-    "The average cliff stood approximately 30 meters tall, although a small number exceeded the proposed 100-meter instability threshold.",
-    "Each stood approximately 100 meters high, with the tallest reaching 127 meters.",
-    "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial A Major Review Reveals Three Antidepressants That May Outperform Prozac Does the Sun Have a Secret Companion?"
-   ],
-   "doi": [
-    "10.1126/science.aee0658"
-   ],
-   "sample": [],
-   "journal_ref": "Journal Reference : Caroline Needell, Catherine C. Walker, Jeremy N. Bassis. Empirical constraints on ice cliff calving . Science , 2026; 394 (6821): 311 DOI: 10.1126/science.aee0658",
-   "catch_extra": [],
-   "sources": [
-    "ScienceDaily 전체"
-   ],
-   "links": [
-    "https://www.sciencedaily.com/releases/2026/11/261117033925.htm"
-   ],
-   "format": "PRESS",
-   "catch": [],
-   "score": 7,
-   "why": [
-    "형식 PRESS",
-    "훅: surpris",
-    "생활소재: cat"
-   ]
-  },
-  {
    "title": "An unexpected link: More coarse particles in indoor air, lower odds of Kawasaki disease",
    "link": "https://medicalxpress.com/news/2026-11-unexpected-link-coarse-particles-indoor.html",
    "key": "https://medicalxpress.com/news/2026-11-unexpected-link-coarse-particles-indoor.html",
@@ -608,30 +610,56 @@
    ]
   },
   {
-   "title": "Two measures to help prevent obesity in young people",
-   "link": "https://medicalxpress.com/news/2026-11-obesity-young-people.html",
-   "key": "https://medicalxpress.com/news/2026-11-obesity-young-people.html",
-   "summary": "Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important, both for individuals and for the population as a whole. The condition is generally linked to diet and lifestyle. A new study including almost 125,000 children examines how best to help parents and children make healthier choices. The paper is published in the journal Acta Paediatrica.",
-   "date": "2026-11-19",
+   "title": "No, eating celery won't make you lose weight. How we fell for the myth of negative calories",
+   "link": "https://medicalxpress.com/news/2026-11-celery-wont-weight-fell-myth.html",
+   "key": "https://medicalxpress.com/news/2026-11-celery-wont-weight-fell-myth.html",
+   "summary": "Back in my early days as a dietitian, I used to hear about the miracle properties of celery.",
+   "date": "2026-11-28",
    "source": "MedicalXpress",
-   "first_seen": "2026-11-19",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-obesity-young-people.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-28",
    "sources": [
     "MedicalXpress"
    ],
    "links": [
-    "https://medicalxpress.com/news/2026-11-obesity-young-people.html"
+    "https://medicalxpress.com/news/2026-11-celery-wont-weight-fell-myth.html"
    ],
-   "format": "PRESS",
+   "format": "SCALE",
    "catch": [
-    "상관관계"
+    "과장 의심 단어"
    ],
-   "score": 6,
+   "score": 7,
    "why": [
-    "형식 PRESS",
-    "생활소재: diet, children"
-   ]
+    "형식 SCALE",
+    "훅: myth",
+    "생활소재: diet"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-celery-wont-weight-fell-myth.html"
+  },
+  {
+   "title": "Existing drug helps mice clear blood through meningeal lymphatic system after stroke",
+   "link": "https://medicalxpress.com/news/2026-11-drug-mice-blood-meningeal-lymphatic.html",
+   "key": "https://medicalxpress.com/news/2026-11-drug-mice-blood-meningeal-lymphatic.html",
+   "summary": "A drug already used to improve blood circulation and prevent certain types of stroke could have an unexpected new role in promoting recovery after bleeding in the brain. In a study published in Stroke, a team led by researchers at National Taiwan University found that cilostazol helped mice recover from intracerebral hemorrhage (ICH) by boosting the brain's natural drainage system.",
+   "date": "2026-11-28",
+   "source": "MedicalXpress",
+   "first_seen": "2026-11-28",
+   "sources": [
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://medicalxpress.com/news/2026-11-drug-mice-blood-meningeal-lymphatic.html"
+   ],
+   "format": "DOSE",
+   "catch": [
+    "동물 실험"
+   ],
+   "score": 7,
+   "why": [
+    "형식 DOSE",
+    "훅: unexpected",
+    "생활소재: brain, mice"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-drug-mice-blood-meningeal-lymphatic.html"
   },
   {
    "title": "When's a new organ not really new? Two anatomists explain",
@@ -860,33 +888,6 @@
    ]
   },
   {
-   "title": "Childhood diet high in fruit and fish linked to lower Crohn's disease risk",
-   "link": "https://medicalxpress.com/news/2026-11-childhood-diet-high-fruit-fish.html",
-   "key": "https://medicalxpress.com/news/2026-11-childhood-diet-high-fruit-fish.html",
-   "summary": "A high intake of salty snacks during the teenage years is linked to a heightened risk of inflammatory bowel disease (IBD)—Crohn's disease, ulcerative colitis or a mix of both—in young adulthood, finds a large long-term study published online in the journal Gut.",
-   "date": "2026-11-24",
-   "source": "MedicalXpress",
-   "first_seen": "2026-11-24",
-   "fetch_error": "403 Client Error: Forbidden for url: https://medicalxpress.com/news/2026-11-childhood-diet-high-fruit-fish.html",
-   "catch_extra": [],
-   "sources": [
-    "MedicalXpress"
-   ],
-   "links": [
-    "https://medicalxpress.com/news/2026-11-childhood-diet-high-fruit-fish.html"
-   ],
-   "format": "CUT",
-   "catch": [
-    "동물 실험",
-    "상관관계"
-   ],
-   "score": 6,
-   "why": [
-    "형식 CUT",
-    "생활소재: diet, teen, fish"
-   ]
-  },
-  {
    "title": "California raised minimum wages for fast‑food workers—here's how it played out 2 years later",
    "link": "https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html",
    "key": "https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html",
@@ -1063,75 +1064,54 @@
    ]
   },
   {
-   "title": "Strange radio signals from space could come from a dead star",
-   "link": "https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
-   "key": "https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
-   "summary": "The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappeared. Despite years of searching, there was no sign of their return.",
-   "date": "2026-11-19",
+   "title": "The dark matter puzzle deepens: Nearby galaxies challenge cosmic simulations",
+   "link": "https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html",
+   "key": "https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html",
+   "summary": "Galaxies appear to hold a surprise beneath their visible stars: Their inner regions contain less dark matter than some of our most advanced simulations predict. Dark matter is invisible, but its gravitational pull helps govern the motions of stars and gas. By measuring these movements, astronomers can reconstruct where this unseen matter lies and test the computer simulations used to understand the universe. A study of 136 nearby galaxies, involving the Instituto de Astrofísica de Canarias (IAC), reveals a discrepancy that becomes more extensive in more massive systems, offering fresh clues about how galaxies form and evolve.",
+   "date": "2026-11-28",
    "source": "Phys.org",
-   "first_seen": "2026-11-19",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-28",
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-11-strange-radio-space-dead-star.html"
+    "https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html"
    ],
-   "format": "",
-   "catch": [],
-   "score": 5,
+   "format": "PRESS",
+   "catch": [
+    "모델·시뮬레이션"
+   ],
+   "score": 6,
    "why": [
-    "훅: strange, mystery"
-   ]
+    "형식 PRESS",
+    "훅: surpris"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html"
   },
   {
-   "title": "Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice",
-   "link": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "key": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "summary": "In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.",
-   "date": "2026-11-19",
+   "title": "3D modeling questions Viking 'fast fashion'",
+   "link": "https://phys.org/news/2026-11-3d-viking-fast-fashion.html",
+   "key": "https://phys.org/news/2026-11-3d-viking-fast-fashion.html",
+   "summary": "High-resolution 3D modeling of Viking brooches and the molds used to make them identifies surprisingly few matches between them, indicating the brooches were not mass-produced, as previously thought, but instead made by individual, creative artisans.",
+   "date": "2026-11-28",
    "source": "Phys.org",
-   "first_seen": "2026-11-19",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
-   "catch_extra": [],
+   "first_seen": "2026-11-28",
    "sources": [
     "Phys.org"
    ],
    "links": [
-    "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html"
+    "https://phys.org/news/2026-11-3d-viking-fast-fashion.html"
    ],
-   "format": "SCALE",
-   "catch": [],
-   "score": 5,
+   "format": "WEIGH",
+   "catch": [
+    "모델·시뮬레이션"
+   ],
+   "score": 6,
    "why": [
-    "형식 SCALE",
-    "생활소재: mice"
-   ]
-  },
-  {
-   "title": "A 115 million‑year‑old 'algae rebellion' in Portugal's sea cliffs pushes back evolutionary timeline",
-   "link": "https://phys.org/news/2026-11-millionyearold-algae-rebellion-portugal-sea.html",
-   "key": "https://phys.org/news/2026-11-millionyearold-algae-rebellion-portugal-sea.html",
-   "summary": "Quite a few scientific discoveries are a product of chance. You set out looking for one thing, but often end up finding something totally unexpected. In micropaleontology, the study of microscopic fossils, this is especially common. You never know what you're going to find until you start examining the samples under the microscope.",
-   "date": "2026-11-19",
-   "source": "Phys.org",
-   "first_seen": "2026-11-19",
-   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-millionyearold-algae-rebellion-portugal-sea.html",
-   "catch_extra": [],
-   "sources": [
-    "Phys.org"
+    "형식 WEIGH",
+    "훅: surpris"
    ],
-   "links": [
-    "https://phys.org/news/2026-11-millionyearold-algae-rebellion-portugal-sea.html"
-   ],
-   "format": "CUT",
-   "catch": [],
-   "score": 5,
-   "why": [
-    "형식 CUT",
-    "훅: unexpected"
-   ]
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-3d-viking-fast-fashion.html"
   },
   {
    "title": "Climate communication that resonates must be based on empathy",
@@ -1182,6 +1162,29 @@
    ]
   },
   {
+   "title": "Lonely shoppers demonstrate less compassion in their purchases than others, study shows",
+   "link": "https://phys.org/news/2026-11-lonely-shoppers-compassion.html",
+   "key": "https://phys.org/news/2026-11-lonely-shoppers-compassion.html",
+   "summary": "Chronically lonely people are less likely to buy products that benefit others, such as fair-trade or child-labor-free goods, according to a new study by researchers at Concordia and the University of the Fraser Valley. The team ran four studies involving more than 1,400 participants across North America. Each person completed a standard loneliness questionnaire, then chose between ordinary products and versions that cost 15% to 20% more but carried an ethical or environmental label. Items included toothpaste, chocolate bars, jackets and backpacks.",
+   "date": "2026-11-20",
+   "source": "Phys.org",
+   "first_seen": "2026-11-20",
+   "sources": [
+    "Phys.org"
+   ],
+   "links": [
+    "https://phys.org/news/2026-11-lonely-shoppers-compassion.html"
+   ],
+   "format": "WEIGH",
+   "catch": [],
+   "score": 5,
+   "why": [
+    "형식 WEIGH",
+    "생활소재: chocolate"
+   ],
+   "fetch_error": "403 Client Error: Forbidden for url: https://phys.org/news/2026-11-lonely-shoppers-compassion.html"
+  },
+  {
    "title": "Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke",
    "link": "https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041",
    "key": "https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041",
@@ -1226,42 +1229,6 @@
    ]
   },
   {
-   "title": "Florida’s flooding déjà vu is a sign of things to come – so, who is most at risk and how can they prepare?",
-   "link": "https://theconversation.com/floridas-flooding-deja-vu-is-a-sign-of-things-to-come-so-who-is-most-at-risk-and-how-can-they-prepare-297006",
-   "key": "https://theconversation.com/floridas-flooding-deja-vu-is-a-sign-of-things-to-come-so-who-is-most-at-risk-and-how-can-they-prepare-297006",
-   "summary": "More than a foot of rain flooded streets in the already saturated region in mid-November 2026, with more forecast in the days ahead.",
-   "date": "2026-11-19",
-   "source": "The Conversation",
-   "first_seen": "2026-11-19",
-   "text": "Floodwater filled the streets and crept into homes across Florida’s Atlantic coast as an intense storm dumped more than a foot of rain in 24 hours starting Nov. 17, 2026. The deluge followed extreme downpours in parts of the region less than three weeks earlier , and forecasters warned of more rain still to come . As people in Fort Lauderdale watched the water rise in their already saturated yards, it may have felt like déjà vu. In April 2023, more than 25 inches of rain fell in Fort Lauderdale in 24 hours. Even hurricanes rarely drop that much rain in one area that fast. Residents could do little to stop the flooding. Studies show that as global temperatures rise, more people will be at risk from such destructive flooding – including in areas that rarely faced extreme flooding in the past. In many of these communities, the people at greatest risk of harm from flash flooding are low-wage workers , older adults and other vulnerable residents who live in low-lying areas and who have few resources to protect their properties and themselves. I study the impact of extreme weather on vulnerable communities as an associate professor of social work . To limit the damage, communities need to know who is at risk and how they can be better prepared. The Florida storms offer a view into the risks ahead as temperatures rise . These risks are especially high as the effects of a strong 2026-27 El Niño set in . A warmer atmosphere can hold more moisture , leading to stronger downpours. The resulting deluges can be devastating. These events are expected to increase in frequency and intensity in many regions as greenhouse gas emissions from human activities continue to heat up the planet . Recent disasters show how the risk of flash flooding is expanding beyond areas traditionally considered at risk . To plan for extreme weather, it’s crucial for community leaders and residents to know where the risks are highest and who might not be prepared . Low-lying areas with poorly planned development , lack of investment in protective infrastructure and the lingering effects of historic disinvestment and discrimination are often at higher risk. So are low-income communities with tight budgets that can’t afford protective measures like upgraded levees or stormwater systems and can’t recover from damage quickly. When older adults live in these flood-prone areas , they are at even higher risk. Older adults have a higher likelihood of having health needs or some form of disability that could affect their ability to leave quickly during a disaster. They are also more likely to be socially isolated , which may mean they don’t hear timely information or have help to evacuate or quick access to resources for recovering. My colleagues and I have examined how prepared people are for disasters of any kind across the U.S. – flooding, tornadoes, hurricanes and others – and how housing security played a role. The numbers are sobering. Overall, we found in a 2023 study that 57% of the population, among 29,070 housing units surveyed nationwide, reported they were not prepared with food, water, emergency funds and transportation in case disaster struck. We found that households facing housing insecurity – those behind on their payments for rent, mortgage or utilities – were less prepared for disasters than others, even when the occupants had similar incomes and education. People who are struggling to meet day-to-day needs often don’t have the ability and resources to plan for everyday events, let alone for disasters. Our research has shown that households with children, households led by women, and low-income households were less prepared than others for disasters. Renting adds additional challenges. In the U.S., lower-income families often depend on the rental market . They tend to move more frequently, and since they don’t own the property, they often can’t make upgrades for safety. And landlords might not prioritize those risks that seem rare but carry costs. The most effective way to address these challenges is through solutions that are tailored to the community. That can involve investing in infrastructure , including state-funded priorities such as drainage systems, large-scale flood prevention measures and strengthening the power grid , as well as ensuring that people have access to safe and affordable housing . Some communities and federal agencies have bought out properties that frequently flood and changed zoning rules to prevent more people from moving into harm’s way. Raising community awareness about climate change and extreme weather risks is also crucial, especially among those most at risk , such as older adults and other socially marginalized groups . If people understand the risks, know how to prepare their homes, know how to plan for emergencies , know whom to contact for help, and have stronger systems of care, they’re more likely to be prepared when disasters strike. I believe the most successful efforts are those that bring at-risk communities into planning discussions . For example, in Columbus, Ohio, the city partnered with the Central Ohio Area Agency on Aging, Age Friendly Innovation Center and my team to improve disaster preparedness among older residents . We worked with older adults in affordable housing communities and the human service professionals who support them to help design action plans for communities with special needs in the event of an emergency. The tool kit we created can help social service providers prepare low-income residents for extreme weather. Our team is now working with service providers nationwide to document best practices, identify gaps and ensure residents are better prepared for climate- and weather-related emergencies in the future. This article updates a story published April 27, 2023 , about flood risk in South Florida.",
-   "facts": [
-    "Floodwater filled the streets and crept into homes across Florida’s Atlantic coast as an intense storm dumped more than a foot of rain in 24 hours starting Nov. 17, 2026.",
-    "In April 2023, more than 25 inches of rain fell in Fort Lauderdale in 24 hours.",
-    "These risks are especially high as the effects of a strong 2026-27 El Niño set in .",
-    "Overall, we found in a 2023 study that 57% of the population, among 29,070 housing units surveyed nationwide, reported they were not prepared with food, water, emergency funds and transportation in case disaster struck.",
-    "This article updates a story published April 27, 2023 , about flood risk in South Florida."
-   ],
-   "doi": [],
-   "sample": [],
-   "catch_extra": [
-    "DOI 못 찾음"
-   ],
-   "sources": [
-    "The Conversation"
-   ],
-   "links": [
-    "https://theconversation.com/floridas-flooding-deja-vu-is-a-sign-of-things-to-come-so-who-is-most-at-risk-and-how-can-they-prepare-297006"
-   ],
-   "format": "PRESS",
-   "catch": [
-    "DOI 못 찾음"
-   ],
-   "score": 4,
-   "why": [
-    "형식 PRESS"
-   ]
-  },
-  {
    "title": "How to protect your retirement savings if the AI boom fizzles",
    "link": "https://theconversation.com/how-to-protect-your-retirement-savings-if-the-ai-boom-fizzles-296649",
    "key": "https://theconversation.com/how-to-protect-your-retirement-savings-if-the-ai-boom-fizzles-296649",
@@ -1300,6 +1267,54 @@
    "score": 4,
    "why": [
     "형식 WEIGH"
+   ]
+  },
+  {
+   "title": "A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP-1 medication",
+   "link": "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
+   "key": "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
+   "summary": "By minding your body’s fullness cues you can indulge in your favorite holiday foods and traditions while maintaining your progress with these drugs.",
+   "date": "2026-11-20",
+   "source": "The Conversation",
+   "first_seen": "2026-11-20",
+   "text": "Thanksgiving and the winter holidays bring celebration, connection and plenty of opportunities to come together with family and friends. But the holiday season also brings something else: more food-centered gatherings, larger portions and richer foods than most people typically eat throughout the year. Think whipped sweet potatoes, mac and cheese, decadent side dishes and an abundance of desserts. For people taking GLP-1 medications for diabetes management, weight loss or other medical reasons, these celebrations can present unique challenges. Changes in appetite, smaller portion tolerance, limits on alcohol consumption, medication side effects and the desire to maintain progress can make navigating holiday traditions feel a little different. As a physician specializing in obesity medicine , I encourage my patients to view GLP-1 medications as an advantage during the holidays. These medications can help regulate appetite, improve awareness of fullness, and reinforce healthier eating behaviors during a season when food often takes center stage. However, these medications don’t eliminate the possibility of overindulgence. In fact, patients who previously experienced little or no nausea due to GLP-1s may suddenly develop significant nausea or even vomiting after eating beyond their new comfort level. Nothing can derail a holiday celebration quite like an upset stomach. Accounting for how these medications affect your body can help you avoid uncomfortable surprises while still enjoying the foods and traditions you love. Whether taken by injection or orally, GLP-1 medications have become increasingly popular worldwide for managing Type 2 diabetes , obesity and other chronic conditions. In the United States, approximately 1 in 10 adults used these drugs in 2025, and prescribing rates continue to climb. GLP-1 medications work by reducing hunger, slowing stomach emptying and helping patients feel full sooner and stay full longer . Many patients also report fewer cravings for high-calorie foods and even a reduced desire to drink alcohol . In many ways, these effects can make holiday food temptations easier to navigate. My patients often tell me that they already know which dietary changes they need to make, but GLP-1 medications help them put those changes into practice. They find it easier to stop eating when they’re satisfied, resist unnecessary snacking and avoid the constant thoughts about food that previously made weight management so challenging. One of the most important things you can do during the holidays is to learn to recognize your body’s changing fullness signals . Pay attention to nausea, bloating and early fullness rather than pushing yourself to finish everything on your plate. These symptoms can serve as reminders that you’ve reached your comfortable limit. The best plan is to enjoy smaller portions, eat slowly and pause between bites to give your body time to recognize fullness. Rich, high-fat foods in particular can worsen nausea and prolong the sensation of fullness. A few bites of your favorite dishes may be much more satisfying than an entire serving. GLP-1 medications don’t make these decisions for you – but they can reinforce healthier behaviors. Alcohol deserves special consideration during the holidays, when social gatherings and celebrations often revolve around drinking . Although you may have tolerated alcohol without difficulty in the past, GLP-1 medications can change your experience. Some patients report that GLP-1 medications reduce their desire for alcohol altogether. For them, the holidays may represent their first opportunity to drink since starting treatment. Alcohol can worsen nausea, acid reflux, dehydration and other gastrointestinal symptoms that some patients already experience while taking GLP-1 medications. If you choose to drink, consider these precautions: Limit your intake. Start with less than you might have consumed before starting your medication. Avoid drinking on an empty stomach. Eat beforehand, but avoid a particularly large or high-fat meal. Pay attention to how you feel. Stop drinking if you experience nausea, dizziness or other unpleasant symptoms. The safest approach is to be cautious and recognize that alcohol can aggravate medication-related gastrointestinal symptoms. Holiday travel can disrupt established routines, medication schedules and access to prescriptions. A little planning can help prevent unnecessary interruptions in treatment. Plan ahead for medication storage. Some injectable GLP-1 medications require refrigeration before use, while others allow room-temperature storage for a specified period after dispensing or first use. Storage requirements vary considerably by product. Check the prescribing information for your specific medication or ask your pharmacist before traveling. Don’t assume that all injectable medications can remain unrefrigerated for the same length of time. If you’re flying, keep your medication and supplies in your carry-on luggage. This helps protect them from extreme temperatures and prevents problems if your checked luggage gets delayed or lost. Keep in mind that you might also need to have a note from your prescribing provider to carry them on. Arrange prescription refills in advance. If you anticipate needing a refill while traveling, contact your pharmacy and prescribing clinician ahead of time. Prescribing and dispensing regulations can complicate obtaining medications in another state, so don’t wait until you run out. Stick to your regular dosing schedule. Don’t take an extra dose or double up on medication to accommodate a holiday meal or try to suppress your appetite further. Taking more medication than prescribed can increase the risk of significant side effects and potentially cause an overdose . If travel disrupts your dosing schedule or you miss a dose, follow the instructions for your specific medication, or contact your prescribing clinician or pharmacist. When in doubt, plan ahead and ask for guidance rather than making medication adjustments on your own. Perhaps the most important advice I give my patients is this: The holidays are not everyday life, and one large meal or dessert will not erase the progress you’ve made. You don’t need to skip Thanksgiving dinner, avoid your favorite dessert or feel guilty about enjoying a special meal. Maintaining a healthy relationship with food means allowing yourself flexibility while keeping your long-term goals in perspective. At the same time, don’t let one celebratory meal turn into several weeks of abandoning the habits that have helped you succeed. Enjoy the occasion, recognize when you’ve had enough, and return to your usual routine afterward.",
+   "facts": [
+    "For people taking GLP-1 medications for diabetes management, weight loss or other medical reasons, these celebrations can present unique challenges.",
+    "As a physician specializing in obesity medicine , I encourage my patients to view GLP-1 medications as an advantage during the holidays.",
+    "In fact, patients who previously experienced little or no nausea due to GLP-1s may suddenly develop significant nausea or even vomiting after eating beyond their new comfort level.",
+    "Whether taken by injection or orally, GLP-1 medications have become increasingly popular worldwide for managing Type 2 diabetes , obesity and other chronic conditions.",
+    "In the United States, approximately 1 in 10 adults used these drugs in 2025, and prescribing rates continue to climb.",
+    "GLP-1 medications work by reducing hunger, slowing stomach emptying and helping patients feel full sooner and stay full longer .",
+    "My patients often tell me that they already know which dietary changes they need to make, but GLP-1 medications help them put those changes into practice.",
+    "GLP-1 medications don’t make these decisions for you – but they can reinforce healthier behaviors.",
+    "Although you may have tolerated alcohol without difficulty in the past, GLP-1 medications can change your experience.",
+    "Some patients report that GLP-1 medications reduce their desire for alcohol altogether."
+   ],
+   "doi": [],
+   "sample": [
+    "10 adults"
+   ],
+   "catch_extra": [
+    "DOI 못 찾음"
+   ],
+   "sources": [
+    "The Conversation",
+    "MedicalXpress"
+   ],
+   "links": [
+    "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
+    "https://medicalxpress.com/news/2026-11-doctor-surviving-enjoying-holiday-feasting.html"
+   ],
+   "format": "DOSE",
+   "seen": "2026-11-16",
+   "catch": [
+    "DOI 못 찾음"
+   ],
+   "score": 3,
+   "why": [
+    "형식 DOSE",
+    "2곳 보도",
+    "이미 본 소재(2026-11-16)"
    ]
   }
  ]
