@@ -1,6 +1,6 @@
 # LAB GOSSIP 후보 2026-11-23
 
-최근 8일 누적 773건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
+최근 8일 누적 806건 → 상위 40건 (AI 없이 키워드 점수). 숫자 문장은 원문에서 글자 그대로 가져온 것.
 
 ## 1. This dietary supplement may have an unexpected benefit for the brain
 - 점수 11 · SCALE · ScienceDaily 전체 · 2026-11-27
@@ -279,23 +279,23 @@
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: High-resolution 3D modeling of Viking brooches and the molds used to make them identifies surprisingly few matches between them, indicating the brooches were not mass-produced, as previously thought, but instead made by individual, creative artisans.
 
-## 35. Climate communication that resonates must be based on empathy
+## 35. New technologies help Natural History Museum uncover 92 species in its transformed gardens
+- 점수 6 · PRESS · Phys.org · 2026-11-28
+- https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html
+- 원문 페이지를 못 받음 (요약만 있음)
+- 요약: The Natural History Museum's transformed gardens in South Kensington are revealing new insights into London's urban wildlife. Among the 92 species recorded at the site for the first time between its reopening in July 2024 and the end of 2025 are the striking emperor moth and small red-eyed damselfly
+
+## 36. Climate communication that resonates must be based on empathy
 - 점수 5 · SCALE · Phys.org · 2026-11-20
 - https://phys.org/news/2026-11-climate-communication-resonates-based-empathy.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: Climate change is a global reality, but people often encounter it through different local realities. For some, it enters everyday life through social media feeds, news reports, scientific findings and public discussion. For others, it is through water scarcity, food insecurity, floods, heat waves, w
 
-## 36. Putting Google's AI hurricane model to the test
+## 37. Putting Google's AI hurricane model to the test
 - 점수 5 · PRESS · Phys.org · 2026-11-20
 - https://phys.org/news/2026-11-google-ai-hurricane.html
 - 원문 페이지를 못 받음 (요약만 있음)
 - 요약: A week before Hurricane Melissa slammed into Jamaica last fall, the forecast models couldn't agree on where it was headed or how strong it would get. One got it right—an AI model from Google DeepMind, which called both the storm's path and its Category 5 strength.
-
-## 37. Lonely shoppers demonstrate less compassion in their purchases than others, study shows
-- 점수 5 · WEIGH · Phys.org · 2026-11-20
-- https://phys.org/news/2026-11-lonely-shoppers-compassion.html
-- 원문 페이지를 못 받음 (요약만 있음)
-- 요약: Chronically lonely people are less likely to buy products that benefit others, such as fair-trade or child-labor-free goods, according to a new study by researchers at Concordia and the University of the Fraser Valley. The team ran four studies involving more than 1,400 participants across North Ame
 
 ## 38. Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke
 - 점수 5 · WEIGH · The Conversation · 2026-11-21
